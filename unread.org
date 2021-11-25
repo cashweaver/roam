@@ -72,7 +72,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-01-07 12:37]
 :END:
-* TODO [[https://twitter.com/fchollet/status/1214392496375025664][Our field isn't quite &ldquo;artificial intelligence&rdquo; &ndash; it's &ldquo;cognitive automation&rdquo;]]
+* TODO [[https://twitter.com/fchollet/status/1214392496375025664][Our field isn't quite "artificial intelligence" - it's "cognitive automation"]]
 :PROPERTIES:
 :CREATED: [2020-01-07 12:43]
 :END:
@@ -144,7 +144,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-02-17 18:37]
 :END:
-* TODO [[https://hbr.org/2018/12/how-to-collaborate-with-people-you-dont-like][How to Collaborate with People You Don’t Like (2018)]]
+* TODO [[https://hbr.org/2018/12/how-to-collaborate-with-people-you-dont-like][How to Collaborate with People You Don't Like (2018)]]
 :PROPERTIES:
 :CREATED: [2020-02-19 07:02]
 :END:
@@ -164,7 +164,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-02-25 14:19]
 :END:
-* TODO [[https://www.bloomberg.com/news/articles/2020-02-26/reddit-s-profane-greedy-traders-are-shaking-up-the-stock-market][Reddit’s profane, greedy traders are shaking up the stock market]]
+* TODO [[https://www.bloomberg.com/news/articles/2020-02-26/reddit-s-profane-greedy-traders-are-shaking-up-the-stock-market][Reddit's profane, greedy traders are shaking up the stock market]]
 :PROPERTIES:
 :CREATED: [2020-02-26 14:19]
 :END:
@@ -276,7 +276,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-03-12 13:40]
 :END:
-* TODO [[https://www.cnbc.com/2020/03/12/fed-to-pump-more-than-500-billion-into-short-term-bank-funding-expand-types-of-security-purchases.html][Fed to inject $1.5T to prevent ‘unusual disruptions’ in markets]]
+* TODO [[https://www.cnbc.com/2020/03/12/fed-to-pump-more-than-500-billion-into-short-term-bank-funding-expand-types-of-security-purchases.html][Fed to inject $1.5T to prevent 'unusual disruptions' in markets]]
 :PROPERTIES:
 :CREATED: [2020-03-12 17:17]
 :END:
@@ -296,7 +296,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-03-12 21:36]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/fhu05w/thoughts_on_thinking_fast_and_slow/][Thoughts on &quot;Thinking, Fast and Slow?&quot;]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/fhu05w/thoughts_on_thinking_fast_and_slow/][Thoughts on "Thinking, Fast and Slow?"]]
 :PROPERTIES:
 :CREATED: [2020-03-13 04:24]
 :END:
@@ -408,7 +408,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-03-17 21:46]
 :END:
-* TODO [[https://theintercept.com/2020/03/16/tiktok-app-moderators-users-discrimination/][TikTok told moderators to suppress posts by “ugly” people and the poor]]
+* TODO [[https://theintercept.com/2020/03/16/tiktok-app-moderators-users-discrimination/][TikTok told moderators to suppress posts by "ugly" people and the poor]]
 :PROPERTIES:
 :CREATED: [2020-03-17 21:47]
 :END:
@@ -500,7 +500,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-03-20 19:13]
 :END:
-* TODO [[https://docs.google.com/presentation/d/1IUTHX2kTagUUV88HUJCkp_P6iZgLCXXVHD9UeOwU_1w/mobilepresent?slide=id.g71b0a47020_30_486][Effect of economic crisis on America’s small businesses [slides]]]
+* TODO [[https://docs.google.com/presentation/d/1IUTHX2kTagUUV88HUJCkp_P6iZgLCXXVHD9UeOwU_1w/mobilepresent?slide=id.g71b0a47020_30_486][Effect of economic crisis on America's small businesses [slides]]]
 :PROPERTIES:
 :CREATED: [2020-03-21 00:34]
 :END:
@@ -512,7 +512,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-03-21 09:33]
 :END:
-* TODO [[https://letterstoanewdeveloper.com/2019/12/19/cultivate-the-skill-of-undivided-attention-or-deep-work/][Cultivate the Skill of Undivided Attention, or “Deep Work” (2019)]]
+* TODO [[https://letterstoanewdeveloper.com/2019/12/19/cultivate-the-skill-of-undivided-attention-or-deep-work/][Cultivate the Skill of Undivided Attention, or "Deep Work" (2019)]]
 :PROPERTIES:
 :CREATED: [2020-03-21 14:48]
 :END:
@@ -552,11 +552,11 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-03-23 07:13]
 :END:
-* TODO [[https://www.wired.com/story/why-dont-we-just-ban-targeted-advertising/][Why Don’t We Just Ban Targeted Advertising?]]
+* TODO [[https://www.wired.com/story/why-dont-we-just-ban-targeted-advertising/][Why Don't We Just Ban Targeted Advertising?]]
 :PROPERTIES:
 :CREATED: [2020-03-23 11:09]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/fnr4tm/why_make_one_10x_effort_paper_when_you_will_serve/][&quot;Why make one 10x effort paper when you will serve your interests much better and with lower risks making 10 1x effort papers?&quot;]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/fnr4tm/why_make_one_10x_effort_paper_when_you_will_serve/]["Why make one 10x effort paper when you will serve your interests much better and with lower risks making 10 1x effort papers?"]]
 :PROPERTIES:
 :CREATED: [2020-03-23 20:20]
 :END:
@@ -664,7 +664,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-03-27 17:20]
 :END:
-* TODO [[http://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/][The Hardest Program I've Ever Written &ndash; How a code formatter works (2015)]]
+* TODO [[http://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/][The Hardest Program I've Ever Written - How a code formatter works (2015)]]
 :PROPERTIES:
 :CREATED: [2020-03-27 19:58]
 :END:
@@ -692,7 +692,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-03-28 17:56]
 :END:
-* TODO [[https://www.reddit.com/r/investing/comments/fqr6k7/whats_everyone_buying_during_the_2020_crash/][What’s everyone buying during the 2020 crash?]]
+* TODO [[https://www.reddit.com/r/investing/comments/fqr6k7/whats_everyone_buying_during_the_2020_crash/][What's everyone buying during the 2020 crash?]]
 :PROPERTIES:
 :CREATED: [2020-03-28 19:53]
 :END:
@@ -716,7 +716,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-03-29 09:53]
 :END:
-* TODO [[https://lanraccoon.com/2020/youre-not-writing-code-youre-solving-problems][You’re not writing code, you’re solving problems]]
+* TODO [[https://lanraccoon.com/2020/youre-not-writing-code-youre-solving-problems][You're not writing code, you're solving problems]]
 :PROPERTIES:
 :CREATED: [2020-03-29 11:05]
 :END:
@@ -800,7 +800,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-03-31 11:53]
 :END:
-* TODO [[https://www.reddit.com/r/options/comments/fsd02c/nothings_ever_priced_in_its_all_just_a_herd/][Nothings ever priced in - it’s all just a herd mentality.]]
+* TODO [[https://www.reddit.com/r/options/comments/fsd02c/nothings_ever_priced_in_its_all_just_a_herd/][Nothings ever priced in - it's all just a herd mentality.]]
 :PROPERTIES:
 :CREATED: [2020-03-31 13:34]
 :END:
@@ -820,7 +820,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-03-31 18:22]
 :END:
-* TODO [[https://www.reddit.com/r/investing/comments/fsqhan/economists_are_losing_hope_in_a_vshaped_postvirus/][Economists Are Losing Hope in a ‘V-Shaped’ Post-Virus Recovery]]
+* TODO [[https://www.reddit.com/r/investing/comments/fsqhan/economists_are_losing_hope_in_a_vshaped_postvirus/][Economists Are Losing Hope in a 'V-Shaped' Post-Virus Recovery]]
 :PROPERTIES:
 :CREATED: [2020-04-01 02:05]
 :END:
@@ -828,7 +828,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-04-01 02:07]
 :END:
-* TODO [[https://www.reddit.com/r/wallstreetbets/comments/fsrazx/every_time_i_see_a_technical_analysis_post/][Every time I see a &quot;Technical ANALysis&quot; post]]
+* TODO [[https://www.reddit.com/r/wallstreetbets/comments/fsrazx/every_time_i_see_a_technical_analysis_post/][Every time I see a "Technical ANALysis" post]]
 :PROPERTIES:
 :CREATED: [2020-04-01 02:59]
 :END:
@@ -840,7 +840,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-04-01 06:43]
 :END:
-* TODO [[https://www.reddit.com/r/investing/comments/fsuh3e/jpmorgan_asset_management_says_its_too_early_to/][JPMorgan Asset Management Says It’s Too Early to Buy Stocks]]
+* TODO [[https://www.reddit.com/r/investing/comments/fsuh3e/jpmorgan_asset_management_says_its_too_early_to/][JPMorgan Asset Management Says It's Too Early to Buy Stocks]]
 :PROPERTIES:
 :CREATED: [2020-04-01 06:46]
 :END:
@@ -884,7 +884,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-04-02 12:41]
 :END:
-* TODO [[https://www.reddit.com/r/investing/comments/ftm14d/shares_of_chinas_luckin_coffee_plummet_80_after/][Shares of China’s Luckin Coffee plummet 80% after investigation finds COO fabricated sales]]
+* TODO [[https://www.reddit.com/r/investing/comments/ftm14d/shares_of_chinas_luckin_coffee_plummet_80_after/][Shares of China's Luckin Coffee plummet 80% after investigation finds COO fabricated sales]]
 :PROPERTIES:
 :CREATED: [2020-04-02 13:08]
 :END:
@@ -1036,7 +1036,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-11-22 15:56]
 :END:
-* TODO [[https://zandercutt.com/2019/02/18/were-optimizing-ourselves-to-death/][We’re Optimizing Ourselves to Death (2019)]]
+* TODO [[https://zandercutt.com/2019/02/18/were-optimizing-ourselves-to-death/][We're Optimizing Ourselves to Death (2019)]]
 :PROPERTIES:
 :CREATED: [2020-11-22 19:25]
 :END:
@@ -1092,7 +1092,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-11-26 03:02]
 :END:
-* TODO [[https://overreacted.io/things-i-dont-know-as-of-2018/][Things I Don’t Know as of 2018]]
+* TODO [[https://overreacted.io/things-i-dont-know-as-of-2018/][Things I Don't Know as of 2018]]
 :PROPERTIES:
 :CREATED: [2020-11-26 16:18]
 :END:
@@ -1120,7 +1120,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-11-28 13:23]
 :END:
-* TODO [[https://twitter.com/_SecondThought/status/1332746158947635202][YouTube shadowbans video titled “The CIA is a Terrorist Organization”]]
+* TODO [[https://twitter.com/_SecondThought/status/1332746158947635202][YouTube shadowbans video titled "The CIA is a Terrorist Organization"]]
 :PROPERTIES:
 :CREATED: [2020-11-29 13:34]
 :END:
@@ -1144,7 +1144,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-11-30 15:32]
 :END:
-* TODO [[https://www.bbc.com/worklife/article/20201123-the-psychology-behind-revenge-bedtime-procrastination][The psychology behind ‘revenge bedtime procrastination’]]
+* TODO [[https://www.bbc.com/worklife/article/20201123-the-psychology-behind-revenge-bedtime-procrastination][The psychology behind 'revenge bedtime procrastination']]
 :PROPERTIES:
 :CREATED: [2020-12-01 09:51]
 :END:
@@ -1196,7 +1196,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-12-04 02:55]
 :END:
-* TODO [[https://news.efinancialcareers.com/uk-en/3004947/coding-interviews-hackerrank-nightmare][&ldquo;I've had to relearn coding to get through the new interviews&rdquo;]]
+* TODO [[https://news.efinancialcareers.com/uk-en/3004947/coding-interviews-hackerrank-nightmare]["I've had to relearn coding to get through the new interviews"]]
 :PROPERTIES:
 :CREATED: [2020-12-04 03:32]
 :END:
@@ -1300,7 +1300,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-12-09 11:53]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/k9ruld/the_new_macro_give_people_money/][The new macro: &quot;Give people money&quot;]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/k9ruld/the_new_macro_give_people_money/][The new macro: "Give people money"]]
 :PROPERTIES:
 :CREATED: [2020-12-09 13:30]
 :END:
@@ -1336,7 +1336,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-12-11 17:38]
 :END:
-* TODO [[https://www.wsj.com/articles/elon-musk-decries-m-b-a-ization-of-america-11607548589][Elon Musk Decries ‘M.B.A.-ization’ of America]]
+* TODO [[https://www.wsj.com/articles/elon-musk-decries-m-b-a-ization-of-america-11607548589][Elon Musk Decries 'M.B.A.-ization' of America]]
 :PROPERTIES:
 :CREATED: [2020-12-11 19:02]
 :END:
@@ -1356,7 +1356,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-12-12 16:03]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/kbs5vm/knowing_aboutthat_x_vs_knowing_x_what_am_i/][&quot;Knowing about/that X&quot; vs &quot;Knowing X&quot; - What am I talking about?]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/kbs5vm/knowing_aboutthat_x_vs_knowing_x_what_am_i/]["Knowing about/that X" vs "Knowing X" - What am I talking about?]]
 :PROPERTIES:
 :CREATED: [2020-12-12 16:42]
 :END:
@@ -1404,7 +1404,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-12-14 15:34]
 :END:
-* TODO [[https://sive.rs/below-average][I assume I’m below average (2010)]]
+* TODO [[https://sive.rs/below-average][I assume I'm below average (2010)]]
 :PROPERTIES:
 :CREATED: [2020-12-15 04:22]
 :END:
@@ -1484,7 +1484,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-12-17 20:08]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/kf7dji/how_do_you_remember_what_youve_learned/][How do you remember what you’ve learned?]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/kf7dji/how_do_you_remember_what_youve_learned/][How do you remember what you've learned?]]
 :PROPERTIES:
 :CREATED: [2020-12-17 22:02]
 :END:
@@ -1504,11 +1504,11 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-12-18 13:20]
 :END:
-* TODO [[https://theness.com/neurologicablog/index.php/it-took-two-days-to-develop-modernas-vaccine/][It Took Two Days to Develop Moderna’s Vaccine]]
+* TODO [[https://theness.com/neurologicablog/index.php/it-took-two-days-to-develop-modernas-vaccine/][It Took Two Days to Develop Moderna's Vaccine]]
 :PROPERTIES:
 :CREATED: [2020-12-18 15:02]
 :END:
-* TODO [[https://www.nature.com/articles/d41586-020-03235-y][Postdocs under pressure: ‘Can I even do this any more?’]]
+* TODO [[https://www.nature.com/articles/d41586-020-03235-y][Postdocs under pressure: 'Can I even do this any more?']]
 :PROPERTIES:
 :CREATED: [2020-12-18 22:24]
 :END:
@@ -1544,7 +1544,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-12-20 10:09]
 :END:
-* TODO [[https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/][The Gervais Principle, or the Office According to “The Office” (2009)]]
+* TODO [[https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/][The Gervais Principle, or the Office According to "The Office" (2009)]]
 :PROPERTIES:
 :CREATED: [2020-12-20 15:28]
 :END:
@@ -1628,11 +1628,11 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-12-23 04:48]
 :END:
-* TODO [[https://thenextweb.com/google/2019/06/14/youtube-recommendations-toxic-algorithm-google-ai/][‘YouTube recommendations are toxic,’ says dev who worked on the algorithm (2019)]]
+* TODO [[https://thenextweb.com/google/2019/06/14/youtube-recommendations-toxic-algorithm-google-ai/]['YouTube recommendations are toxic,' says dev who worked on the algorithm (2019)]]
 :PROPERTIES:
 :CREATED: [2020-12-23 11:33]
 :END:
-* TODO [[https://www.reuters.com/article/us-alphabet-google-research-focus/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-idUSKBN28X1CB][Google told its scientists to ‘strike a positive tone’ in AI research]]
+* TODO [[https://www.reuters.com/article/us-alphabet-google-research-focus/google-told-its-scientists-to-strike-a-positive-tone-in-ai-research-documents-idUSKBN28X1CB][Google told its scientists to 'strike a positive tone' in AI research]]
 :PROPERTIES:
 :CREATED: [2020-12-23 12:07]
 :END:
@@ -1664,7 +1664,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-12-24 10:42]
 :END:
-* TODO [[https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7][Artificial Intelligence – The Revolution Hasn’t Happened Yet]]
+* TODO [[https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7][Artificial Intelligence – The Revolution Hasn't Happened Yet]]
 :PROPERTIES:
 :CREATED: [2020-12-24 18:47]
 :END:
@@ -1736,7 +1736,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-12-26 14:59]
 :END:
-* TODO [[https://www.psychologytoday.com/us/blog/shouldstorm/202012/we-ve-got-depression-all-wrong-it-s-trying-save-us][We’ve Got Depression All Wrong. It’s Trying to Save Us]]
+* TODO [[https://www.psychologytoday.com/us/blog/shouldstorm/202012/we-ve-got-depression-all-wrong-it-s-trying-save-us][We've Got Depression All Wrong. It's Trying to Save Us]]
 :PROPERTIES:
 :CREATED: [2020-12-26 20:05]
 :END:
@@ -1784,7 +1784,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-12-27 23:20]
 :END:
-* TODO [[http://jsomers.net/blog/it-turns-out][“It Turns Out” (2010)]]
+* TODO [[http://jsomers.net/blog/it-turns-out]["It Turns Out" (2010)]]
 :PROPERTIES:
 :CREATED: [2020-12-28 04:05]
 :END:
@@ -1812,7 +1812,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-12-28 13:08]
 :END:
-* TODO [[https://news.ycombinator.com/item?id=25559571][Ask HN: What are you surprised isn’t being worked on more?]]
+* TODO [[https://news.ycombinator.com/item?id=25559571][Ask HN: What are you surprised isn't being worked on more?]]
 :PROPERTIES:
 :CREATED: [2020-12-28 14:50]
 :END:
@@ -1876,7 +1876,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-12-29 19:51]
 :END:
-* TODO [[https://unintendedconsequenc.es/the-owls-right-eye/][The Owl’s Right Eye (2019)]]
+* TODO [[https://unintendedconsequenc.es/the-owls-right-eye/][The Owl's Right Eye (2019)]]
 :PROPERTIES:
 :CREATED: [2020-12-29 20:38]
 :END:
@@ -1984,7 +1984,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-12-31 16:57]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/knvp0z/utilitarianism_for_engineers_2013_by_scott/][&quot;Utilitarianism for Engineers&quot; (2013) by Scott Alexander: &quot;It's impossible to compare interpersonal utilities in theory but pretty easy in practice. Every time you give up your seat on the subway to an old woman with a cane, you're doing a quick little interpersonal utility calculation.&quot;]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/knvp0z/utilitarianism_for_engineers_2013_by_scott/]["Utilitarianism for Engineers" (2013) by Scott Alexander: "It's impossible to compare interpersonal utilities in theory but pretty easy in practice. Every time you give up your seat on the subway to an old woman with a cane, you're doing a quick little interpersonal utility calculation."]]
 :PROPERTIES:
 :CREATED: [2020-12-31 18:52]
 :END:
@@ -2000,7 +2000,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-12-31 19:09]
 :END:
-* TODO [[https://twitter.com/AkikoMHart/status/1344567257733730304][I can’t work the hours I did in 2020 again yet struggling to see how to avoid it]]
+* TODO [[https://twitter.com/AkikoMHart/status/1344567257733730304][I can't work the hours I did in 2020 again yet struggling to see how to avoid it]]
 :PROPERTIES:
 :CREATED: [2020-12-31 21:03]
 :END:
@@ -2040,7 +2040,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-01-01 14:31]
 :END:
-* TODO [[https://www.wsj.com/articles/for-new-years-resolutions-never-think-youre-too-old-to-become-a-beginner-11609426707][You’re Never Too Old to Become a Beginner]]
+* TODO [[https://www.wsj.com/articles/for-new-years-resolutions-never-think-youre-too-old-to-become-a-beginner-11609426707][You're Never Too Old to Become a Beginner]]
 :PROPERTIES:
 :CREATED: [2021-01-01 17:15]
 :END:
@@ -2080,7 +2080,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-01-02 01:33]
 :END:
-* TODO [[https://www.militantfuturist.com/how-ray-kurzweils-2019-predictions-are-faring-pt-4/][How Ray Kurzweil’s 1998 predictions about 2019 are faring]]
+* TODO [[https://www.militantfuturist.com/how-ray-kurzweils-2019-predictions-are-faring-pt-4/][How Ray Kurzweil's 1998 predictions about 2019 are faring]]
 :PROPERTIES:
 :CREATED: [2021-01-02 04:01]
 :END:
@@ -2160,7 +2160,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-01-04 06:26]
 :END:
-* TODO [[https://www.nytimes.com/2021/01/04/opinion/google-union.html][We’re Google Workers, and We Are Forming a Union]]
+* TODO [[https://www.nytimes.com/2021/01/04/opinion/google-union.html][We're Google Workers, and We Are Forming a Union]]
 :PROPERTIES:
 :CREATED: [2021-01-04 11:11]
 :END:
@@ -2216,15 +2216,15 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-01-06 16:55]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/ks1189/is_maps_of_meaning_by_jordan_peterson_worth/][Is “Maps of Meaning” by Jordan Peterson worth reading?]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/ks1189/is_maps_of_meaning_by_jordan_peterson_worth/][Is "Maps of Meaning" by Jordan Peterson worth reading?]]
 :PROPERTIES:
 :CREATED: [2021-01-07 00:18]
 :END:
-* TODO [[https://www.lesswrong.com/posts/9YDk52NPrfq7nqLvd/lessons-from-the-book-of-my-life][Lessons from “The Book of My Life”]]
+* TODO [[https://www.lesswrong.com/posts/9YDk52NPrfq7nqLvd/lessons-from-the-book-of-my-life][Lessons from "The Book of My Life"]]
 :PROPERTIES:
 :CREATED: [2021-01-07 14:07]
 :END:
-* TODO [[https://www.bbc.com/news/technology-55578403][Elon Musk becomes world’s richest person as wealth tops $185B]]
+* TODO [[https://www.bbc.com/news/technology-55578403][Elon Musk becomes world's richest person as wealth tops $185B]]
 :PROPERTIES:
 :CREATED: [2021-01-07 16:33]
 :END:
@@ -2272,7 +2272,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-01-08 17:27]
 :END:
-* TODO [[https://www.vice.com/en/article/3an5e3/archivists-are-preserving-capitol-hill-riot-livestreams-before-theyre-deleted][Archivists Are Preserving Capitol Hill Riot Livestreams Before They’re Deleted]]
+* TODO [[https://www.vice.com/en/article/3an5e3/archivists-are-preserving-capitol-hill-riot-livestreams-before-theyre-deleted][Archivists Are Preserving Capitol Hill Riot Livestreams Before They're Deleted]]
 :PROPERTIES:
 :CREATED: [2021-01-08 18:57]
 :END:
@@ -2304,7 +2304,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-01-09 08:32]
 :END:
-* TODO [[https://www.reddit.com/r/investing/comments/ktou8n/what_exactly_happens_when_an_stock_market_bubble/][What exactly happens when an stock market bubble &quot;bursts&quot;.]]
+* TODO [[https://www.reddit.com/r/investing/comments/ktou8n/what_exactly_happens_when_an_stock_market_bubble/][What exactly happens when an stock market bubble "bursts".]]
 :PROPERTIES:
 :CREATED: [2021-01-09 10:53]
 :END:
@@ -2324,7 +2324,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-01-09 17:47]
 :END:
-* TODO [[https://www.reddit.com/r/investing/comments/ktznd3/been_seeing_alot_of_posts_with_questions_like_are/][Been seeing alot of posts with questions like &quot;Are we in a bubble?&quot;, &quot;Could this be like 1999 or worse?&quot; , &quot;We haven't had a correction since 08-09 so aren't we due?&quot;, &quot;COVID-19 is on the rise, could this be the catalyst for a pop?&quot;... Invest in the future, not next month!]]
+* TODO [[https://www.reddit.com/r/investing/comments/ktznd3/been_seeing_alot_of_posts_with_questions_like_are/][Been seeing alot of posts with questions like "Are we in a bubble?", "Could this be like 1999 or worse?" , "We haven't had a correction since 08-09 so aren't we due?", "COVID-19 is on the rise, could this be the catalyst for a pop?"... Invest in the future, not next month!]]
 :PROPERTIES:
 :CREATED: [2021-01-09 21:17]
 :END:
@@ -2344,7 +2344,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-01-10 04:48]
 :END:
-* TODO [[https://erik-engheim.medium.com/stop-the-hard-work-obsession-america-6e5c29b1c07c][Stop the “Hard Work” Obsession]]
+* TODO [[https://erik-engheim.medium.com/stop-the-hard-work-obsession-america-6e5c29b1c07c][Stop the "Hard Work" Obsession]]
 :PROPERTIES:
 :CREATED: [2021-01-10 06:00]
 :END:
@@ -2376,7 +2376,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-01-10 15:57]
 :END:
-* TODO [[https://www.washingtonpost.com/health/black-baby-death-rate-cut-by-black-doctors/2021/01/08/e9f0f850-238a-11eb-952e-0c475972cfc0_story.html][Mortality rate for Black babies plummets when they’re delivered by Black doctors]]
+* TODO [[https://www.washingtonpost.com/health/black-baby-death-rate-cut-by-black-doctors/2021/01/08/e9f0f850-238a-11eb-952e-0c475972cfc0_story.html][Mortality rate for Black babies plummets when they're delivered by Black doctors]]
 :PROPERTIES:
 :CREATED: [2021-01-10 16:43]
 :END:
@@ -2444,7 +2444,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-01-11 13:43]
 :END:
-* TODO [[https://cybernews.com/news/70tb-of-parler-users-messages-videos-and-posts-leaked-by-security-researchers/][70TB of Parler users’ messages, videos, and posts leaked by security researchers]]
+* TODO [[https://cybernews.com/news/70tb-of-parler-users-messages-videos-and-posts-leaked-by-security-researchers/][70TB of Parler users' messages, videos, and posts leaked by security researchers]]
 :PROPERTIES:
 :CREATED: [2021-01-11 14:18]
 :END:
@@ -2556,7 +2556,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-01-16 18:08]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/kyulnc/mundane_magic_2008_by_eliezer_theres_an_old_trick/][&quot;Mundane Magic&quot; (2008) by Eliezer: &quot;There's an old trick for combating dukkha where you make a list of things you're grateful for, like a roof over your head. So why not make a list of abilities you have that would be amazingly cool if they were magic, or if only a few chosen individuals had them?&quot;]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/kyulnc/mundane_magic_2008_by_eliezer_theres_an_old_trick/]["Mundane Magic" (2008) by Eliezer: "There's an old trick for combating dukkha where you make a list of things you're grateful for, like a roof over your head. So why not make a list of abilities you have that would be amazingly cool if they were magic, or if only a few chosen individuals had them?"]]
 :PROPERTIES:
 :CREATED: [2021-01-16 23:56]
 :END:
@@ -2720,7 +2720,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-01-22 13:53]
 :END:
-* TODO [[https://www.wired.com/story/palantirs-gods-eye-view-of-afghanistan/][Palantir’s God’s-Eye View of Afghanistan]]
+* TODO [[https://www.wired.com/story/palantirs-gods-eye-view-of-afghanistan/][Palantir's God's-Eye View of Afghanistan]]
 :PROPERTIES:
 :CREATED: [2021-01-22 13:59]
 :END:
@@ -2756,7 +2756,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-01-22 23:36]
 :END:
-* TODO [[https://www.lesswrong.com/posts/bG29WyHYcQudDjQ5N/what-if-we-all-just-stayed-at-home-and-didn-t-get-covid-for][What if we all just stayed at home and didn’t get covid for two weeks?]]
+* TODO [[https://www.lesswrong.com/posts/bG29WyHYcQudDjQ5N/what-if-we-all-just-stayed-at-home-and-didn-t-get-covid-for][What if we all just stayed at home and didn't get covid for two weeks?]]
 :PROPERTIES:
 :CREATED: [2021-01-22 23:48]
 :END:
@@ -2864,7 +2864,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-01-26 21:13]
 :END:
-* TODO [[https://bloodknife.com/culture-war-iain-m-banks-jeff-bezos/][The Culture War: Iain M. Banks’s Billionaire Fans]]
+* TODO [[https://bloodknife.com/culture-war-iain-m-banks-jeff-bezos/][The Culture War: Iain M. Banks's Billionaire Fans]]
 :PROPERTIES:
 :CREATED: [2021-01-27 05:11]
 :END:
@@ -2876,7 +2876,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-01-27 16:27]
 :END:
-* TODO [[https://eugeneyan.com/writing/you-dont-need-another-mooc/][Most of the time, you don’t really need another MOOC]]
+* TODO [[https://eugeneyan.com/writing/you-dont-need-another-mooc/][Most of the time, you don't really need another MOOC]]
 :PROPERTIES:
 :CREATED: [2021-01-27 18:01]
 :END:
@@ -2952,7 +2952,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-01-30 17:56]
 :END:
-* TODO [[https://www.scottaaronson.com/blog/?p=5253][Once we can see them, it’s too late]]
+* TODO [[https://www.scottaaronson.com/blog/?p=5253][Once we can see them, it's too late]]
 :PROPERTIES:
 :CREATED: [2021-01-30 19:27]
 :END:
@@ -2972,7 +2972,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-01-30 21:16]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/l91uvc/gwern_so_by_my_count_just_over_the_past_month/][Gwern: &quot;So by my count, just over the past month, OpenAI has seen a diaspora of: Dario Amodei, Sam McCandlish, Tom Brown, Tom Henighan, Chris Olah, Jack Clark, Ben Mann, and Paul Christiano (just the publicly known ones).&quot;]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/l91uvc/gwern_so_by_my_count_just_over_the_past_month/][Gwern: "So by my count, just over the past month, OpenAI has seen a diaspora of: Dario Amodei, Sam McCandlish, Tom Brown, Tom Henighan, Chris Olah, Jack Clark, Ben Mann, and Paul Christiano (just the publicly known ones)."]]
 :PROPERTIES:
 :CREATED: [2021-01-31 02:05]
 :END:
@@ -3160,7 +3160,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-02-08 01:15]
 :END:
-* TODO [[https://hbr.org/2021/02/dont-underestimate-the-power-of-a-walk][Don’t Underestimate the Power of a Walk]]
+* TODO [[https://hbr.org/2021/02/dont-underestimate-the-power-of-a-walk][Don't Underestimate the Power of a Walk]]
 :PROPERTIES:
 :CREATED: [2021-02-08 16:09]
 :END:
@@ -3228,7 +3228,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-02-13 06:31]
 :END:
-* TODO [[https://www.nytimes.com/2021/02/13/technology/slate-star-codex-rationalists.html][Silicon Valley’s Safe Space]]
+* TODO [[https://www.nytimes.com/2021/02/13/technology/slate-star-codex-rationalists.html][Silicon Valley's Safe Space]]
 :PROPERTIES:
 :CREATED: [2021-02-13 11:17]
 :END:
@@ -3252,7 +3252,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-02-14 02:29]
 :END:
-* TODO [[https://www.lesswrong.com/posts/SWxnP5LZeJzuT3ccd/pr-is-corrosive-reputation-is-not][“PR” is corrosive; “reputation” is not.]]
+* TODO [[https://www.lesswrong.com/posts/SWxnP5LZeJzuT3ccd/pr-is-corrosive-reputation-is-not]["PR" is corrosive; "reputation" is not.]]
 :PROPERTIES:
 :CREATED: [2021-02-14 03:56]
 :END:
@@ -3272,7 +3272,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-02-14 10:15]
 :END:
-* TODO [[https://blackshaw.substack.com/p/pay][“Location-Based Pay” – Who Are You to Complain?]]
+* TODO [[https://blackshaw.substack.com/p/pay]["Location-Based Pay" – Who Are You to Complain?]]
 :PROPERTIES:
 :CREATED: [2021-02-14 10:35]
 :END:
@@ -3524,7 +3524,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-02-24 17:46]
 :END:
-* TODO [[https://andrewnc.github.io/blog/everyday_data_science.html][Show HN: I wrote a book about using data science to solve “everyday” problems]]
+* TODO [[https://andrewnc.github.io/blog/everyday_data_science.html][Show HN: I wrote a book about using data science to solve "everyday" problems]]
 :PROPERTIES:
 :CREATED: [2021-02-24 18:04]
 :END:
@@ -3536,7 +3536,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-02-25 01:30]
 :END:
-* TODO [[https://github.com/DidierRLopes/GamestonkTerminal][Show HN: Can’t afford Bloomberg Terminal? No prob, I built the next best thing]]
+* TODO [[https://github.com/DidierRLopes/GamestonkTerminal][Show HN: Can't afford Bloomberg Terminal? No prob, I built the next best thing]]
 :PROPERTIES:
 :CREATED: [2021-02-25 01:47]
 :END:
@@ -3612,7 +3612,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-02-28 18:36]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/lups79/the_americandreamasaservice_thats_one_of_the/][The American-Dream-as-a-Service: &quot;That's one of the really weird things: The hiring process is not just a filter for skills, it's also a filter for class.&quot;]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/lups79/the_americandreamasaservice_thats_one_of_the/][The American-Dream-as-a-Service: "That's one of the really weird things: The hiring process is not just a filter for skills, it's also a filter for class."]]
 :PROPERTIES:
 :CREATED: [2021-02-28 20:36]
 :END:
@@ -3692,7 +3692,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-03-03 02:17]
 :END:
-* TODO [[https://www.foundingfuel.com/article/gigerenzers-simple-rules/][Gigerenzer’s simple rules of thumb often outperform complex models]]
+* TODO [[https://www.foundingfuel.com/article/gigerenzers-simple-rules/][Gigerenzer's simple rules of thumb often outperform complex models]]
 :PROPERTIES:
 :CREATED: [2021-03-03 06:32]
 :END:
@@ -3792,7 +3792,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-03-05 03:03]
 :END:
-* TODO [[https://www.nature.com/articles/s41598-020-79310-1][Facial recognition can predict person’s political orientation with 72% accuracy]]
+* TODO [[https://www.nature.com/articles/s41598-020-79310-1][Facial recognition can predict person's political orientation with 72% accuracy]]
 :PROPERTIES:
 :CREATED: [2021-03-05 15:48]
 :END:
@@ -3828,7 +3828,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-03-06 13:16]
 :END:
-* TODO [[https://retrocomputing.stackexchange.com/questions/13897/why-was-the-kickstart-1-x-insert-floppy-graphic-so-bad/13901][Why was the Amiga Kickstart 1.x “Insert floppy” graphic so bad?]]
+* TODO [[https://retrocomputing.stackexchange.com/questions/13897/why-was-the-kickstart-1-x-insert-floppy-graphic-so-bad/13901][Why was the Amiga Kickstart 1.x "Insert floppy" graphic so bad?]]
 :PROPERTIES:
 :CREATED: [2021-03-06 17:41]
 :END:
@@ -3844,7 +3844,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-03-07 00:19]
 :END:
-* TODO [[https://www.latimes.com/california/story/2021-03-04/california-exodus-san-francisco-migration][Californians aren’t leaving the state en masse but are leaving San Francisco]]
+* TODO [[https://www.latimes.com/california/story/2021-03-04/california-exodus-san-francisco-migration][Californians aren't leaving the state en masse but are leaving San Francisco]]
 :PROPERTIES:
 :CREATED: [2021-03-07 00:29]
 :END:
@@ -3896,7 +3896,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-03-08 18:19]
 :END:
-* TODO [[https://www.thedrive.com/news/39647/tesla-admits-current-full-self-driving-beta-will-always-be-a-level-2-system-emails][Tesla Admits Current ‘Full Self-Driving Beta’ Will Always Be Level 2]]
+* TODO [[https://www.thedrive.com/news/39647/tesla-admits-current-full-self-driving-beta-will-always-be-a-level-2-system-emails][Tesla Admits Current 'Full Self-Driving Beta' Will Always Be Level 2]]
 :PROPERTIES:
 :CREATED: [2021-03-08 20:10]
 :END:
@@ -4000,7 +4000,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-03-11 11:58]
 :END:
-* TODO [[https://blog.usejournal.com/you-dont-need-all-that-complex-expensive-distracting-infrastructure-a70dbe0dbccb][You Don’t Need All That Complex/Expensive/Distracting Infrastructure (2019)]]
+* TODO [[https://blog.usejournal.com/you-dont-need-all-that-complex-expensive-distracting-infrastructure-a70dbe0dbccb][You Don't Need All That Complex/Expensive/Distracting Infrastructure (2019)]]
 :PROPERTIES:
 :CREATED: [2021-03-11 12:01]
 :END:
@@ -4044,7 +4044,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-03-12 09:19]
 :END:
-* TODO [[https://www.documentjournal.com/2021/01/the-internet-didnt-kill-counterculture-you-just-wont-find-it-on-instagram/][The internet didn’t kill counterculture – you just won’t find it on Instagram]]
+* TODO [[https://www.documentjournal.com/2021/01/the-internet-didnt-kill-counterculture-you-just-wont-find-it-on-instagram/][The internet didn't kill counterculture – you just won't find it on Instagram]]
 :PROPERTIES:
 :CREATED: [2021-03-12 15:06]
 :END:
@@ -4168,7 +4168,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-03-16 02:41]
 :END:
-* TODO [[https://launchyourapp.meezeeworkouts.com/2021/03/why-we-dont-use-docker-we-dont-need-it.html?m=1][We Don’t Use Docker]]
+* TODO [[https://launchyourapp.meezeeworkouts.com/2021/03/why-we-dont-use-docker-we-dont-need-it.html?m=1][We Don't Use Docker]]
 :PROPERTIES:
 :CREATED: [2021-03-16 03:03]
 :END:
@@ -4204,7 +4204,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-03-16 13:54]
 :END:
-* TODO [[https://news.ycombinator.com/item?id=26477507][Ask HN: What are some “10x” software product innovations you have experienced?]]
+* TODO [[https://news.ycombinator.com/item?id=26477507][Ask HN: What are some "10x" software product innovations you have experienced?]]
 :PROPERTIES:
 :CREATED: [2021-03-16 14:54]
 :END:
@@ -4224,7 +4224,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-03-16 22:32]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/m6loku/lost_in_thought_the_psychological_risks_of/][&quot;Lost in Thought: The psychological risks of meditation&quot;]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/m6loku/lost_in_thought_the_psychological_risks_of/]["Lost in Thought: The psychological risks of meditation"]]
 :PROPERTIES:
 :CREATED: [2021-03-16 22:51]
 :END:
@@ -4296,7 +4296,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-03-18 18:59]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/m7ylsw/the_recent_chinese_concept_of_involution_is_a_lot/][The recent Chinese concept of &quot;involution&quot; is a lot like Scott's Moloch]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/m7ylsw/the_recent_chinese_concept_of_involution_is_a_lot/][The recent Chinese concept of "involution" is a lot like Scott's Moloch]]
 :PROPERTIES:
 :CREATED: [2021-03-18 19:23]
 :END:
@@ -4428,11 +4428,11 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-03-23 01:41]
 :END:
-* TODO [[https://www.openculture.com/2015/01/akira-kurosawas-list-of-his-100-favorite-movies.html][Akira Kurosawa’s List of His 100 Favorite Movies (2015)]]
+* TODO [[https://www.openculture.com/2015/01/akira-kurosawas-list-of-his-100-favorite-movies.html][Akira Kurosawa's List of His 100 Favorite Movies (2015)]]
 :PROPERTIES:
 :CREATED: [2021-03-23 06:04]
 :END:
-* TODO [[https://www.economist.com/science-and-technology/2021/03/18/small-cheap-spy-satellites-mean-theres-no-hiding-place][Small, cheap spy satellites mean there’s no hiding place]]
+* TODO [[https://www.economist.com/science-and-technology/2021/03/18/small-cheap-spy-satellites-mean-theres-no-hiding-place][Small, cheap spy satellites mean there's no hiding place]]
 :PROPERTIES:
 :CREATED: [2021-03-23 10:22]
 :END:
@@ -4472,7 +4472,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-03-24 15:05]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/mc9v51/i_now_think_there_is_a_50_chance_that_we_will/][I now think there is a 50% chance that we will reach longevity escape velocity by 2036. After that point (the &quot;Methuselarity&quot;), those who regularly receive the latest rejuvenation therapies will never suffer from age-related ill-health at any age. - Aubrey de Grey]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/mc9v51/i_now_think_there_is_a_50_chance_that_we_will/][I now think there is a 50% chance that we will reach longevity escape velocity by 2036. After that point (the "Methuselarity"), those who regularly receive the latest rejuvenation therapies will never suffer from age-related ill-health at any age. - Aubrey de Grey]]
 :PROPERTIES:
 :CREATED: [2021-03-24 16:21]
 :END:
@@ -4492,7 +4492,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-03-25 07:11]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/mcwhor/ars_longa_vita_brevis_by_scott_alexander_this/][&quot;Ars Longa, Vita Brevis&quot; by Scott Alexander: &quot;This story's about feeling like you can't transmit knowledge fast enough. I now realize that, at age 20, I was an idiot. Probably 10 years from now I'll think I was an idiot today. I'd love to have the 'How Not To Be An Idiot' book, but there isn't one.&quot;]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/mcwhor/ars_longa_vita_brevis_by_scott_alexander_this/]["Ars Longa, Vita Brevis" by Scott Alexander: "This story's about feeling like you can't transmit knowledge fast enough. I now realize that, at age 20, I was an idiot. Probably 10 years from now I'll think I was an idiot today. I'd love to have the 'How Not To Be An Idiot' book, but there isn't one."]]
 :PROPERTIES:
 :CREATED: [2021-03-25 11:55]
 :END:
@@ -4508,7 +4508,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-03-25 13:55]
 :END:
-* TODO [[https://blog.rize.io/blog/phones-and-apps-reduce-your-ability-to-focus-even-when-they-dont-distract-you][Phones and apps reduce your ability to focus even when they don’t distract you]]
+* TODO [[https://blog.rize.io/blog/phones-and-apps-reduce-your-ability-to-focus-even-when-they-dont-distract-you][Phones and apps reduce your ability to focus even when they don't distract you]]
 :PROPERTIES:
 :CREATED: [2021-03-25 17:07]
 :END:
@@ -4536,7 +4536,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-03-26 02:47]
 :END:
-* TODO [[https://www.technologyreview.com/2021/03/26/1021318/google-security-shut-down-counter-terrorist-us-ally/][Google’s top security teams unilaterally shut down a counterterrorism operation]]
+* TODO [[https://www.technologyreview.com/2021/03/26/1021318/google-security-shut-down-counter-terrorist-us-ally/][Google's top security teams unilaterally shut down a counterterrorism operation]]
 :PROPERTIES:
 :CREATED: [2021-03-26 11:37]
 :END:
@@ -4544,11 +4544,11 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-03-26 13:20]
 :END:
-* TODO [[https://productivegrowth.substack.com/p/why-im-a-sucker-for-pen-and-paper][Why I’m a sucker for pen and paper]]
+* TODO [[https://productivegrowth.substack.com/p/why-im-a-sucker-for-pen-and-paper][Why I'm a sucker for pen and paper]]
 :PROPERTIES:
 :CREATED: [2021-03-26 20:05]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/mdy24e/whats_the_empirical_validity_of_how_to_gain/][What's the empirical validity of &quot;how to gain power/influence&quot; literature like what you see from Robert Greene/Dale Carnegie/etc?]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/mdy24e/whats_the_empirical_validity_of_how_to_gain/][What's the empirical validity of "how to gain power/influence" literature like what you see from Robert Greene/Dale Carnegie/etc?]]
 :PROPERTIES:
 :CREATED: [2021-03-26 20:46]
 :END:
@@ -4568,7 +4568,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-03-27 13:30]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/mefolb/i_beg_to_differ_the_rise_of_the_contrarian_writer/][I Beg to Differ [The Rise of the Contrarian Writer due to &quot;Toxoplasma of Rage&quot;-like Dynamics]]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/mefolb/i_beg_to_differ_the_rise_of_the_contrarian_writer/][I Beg to Differ [The Rise of the Contrarian Writer due to "Toxoplasma of Rage"-like Dynamics]]]
 :PROPERTIES:
 :CREATED: [2021-03-27 15:13]
 :END:
@@ -4608,7 +4608,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-03-29 04:25]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/mfjz8v/its_all_just_displacement_freddie_deboer/][It’s all just displacement - Freddie deBoer]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/mfjz8v/its_all_just_displacement_freddie_deboer/][It's all just displacement - Freddie deBoer]]
 :PROPERTIES:
 :CREATED: [2021-03-29 07:19]
 :END:
@@ -4632,7 +4632,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-03-29 14:16]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/mfre21/many_around_the_world_simply_assume_that_china/][Many around the world simply assume that China will overtake the US as the world’s premier superpower, yet the US maintains a significant advantage in just about every category—wealth, innovation, political clout, military, &quot;soft power&quot;]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/mfre21/many_around_the_world_simply_assume_that_china/][Many around the world simply assume that China will overtake the US as the world's premier superpower, yet the US maintains a significant advantage in just about every category—wealth, innovation, political clout, military, "soft power"]]
 :PROPERTIES:
 :CREATED: [2021-03-29 14:58]
 :END:
@@ -4640,7 +4640,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-03-29 16:25]
 :END:
-* TODO [[https://finance.yahoo.com/video/very-likely-u-outlaw-bitcoin-100000280.html][Ray Dalio: ‘Good probability’ the U.S. will outlaw Bitcoin]]
+* TODO [[https://finance.yahoo.com/video/very-likely-u-outlaw-bitcoin-100000280.html][Ray Dalio: 'Good probability' the U.S. will outlaw Bitcoin]]
 :PROPERTIES:
 :CREATED: [2021-03-29 18:08]
 :END:
@@ -4660,7 +4660,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-03-29 23:16]
 :END:
-* TODO [[https://www.axios.com/china-passes-hong-kong-patriot-election-law-37117377-8d34-44c6-b44d-20913c6afae0.html][China passes Hong Kong “patriot” election law]]
+* TODO [[https://www.axios.com/china-passes-hong-kong-patriot-election-law-37117377-8d34-44c6-b44d-20913c6afae0.html][China passes Hong Kong "patriot" election law]]
 :PROPERTIES:
 :CREATED: [2021-03-30 07:39]
 :END:
@@ -4668,7 +4668,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-03-30 10:02]
 :END:
-* TODO [[https://www.chalmers.se/en/departments/ims/news/Pages/Big-breakthrough-for-%E2%80%99massless%E2%80%99-energy-storage.aspx][Breakthrough for ‘massless’ energy storage]]
+* TODO [[https://www.chalmers.se/en/departments/ims/news/Pages/Big-breakthrough-for-%E2%80%99massless%E2%80%99-energy-storage.aspx][Breakthrough for 'massless' energy storage]]
 :PROPERTIES:
 :CREATED: [2021-03-30 10:40]
 :END:
@@ -4720,7 +4720,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-03-31 12:02]
 :END:
-* TODO [[https://www.newyorker.com/magazine/2021/03/29/what-data-cant-do][What Data Can’t Do]]
+* TODO [[https://www.newyorker.com/magazine/2021/03/29/what-data-cant-do][What Data Can't Do]]
 :PROPERTIES:
 :CREATED: [2021-03-31 12:45]
 :END:
@@ -4776,7 +4776,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-04-01 08:54]
 :END:
-* TODO [[https://thehosk.medium.com/software-development-is-a-losers-game-fc68bb30d7eb][Software development is a loser’s game]]
+* TODO [[https://thehosk.medium.com/software-development-is-a-losers-game-fc68bb30d7eb][Software development is a loser's game]]
 :PROPERTIES:
 :CREATED: [2021-04-01 14:08]
 :END:
@@ -4812,7 +4812,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-04-02 22:45]
 :END:
-* TODO [[https://www.theguardian.com/business/2021/apr/02/the-us-dollars-hegemony-is-looking-fragile][The US dollar’s hegemony is looking fragile]]
+* TODO [[https://www.theguardian.com/business/2021/apr/02/the-us-dollars-hegemony-is-looking-fragile][The US dollar's hegemony is looking fragile]]
 :PROPERTIES:
 :CREATED: [2021-04-03 06:47]
 :END:
@@ -4828,7 +4828,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-04-03 19:21]
 :END:
-* TODO [[https://guzey.com/books/why-we-sleep/][“Why We Sleep” Is Riddled with Scientific and Factual Errors]]
+* TODO [[https://guzey.com/books/why-we-sleep/]["Why We Sleep" Is Riddled with Scientific and Factual Errors]]
 :PROPERTIES:
 :CREATED: [2021-04-03 20:39]
 :END:
@@ -4928,7 +4928,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-04-05 23:48]
 :END:
-* TODO [[https://arxiv.org/abs/2103.16574][“I’ll Finish It This Week” and Other Lies]]
+* TODO [[https://arxiv.org/abs/2103.16574]["I'll Finish It This Week" and Other Lies]]
 :PROPERTIES:
 :CREATED: [2021-04-06 00:17]
 :END:
@@ -5000,11 +5000,11 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-04-07 12:34]
 :END:
-* TODO [[https://www.markozivanovic.com/screw-it-ill-host-it-myself/][Screw it, I’ll host it myself]]
+* TODO [[https://www.markozivanovic.com/screw-it-ill-host-it-myself/][Screw it, I'll host it myself]]
 :PROPERTIES:
 :CREATED: [2021-04-07 14:10]
 :END:
-* TODO [[https://www.nytimes.com/2021/04/07/opinion/google-job-harassment.html][After working at Google, I’ll never let myself love a job again]]
+* TODO [[https://www.nytimes.com/2021/04/07/opinion/google-job-harassment.html][After working at Google, I'll never let myself love a job again]]
 :PROPERTIES:
 :CREATED: [2021-04-07 19:11]
 :END:
@@ -5012,7 +5012,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-04-07 23:23]
 :END:
-* TODO [[https://www.amd.com/en/press-releases/2021-04-07-amd-and-xilinx-stockholders-overwhelmingly-approve-amd-s-acquisition][AMD and Xilinx Stockholders Overwhelmingly Approve AMD’s Acquisition of Xilinx]]
+* TODO [[https://www.amd.com/en/press-releases/2021-04-07-amd-and-xilinx-stockholders-overwhelmingly-approve-amd-s-acquisition][AMD and Xilinx Stockholders Overwhelmingly Approve AMD's Acquisition of Xilinx]]
 :PROPERTIES:
 :CREATED: [2021-04-08 02:50]
 :END:
@@ -5076,7 +5076,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-04-09 16:21]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/mnmg3f/who_are_some_good_thinkers_on_the_woke_side_of/][Who are some good thinkers on the &quot;woke&quot; side of the culture war?]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/mnmg3f/who_are_some_good_thinkers_on_the_woke_side_of/][Who are some good thinkers on the "woke" side of the culture war?]]
 :PROPERTIES:
 :CREATED: [2021-04-09 17:36]
 :END:
@@ -5104,7 +5104,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-04-10 18:01]
 :END:
-* TODO [[https://a16z.com/2021/03/29/active-trading/][“Buy and Hold” No More: The Resurgence of Active Trading]]
+* TODO [[https://a16z.com/2021/03/29/active-trading/]["Buy and Hold" No More: The Resurgence of Active Trading]]
 :PROPERTIES:
 :CREATED: [2021-04-10 18:54]
 :END:
@@ -5112,7 +5112,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-04-10 19:20]
 :END:
-* TODO [[https://benjiweber.co.uk/blog/2021/04/10/dont-hire-top-talent-hire-for-weaknesses/][Don’t hire top talent; hire for weaknesses]]
+* TODO [[https://benjiweber.co.uk/blog/2021/04/10/dont-hire-top-talent-hire-for-weaknesses/][Don't hire top talent; hire for weaknesses]]
 :PROPERTIES:
 :CREATED: [2021-04-10 19:41]
 :END:
@@ -5264,11 +5264,11 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-04-13 15:55]
 :END:
-* TODO [[https://www.lesswrong.com/posts/ixZLTmFfnKRbaStA5/book-review-a-thousand-brains-by-jeff-hawkins][Book Review: “A Thousand Brains” by Jeff Hawkins]]
+* TODO [[https://www.lesswrong.com/posts/ixZLTmFfnKRbaStA5/book-review-a-thousand-brains-by-jeff-hawkins][Book Review: "A Thousand Brains" by Jeff Hawkins]]
 :PROPERTIES:
 :CREATED: [2021-04-13 16:03]
 :END:
-* TODO [[https://www.cdc.gov/coronavirus/2019-ncov/vaccines/fully-vaccinated.html][When You’ve Been Fully Vaccinated]]
+* TODO [[https://www.cdc.gov/coronavirus/2019-ncov/vaccines/fully-vaccinated.html][When You've Been Fully Vaccinated]]
 :PROPERTIES:
 :CREATED: [2021-04-13 16:23]
 :END:
@@ -5276,7 +5276,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-04-13 16:31]
 :END:
-* TODO [[http://www.talyarkoni.org/blog/2010/07/07/What-the-Dunning-Kruger-effect-Is-and-Isnt/][What the Dunning-Kruger effect is and isn’t]]
+* TODO [[http://www.talyarkoni.org/blog/2010/07/07/What-the-Dunning-Kruger-effect-Is-and-Isnt/][What the Dunning-Kruger effect is and isn't]]
 :PROPERTIES:
 :CREATED: [2021-04-13 17:55]
 :END:
@@ -5284,7 +5284,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-04-13 21:40]
 :END:
-* TODO [[https://www.scientificamerican.com/article/we-are-living-in-a-climate-emergency-and-were-going-to-say-so/][We Are Living in a Climate Emergency, and We’re Going to Say So]]
+* TODO [[https://www.scientificamerican.com/article/we-are-living-in-a-climate-emergency-and-were-going-to-say-so/][We Are Living in a Climate Emergency, and We're Going to Say So]]
 :PROPERTIES:
 :CREATED: [2021-04-13 22:10]
 :END:
@@ -5292,7 +5292,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-04-14 02:26]
 :END:
-* TODO [[https://decrypt.co/66411/cia-bitcoin-surveillance][Bitcoin is a ‘boon for surveillance’, says former CIA director]]
+* TODO [[https://decrypt.co/66411/cia-bitcoin-surveillance][Bitcoin is a 'boon for surveillance', says former CIA director]]
 :PROPERTIES:
 :CREATED: [2021-04-14 04:15]
 :END:
@@ -5356,7 +5356,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-04-15 10:49]
 :END:
-* TODO [[https://nymag.com/intelligencer/2021/04/nft-future-of-money.html][There’s Nothing to Do Except Gamble]]
+* TODO [[https://nymag.com/intelligencer/2021/04/nft-future-of-money.html][There's Nothing to Do Except Gamble]]
 :PROPERTIES:
 :CREATED: [2021-04-15 11:03]
 :END:
@@ -5364,7 +5364,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-04-15 12:19]
 :END:
-* TODO [[https://twitter.com/rmac18/status/1382366931307565057][A Facebook content moderator’s resignation note]]
+* TODO [[https://twitter.com/rmac18/status/1382366931307565057][A Facebook content moderator's resignation note]]
 :PROPERTIES:
 :CREATED: [2021-04-15 12:57]
 :END:
@@ -5404,11 +5404,11 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-04-16 11:01]
 :END:
-* TODO [[https://current.org/2015/06/a-top-audio-engineer-explains-nprs-signature-sound/][A top audio engineer explains NPR’s signature sound (2015)]]
+* TODO [[https://current.org/2015/06/a-top-audio-engineer-explains-nprs-signature-sound/][A top audio engineer explains NPR's signature sound (2015)]]
 :PROPERTIES:
 :CREATED: [2021-04-16 11:39]
 :END:
-* TODO [[https://federalnewsnetwork.com/workforce/2021/04/sba-executives-beyond-doubt-that-teleworking-employees-are-more-productive/][SBA executives ‘beyond doubt’ that teleworking employees are more productive]]
+* TODO [[https://federalnewsnetwork.com/workforce/2021/04/sba-executives-beyond-doubt-that-teleworking-employees-are-more-productive/][SBA executives 'beyond doubt' that teleworking employees are more productive]]
 :PROPERTIES:
 :CREATED: [2021-04-16 11:52]
 :END:
@@ -5460,7 +5460,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-04-17 22:00]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/mt5nea/teaching_algebra_i_by_edrealist_2012_i_wake_up/][&quot;Teaching Algebra I&quot; by EdRealist (2012): &quot;I wake up each day grateful that I'm not teaching algebra I. No class is designed more perfectly to slap you in the face with the insane inadequacies of our educational policy.&quot;]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/mt5nea/teaching_algebra_i_by_edrealist_2012_i_wake_up/]["Teaching Algebra I" by EdRealist (2012): "I wake up each day grateful that I'm not teaching algebra I. No class is designed more perfectly to slap you in the face with the insane inadequacies of our educational policy."]]
 :PROPERTIES:
 :CREATED: [2021-04-18 03:57]
 :END:
@@ -5496,7 +5496,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-04-19 10:08]
 :END:
-* TODO [[https://www.theringer.com/tv/2018/7/9/17544220/serial-experiments-lain-anime-20-years][The terrifyingly prescient ‘Serial Experiments Lain,’ 20 years later (2018)]]
+* TODO [[https://www.theringer.com/tv/2018/7/9/17544220/serial-experiments-lain-anime-20-years][The terrifyingly prescient 'Serial Experiments Lain,' 20 years later (2018)]]
 :PROPERTIES:
 :CREATED: [2021-04-19 15:03]
 :END:
@@ -5504,7 +5504,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-04-19 19:49]
 :END:
-* TODO [[https://zackkanter.com/2016/01/13/you-are-not-behind/][You Are Not ‘Behind’ (2016)]]
+* TODO [[https://zackkanter.com/2016/01/13/you-are-not-behind/][You Are Not 'Behind' (2016)]]
 :PROPERTIES:
 :CREATED: [2021-04-19 22:48]
 :END:
@@ -5516,7 +5516,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-04-20 04:47]
 :END:
-* TODO [[https://www.economist.com/leaders/2020/01/16/home-ownership-is-the-wests-biggest-economic-policy-mistake][Home ownership is the West’s biggest economic-policy mistake]]
+* TODO [[https://www.economist.com/leaders/2020/01/16/home-ownership-is-the-wests-biggest-economic-policy-mistake][Home ownership is the West's biggest economic-policy mistake]]
 :PROPERTIES:
 :CREATED: [2021-04-20 05:58]
 :END:
@@ -5532,7 +5532,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-04-20 21:15]
 :END:
-* TODO [[https://cobylefko.medium.com/no-were-not-in-a-bubble-f6bc44b960dd][Making sense of what’s going on in the housing market]]
+* TODO [[https://cobylefko.medium.com/no-were-not-in-a-bubble-f6bc44b960dd][Making sense of what's going on in the housing market]]
 :PROPERTIES:
 :CREATED: [2021-04-21 14:39]
 :END:
@@ -5540,7 +5540,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-04-21 15:49]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/mvs0vf/what_books_are_for_a_response_to_why_books_dont/][What books are for: a response to &quot;Why books don't work.&quot;]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/mvs0vf/what_books_are_for_a_response_to_why_books_dont/][What books are for: a response to "Why books don't work."]]
 :PROPERTIES:
 :CREATED: [2021-04-21 23:14]
 :END:
@@ -5696,7 +5696,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-04-29 12:15]
 :END:
-* TODO [[https://research.google/pubs/pub48190/][Zanzibar: Google’s Consistent, Global Authorization System]]
+* TODO [[https://research.google/pubs/pub48190/][Zanzibar: Google's Consistent, Global Authorization System]]
 :PROPERTIES:
 :CREATED: [2021-04-29 12:25]
 :END:
@@ -5704,7 +5704,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-04-29 12:41]
 :END:
-* TODO [[https://news.ycombinator.com/item?id=26981166][Ask HN: Who doesn’t want to go back to the office?]]
+* TODO [[https://news.ycombinator.com/item?id=26981166][Ask HN: Who doesn't want to go back to the office?]]
 :PROPERTIES:
 :CREATED: [2021-04-29 13:53]
 :END:
@@ -5764,7 +5764,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-05-01 15:20]
 :END:
-* TODO [[https://kislayverma.com/programming/why-programmers-dont-write-documentation/][Why programmers don’t write documentation]]
+* TODO [[https://kislayverma.com/programming/why-programmers-dont-write-documentation/][Why programmers don't write documentation]]
 :PROPERTIES:
 :CREATED: [2021-05-01 15:35]
 :END:
@@ -5804,7 +5804,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-05-03 23:30]
 :END:
-* TODO [[https://gijn.org/2021/02/09/tracking-dark-ships-with-new-satellite-technology/][Tracking “Dark Ships” with New Satellite Technology]]
+* TODO [[https://gijn.org/2021/02/09/tracking-dark-ships-with-new-satellite-technology/][Tracking "Dark Ships" with New Satellite Technology]]
 :PROPERTIES:
 :CREATED: [2021-05-04 10:59]
 :END:
@@ -5904,7 +5904,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-05-07 20:47]
 :END:
-* TODO [[https://www.theguardian.com/lifeandstyle/2021/apr/16/experience-ive-had-the-same-supper-for-10-years][I’ve had the same supper for 10 years]]
+* TODO [[https://www.theguardian.com/lifeandstyle/2021/apr/16/experience-ive-had-the-same-supper-for-10-years][I've had the same supper for 10 years]]
 :PROPERTIES:
 :CREATED: [2021-05-08 00:42]
 :END:
@@ -5952,7 +5952,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-05-09 17:16]
 :END:
-* TODO [[https://www.latimes.com/opinion/la-xpm-2012-jul-13-la-ol-blowback-pscyhology-science-20120713-story.html][Why psychology isn’t science (2012)]]
+* TODO [[https://www.latimes.com/opinion/la-xpm-2012-jul-13-la-ol-blowback-pscyhology-science-20120713-story.html][Why psychology isn't science (2012)]]
 :PROPERTIES:
 :CREATED: [2021-05-09 20:15]
 :END:
@@ -6012,7 +6012,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-05-11 14:55]
 :END:
-* TODO [[https://www.betteroutcomes.xyz/how-to-know-if-that-idea-person-will-succeed-in-your-small-business/][Why “Idea” People Are Risky and What to Do About It]]
+* TODO [[https://www.betteroutcomes.xyz/how-to-know-if-that-idea-person-will-succeed-in-your-small-business/][Why "Idea" People Are Risky and What to Do About It]]
 :PROPERTIES:
 :CREATED: [2021-05-11 15:17]
 :END:
@@ -6056,7 +6056,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-05-12 18:12]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/nax3zr/steelmanning_and_interpretive_charity/][&quot;Steelmanning&quot; and Interpretive Charity]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/nax3zr/steelmanning_and_interpretive_charity/]["Steelmanning" and Interpretive Charity]]
 :PROPERTIES:
 :CREATED: [2021-05-12 19:26]
 :END:
@@ -6068,7 +6068,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-05-13 02:44]
 :END:
-* TODO [[https://www.theguardian.com/environment/2021/may/13/pfas-forever-chemicals-breast-milk-us-study][Study finds alarming levels of ‘forever chemicals’ in US mothers’ breast milk]]
+* TODO [[https://www.theguardian.com/environment/2021/may/13/pfas-forever-chemicals-breast-milk-us-study][Study finds alarming levels of 'forever chemicals' in US mothers' breast milk]]
 :PROPERTIES:
 :CREATED: [2021-05-13 07:28]
 :END:
@@ -6144,7 +6144,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-05-15 02:56]
 :END:
-* TODO [[https://en.wikipedia.org/wiki/Bush_hid_the_facts][“Bush Hid the Facts”]]
+* TODO [[https://en.wikipedia.org/wiki/Bush_hid_the_facts]["Bush Hid the Facts"]]
 :PROPERTIES:
 :CREATED: [2021-05-15 04:22]
 :END:
@@ -6168,15 +6168,15 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-05-17 06:21]
 :END:
-* TODO [[https://sparktoro.com/blog/the-marketing-is-evil-problem/][The “Marketing Is Evil” Problem]]
+* TODO [[https://sparktoro.com/blog/the-marketing-is-evil-problem/][The "Marketing Is Evil" Problem]]
 :PROPERTIES:
 :CREATED: [2021-05-17 07:56]
 :END:
-* TODO [[https://arstechnica.com/tech-policy/2018/04/curing-disease-not-a-sustainable-business-model-goldman-sachs-analysts-say/][“Is curing patients a sustainable business model?” asks Goldman Sachs (2018)]]
+* TODO [[https://arstechnica.com/tech-policy/2018/04/curing-disease-not-a-sustainable-business-model-goldman-sachs-analysts-say/]["Is curing patients a sustainable business model?" asks Goldman Sachs (2018)]]
 :PROPERTIES:
 :CREATED: [2021-05-17 14:52]
 :END:
-* TODO [[https://www.cnbc.com/2021/05/17/michael-burry-of-the-big-short-reveals-a-530-million-bet-against-tesla.html][Michael Burry of ‘The Big Short’ reveals a $530M bet against Tesla]]
+* TODO [[https://www.cnbc.com/2021/05/17/michael-burry-of-the-big-short-reveals-a-530-million-bet-against-tesla.html][Michael Burry of 'The Big Short' reveals a $530M bet against Tesla]]
 :PROPERTIES:
 :CREATED: [2021-05-17 18:28]
 :END:
@@ -6188,7 +6188,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-05-18 02:40]
 :END:
-* TODO [[https://news.ycombinator.com/item?id=27192884][Ask HN: Desperately need “sales for nerds” advice]]
+* TODO [[https://news.ycombinator.com/item?id=27192884][Ask HN: Desperately need "sales for nerds" advice]]
 :PROPERTIES:
 :CREATED: [2021-05-18 10:04]
 :END:
@@ -6232,7 +6232,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-05-19 15:41]
 :END:
-* TODO [[https://9to5google.com/2021/05/19/chrome-follow-rss-feed/][Chrome testing RSS-powered ‘Follow’ button]]
+* TODO [[https://9to5google.com/2021/05/19/chrome-follow-rss-feed/][Chrome testing RSS-powered 'Follow' button]]
 :PROPERTIES:
 :CREATED: [2021-05-19 16:25]
 :END:
@@ -6404,11 +6404,11 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-05-27 08:25]
 :END:
-* TODO [[https://www.theatlantic.com/ideas/archive/2021/05/chinese-lab-leak-hypothesis-coronavirus/619000/][If the Lab-Leak Theory Is Right, What’s Next?]]
+* TODO [[https://www.theatlantic.com/ideas/archive/2021/05/chinese-lab-leak-hypothesis-coronavirus/619000/][If the Lab-Leak Theory Is Right, What's Next?]]
 :PROPERTIES:
 :CREATED: [2021-05-27 10:58]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/nm508h/how_do_you_rewire_you_brain_from_automatically/][How do you rewire you brain from automatically thinking I’ll be happy WHEN xyz, to Í’ll be happy NOW..?]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/nm508h/how_do_you_rewire_you_brain_from_automatically/][How do you rewire you brain from automatically thinking I'll be happy WHEN xyz, to Í'll be happy NOW..?]]
 :PROPERTIES:
 :CREATED: [2021-05-27 11:08]
 :END:
@@ -6420,7 +6420,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-05-27 16:45]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/nmcx6m/looking_for_volunteers_to_test_the_yesno_debate/][Looking for volunteers to test the &quot;Yes/no debate&quot; strategy]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/nmcx6m/looking_for_volunteers_to_test_the_yesno_debate/][Looking for volunteers to test the "Yes/no debate" strategy]]
 :PROPERTIES:
 :CREATED: [2021-05-27 17:39]
 :END:
@@ -6460,7 +6460,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-05-28 17:02]
 :END:
-* TODO [[https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0560][Court rules climate change “duty of care” to future generations exists]]
+* TODO [[https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0560][Court rules climate change "duty of care" to future generations exists]]
 :PROPERTIES:
 :CREATED: [2021-05-28 18:04]
 :END:
@@ -6508,7 +6508,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-05-30 02:12]
 :END:
-* TODO [[https://quoteinvestigator.com/2021/04/02/computer-science/][“Computer science is not about computers”]]
+* TODO [[https://quoteinvestigator.com/2021/04/02/computer-science/]["Computer science is not about computers"]]
 :PROPERTIES:
 :CREATED: [2021-05-30 03:39]
 :END:
@@ -6552,11 +6552,11 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-05-31 11:43]
 :END:
-* TODO [[https://onezero.medium.com/the-document-metaphor-desktop-gui-doesnt-work-anymore-d276271bfa40][Rethinking the computer ‘desktop’ as a concept]]
+* TODO [[https://onezero.medium.com/the-document-metaphor-desktop-gui-doesnt-work-anymore-d276271bfa40][Rethinking the computer 'desktop' as a concept]]
 :PROPERTIES:
 :CREATED: [2021-05-31 13:47]
 :END:
-* TODO [[https://thebigtech.substack.com/p/googles-new-popup-will-further-weaken][Google’s new popup will further weaken Facebook’s advertisement business]]
+* TODO [[https://thebigtech.substack.com/p/googles-new-popup-will-further-weaken][Google's new popup will further weaken Facebook's advertisement business]]
 :PROPERTIES:
 :CREATED: [2021-05-31 14:50]
 :END:
@@ -6568,7 +6568,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-05-31 18:50]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/npbhrt/analyzing_g%C3%B6dels_incompleteness_theorem/][Analyzing Gödel’s Incompleteness Theorem]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/npbhrt/analyzing_g%C3%B6dels_incompleteness_theorem/][Analyzing Gödel's Incompleteness Theorem]]
 :PROPERTIES:
 :CREATED: [2021-05-31 19:38]
 :END:
@@ -6592,7 +6592,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-06-01 01:34]
 :END:
-* TODO [[https://www.theglobeandmail.com/politics/article-new-report-details-beijings-foreign-influence-operations-in-canada/][New report details Beijing’s foreign influence operations in Canada]]
+* TODO [[https://www.theglobeandmail.com/politics/article-new-report-details-beijings-foreign-influence-operations-in-canada/][New report details Beijing's foreign influence operations in Canada]]
 :PROPERTIES:
 :CREATED: [2021-06-01 02:10]
 :END:
@@ -6612,7 +6612,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-06-01 13:17]
 :END:
-* TODO [[https://www.theatlantic.com/ideas/archive/2021/05/post-pandemic-dont-want-to-reenter-society/619045/][I’m Not Scared to Reenter Society. I’m Just Not Sure I Want To]]
+* TODO [[https://www.theatlantic.com/ideas/archive/2021/05/post-pandemic-dont-want-to-reenter-society/619045/][I'm Not Scared to Reenter Society. I'm Just Not Sure I Want To]]
 :PROPERTIES:
 :CREATED: [2021-06-01 13:21]
 :END:
@@ -6648,7 +6648,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-06-02 13:30]
 :END:
-* TODO [[https://www.thedrive.com/the-war-zone/40756/new-details-emerge-on-the-highly-modified-drone-that-outran-police-helicopters-over-tucson][New Details Emerge on the “Highly Modified Drone” That Outran Police Helicopters]]
+* TODO [[https://www.thedrive.com/the-war-zone/40756/new-details-emerge-on-the-highly-modified-drone-that-outran-police-helicopters-over-tucson][New Details Emerge on the "Highly Modified Drone" That Outran Police Helicopters]]
 :PROPERTIES:
 :CREATED: [2021-06-02 13:34]
 :END:
@@ -6692,7 +6692,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-06-03 20:53]
 :END:
-* TODO [[https://www.vanityfair.com/news/2021/06/the-lab-leak-theory-inside-the-fight-to-uncover-covid-19s-origins][The lab-leak theory: inside the fight to uncover Covid-19’s origins]]
+* TODO [[https://www.vanityfair.com/news/2021/06/the-lab-leak-theory-inside-the-fight-to-uncover-covid-19s-origins][The lab-leak theory: inside the fight to uncover Covid-19's origins]]
 :PROPERTIES:
 :CREATED: [2021-06-03 23:07]
 :END:
@@ -6752,7 +6752,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-06-05 23:37]
 :END:
-* TODO [[https://meetryanflowers.com/that-wont-work/][&ldquo;That Won't Work&rdquo;]]
+* TODO [[https://meetryanflowers.com/that-wont-work/]["That Won't Work"]]
 :PROPERTIES:
 :CREATED: [2021-06-05 23:45]
 :END:
@@ -6764,7 +6764,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-06-06 05:56]
 :END:
-* TODO [[https://onlinelibrary.wiley.com/doi/10.1002/bies.202100041][Modern cities modelled as “super-cells” rather than multicellular organisms]]
+* TODO [[https://onlinelibrary.wiley.com/doi/10.1002/bies.202100041][Modern cities modelled as "super-cells" rather than multicellular organisms]]
 :PROPERTIES:
 :CREATED: [2021-06-06 06:22]
 :END:
@@ -6796,7 +6796,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-06-06 19:28]
 :END:
-* TODO [[https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=%22why%20not%20simply%22&sort=byPopularity&type=comment][HN “Why Not Simply”]]
+* TODO [[https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=%22why%20not%20simply%22&sort=byPopularity&type=comment][HN "Why Not Simply"]]
 :PROPERTIES:
 :CREATED: [2021-06-06 19:46]
 :END:
@@ -6820,7 +6820,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-06-07 02:16]
 :END:
-* TODO [[https://justsimply.dev/][If someone’s having to read your docs, it’s not “simple”]]
+* TODO [[https://justsimply.dev/][If someone's having to read your docs, it's not "simple"]]
 :PROPERTIES:
 :CREATED: [2021-06-07 03:04]
 :END:
@@ -6828,7 +6828,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-06-07 05:14]
 :END:
-* TODO [[https://aninjusticemag.com/were-all-paying-for-someone-else-s-4-hour-work-week-not-ours-68b2168af55?gi=f8725c21cb1b][We’re All Paying for Someone Else’s 4-Hour Work Week, Not Ours]]
+* TODO [[https://aninjusticemag.com/were-all-paying-for-someone-else-s-4-hour-work-week-not-ours-68b2168af55?gi=f8725c21cb1b][We're All Paying for Someone Else's 4-Hour Work Week, Not Ours]]
 :PROPERTIES:
 :CREATED: [2021-06-07 11:10]
 :END:
@@ -6836,7 +6836,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-06-07 13:05]
 :END:
-* TODO [[https://statmodeling.stat.columbia.edu/2021/06/07/ai-promised-to-revolutionize-radiology-but-so-far-its-failing/][“AI promised to revolutionize radiology but so far its failing”]]
+* TODO [[https://statmodeling.stat.columbia.edu/2021/06/07/ai-promised-to-revolutionize-radiology-but-so-far-its-failing/]["AI promised to revolutionize radiology but so far its failing"]]
 :PROPERTIES:
 :CREATED: [2021-06-07 13:53]
 :END:
@@ -6852,7 +6852,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-06-08 09:53]
 :END:
-* TODO [[http://paulgraham.com/own.html][A Project of One’s Own]]
+* TODO [[http://paulgraham.com/own.html][A Project of One's Own]]
 :PROPERTIES:
 :CREATED: [2021-06-08 10:36]
 :END:
@@ -6864,7 +6864,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-06-08 12:36]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/nv566d/a_project_of_ones_own_paul_graham/][A Project of One’s Own - Paul Graham]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/nv566d/a_project_of_ones_own_paul_graham/][A Project of One's Own - Paul Graham]]
 :PROPERTIES:
 :CREATED: [2021-06-08 14:22]
 :END:
@@ -6876,7 +6876,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-06-08 16:12]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/nv9fza/many_people_have_a_vivid_minds_eye_while_others/][&quot;Many People Have a Vivid ‘Mind’s Eye,’ While Others Have None at All: Scientists are finding new ways to probe two not-so-rare conditions to better understand the links between vision, perception and memory&quot; (review of recent research on aphantasia/hyperphantasia)]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/nv9fza/many_people_have_a_vivid_minds_eye_while_others/]["Many People Have a Vivid 'Mind's Eye,' While Others Have None at All: Scientists are finding new ways to probe two not-so-rare conditions to better understand the links between vision, perception and memory" (review of recent research on aphantasia/hyperphantasia)]]
 :PROPERTIES:
 :CREATED: [2021-06-08 17:25]
 :END:
@@ -6936,7 +6936,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-06-10 03:00]
 :END:
-* TODO [[https://venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai/][DeepMind says reinforcement learning is ‘enough’ to reach general AI]]
+* TODO [[https://venturebeat.com/2021/06/09/deepmind-says-reinforcement-learning-is-enough-to-reach-general-ai/][DeepMind says reinforcement learning is 'enough' to reach general AI]]
 :PROPERTIES:
 :CREATED: [2021-06-10 03:18]
 :END:
@@ -6988,7 +6988,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-06-11 18:43]
 :END:
-* TODO [[https://www.seattletimes.com/life/food-drink/j-kenji-lopez-alt-is-seattles-most-powerful-food-influencer-and-its-most-reluctant-one/][J. Kenji López-Alt is Seattle’s reluctant powerful food influencer]]
+* TODO [[https://www.seattletimes.com/life/food-drink/j-kenji-lopez-alt-is-seattles-most-powerful-food-influencer-and-its-most-reluctant-one/][J. Kenji López-Alt is Seattle's reluctant powerful food influencer]]
 :PROPERTIES:
 :CREATED: [2021-06-11 21:06]
 :END:
@@ -6996,7 +6996,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-06-11 23:30]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/nxw0ce/dont_waffle_give_a_simple_answer/][&quot;Don't waffle, give a '''simple''' answer.&quot;]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/nxw0ce/dont_waffle_give_a_simple_answer/]["Don't waffle, give a '''simple''' answer."]]
 :PROPERTIES:
 :CREATED: [2021-06-12 02:04]
 :END:
@@ -7056,7 +7056,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-06-13 13:21]
 :END:
-* TODO [[https://twitter.com/EricRWeinstein/status/1403915244473253893][“YouTube is shutting down dissenting Biology PhDs and MDs”]]
+* TODO [[https://twitter.com/EricRWeinstein/status/1403915244473253893]["YouTube is shutting down dissenting Biology PhDs and MDs"]]
 :PROPERTIES:
 :CREATED: [2021-06-13 16:36]
 :END:
@@ -7132,7 +7132,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-06-16 14:27]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/o17ug8/where_is_the_evidence_for_evidence_based_therapy/][&quot;Where is the evidence for Evidence Based Therapy?&quot; from Jonathan Shedler PhD]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/o17ug8/where_is_the_evidence_for_evidence_based_therapy/]["Where is the evidence for Evidence Based Therapy?" from Jonathan Shedler PhD]]
 :PROPERTIES:
 :CREATED: [2021-06-16 15:42]
 :END:
@@ -7164,7 +7164,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-06-17 22:49]
 :END:
-* TODO [[https://www.sicpers.info/2021/06/there-is-no-us-in-team/][There is no “us” in team]]
+* TODO [[https://www.sicpers.info/2021/06/there-is-no-us-in-team/][There is no "us" in team]]
 :PROPERTIES:
 :CREATED: [2021-06-18 04:44]
 :END:
@@ -7176,7 +7176,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-06-18 19:29]
 :END:
-* TODO [[https://www.theatlantic.com/health/archive/2021/06/car-accident-brain-injury/619227/][I know the secret to the quiet mind but wish I’d never learned it]]
+* TODO [[https://www.theatlantic.com/health/archive/2021/06/car-accident-brain-injury/619227/][I know the secret to the quiet mind but wish I'd never learned it]]
 :PROPERTIES:
 :CREATED: [2021-06-18 20:31]
 :END:
@@ -7216,7 +7216,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-06-21 16:25]
 :END:
-* TODO [[https://www.nytimes.com/2021/06/21/technology/sundar-pichai-google.html][Google executives see cracks in their company’s success]]
+* TODO [[https://www.nytimes.com/2021/06/21/technology/sundar-pichai-google.html][Google executives see cracks in their company's success]]
 :PROPERTIES:
 :CREATED: [2021-06-21 16:37]
 :END:
@@ -7272,7 +7272,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-06-22 22:48]
 :END:
-* TODO [[https://thehustle.co/self-made-myth-luck-versus-hard-work/][The “self-made” myth: Why hard work isn’t enough to reach the top]]
+* TODO [[https://thehustle.co/self-made-myth-luck-versus-hard-work/][The "self-made" myth: Why hard work isn't enough to reach the top]]
 :PROPERTIES:
 :CREATED: [2021-06-22 22:53]
 :END:
@@ -7336,7 +7336,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-06-26 00:06]
 :END:
-* TODO [[https://www.ribbonfarm.com/2021/04/08/heres-why-we-dont-understand-heavier-than-air-flight/][Why we don’t understand heavier-than-air flight]]
+* TODO [[https://www.ribbonfarm.com/2021/04/08/heres-why-we-dont-understand-heavier-than-air-flight/][Why we don't understand heavier-than-air flight]]
 :PROPERTIES:
 :CREATED: [2021-06-26 07:20]
 :END:
@@ -7344,7 +7344,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-06-26 07:20]
 :END:
-* TODO [[https://ognjen.io/reddits-disrespectful-design/][Reddit’s disrespectful design]]
+* TODO [[https://ognjen.io/reddits-disrespectful-design/][Reddit's disrespectful design]]
 :PROPERTIES:
 :CREATED: [2021-06-26 12:43]
 :END:
@@ -7400,7 +7400,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-06-28 21:39]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/o9zavv/can_someone_help_me_find_an_article_that_was_like/][Can someone help me find an article that was like “things you can buy” and it’s a list of things you can buy to improve your life, but more from a services perspective. Like hire someone to do this for you, buy this thing as a service, etc.]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/o9zavv/can_someone_help_me_find_an_article_that_was_like/][Can someone help me find an article that was like "things you can buy" and it's a list of things you can buy to improve your life, but more from a services perspective. Like hire someone to do this for you, buy this thing as a service, etc.]]
 :PROPERTIES:
 :CREATED: [2021-06-29 02:41]
 :END:
@@ -7476,7 +7476,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-07-01 19:38]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/obvgpl/highlights_from_the_comments_on_how_asia_works/][Highlights From The Comments On &quot;How Asia Works&quot;]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/obvgpl/highlights_from_the_comments_on_how_asia_works/][Highlights From The Comments On "How Asia Works"]]
 :PROPERTIES:
 :CREATED: [2021-07-01 21:17]
 :END:
@@ -7488,7 +7488,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-07-02 07:22]
 :END:
-* TODO [[https://www.bbc.com/worklife/article/20190204-how-to-find-your-flow-state-to-be-peak-creative][The ‘flow state’: Where creative work thrives (2019)]]
+* TODO [[https://www.bbc.com/worklife/article/20190204-how-to-find-your-flow-state-to-be-peak-creative][The 'flow state': Where creative work thrives (2019)]]
 :PROPERTIES:
 :CREATED: [2021-07-03 09:57]
 :END:
@@ -7532,7 +7532,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-07-04 20:30]
 :END:
-* TODO [[https://www.independent.co.uk/news/uk/politics/four-day-week-pilot-iceland-b1877171.html][World’s largest ever four day week trial in Iceland ‘overwhelming success’]]
+* TODO [[https://www.independent.co.uk/news/uk/politics/four-day-week-pilot-iceland-b1877171.html][World's largest ever four day week trial in Iceland 'overwhelming success']]
 :PROPERTIES:
 :CREATED: [2021-07-05 00:52]
 :END:
@@ -7540,7 +7540,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-07-05 04:46]
 :END:
-* TODO [[https://www.davidsongifted.org/gifted-blog/dabrowskis-theory-and-existential-depression-in-gifted-children-and-adults/][Dabrowski’s Theory and Existential Depression in Gifted People (2020)]]
+* TODO [[https://www.davidsongifted.org/gifted-blog/dabrowskis-theory-and-existential-depression-in-gifted-children-and-adults/][Dabrowski's Theory and Existential Depression in Gifted People (2020)]]
 :PROPERTIES:
 :CREATED: [2021-07-05 05:54]
 :END:
@@ -7556,7 +7556,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-07-05 16:41]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/oeci77/an_alternate_approach_to_improve_your_childrens_iq/][An alternate approach to improve your children’s IQ]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/oeci77/an_alternate_approach_to_improve_your_childrens_iq/][An alternate approach to improve your children's IQ]]
 :PROPERTIES:
 :CREATED: [2021-07-05 17:51]
 :END:
@@ -7576,7 +7576,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-07-06 08:47]
 :END:
-* TODO [[https://www.economist.com/finance-and-economics/2020/10/22/can-too-many-brainy-people-be-a-dangerous-thing][A theory that “elite overproduction” leads to political instability (2020)]]
+* TODO [[https://www.economist.com/finance-and-economics/2020/10/22/can-too-many-brainy-people-be-a-dangerous-thing][A theory that "elite overproduction" leads to political instability (2020)]]
 :PROPERTIES:
 :CREATED: [2021-07-06 11:33]
 :END:
@@ -7588,7 +7588,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-07-06 14:20]
 :END:
-* TODO [[https://e360.yale.edu/features/as-climate-warms-a-rearrangement-of-worlds-plant-life-looms][As climate warms, a rearrangement of world’s plant life looms]]
+* TODO [[https://e360.yale.edu/features/as-climate-warms-a-rearrangement-of-worlds-plant-life-looms][As climate warms, a rearrangement of world's plant life looms]]
 :PROPERTIES:
 :CREATED: [2021-07-06 17:16]
 :END:
@@ -7600,7 +7600,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-07-06 20:00]
 :END:
-* TODO [[https://www.cardiff.ac.uk/news/view/2530949-instant-water-cleaning-method-millions-of-times-better-than-commercial-approach][Instant water cleaning method ‘millions of times’ better: study]]
+* TODO [[https://www.cardiff.ac.uk/news/view/2530949-instant-water-cleaning-method-millions-of-times-better-than-commercial-approach][Instant water cleaning method 'millions of times' better: study]]
 :PROPERTIES:
 :CREATED: [2021-07-06 22:18]
 :END:
@@ -7624,7 +7624,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-07-07 17:23]
 :END:
-* TODO [[https://www.nasdaq.com/articles/an-interns-guide-to-trading-2021-07-01][An Intern’s Guide to Trading]]
+* TODO [[https://www.nasdaq.com/articles/an-interns-guide-to-trading-2021-07-01][An Intern's Guide to Trading]]
 :PROPERTIES:
 :CREATED: [2021-07-07 17:58]
 :END:
@@ -7708,11 +7708,11 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-07-11 16:30]
 :END:
-* TODO [[https://mattstoller.substack.com/p/biden-launches-sweeping-action-on][Biden launches action on "Big Tech, Big Pharma, and Big Ag" &ndash; can it be real?]]
+* TODO [[https://mattstoller.substack.com/p/biden-launches-sweeping-action-on][Biden launches action on "Big Tech, Big Pharma, and Big Ag" - can it be real?]]
 :PROPERTIES:
 :CREATED: [2021-07-11 18:22]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/oib51w/my_theory_about_why_some_high_achieving_students/][My &quot;theory&quot; about why some high achieving students procrastinate, curious if you've thought the same.]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/oib51w/my_theory_about_why_some_high_achieving_students/][My "theory" about why some high achieving students procrastinate, curious if you've thought the same.]]
 :PROPERTIES:
 :CREATED: [2021-07-11 19:41]
 :END:
@@ -7820,7 +7820,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-07-20 10:34]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/ooj0vu/highlights_from_the_comments_on_crazy_like_us/][Highlights From The Comments On &quot;Crazy Like Us&quot;]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/ooj0vu/highlights_from_the_comments_on_crazy_like_us/][Highlights From The Comments On "Crazy Like Us"]]
 :PROPERTIES:
 :CREATED: [2021-07-21 04:46]
 :END:
@@ -7900,7 +7900,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-07-26 04:46]
 :END:
-* TODO [[https://www.theguardian.com/us-news/2021/jul/24/america-heatwave-climate-crisis-heat-dome][US set for punishing temperatures as ‘heat dome’ to settle over country]]
+* TODO [[https://www.theguardian.com/us-news/2021/jul/24/america-heatwave-climate-crisis-heat-dome][US set for punishing temperatures as 'heat dome' to settle over country]]
 :PROPERTIES:
 :CREATED: [2021-07-26 05:28]
 :END:
@@ -7936,11 +7936,11 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-07-28 17:56]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/otg47d/does_x_cause_y_an_indepth_evidence_review/][“Does X cause Y? An in-depth evidence review”]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/otg47d/does_x_cause_y_an_indepth_evidence_review/]["Does X cause Y? An in-depth evidence review"]]
 :PROPERTIES:
 :CREATED: [2021-07-28 18:40]
 :END:
-* TODO [[http://yosefk.com/blog/evil-tip-avoid-easy-things.html][Evil programmer's tip: avoid &ldquo;easy&rdquo; things (2016)]]
+* TODO [[http://yosefk.com/blog/evil-tip-avoid-easy-things.html][Evil programmer's tip: avoid "easy" things (2016)]]
 :PROPERTIES:
 :CREATED: [2021-07-28 19:08]
 :END:
@@ -7972,7 +7972,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-07-29 11:03]
 :END:
-* TODO [[https://www.theguardian.com/us-news/2021/jul/29/eviction-moratorium-expiration-renters][US states brace for ‘avalanche’ of evictions as federal moratorium ends]]
+* TODO [[https://www.theguardian.com/us-news/2021/jul/29/eviction-moratorium-expiration-renters][US states brace for 'avalanche' of evictions as federal moratorium ends]]
 :PROPERTIES:
 :CREATED: [2021-07-29 16:26]
 :END:
@@ -7988,7 +7988,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-07-30 13:13]
 :END:
-* TODO [[https://www.wired.com/story/to-do-apps-failed-productivity-tools/][We Still Don’t Get Things Done]]
+* TODO [[https://www.wired.com/story/to-do-apps-failed-productivity-tools/][We Still Don't Get Things Done]]
 :PROPERTIES:
 :CREATED: [2021-07-30 18:16]
 :END:
@@ -8084,7 +8084,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-08-04 17:15]
 :END:
-* TODO [[https://undark.org/2019/07/18/science-of-eggs/][The humble egg is an example of what’s wrong with nutrition studies (2019)]]
+* TODO [[https://undark.org/2019/07/18/science-of-eggs/][The humble egg is an example of what's wrong with nutrition studies (2019)]]
 :PROPERTIES:
 :CREATED: [2021-08-04 18:14]
 :END:
@@ -8100,7 +8100,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-08-05 12:00]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/oykvob/aesthetics_wiki_list_of_aesthetics_from_synthwave/][Aesthetics Wiki: List of Aesthetics. From synthwave to grandparentcore to dark academia to 1950’s suburbia]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/oykvob/aesthetics_wiki_list_of_aesthetics_from_synthwave/][Aesthetics Wiki: List of Aesthetics. From synthwave to grandparentcore to dark academia to 1950's suburbia]]
 :PROPERTIES:
 :CREATED: [2021-08-05 15:34]
 :END:
@@ -8156,7 +8156,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-08-07 18:43]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/ozyw5b/tortured_phrases_indicative_of_gptgenerated_text/][&quot;Tortured phrases&quot; indicative of GPT-generated text found in 860 papers, 500 of which where in the journal Microprocessors and Microsystems]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/ozyw5b/tortured_phrases_indicative_of_gptgenerated_text/]["Tortured phrases" indicative of GPT-generated text found in 860 papers, 500 of which where in the journal Microprocessors and Microsystems]]
 :PROPERTIES:
 :CREATED: [2021-08-07 18:45]
 :END:
@@ -8168,7 +8168,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-08-08 15:50]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/p0ovo2/against_blankfaces/][Against &quot;blankfaces&quot;]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/p0ovo2/against_blankfaces/][Against "blankfaces"]]
 :PROPERTIES:
 :CREATED: [2021-08-08 22:51]
 :END:
@@ -8228,7 +8228,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-08-11 21:13]
 :END:
-* TODO [[https://nianticlabs.com/blog/real-world-metaverse/][The metaverse is a dystopian nightmare – let’s build a better reality]]
+* TODO [[https://nianticlabs.com/blog/real-world-metaverse/][The metaverse is a dystopian nightmare – let's build a better reality]]
 :PROPERTIES:
 :CREATED: [2021-08-11 21:47]
 :END:
@@ -8272,7 +8272,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-08-13 00:00]
 :END:
-* TODO [[https://www.sciencemag.org/news/2021/08/little-kids-burn-so-much-energy-they-re-different-species-study-finds][Little kids burn so much energy, they’re like a different species, study finds]]
+* TODO [[https://www.sciencemag.org/news/2021/08/little-kids-burn-so-much-energy-they-re-different-species-study-finds][Little kids burn so much energy, they're like a different species, study finds]]
 :PROPERTIES:
 :CREATED: [2021-08-13 01:28]
 :END:
@@ -8288,7 +8288,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-08-13 15:33]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/p3ny80/tried_sending_scotts_cbt_apps_essay_to_a_friend/][Tried sending Scott’s CBT apps essay to a friend on Facebook Messenger. Failed to deliver and FB showed me this message.]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/p3ny80/tried_sending_scotts_cbt_apps_essay_to_a_friend/][Tried sending Scott's CBT apps essay to a friend on Facebook Messenger. Failed to deliver and FB showed me this message.]]
 :PROPERTIES:
 :CREATED: [2021-08-13 16:00]
 :END:
@@ -8348,7 +8348,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-08-15 20:51]
 :END:
-* TODO [[https://www.bit-101.com/blog/2021/08/a-programmers-introduction-to-mathematics/][A Programmer’s Introduction to Mathematics]]
+* TODO [[https://www.bit-101.com/blog/2021/08/a-programmers-introduction-to-mathematics/][A Programmer's Introduction to Mathematics]]
 :PROPERTIES:
 :CREATED: [2021-08-16 12:05]
 :END:
@@ -8388,7 +8388,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-08-17 03:36]
 :END:
-* TODO [[https://www.benkuhn.net/hard/][You don’t need to work on hard problems (2020)]]
+* TODO [[https://www.benkuhn.net/hard/][You don't need to work on hard problems (2020)]]
 :PROPERTIES:
 :CREATED: [2021-08-17 07:00]
 :END:
@@ -8400,7 +8400,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-08-17 21:42]
 :END:
-* TODO [[https://www.economist.com/finance-and-economics/will-the-rich-worlds-worker-deficit-last/21803401][Will the rich world’s worker deficit last?]]
+* TODO [[https://www.economist.com/finance-and-economics/will-the-rich-worlds-worker-deficit-last/21803401][Will the rich world's worker deficit last?]]
 :PROPERTIES:
 :CREATED: [2021-08-17 22:44]
 :END:
@@ -8476,7 +8476,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-08-19 17:11]
 :END:
-* TODO [[https://jchyip.medium.com/why-its-difficult-to-build-teams-in-high-growth-organisations-e1aee8446337][Why it’s difficult to build teams in high growth organisations]]
+* TODO [[https://jchyip.medium.com/why-its-difficult-to-build-teams-in-high-growth-organisations-e1aee8446337][Why it's difficult to build teams in high growth organisations]]
 :PROPERTIES:
 :CREATED: [2021-08-19 20:12]
 :END:
@@ -8484,7 +8484,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-08-19 23:15]
 :END:
-* TODO [[https://www.overcomingbias.com/2021/08/what-is-elite-overproduction.html][What is ‘elite overproduction’?]]
+* TODO [[https://www.overcomingbias.com/2021/08/what-is-elite-overproduction.html][What is 'elite overproduction'?]]
 :PROPERTIES:
 :CREATED: [2021-08-19 23:17]
 :END:
@@ -8520,11 +8520,11 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-08-21 06:05]
 :END:
-* TODO [[https://www.thecut.com/article/i-dont-want-to-be-like-a-family-with-my-co-workers.html][I Don’t Want to Be Like a Family with My Co-Workers]]
+* TODO [[https://www.thecut.com/article/i-dont-want-to-be-like-a-family-with-my-co-workers.html][I Don't Want to Be Like a Family with My Co-Workers]]
 :PROPERTIES:
 :CREATED: [2021-08-21 10:24]
 :END:
-* TODO [[https://twitter.com/jowens510/status/1428415192480698371][Google's Secret Initiative &ndash; &ldquo;Project Hug&rdquo;]]
+* TODO [[https://twitter.com/jowens510/status/1428415192480698371][Google's Secret Initiative - "Project Hug"]]
 :PROPERTIES:
 :CREATED: [2021-08-21 10:28]
 :END:
@@ -8568,7 +8568,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-08-22 16:31]
 :END:
-* TODO [[https://pluralistic.net/2021/08/19/failure-cascades/#dirty-data][Machine learning’s crumbling foundations]]
+* TODO [[https://pluralistic.net/2021/08/19/failure-cascades/#dirty-data][Machine learning's crumbling foundations]]
 :PROPERTIES:
 :CREATED: [2021-08-22 16:43]
 :END:
@@ -8580,7 +8580,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-08-22 18:32]
 :END:
-* TODO [[https://www.cnbc.com/2021/08/23/fda-pfizer-biontech-covid-vaccine-wins-full-approval-clearing-path-to-mandates.html][FDA grants full approval to Pfizer-BioNTech’s Covid shot]]
+* TODO [[https://www.cnbc.com/2021/08/23/fda-pfizer-biontech-covid-vaccine-wins-full-approval-clearing-path-to-mandates.html][FDA grants full approval to Pfizer-BioNTech's Covid shot]]
 :PROPERTIES:
 :CREATED: [2021-08-23 13:49]
 :END:
@@ -8684,7 +8684,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-08-27 13:22]
 :END:
-* TODO [[https://www.nola.com/news/hurricane/article_a708d202-073b-11ec-9caa-0f909fa26fd7.html][Hurricane Ida could be close to Cat 4, dump up to 20“ of rain in S.E. Louisiana]]
+* TODO [[https://www.nola.com/news/hurricane/article_a708d202-073b-11ec-9caa-0f909fa26fd7.html][Hurricane Ida could be close to Cat 4, dump up to 20" of rain in S.E. Louisiana]]
 :PROPERTIES:
 :CREATED: [2021-08-27 16:09]
 :END:
@@ -8700,7 +8700,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-08-27 16:39]
 :END:
-* TODO [[https://www.economist.com/united-states/2021/08/28/why-san-franciscos-city-government-is-so-dysfunctional][Why San Francisco’s city government is so dysfunctional]]
+* TODO [[https://www.economist.com/united-states/2021/08/28/why-san-franciscos-city-government-is-so-dysfunctional][Why San Francisco's city government is so dysfunctional]]
 :PROPERTIES:
 :CREATED: [2021-08-27 21:41]
 :END:
@@ -8752,7 +8752,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-08-29 09:03]
 :END:
-* TODO [[https://www.theguardian.com/uk-news/2021/aug/28/seven-uk-workers-talk-about-travelling-work-commute-covid-pandemic][How the pandemic has affected people’s perspective on travelling to work]]
+* TODO [[https://www.theguardian.com/uk-news/2021/aug/28/seven-uk-workers-talk-about-travelling-work-commute-covid-pandemic][How the pandemic has affected people's perspective on travelling to work]]
 :PROPERTIES:
 :CREATED: [2021-08-29 09:37]
 :END:
@@ -8832,7 +8832,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-08-31 10:34]
 :END:
-* TODO [[https://news.ycombinator.com/item?id=28366644][Ask HN: Why don’t you use Linux as your daily driver OS?]]
+* TODO [[https://news.ycombinator.com/item?id=28366644][Ask HN: Why don't you use Linux as your daily driver OS?]]
 :PROPERTIES:
 :CREATED: [2021-08-31 11:44]
 :END:
@@ -8844,7 +8844,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-08-31 12:34]
 :END:
-* TODO [[https://www.theguardian.com/society/2021/aug/31/pfas-toxic-forever-chemicals-air-breathing][Toxic ‘forever chemicals’ contaminate indoor air at worrying levels]]
+* TODO [[https://www.theguardian.com/society/2021/aug/31/pfas-toxic-forever-chemicals-air-breathing][Toxic 'forever chemicals' contaminate indoor air at worrying levels]]
 :PROPERTIES:
 :CREATED: [2021-08-31 13:03]
 :END:
@@ -8956,7 +8956,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-09-03 13:30]
 :END:
-* TODO [[https://nursingclio.org/2021/08/12/youve-never-seen-the-opioid-crisis-like-this-before-a-review-of-empire-of-pain/][You’ve Never Seen the Opioid Crisis Like This Before: A Review of Empire of Pain]]
+* TODO [[https://nursingclio.org/2021/08/12/youve-never-seen-the-opioid-crisis-like-this-before-a-review-of-empire-of-pain/][You've Never Seen the Opioid Crisis Like This Before: A Review of Empire of Pain]]
 :PROPERTIES:
 :CREATED: [2021-09-03 15:07]
 :END:
@@ -8968,7 +8968,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-09-03 17:39]
 :END:
-* TODO [[https://technical.ly/2021/08/30/vacation-employee-burnout/][Vacation isn’t the answer to employee burnout]]
+* TODO [[https://technical.ly/2021/08/30/vacation-employee-burnout/][Vacation isn't the answer to employee burnout]]
 :PROPERTIES:
 :CREATED: [2021-09-03 20:45]
 :END:
@@ -8976,7 +8976,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-09-04 00:03]
 :END:
-* TODO [[https://www.economist.com/briefing/2021/09/04/how-did-american-wokeness-jump-from-elite-schools-to-everyday-life][How did American “wokeness” jump from elite schools to everyday life?]]
+* TODO [[https://www.economist.com/briefing/2021/09/04/how-did-american-wokeness-jump-from-elite-schools-to-everyday-life][How did American "wokeness" jump from elite schools to everyday life?]]
 :PROPERTIES:
 :CREATED: [2021-09-04 01:12]
 :END:
@@ -9004,7 +9004,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-09-04 16:48]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/phxcdt/meet_altos_labs_silicon_valleys_latest_wild_bet/][Meet Altos Labs, Silicon Valley’s latest wild bet on living forever]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/phxcdt/meet_altos_labs_silicon_valleys_latest_wild_bet/][Meet Altos Labs, Silicon Valley's latest wild bet on living forever]]
 :PROPERTIES:
 :CREATED: [2021-09-04 18:53]
 :END:
@@ -9056,7 +9056,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-09-07 00:06]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/pjgqth/why_some_people_choke_under_pressure/][Why some people &quot;choke&quot; under pressure?]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/pjgqth/why_some_people_choke_under_pressure/][Why some people "choke" under pressure?]]
 :PROPERTIES:
 :CREATED: [2021-09-07 05:31]
 :END:
@@ -9080,11 +9080,11 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-09-08 10:00]
 :END:
-* TODO [[https://randsinrepose.com/archives/ok-so-you-cant-decide/][Ok, so you can’t decide]]
+* TODO [[https://randsinrepose.com/archives/ok-so-you-cant-decide/][Ok, so you can't decide]]
 :PROPERTIES:
 :CREATED: [2021-09-08 13:52]
 :END:
-* TODO [[https://hbr.org/2018/02/if-youre-so-successful-why-are-you-still-working-70-hours-a-week][If You’re So Successful, Why Are You Still Working 70 Hours a Week?]]
+* TODO [[https://hbr.org/2018/02/if-youre-so-successful-why-are-you-still-working-70-hours-a-week][If You're So Successful, Why Are You Still Working 70 Hours a Week?]]
 :PROPERTIES:
 :CREATED: [2021-09-08 16:23]
 :END:
@@ -9136,7 +9136,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-09-11 05:13]
 :END:
-* TODO [[https://crazymarvin.com/to-dont/][To Don't &ndash; The reverse to-do list]]
+* TODO [[https://crazymarvin.com/to-dont/][To Don't - The reverse to-do list]]
 :PROPERTIES:
 :CREATED: [2021-09-11 10:13]
 :END:
@@ -9208,7 +9208,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-09-13 16:49]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/pnkhoa/someone_has_to_get_hurt_occasionally/][“Someone has to get hurt, occasionally”]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/pnkhoa/someone_has_to_get_hurt_occasionally/]["Someone has to get hurt, occasionally"]]
 :PROPERTIES:
 :CREATED: [2021-09-13 17:46]
 :END:
@@ -9232,7 +9232,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-09-14 05:47]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/po34wg/notes_on_scout_mindset_by_julia_galef/][Notes on &quot;Scout Mindset&quot; by Julia Galef]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/po34wg/notes_on_scout_mindset_by_julia_galef/][Notes on "Scout Mindset" by Julia Galef]]
 :PROPERTIES:
 :CREATED: [2021-09-14 13:48]
 :END:
@@ -9244,7 +9244,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-09-14 16:10]
 :END:
-* TODO [[https://www.bmj.com/content/374/bmj.n2101][Why doesn’t natural immunity count in the US?]]
+* TODO [[https://www.bmj.com/content/374/bmj.n2101][Why doesn't natural immunity count in the US?]]
 :PROPERTIES:
 :CREATED: [2021-09-14 18:15]
 :END:
@@ -9456,7 +9456,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-09-19 19:00]
 :END:
-* TODO [[https://www.politico.eu/article/germany-election-2021-rational-voting-wahl-o-mat-survey/][Germany’s no-emotion voting guide surges despite campaign of personalities]]
+* TODO [[https://www.politico.eu/article/germany-election-2021-rational-voting-wahl-o-mat-survey/][Germany's no-emotion voting guide surges despite campaign of personalities]]
 :PROPERTIES:
 :CREATED: [2021-09-20 06:16]
 :END:
@@ -9480,7 +9480,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-09-20 19:42]
 :END:
-* TODO [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC506782/][“A calorie is a calorie” violates the second law of thermodynamics (2004)]]
+* TODO [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC506782/]["A calorie is a calorie" violates the second law of thermodynamics (2004)]]
 :PROPERTIES:
 :CREATED: [2021-09-20 19:45]
 :END:
@@ -9564,11 +9564,11 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-09-26 20:28]
 :END:
-* TODO [[https://elenasalaks.medium.com/i-just-dont-want-to-be-busy-anymore-ac4dd37c8119][I just don’t want to be busy anymore]]
+* TODO [[https://elenasalaks.medium.com/i-just-dont-want-to-be-busy-anymore-ac4dd37c8119][I just don't want to be busy anymore]]
 :PROPERTIES:
 :CREATED: [2021-09-26 22:02]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/pw7j9d/how_do_you_spend_your_dead_time_productively/][How do you spend your &quot;dead&quot; time productively?]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/pw7j9d/how_do_you_spend_your_dead_time_productively/][How do you spend your "dead" time productively?]]
 :PROPERTIES:
 :CREATED: [2021-09-27 02:08]
 :END:
@@ -9580,11 +9580,11 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-09-27 22:02]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/pwrzyh/how_we_doubled_the_human_lifespan_from_35_to_70/][How we doubled the human lifespan from 35 to 70 in a century. - Interview with Steven Johnson author of &quot;Extra Life&quot;]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/pwrzyh/how_we_doubled_the_human_lifespan_from_35_to_70/][How we doubled the human lifespan from 35 to 70 in a century. - Interview with Steven Johnson author of "Extra Life"]]
 :PROPERTIES:
 :CREATED: [2021-09-27 22:15]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/pws3gu/how_to_discern_good_big_history_books_from_bad/][How to discern good &quot;big history&quot; books from bad ones?]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/pws3gu/how_to_discern_good_big_history_books_from_bad/][How to discern good "big history" books from bad ones?]]
 :PROPERTIES:
 :CREATED: [2021-09-27 22:20]
 :END:
@@ -9596,7 +9596,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-09-28 09:20]
 :END:
-* TODO [[https://www.economist.com/1843/2021/07/14/hell-is-other-people-a-monks-guide-to-office-life][Hell is other people: a monk’s guide to office life]]
+* TODO [[https://www.economist.com/1843/2021/07/14/hell-is-other-people-a-monks-guide-to-office-life][Hell is other people: a monk's guide to office life]]
 :PROPERTIES:
 :CREATED: [2021-09-28 10:50]
 :END:
@@ -9612,11 +9612,11 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-09-28 15:02]
 :END:
-* TODO [[https://scholars-stage.org/xi-jinpings-war-on-spontaneous-order/][Xi Jinping’s War on Spontaneous Order]]
+* TODO [[https://scholars-stage.org/xi-jinpings-war-on-spontaneous-order/][Xi Jinping's War on Spontaneous Order]]
 :PROPERTIES:
 :CREATED: [2021-09-28 20:10]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/pxg7cl/xi_jinpings_war_on_spontaneous_order_and_moloch/][Xi Jinping’s War on Spontaneous Order (and Moloch)]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/pxg7cl/xi_jinpings_war_on_spontaneous_order_and_moloch/][Xi Jinping's War on Spontaneous Order (and Moloch)]]
 :PROPERTIES:
 :CREATED: [2021-09-28 21:18]
 :END:
@@ -9664,7 +9664,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-09-30 10:41]
 :END:
-* TODO [[https://floverfelt.org/posts/software-best-practices.html][Are Software Engineering “best practices” just developer preferences?]]
+* TODO [[https://floverfelt.org/posts/software-best-practices.html][Are Software Engineering "best practices" just developer preferences?]]
 :PROPERTIES:
 :CREATED: [2021-09-30 13:59]
 :END:
@@ -9740,7 +9740,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-10-04 23:12]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/q1kgzb/im_a_parent_to_a_kindergartner_and_i_am/][I’m a parent to a kindergartner and I am unsatisfied with the curriculum materials the school provides for learning basic letters and reading. Any good books/guides out there you all recommend? Any favorite alternative learning methods?]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/q1kgzb/im_a_parent_to_a_kindergartner_and_i_am/][I'm a parent to a kindergartner and I am unsatisfied with the curriculum materials the school provides for learning basic letters and reading. Any good books/guides out there you all recommend? Any favorite alternative learning methods?]]
 :PROPERTIES:
 :CREATED: [2021-10-05 01:35]
 :END:
@@ -9852,7 +9852,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-10-08 08:58]
 :END:
-* TODO [[https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/][Things I’ve Learned in my 20 Years as a Software Engineer]]
+* TODO [[https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/][Things I've Learned in my 20 Years as a Software Engineer]]
 :PROPERTIES:
 :CREATED: [2021-10-08 10:04]
 :END:
@@ -9872,7 +9872,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-10-08 18:26]
 :END:
-* TODO [[https://www.lesswrong.com/posts/JzJcgsKBf35FeuZSD/eating-dirt-benefits-kids-is-basically-made-up][“Eating Dirt Benefits Kids” is Basically Made Up]]
+* TODO [[https://www.lesswrong.com/posts/JzJcgsKBf35FeuZSD/eating-dirt-benefits-kids-is-basically-made-up]["Eating Dirt Benefits Kids" is Basically Made Up]]
 :PROPERTIES:
 :CREATED: [2021-10-08 19:00]
 :END:
@@ -9880,7 +9880,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-10-08 20:57]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/q47u9b/a_new_way_to_be_mad_the_phenomenon_is_not_as_rare/][&quot;A New Way to Be Mad: The phenomenon is not as rare as one might think: healthy people deliberately setting out to rid themselves of one or more of their limbs...Why do pathologies sometimes arise as if from nowhere? Can the mere description of a condition make it contagious?&quot;]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/q47u9b/a_new_way_to_be_mad_the_phenomenon_is_not_as_rare/]["A New Way to Be Mad: The phenomenon is not as rare as one might think: healthy people deliberately setting out to rid themselves of one or more of their limbs...Why do pathologies sometimes arise as if from nowhere? Can the mere description of a condition make it contagious?"]]
 :PROPERTIES:
 :CREATED: [2021-10-08 21:58]
 :END:
@@ -9892,7 +9892,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-10-09 02:05]
 :END:
-* TODO [[https://www.michaelwest.com.au/pandora-papers-is-the-worlds-biggest-leak-the-worlds-biggest-cover-up/][Pandora Papers: is the world’s biggest leak the world’s biggest cover-up?]]
+* TODO [[https://www.michaelwest.com.au/pandora-papers-is-the-worlds-biggest-leak-the-worlds-biggest-cover-up/][Pandora Papers: is the world's biggest leak the world's biggest cover-up?]]
 :PROPERTIES:
 :CREATED: [2021-10-09 03:24]
 :END:
@@ -10024,7 +10024,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-10-13 13:21]
 :END:
-* TODO [[https://www.lareviewofbooks.org/article/why-trusting-the-science-is-complicated/][Why “Trusting the Science” Is Complicated]]
+* TODO [[https://www.lareviewofbooks.org/article/why-trusting-the-science-is-complicated/][Why "Trusting the Science" Is Complicated]]
 :PROPERTIES:
 :CREATED: [2021-10-13 13:39]
 :END:
@@ -10108,15 +10108,15 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-10-17 09:46]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/qa1z6v/notes_on_inadequate_equilibria_by_eliezer/][Notes on &quot;Inadequate Equilibria&quot; by Eliezer Yudkowsky]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/qa1z6v/notes_on_inadequate_equilibria_by_eliezer/][Notes on "Inadequate Equilibria" by Eliezer Yudkowsky]]
 :PROPERTIES:
 :CREATED: [2021-10-17 16:20]
 :END:
-* TODO [[https://www.honeycomb.io/blog/time-series-database/][How Time Series Databases Work&ndash;and Where They Don't]]
+* TODO [[https://www.honeycomb.io/blog/time-series-database/][How Time Series Databases Work-and Where They Don't]]
 :PROPERTIES:
 :CREATED: [2021-10-18 00:39]
 :END:
-* TODO [[https://nymag.com/intelligencer/2021/10/why-the-big-short-guys-think-bitcoin-is-a-bubble.html][Why the ‘Big Short’ Guys Think Bitcoin Is a Bubble]]
+* TODO [[https://nymag.com/intelligencer/2021/10/why-the-big-short-guys-think-bitcoin-is-a-bubble.html][Why the 'Big Short' Guys Think Bitcoin Is a Bubble]]
 :PROPERTIES:
 :CREATED: [2021-10-18 03:29]
 :END:
@@ -10148,7 +10148,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-10-18 19:28]
 :END:
-* TODO [[https://twitter.com/apartovi/status/1449856639331340289][I once killed a $125M deal by being “too honest”]]
+* TODO [[https://twitter.com/apartovi/status/1449856639331340289][I once killed a $125M deal by being "too honest"]]
 :PROPERTIES:
 :CREATED: [2021-10-19 09:37]
 :END:
@@ -10180,7 +10180,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-10-19 17:59]
 :END:
-* TODO [[https://nautil.us/issue/25/water/five-things-we-still-dont-know-about-water][Five things we still don’t know about water]]
+* TODO [[https://nautil.us/issue/25/water/five-things-we-still-dont-know-about-water][Five things we still don't know about water]]
 :PROPERTIES:
 :CREATED: [2021-10-19 18:23]
 :END:
@@ -10196,7 +10196,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-10-19 23:47]
 :END:
-* TODO [[https://www.reddit.com/r/learnmachinelearning/comments/qbwgvy/the_pdf_version_of_my_book_deep_learning/][The PDF version of my book &quot;Deep Learning Interviews&quot;, can now be downloaded]]
+* TODO [[https://www.reddit.com/r/learnmachinelearning/comments/qbwgvy/the_pdf_version_of_my_book_deep_learning/][The PDF version of my book "Deep Learning Interviews", can now be downloaded]]
 :PROPERTIES:
 :CREATED: [2021-10-20 08:53]
 :END:
@@ -10244,7 +10244,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-10-21 17:40]
 :END:
-* TODO [[https://www.apress.com/gp/book/9781484272169][Docs for Developers: An Engineer’s Field Guide to Technical Writing]]
+* TODO [[https://www.apress.com/gp/book/9781484272169][Docs for Developers: An Engineer's Field Guide to Technical Writing]]
 :PROPERTIES:
 :CREATED: [2021-10-21 17:42]
 :END:
@@ -10264,7 +10264,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-10-22 02:33]
 :END:
-* TODO [[https://theanarchistlibrary.org/library/david-graeber-after-the-pandemic-we-can-t-go-back-to-sleep][After the pandemic, we can’t go back to sleep (2020)]]
+* TODO [[https://theanarchistlibrary.org/library/david-graeber-after-the-pandemic-we-can-t-go-back-to-sleep][After the pandemic, we can't go back to sleep (2020)]]
 :PROPERTIES:
 :CREATED: [2021-10-22 10:50]
 :END:
@@ -10320,11 +10320,11 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-10-23 13:54]
 :END:
-* TODO [[https://urbigenous.net/library/how_to_build.html][How to build a universe that doesn’t fall apart two days later (1978)]]
+* TODO [[https://urbigenous.net/library/how_to_build.html][How to build a universe that doesn't fall apart two days later (1978)]]
 :PROPERTIES:
 :CREATED: [2021-10-23 22:12]
 :END:
-* TODO [[https://news.ycombinator.com/item?id=28979602][Ask HN: What’s your favorite tool for planning your day?]]
+* TODO [[https://news.ycombinator.com/item?id=28979602][Ask HN: What's your favorite tool for planning your day?]]
 :PROPERTIES:
 :CREATED: [2021-10-24 16:47]
 :END:
@@ -10340,11 +10340,11 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-10-25 13:18]
 :END:
-* TODO [[https://www.politico.com/news/2021/10/25/facebook-market-dominance-whistleblower-516918][Facebook documents offer a treasure trove for Washington’s antitrust war]]
+* TODO [[https://www.politico.com/news/2021/10/25/facebook-market-dominance-whistleblower-516918][Facebook documents offer a treasure trove for Washington's antitrust war]]
 :PROPERTIES:
 :CREATED: [2021-10-25 13:34]
 :END:
-* TODO [[https://www.lesswrong.com/posts/koGbEwgbfst2wCbzG/i-don-t-know-how-to-count-that-low][I don’t know how to count that low]]
+* TODO [[https://www.lesswrong.com/posts/koGbEwgbfst2wCbzG/i-don-t-know-how-to-count-that-low][I don't know how to count that low]]
 :PROPERTIES:
 :CREATED: [2021-10-25 14:36]
 :END:
@@ -10356,7 +10356,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-10-25 19:28]
 :END:
-* TODO [[https://buttondown.email/hardwarethings/archive/hardware-things-im-betting-that-you-need-a-break/][I’ve been reading a whole lot about tomatoes]]
+* TODO [[https://buttondown.email/hardwarethings/archive/hardware-things-im-betting-that-you-need-a-break/][I've been reading a whole lot about tomatoes]]
 :PROPERTIES:
 :CREATED: [2021-10-25 19:45]
 :END:
@@ -10372,11 +10372,11 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-10-26 09:09]
 :END:
-* TODO [[https://www.vice.com/en/article/wxdeay/the-dune-screenplay-was-written-in-ms-dos][The ‘Dune’ Screenplay Was Written in Movie Master on MS-DOS]]
+* TODO [[https://www.vice.com/en/article/wxdeay/the-dune-screenplay-was-written-in-ms-dos][The 'Dune' Screenplay Was Written in Movie Master on MS-DOS]]
 :PROPERTIES:
 :CREATED: [2021-10-26 13:32]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/qh4vol/they_dont_make_em_like_they_used_to/][They don’t make ‘em like they used to]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/qh4vol/they_dont_make_em_like_they_used_to/][They don't make 'em like they used to]]
 :PROPERTIES:
 :CREATED: [2021-10-27 19:46]
 :END:
@@ -10468,11 +10468,11 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-11-02 22:34]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/qlgow2/political_examples_of_chestertons_fence/][Political examples of Chesterton’s fence]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/qlgow2/political_examples_of_chestertons_fence/][Political examples of Chesterton's fence]]
 :PROPERTIES:
 :CREATED: [2021-11-02 23:01]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/qlhb0c/moral_molecules_a_new_theory_of_what_goodness_is/][‘Moral molecules’ – a new theory of what goodness is made of]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/qlhb0c/moral_molecules_a_new_theory_of_what_goodness_is/]['Moral molecules' – a new theory of what goodness is made of]]
 :PROPERTIES:
 :CREATED: [2021-11-02 23:32]
 :END:
@@ -10484,7 +10484,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-11-04 09:33]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/qmjpvk/notes_on_the_revolt_of_the_public_by_martin_gurri/][Notes on &quot;The Revolt of The Public&quot; by Martin Gurri]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/qmjpvk/notes_on_the_revolt_of_the_public_by_martin_gurri/][Notes on "The Revolt of The Public" by Martin Gurri]]
 :PROPERTIES:
 :CREATED: [2021-11-04 12:43]
 :END:
@@ -10492,7 +10492,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-11-04 15:49]
 :END:
-* TODO [[https://sitn.hms.harvard.edu/flash/2019/no-not-just-time-speeds-get-older/][Why time “speeds up” as we get older (2019)]]
+* TODO [[https://sitn.hms.harvard.edu/flash/2019/no-not-just-time-speeds-get-older/][Why time "speeds up" as we get older (2019)]]
 :PROPERTIES:
 :CREATED: [2021-11-04 16:20]
 :END:
@@ -10512,7 +10512,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-11-06 13:20]
 :END:
-* TODO [[https://therealadam.com/2021/11/01/dont-be-spooky/][Don’t be spooky]]
+* TODO [[https://therealadam.com/2021/11/01/dont-be-spooky/][Don't be spooky]]
 :PROPERTIES:
 :CREATED: [2021-11-06 14:45]
 :END:
@@ -10540,7 +10540,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-11-07 17:14]
 :END:
-* TODO [[https://rework.withgoogle.com/blog/googles-work-life-balance-segmentors-v-integrators/][Segmentors vs Integrators: Google’s work-life-balance research]]
+* TODO [[https://rework.withgoogle.com/blog/googles-work-life-balance-segmentors-v-integrators/][Segmentors vs Integrators: Google's work-life-balance research]]
 :PROPERTIES:
 :CREATED: [2021-11-07 17:55]
 :END:
@@ -10588,7 +10588,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-11-08 23:59]
 :END:
-* TODO [[https://www.bridgewater.com/its-mostly-a-demand-shock-not-a-supply-shock-and-its-everywhere][It’s mostly a demand shock, not a supply shock, and it’s everywhere]]
+* TODO [[https://www.bridgewater.com/its-mostly-a-demand-shock-not-a-supply-shock-and-its-everywhere][It's mostly a demand shock, not a supply shock, and it's everywhere]]
 :PROPERTIES:
 :CREATED: [2021-11-09 01:24]
 :END:
@@ -10628,7 +10628,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-11-10 16:37]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/qr1xgz/study_guide_for_students_who_hope_to_eventually/][Study Guide for students who hope to eventually work on technical problems we don’t understand, especially agency and AI alignment, and want to know what to study or practice.]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/qr1xgz/study_guide_for_students_who_hope_to_eventually/][Study Guide for students who hope to eventually work on technical problems we don't understand, especially agency and AI alignment, and want to know what to study or practice.]]
 :PROPERTIES:
 :CREATED: [2021-11-10 19:20]
 :END:
@@ -10680,7 +10680,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-11-13 20:34]
 :END:
-* TODO [[https://www.wsj.com/articles/why-children-learn-better-than-adults-11636033185][In ‘learning trap’ experiment, adults leap to conclusions while children explore]]
+* TODO [[https://www.wsj.com/articles/why-children-learn-better-than-adults-11636033185][In 'learning trap' experiment, adults leap to conclusions while children explore]]
 :PROPERTIES:
 :CREATED: [2021-11-13 21:14]
 :END:
@@ -10692,7 +10692,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-11-14 14:53]
 :END:
-* TODO [[https://cds.nyu.edu/deep-learning/][Yann LeCun’s 2021 Deep Learning Course at CDS free and fully online]]
+* TODO [[https://cds.nyu.edu/deep-learning/][Yann LeCun's 2021 Deep Learning Course at CDS free and fully online]]
 :PROPERTIES:
 :CREATED: [2021-11-14 17:04]
 :END:
@@ -10708,7 +10708,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-11-14 20:27]
 :END:
-* TODO [[https://psyche.co/ideas/depression-is-more-than-low-mood-its-a-change-of-consciousness][Depression is more than low mood, it’s a change of consciousness]]
+* TODO [[https://psyche.co/ideas/depression-is-more-than-low-mood-its-a-change-of-consciousness][Depression is more than low mood, it's a change of consciousness]]
 :PROPERTIES:
 :CREATED: [2021-11-15 04:17]
 :END:
@@ -10748,7 +10748,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-11-16 05:44]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/qv3ga9/homeopathy_doesnt_work_so_why_do_so_many_germans/][Homeopathy Doesn’t Work. So Why Do So Many Germans Believe in It?]]
+* TODO [[https://www.reddit.com/r/slatestarcodex/comments/qv3ga9/homeopathy_doesnt_work_so_why_do_so_many_germans/][Homeopathy Doesn't Work. So Why Do So Many Germans Believe in It?]]
 :PROPERTIES:
 :CREATED: [2021-11-16 08:47]
 :END:
@@ -10792,7 +10792,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-11-17 22:07]
 :END:
-* TODO [[https://dirtwise.substack.com/p/the-wacky-wily-wonderful-world-of][Most who want simple ‘bonsai’ trees are ill-served by traditional bonsai methods]]
+* TODO [[https://dirtwise.substack.com/p/the-wacky-wily-wonderful-world-of][Most who want simple 'bonsai' trees are ill-served by traditional bonsai methods]]
 :PROPERTIES:
 :CREATED: [2021-11-17 22:37]
 :END:
@@ -10856,7 +10856,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-11-20 11:30]
 :END:
-* TODO [[https://mymisanthropicmusings.org.uk/is-it-stealing-to-read-by-the-light-of-your-neighbours-lamp/][Is it stealing to read by the light of your neighbour’s lamp?]]
+* TODO [[https://mymisanthropicmusings.org.uk/is-it-stealing-to-read-by-the-light-of-your-neighbours-lamp/][Is it stealing to read by the light of your neighbour's lamp?]]
 :PROPERTIES:
 :CREATED: [2021-11-20 12:47]
 :END:
@@ -10952,7 +10952,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-11-22 12:11]
 :END:
-* TODO [[https://www.pnas.org/content/118/43/e2105061118][People mistake the internet’s knowledge for their own]]
+* TODO [[https://www.pnas.org/content/118/43/e2105061118][People mistake the internet's knowledge for their own]]
 :PROPERTIES:
 :CREATED: [2021-11-22 14:42]
 :END:
