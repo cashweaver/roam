@@ -1,0 +1,143 @@
+:PROPERTIES:
+:ID:       0134c647-2e1a-4543-9b66-3eea4e10d110
+:DIR:      /home/cashweaver/proj/roam/attachments
+:END:
+#+title: Mindfulness
+
+This is about mindfulness!
+
+* Mindfulness in Plain English
+:PROPERTIES:
+:NOTER_DOCUMENT: attachments/mindfulness_in_plain_english.pdf
+:NOTER_PAGE: 49
+:END:
+
+** Skeleton
+
+*** Mindfulness In Plain English
+:PROPERTIES:
+:NOTER_PAGE: (1 . 0.330808)
+:END:
+
+**** Preface
+:PROPERTIES:
+:NOTER_PAGE: (2 . 0.097222)
+:END:
+
+**** About the Author
+:PROPERTIES:
+:NOTER_PAGE: (3 . 0.097222)
+:END:
+
+**** Introduction
+:PROPERTIES:
+:NOTER_PAGE: (4 . 0.097222)
+:END:
+
+**** Meditation: Why Bother?
+:PROPERTIES:
+:NOTER_PAGE: (7 . 0.133838)
+:END:
+
+**** What Meditation Isn't
+:PROPERTIES:
+:NOTER_PAGE: (13 . 0.133838)
+:END:
+
+**** What Meditation Is
+:PROPERTIES:
+:NOTER_PAGE: (20 . 0.133838)
+:END:
+
+**** Attitude
+:PROPERTIES:
+:NOTER_PAGE: (26 . 0.133838)
+:END:
+**** The Practice
+:PROPERTIES:
+:NOTER_PAGE: (29 . 0.133838)
+:END:
+
+This is important for understanding the practice of medidation.
+**** A bit
+:PROPERTIES:
+:NOTER_PAGE: (32 . 0.3934782608695652)
+:END:
+***** A different name
+:PROPERTIES:
+:NOTER_PAGE: (32 . 0.5010869565217392)
+:END:
+
+#+begin_quote
+We should not have a time schedule to attain the goal, for our attainment depends on how we progress in our practice based on our understanding and development of our spiritual faculties. We must work diligently and mindfully towards the goal without setting any particular time schedule to reach it. When we are ready, we get there. All we have to do is to prepare ourselves for that attainment.
+#+end_quote
+
+**** What To Do With Your Body
+:PROPERTIES:
+:NOTER_PAGE: (39 . 0.133838)
+:END:
+
+**** What To Do With Your Mind
+:PROPERTIES:
+:NOTER_PAGE: (42 . 0.133838)
+:END:
+
+**** Structuring Your Meditation
+:PROPERTIES:
+:NOTER_PAGE: (48 . 0.133838)
+:END:
+
+
+***** Where to sit
+:PROPERTIES:
+:NOTER_PAGE: (49 . 0.325)
+:END:
+
+#+begin_quote
+Find yourself a quiet place, a secluded place, a place where you will be alone. It doesn't have to be some ideal spot in the middle of a forest. That's nearly impossible for most of us, but it should be a place where you feel comfortable, and where you won't be disturbed. It should also be a place where you won't feel on display. You want all of your attention free for meditation, not wasted on worries about how you look to others. Try to pick a spot that is as quiet as possible. It doesn't have to be a soundproof room, but there are certain noises that are highly distracting, and they should be avoided. Music and talking are about the worst. The mind tends to be sucked in by these sounds in an uncontrollable manner, and there goes your concentration.
+#+end_quote
+
+**** Set Up Exercises
+:PROPERTIES:
+:NOTER_PAGE: (53 . 0.133838)
+:END:
+
+**** Dealing With Problems
+:PROPERTIES:
+:NOTER_PAGE: (59 . 0.133838)
+:END:
+
+**** Dealing with Distractions - I
+:PROPERTIES:
+:NOTER_PAGE: (69 . 0.133838)
+:END:
+
+**** Dealing with Distractions - II
+:PROPERTIES:
+:NOTER_PAGE: (73 . 0.133838)
+:END:
+
+**** Mindfulness (Sati)
+:PROPERTIES:
+:NOTER_PAGE: (82 . 0.133838)
+:END:
+
+**** Mindfulness Versus Concentration
+:PROPERTIES:
+:NOTER_PAGE: (89 . 0.133838)
+:END:
+
+**** Meditation In Everyday Life
+:PROPERTIES:
+:NOTER_PAGE: (94 . 0.133838)
+:END:
+
+**** What's In It For You
+:PROPERTIES:
+:NOTER_PAGE: (101 . 0.133838)
+:END:
+
+**** DISTRIBUTION AGREEMENT
+:PROPERTIES:
+:NOTER_PAGE: (105 . 0.097222)
+:END:
