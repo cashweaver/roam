@@ -18,6 +18,6 @@ A list of unread articles/etc pulled, in most part, from my starred items in [In
       sed 's/\(&rdquo;\|&ldquo;\|&quot;\)/"/g' | \
       sed 's/[“”]/"/g' | \
       sed "s/[’‘]/'/g" | \
-      sed 's/&ndash;/-/g'
-      > unread.org
+      sed 's/&ndash;/-/g' \
+      >> unread.org
     ```
