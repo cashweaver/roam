@@ -4,7 +4,7 @@
 :END:
 #+title: Mindfulness-based Stress Reduction
 #+filetags: :mindfulness:
-#+author: cashweaver
+#+author: Cash Weaver
 #+date: [2021-12-03 Fri 05:58]
 #+hugo_auto_set_lastmod: t
 #+startup: overview

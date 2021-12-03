@@ -3,7 +3,7 @@
 :DIR:      /home/cashweaver/proj/roam/attachments/38bba771-d7e5-467f-80bb-ebd79faf793c
 :END:
 #+title: Psychophysiologic Symptom Relief Therapy
-#+author: cashweaver
+#+author: Cash Weaver
 #+date: [2021-12-03 Fri 06:31]
 #+hugo_auto_set_lastmod: t
 #+startup: overview
