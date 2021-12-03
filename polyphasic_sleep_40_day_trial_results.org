@@ -3,9 +3,10 @@
 :DIR:      /home/cashweaver/proj/roam/attachments/6a214828-bea5-47be-bac7-0f0235b0ff3c
 :END:
 #+title: Polyphasic Sleep: 40 Day Trial Results
-#+author: cashweaver
-#+date: 2021-07-11
+#+author: Cash Weaver
+#+date: [2021-07-11 Sun 12:15]
 #+hugo_auto_set_lastmod: t
+#+startup: overview
 #+filetags: :polyphasic-sleep:
 
 What would you do with another few hours every day? This was the thought that pulled me into attempting a polyphasic sleep schedule.

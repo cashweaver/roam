@@ -3,10 +3,11 @@
 :DIR:      /home/cashweaver/proj/roam/attachments/ce1622e0-9f93-47fd-a5b2-5acd981caabf
 :END:
 #+title: At Least Two of the Same
-#+filetags: :ceramics:quote:
-#+author: cashweaver
-#+date: 2021-12-02
+#+author: Cash Weaver
+#+date: [2021-12-02 Thu 12:00]
 #+hugo_auto_set_lastmod: t
+#+startup: overview
+#+filetags: :ceramics:quote:
 
 #+begin_quote
 I always do at least 2 of the same, so I can see where my work was intentional and where it was accidental.

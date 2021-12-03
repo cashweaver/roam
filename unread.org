@@ -4,14 +4,6 @@
 
 Please sort in order of oldest to youngest.
 
-* TODO [[https://blog.ycombinator.com/three-paths-in-the-tech-industry-founder-executive-or-employee/][Three Paths in the Tech Industry: Founder, Executive, or Employee]]
-:PROPERTIES:
-:CREATED: [2017-09-28 15:04]
-:END:
-* TODO [[https://news.ycombinator.com/item?id=18071909][Ask HN: What was the best decision you made in your career?]]
-:PROPERTIES:
-:CREATED: [2018-09-26 01:19]
-:END:
 * TODO [[https://news.ycombinator.com/item?id=20503813][Ask HN: What people skills do you wish you learned earlier in your career?]]
 :PROPERTIES:
 :CREATED: [2019-07-23 01:47]
