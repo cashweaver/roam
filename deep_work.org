@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       82d1d3b6-dd55-43bf-828e-b34508ac136c
+:DIR:      /home/cashweaver/proj/roam/attachments/82d1d3b6-dd55-43bf-828e-b34508ac136c
+:ROAM_REFS: https://www.calnewport.com/about/
+:END:
+#+title: Deep Work
+#+filetags: :@Cal_Newport:
+#+author: Cash Weaver
+#+date: [2021-12-03 Fri 12:12]
+#+startup: overview
+#+hugo_auto_set_lastmod: t
+
+The ability to concentrate, without distraction, on a demanding task.

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       2149d460-f6e0-4696-b34d-c2cc2228d8db
+:DIR:      /home/cashweaver/proj/roam/attachments/2149d460-f6e0-4696-b34d-c2cc2228d8db
+:ROAM_REFS: https://www.benkuhn.net/impatient/
+:END:
+#+title: Be Impatient
+#+filetags: :@Ben_Kuhn:
+#+author: Cash Weaver
+#+date: [2021-12-03 Fri 11:45]
+#+startup: overview
+#+hugo_auto_set_lastmod: t
+
+#+begin_quote
+Being impatient is the best way to get faster at things. And across a surprising number of domains, being really fast correlates strongly with being effective.
+#+end_quote
+
+* TODO Expand with further quotes from article

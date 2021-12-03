@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       01fdcfa8-d1dd-420a-a473-b8ac112d7b2f
+:DIR:      /home/cashweaver/proj/roam/attachments/01fdcfa8-d1dd-420a-a473-b8ac112d7b2f
+:ROAM_REFS: https://www.flightfromperfection.com/(a).html
+:END:
+#+title: (a)
+#+filetags: :@Milan_Griffes:
+#+author: Cash Weaver
+#+date: [2021-12-03 Fri 07:55]
+#+startup: overview
+#+hugo_auto_set_lastmod: t
+
+* Summary
+Dead links are inevitable if your written content lives long enough online. Include archive links alongside links to off-domain content "(a)".
+
+* Thoughts
+
+I like the idea of including an archive link when linking to off-domain content. It seems like something that I could automate through some "presubmit" step of the publishing process. I've looked around but haven't found an addon/extension for any of the popular blogging solutions which provides an easy way to include such links. I expect that I won't bother to include them so long as I would have to include them manually. The URL to the off-domain content will be present and determined readers will be able to consult archive.org/etc on their own to achieve the same result.
+
+I also notice that the author [[https://www.flightfromperfection.com/the-best-explanation-of-modern-monetary-theory.html][includes (sometimes long) relevant quotes from links they cite]]. I think this is a fantastic practice which accomplishes most of the goal of "(a)".

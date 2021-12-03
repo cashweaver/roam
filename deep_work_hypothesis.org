@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       7c502cf2-2050-4b12-a57e-650318f3b3ef
+:DIR:      /home/cashweaver/proj/roam/attachments/7c502cf2-2050-4b12-a57e-650318f3b3ef
+:ROAM_REFS: https://www.calnewport.com/about/
+:END:
+#+title: Deep Work Hypothesis
+#+filetags: :@Cal_Newport:
+#+author: Cash Weaver
+#+date: [2021-12-03 Fri 12:14]
+#+startup: overview
+#+hugo_auto_set_lastmod: t
+
+#+begin_quote
+The ability to [engage in Deep Work] is becoming more rare at the same time that it’s becoming more valuable in the knowledge sector. As a result, those individuals and organizations who put in the hard work to cultivate this skill will thrive.
+#+end_quote

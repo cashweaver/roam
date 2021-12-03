@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       e02451fc-c9d5-4c02-849b-d9b7d4cc95a7
+:DIR:      /home/cashweaver/proj/roam/attachments/e02451fc-c9d5-4c02-849b-d9b7d4cc95a7
+:ROAM_REFS: https://sive.rs/kimo
+:END:
+#+title: There's No Speed Limit
+#+filetags: :favorite:@Derek_Sivers:
+#+author: Cash Weaver
+#+date: [2021-12-03 Fri 12:20]
+#+startup: overview
+#+hugo_auto_set_lastmod: t
+
+#+begin_quote
+Kimo's high expectations set a new pace for me. He taught me that "the standard pace is for chumps" — that the system is designed so anyone can keep up. If you're more driven than most people, you can do way more than anyone expects. And this principle applies to all of life, not just school.
+#+end_quote
