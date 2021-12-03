@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       92eb61e0-5437-4fbf-80aa-d042c0ba6d1e
+:DIR:      /home/cashweaver/proj/roam/attachments/92eb61e0-5437-4fbf-80aa-d042c0ba6d1e
+:END:
+#+title: Mindfulness-based Stress Reduction
+#+filetags: :mindfulness:
+#+author: cashweaver
+#+date: [2021-12-03 Fri 05:58]
+#+hugo_auto_set_lastmod: t
+#+startup: overview
+
+#+begin_quote
+... an eight-week evidence-based program that offers secular, intensive mindfulness training to assist people with stress, anxiety, depression and pain.
+
+[[https://en.wikipedia.org/wiki/Mindfulness-based_stress_reduction][Wikipedia]]
+#+end_quote
+
+- The program has been [[https://en.wikipedia.org/wiki/Mindfulness-based_stress_reduction#Evaluation_of_effectiveness][found to be effective]].
+- Some hospitals staff experts who offer a regularly-occurring class.
+  - Dave Potter offers a free version in his [[https://palousemindfulness.com/][Palouse Mindfulness program]].
