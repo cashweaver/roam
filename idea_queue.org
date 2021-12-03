@@ -9,3 +9,5 @@
 #+startup: overview
 
 1. My blog post authoring process with =emacs=, =org-mode=, =ox-hugo=, and =org-roam=.
+2. Thoughts on productivity, guilt, and free time as an illusion.
+3. My process for managing my Anki cards in Emacs.
