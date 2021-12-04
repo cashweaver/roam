@@ -11,12 +11,6 @@
 #+startup: overview
 #+hugo_auto_set_lastmod: t
 
-#+begin_src emacs-lisp
-;;(cashweaver-org-roam--mirror-roam-refs-to-front-matter)
-(org-roam-get-keyword
- "HUGO_CUSTOM_FRONT_MATTER")
-#+end_src
-
 * Summary
 Dead links are inevitable if your written content lives long enough online. Include archive links alongside links to off-domain content "(a)".
 
