@@ -21,3 +21,7 @@ A list of unread articles/etc pulled, in most part, from my starred items in [In
       sed 's/&ndash;/-/g' \
       >> unread.org
     ```
+
+## Workflow
+
+Refer to my [Emacs configuration file](https://github.com/cashweaver/dotfiles/blob/main/config/doom/config.org) for specific details; particularly, at time of writing, `cashweaver-org-roam--mirror-roam-refs-to-front-matter` and my override for `org-hugo-export-wim-to-md-after-save`.
