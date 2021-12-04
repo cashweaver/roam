@@ -4,6 +4,7 @@
 :ROAM_REFS: https://blog.ycombinator.com/three-paths-in-the-tech-industry-founder-executive-or-employee/
 :END:
 #+title: Three Paths in the Tech Industry: Founder, Executive, or Employee
+#+hugo_custom_front_matter: roam_refs '("https://blog.ycombinator.com/three-paths-in-the-tech-industry-founder-executive-or-employee/")
 #+author: Cash Weaver
 #+date: [2021-11-27 Thu 07:00]
 #+hugo_auto_set_lastmod: t

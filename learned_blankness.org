@@ -4,6 +4,7 @@
 :ROAM_REFS: https://www.lesswrong.com/posts/puhPJimawPuNZ5wAR/learned-blankness
 :END:
 #+title: Learned Blankness
+#+hugo_custom_front_matter: roam_refs '("https://www.lesswrong.com/posts/puhPJimawPuNZ5wAR/learned-blankness")
 #+filetags: :@Anna_Salamon:
 #+author: Cash Weaver
 #+date: [2021-12-03 Fri 11:07]

@@ -4,6 +4,7 @@
 :ROAM_REFS: https://blog.samaltman.com/productivity
 :END:
 #+title: Productivity Notes from Sam Altman
+#+hugo_custom_front_matter: roam_refs '("https://blog.samaltman.com/productivity")
 #+filetags: :@Sam_Altman:
 #+author: Cash Weaver
 #+date: [2021-12-03 Fri 08:43]

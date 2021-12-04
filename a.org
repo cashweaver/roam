@@ -1,14 +1,21 @@
 :PROPERTIES:
 :ID:       01fdcfa8-d1dd-420a-a473-b8ac112d7b2f
 :DIR:      /home/cashweaver/proj/roam/attachments/01fdcfa8-d1dd-420a-a473-b8ac112d7b2f
-:ROAM_REFS: https://www.flightfromperfection.com/(a).html
+:ROAM_REFS: https://orgmode.org/worg/dev/org-element-api.html https://www.flightfromperfection.com/(a).html
 :END:
 #+title: (a)
+#+hugo_custom_front_matter: roam_refs '("https://orgmode.org/worg/dev/org-element-api.html" "https://www.flightfromperfection.com/(a).html")
 #+filetags: :@Milan_Griffes:
 #+author: Cash Weaver
 #+date: [2021-12-03 Fri 07:55]
 #+startup: overview
 #+hugo_auto_set_lastmod: t
+
+#+begin_src emacs-lisp
+;;(cashweaver-org-roam--mirror-roam-refs-to-front-matter)
+(org-roam-get-keyword
+ "HUGO_CUSTOM_FRONT_MATTER")
+#+end_src
 
 * Summary
 Dead links are inevitable if your written content lives long enough online. Include archive links alongside links to off-domain content "(a)".

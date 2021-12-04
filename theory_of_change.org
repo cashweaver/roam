@@ -4,11 +4,13 @@
 :ROAM_REFS: http://www.aaronsw.com/weblog/theoryofchange
 :END:
 #+title: Theory of Change
+#+hugo_custom_front_matter: roam_refs '("http://www.aaronsw.com/weblog/theoryofchange")
 #+filetags: :@Aaron_Swartz:
 #+author: Cash Weaver
 #+date: [2021-12-03 Fri 12:28]
 #+startup: overview
 #+hugo_auto_set_lastmod: t
+
 
 #+begin_quote
 I am increasingly convinced that the difference between effective and ineffective people is their skill at developing a theory of change.

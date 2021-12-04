@@ -4,6 +4,7 @@
 :ROAM_REFS: https://news.ycombinator.com/item?id=18071909
 :END:
 #+TITLE: Ask HN: What was the best decision you made in your career?
+#+hugo_custom_front_matter: roam_refs '("https://news.ycombinator.com/item?id=18071909")
 #+author: Cash Weaver
 #+date: [2021-11-27 Thu 07:55]
 #+hugo_auto_set_lastmod: t

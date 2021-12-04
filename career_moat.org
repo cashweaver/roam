@@ -1,8 +1,10 @@
 :PROPERTIES:
 :ID:       bef6464a-d3ae-41c1-b63a-8871326a1d23
 :DIR:      /home/cashweaver/proj/roam/attachments/bef6464a-d3ae-41c1-b63a-8871326a1d23
+:ROAM_REFS: https://commoncog.com/blog/career-moats-101/
 :END:
 #+title: Career Moat
+#+hugo_custom_front_matter: roam_refs '("https://commoncog.com/blog/career-moats-101/")
 #+filetags: :@Cedric_Chin:
 #+author: Cash Weaver
 #+date: [2021-12-03 Fri 11:21]

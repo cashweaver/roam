@@ -1,9 +1,10 @@
 :PROPERTIES:
 :ID:       4d921d58-fc30-4584-8863-b53707cdbe48
 :DIR:      /home/cashweaver/proj/roam/attachments/4d921d58-fc30-4584-8863-b53707cdbe48
-:ROAM_REFS: https://www.greaterwrong.com/posts/yFALNnscB2qgehnJv/deregulating-distraction-moving-towards-the-goal-and-level
+:ROAM_REFS: https://www.lesswrong.com/posts/yFALNnscB2qgehnJv/deregulating-distraction-moving-towards-the-goal-and-level
 :END:
 #+title: Deregulating Distraction, Moving Towards the Goal, and Level Hopping
+#+hugo_custom_front_matter: roam_refs '("https://www.lesswrong.com/posts/yFALNnscB2qgehnJv/deregulating-distraction-moving-towards-the-goal-and-level")
 #+filetags: :@So8res:
 #+author: Cash Weaver
 #+date: [2021-12-03 Fri 12:24]

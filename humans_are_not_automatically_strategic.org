@@ -4,7 +4,9 @@
 :ROAM_REFS: https://www.lesswrong.com/posts/PBRWb2Em5SNeWYwwB/humans-are-not-automatically-strategic
 :END:
 #+title: Humans are not Automatically Strategic
+#+hugo_custom_front_matter: roam_refs '("https://www.lesswrong.com/posts/PBRWb2Em5SNeWYwwB/humans-are-not-automatically-strategic")
 #+filetags: :@Anna_Salamon:
+
 #+author: Cash Weaver
 #+date: [2021-12-03 Fri 11:11]
 #+startup: overview

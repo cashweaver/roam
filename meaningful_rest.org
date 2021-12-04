@@ -4,6 +4,7 @@
 :ROAM_REFS: https://www.lesswrong.com/posts/iYR9hKzTKGhZwTPWK/meaningful-rest
 :END:
 #+title: Meaningful Rest
+#+hugo_custom_front_matter: roam_refs '("https://www.lesswrong.com/posts/iYR9hKzTKGhZwTPWK/meaningful-rest")
 #+filetags: :@Neel_Nanda:
 #+author: Cash Weaver
 #+date: [2021-12-03 Fri 11:52]

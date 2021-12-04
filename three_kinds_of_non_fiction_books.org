@@ -5,6 +5,7 @@
 :ROAM_ALIASES: "Branch Book" "Tree Book" "Narrative Book"
 :END:
 #+title: Three Kinds of Non-Fiction Books
+#+hugo_custom_front_matter: roam_refs '("https://commoncog.com/blog/the-3-kinds-of-non-fiction-book/")
 #+filetags: :@Cedric_Chin:
 #+author: Cash Weaver
 #+date: [2021-12-03 Fri 11:22]

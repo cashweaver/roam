@@ -4,6 +4,7 @@
 :ROAM_REFS: https://www.lesswrong.com/posts/DoLQN5ryZ9XkZjq5h/tsuyoku-naritai-i-want-to-become-stronger
 :END:
 #+title: Tsuyoku Naritai (I Want to Become Stronger)
+#+hugo_custom_front_matter: roam_refs '("https://www.lesswrong.com/posts/DoLQN5ryZ9XkZjq5h/tsuyoku-naritai-i-want-to-become-stronger")
 #+filetags: :@Eliezer_Yudkowsky:
 #+author: Cash Weaver
 #+date: [2021-12-03 Fri 12:43]

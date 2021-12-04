@@ -9,6 +9,7 @@
 #+hugo_auto_set_lastmod: t
 #+startup: overview
 
+
 #+begin_quote
 ... an eight-week evidence-based program that offers secular, intensive mindfulness training to assist people with stress, anxiety, depression and pain.
 

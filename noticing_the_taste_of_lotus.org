@@ -1,8 +1,10 @@
 :PROPERTIES:
 :ID:       3a48cc59-c9e7-4253-bbf0-8d52622c71c0
 :DIR:      /home/cashweaver/proj/roam/attachments/3a48cc59-c9e7-4253-bbf0-8d52622c71c0
+:ROAM_REFS: https://www.lesswrong.com/posts/KwdcMts8P8hacqwrX/noticing-the-taste-of-lotus
 :END:
 #+title: Noticing the Taste of Lotus
+#+hugo_custom_front_matter: roam_refs '("https://www.lesswrong.com/posts/KwdcMts8P8hacqwrX/noticing-the-taste-of-lotus")
 #+filetags: :@Valentine:@Michael_Smith:
 #+author: Cash Weaver
 #+date: [2021-12-03 Fri 12:30]
