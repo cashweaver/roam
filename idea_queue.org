@@ -6,6 +6,7 @@
 #+author: Cash Weaver
 #+date: [2021-12-02 Thu 15:30]
 #+hugo_auto_set_lastmod: t
+#+filetags: :@cashweaver:
 #+startup: overview
 
 1. My blog post authoring process with =emacs=, =org-mode=, =ox-hugo=, and =org-roam=.
