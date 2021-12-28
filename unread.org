@@ -1,25 +1,12 @@
 #+TITLE: Unread
 #+AUTHOR: cashweaver
 #+STARTUP: overview
+#+TAGS: book essay
 
 Please sort in order of oldest to youngest.
 
-* TODO [[https://news.ycombinator.com/item?id=20503813][Ask HN: What people skills do you wish you learned earlier in your career?]]
-:PROPERTIES:
-:CREATED: [2019-07-23 01:47]
-:END:
-* TODO [[https://www.monicahq.com/][Monica, open source personal CRM]]
-:PROPERTIES:
-:CREATED: [2019-12-21 07:28]
-:END:
-* TODO [[https://hbr.org/2019/12/what-happens-when-your-career-becomes-your-whole-identity][What happens when your career becomes your whole identity]]
-:PROPERTIES:
-:CREATED: [2019-12-27 08:14]
-:END:
-* TODO [[https://www.theatlantic.com/magazine/archive/1919/11/the-basic-problem-of-democracy/569095/][The Basic Problem of Democracy (1919)]]
-:PROPERTIES:
-:CREATED: [2019-12-27 19:02]
-:END:
+* TODO [[https://www.theatlantic.com/politics/archive/2016/10/how-democrats-killed-their-populist-soul/504710/][How Democrats Killed their Populist Soul]] :essay:
+* TODO [[https://www.google.com/books/edition/Goliath/mDxqDwAAQBAJ?hl=en&gbpv=0][Goliath by Matt Stoller]] :book:
 * TODO [[http://addyosmani.com/blog/burnout/][Tips I use to avoid burnout]]
 :PROPERTIES:
 :CREATED: [2019-12-29 07:03]
@@ -308,7 +295,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-03-14 08:36]
 :END:
-* TODO [[https://news.ycombinator.com/item?id=22575007][Ask HN: Which configuration management software would/should you use in 2020?]]
+* TODO [[https://news.ycombinator.com/item?id=22575007][Ask HN: Which configuration mahttps://m.signalvnoise.com/habits-always-form/https://m.signalvnoise.com/habits-always-form/nagement software would/should you use in 2020?]]
 :PROPERTIES:
 :CREATED: [2020-03-14 13:08]
 :END:
@@ -10599,10 +10586,6 @@ Please sort in order of oldest to youngest.
 * TODO [[https://newsletter.butwhatfor.com/p/invert-always-invert-avoid-failure][Suppose I Wanted to Kill a Lot of Pilots]]
 :PROPERTIES:
 :CREATED: [2021-11-09 14:17]
-:END:
-* TODO [[https://breckyunits.com/write-thin-to-write-fast.html][Write thin to write fast]]
-:PROPERTIES:
-:CREATED: [2021-11-09 19:58]
 :END:
 * TODO [[https://www.reddit.com/r/slatestarcodex/comments/qqcr3s/secrets_of_the_great_families/][Secrets Of The Great Families]]
 :PROPERTIES:

@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       5f3247b2-ef62-4279-9794-4adeea0634c7
+:DIR:      /home/cashweaver/proj/roam/attachments/5f3247b2-ef62-4279-9794-4adeea0634c7
+:ROAM_REFS: https://breckyunits.com/write-thin-to-write-fast.html
+:END:
+#+TITLE: Write thin to write fast
+#+hugo_custom_front_matter: roam_refs '("https://breckyunits.com/write-thin-to-write-fast.html")
+#+STARTUP: overview
+#+AUTHOR: Cash Weaver
+#+DATE: [2021-12-27 Mon 21:52]
+#+HUGO_AUTO_SET_LASTMOD: t
+#+FILETAGS: :@Breck_Yunits:writing:
+
+* Summary
+
+#+begin_quote
+Set your editor's column width very low ... 36 characters for me, [your mileage may vary].
+#+end_quote
+
+#+begin_quote
+Thinner columns help you read faster. Writing speed is dominated by reading speed. If you read faster, you write faster.
+#+end_quote
+
+* Thoughts
+
+I've seem content width discussed often when it comes to reading. A width of 72 characters comes to mind, though I'm not sure where I picked that up. I haven't seen content width discussed as often when it comes to writing. That said, there are tools provided within, or as addons for, text editors (like [[https://github.com/hlissner/doom-emacs/blob/develop/modules/ui/zen/README.org][zen for Doom Emacs]]) which constrict the writing space.

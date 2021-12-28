@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       d047a069-d533-4767-b847-4c00a9d7029e
+:DIR:      /home/cashweaver/proj/roam/attachments/d047a069-d533-4767-b847-4c00a9d7029e
+:ROAM_REFS: https://www.monicahq.com/
+:END:
+#+TITLE: Monica, open source personal CRM
+#+hugo_custom_front_matter: roam_refs '("https://www.monicahq.com/")
+#+STARTUP: overview
+#+AUTHOR: Cash Weaver
+#+DATE: [2021-12-27 Mon 22:51]
+#+HUGO_AUTO_SET_LASTMOD: t
+
+I have a hard time keeping track of personal relationships. Perhaps this would be a helpful tool.
