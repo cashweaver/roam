@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       a72eecfc-c64a-438a-ae26-d18c5725cd5c
+:DIR:      /home/cashweaver/proj/roam/attachments/a72eecfc-c64a-438a-ae26-d18c5725cd5c
+:ROAM_REFS: https://en.wikipedia.org/wiki/Spaced_repetition
+:END:
+#+title: Spaced Repetition
+#+hugo_custom_front_matter: roam_refs '("https://en.wikipedia.org/wiki/Spaced_repetition")
+#+author: Cash Weaver
+#+date: [2021-12-30 Thu 15:26]
+#+startup: overview
+#+hugo_auto_set_lastmod: t
+
+#+begin_quote
+Spaced repetition is an evidence-based learning technique that is usually performed with flashcards. Newly introduced and more difficult flashcards are shown more frequently, while older and less difficult flashcards are shown less frequently in order to exploit the psychological [[id:37699e33-fccb-43bf-ab4b-ca9e74a03510][spacing effect]]. The use of spaced repetition has been proven to increase rate of learning.
+#+end_quote

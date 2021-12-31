@@ -25,29 +25,12 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-01-09 18:40]
 :END:
-* TODO [[https://www.wanttoknow.info/warisaracket][War Is a Racket (1933)]] :essay:
-:PROPERTIES:
-:CREATED: [2020-01-10 16:46]
-:END:
-* TODO [[https://www.nfx.com/post/your-life-network-effects][Life Is Driven by Network Effects]] :essay:
-:PROPERTIES:
-:CREATED: [2020-01-20 18:28]
-:END:
-* TODO [[https://blog.floydhub.com/emils-story-as-a-self-taught-ai-researcher/][My story as a self-taught AI researcher]] :essay:
-:PROPERTIES:
-:CREATED: [2020-01-20 18:39]
-:END:
-* TODO [[https://www.deprocrastination.co/blog/3-tricks-to-start-working-despite-not-feeling-like-it][Tricks to start working despite not feeling like it]] :essay:
-:PROPERTIES:
-:CREATED: [2020-01-21 08:33]
-:END:
-* TODO [[https://invisibleup.com/articles/27/][Why I Procrastinate (2019)]] :essay:
-:PROPERTIES:
-:CREATED: [2020-01-23 14:37]
-:END:
-* TODO [[https://thepointmag.com/examined-life/who-wants-to-play-the-status-game-agnes-callard/][Who wants to play the status game?]] :essay:
+* INPROGRESS [[https://thepointmag.com/examined-life/who-wants-to-play-the-status-game-agnes-callard/][Who wants to play the status game?]] :essay:
 :PROPERTIES:
 :CREATED: [2020-01-24 01:53]
+:END:
+:LOGBOOK:
+CLOCK: [2021-12-29 Wed 13:55]
 :END:
 * TODO [[https://news.ycombinator.com/item?id=22264043][Ask HN: What agenda do you have for 1:1 meetings with your supervisor?]] :discussion:
 :PROPERTIES:

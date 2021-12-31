@@ -3,7 +3,7 @@
 :DIR:      /home/cashweaver/proj/roam/attachments/e6b1cd50-8293-44a3-bcba-d302d0835470
 :ROAM_REFS: https://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf
 :END:
-#+TITLE: How to Read a Paper (2016) [pdf
+#+TITLE: How to Read a Paper
 #+hugo_custom_front_matter: roam_refs '("https://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf")
 #+STARTUP: overview
 #+AUTHOR: Cash Weaver
