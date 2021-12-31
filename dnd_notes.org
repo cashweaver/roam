@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       5781adc2-64fd-4105-83c6-7ee05cb704a1
+:DIR:      /home/cashweaver/proj/roam/attachments/5781adc2-64fd-4105-83c6-7ee05cb704a1
+:END:
+#+title: DND Notes
+#+author: Cash Weaver
+#+date: [2021-12-28 Tue 19:23]
+#+startup: overview
+#+hugo_auto_set_lastmod: t
+
+* Eli Huhoi
+
+** In Virradain's flashback
+
+I'm Suko

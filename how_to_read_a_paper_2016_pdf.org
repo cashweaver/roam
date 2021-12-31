@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       e6b1cd50-8293-44a3-bcba-d302d0835470
+:DIR:      /home/cashweaver/proj/roam/attachments/e6b1cd50-8293-44a3-bcba-d302d0835470
+:ROAM_REFS: https://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf
+:END:
+#+TITLE: How to Read a Paper
+#+hugo_custom_front_matter: roam_refs '("https://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf")
+#+STARTUP: overview
+#+AUTHOR: Cash Weaver
+#+DATE: [2021-12-28 Tue 12:19]
+#+HUGO_AUTO_SET_LASTMOD: t
+#+FILETAGS: :@Srinivasan_Keshav:reading:
+
+* How to Read a Paper :ATTACH:
+:PROPERTIES:
+:NOTER_DOCUMENT: attachments/e6b1cd50-8293-44a3-bcba-d302d0835470/HowtoReadPaper.pdf
+:NOTER_PAGE: 1
+:END:
+** The Three-Pass Approach
+:PROPERTIES:
+:NOTER_PAGE: 1
+:END:
+
+#+begin_quote
+The key idea is that you should read the paper in up to three passes, instead of starting at the beginning and plowing your way to the end. Each pass accomplishes specific goals and builds upon the previous pass: The first pass gives you a general idea about the paper. The second pass lets you grasp the paper's content, but not its details. The third pass helps you understand the paper in depth.
+#+end_quote
+

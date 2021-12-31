@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       02b5bf70-cf7f-49d0-b1f0-60fc0270abb0
+:DIR:      /home/cashweaver/proj/roam/attachments/02b5bf70-cf7f-49d0-b1f0-60fc0270abb0
+:ROAM_REFS: https://m.signalvnoise.com/habits-always-form/
+:END:
+#+TITLE: Habits Always Form
+#+hugo_custom_front_matter: roam_refs '("https://m.signalvnoise.com/habits-always-form/")
+#+STARTUP: overview
+#+AUTHOR: Cash Weaver
+#+DATE: [2021-12-27 Mon 22:40]
+#+HUGO_AUTO_SET_LASTMOD: t
+#+FILETAGS: :@Jason_Fried:habit:
+
+* Summary
+
+#+begin_quote
+Habits are always forming. No matter what you do, you’re also forming habits too. Keep that in mind with whatever you do.
+
+When we talk about habits, we generally talk about learning good habits. Or forming good habits. Both of these outcomes suggest we can end up with the habits we want. And technically we can! But most of the habits we have are habits we ended up with after years of unconscious behavior. They’re not intentional. They’ve been planting deep roots under the surface, sight unseen. Fertilized, watered, and well-fed by recurring behavior. Trying to pull that habit out of the ground later is going to be incredibly difficult. Your grip has to be better than its grip, and it rarely is.
+
+So be aware of what you do, what you’re doing, and how you’re doing it. Every do digs deeper. Every does grips stronger.
+#+end_quote
