@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       9624e845-4338-414c-ae4b-8cdf8adbc0ef
+:DIR:      /home/cashweaver/proj/roam/attachments/9624e845-4338-414c-ae4b-8cdf8adbc0ef
+:END:
+#+title: Relational Processing
+#+FILETAGS: :learning:
+
+#+author: Cash Weaver
+#+date: [2021-12-31 Fri 11:44]
+#+startup: overview
+#+hugo_auto_set_lastmod: t
+
+A technique of studying/learning where one emphasizes the relationships between pieces of information.
+
+    #+begin_quote
+... [R]elational processing refers to the encoding of similarities and differences across pieces of information. For example, sorting words into categories, ordering sentences to create a coherent text, and explaining why each subsequent step in a science experiment follows the preceding step all involve comparing to-be-remembered events to each other.
+
+[[id:91d7761c-fb74-4f25-94cc-948d7522b818][Memory in Educational Settings]]
+    #+end_quote

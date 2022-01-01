@@ -10,7 +10,6 @@
 #+DATE: [2021-12-27 Mon 21:52]
 #+HUGO_AUTO_SET_LASTMOD: t
 #+FILETAGS: :@Breck_Yunits:writing:
-
 * Summary
 
 #+begin_quote

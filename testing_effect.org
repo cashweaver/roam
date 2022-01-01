@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       858c6cb1-52a9-446a-b11f-b35229b528e0
+:DIR:      /home/cashweaver/proj/roam/attachments/858c6cb1-52a9-446a-b11f-b35229b528e0
+:ROAM_REFS: https://en.wikipedia.org/wiki/Testing_effect
+:END:
+#+title: Testing Effect
+#+FILETAGS: :learning:memory:
+
+#+hugo_custom_front_matter: roam_refs '("https://en.wikipedia.org/wiki/Testing_effect")
+#+author: Cash Weaver
+#+date: [2021-12-31 Fri 11:36]
+#+startup: overview
+#+hugo_auto_set_lastmod: t
+
+Retrieving a piece of information from memory will increase ones ability to recall that piece of information over long periods of time. A common example would be using tests as a tool for study. The student has to attempt to recall the information from memory while taking the test and thereby improves their recall.

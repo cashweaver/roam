@@ -4,6 +4,7 @@
 :ROAM_REFS: https://news.ycombinator.com/item?id=22325975
 :END:
 #+TITLE: Ask HN: How do you learn complex, dense technical information?
+#+FILETAGS: :learning:
 #+hugo_custom_front_matter: roam_refs '("https://news.ycombinator.com/item?id=22325975")
 #+STARTUP: overview
 #+AUTHOR: Cash Weaver

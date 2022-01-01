@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       e860a606-84d0-47a0-8230-a702e86c363a
+:DIR:      /home/cashweaver/proj/roam/attachments/e860a606-84d0-47a0-8230-a702e86c363a
+:END:
+#+title: Item-specific Processing
+#+FILETAGS: :learning:
+#+author: Cash Weaver
+#+date: [2021-12-31 Fri 11:40]
+#+startup: overview
+#+hugo_auto_set_lastmod: t
+
+A technique of studying/learning where one emphasizes features of the pieces of information.
+
+    #+begin_quote
+Item-specific processing involves encoding the various characteristics or properties of a particular piece of information. For example, judging the pleasantness of a word, filling in missing letters in a text, and creating a mental image of each step in a science experiment all focus the learner on a single to-be-remembered item.
+
+[[id:91d7761c-fb74-4f25-94cc-948d7522b818][Memory in Educational Settings]]
+    #+end_quote

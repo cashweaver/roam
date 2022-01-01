@@ -5,7 +5,7 @@
 :END:
 #+title: Attention is Your Scarcest Resource
 #+hugo_custom_front_matter: roam_refs '("https://www.benkuhn.net/attention/")
-#+filetags: :@Ben_Kuhn:attention:
+#+filetags: :@Ben_Kuhn:attention:meta-work:
 #+author: Cash Weaver
 #+date: [2021-12-03 Fri 11:46]
 #+startup: overview

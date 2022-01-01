@@ -7,7 +7,7 @@
 #+date: [2021-12-27 Mon 19:56]
 #+startup: overview
 #+hugo_auto_set_lastmod: t
-#+filetags: :@cashweaver:
+#+filetags: :@Cash_Weaver:email:emacs:
 
 This is a guide to setting up access to email (eg: @gmail.com) within [[https://github.com/hlissner/doom-emacs][=doom emacs=]] using [[https://notmuchmail.org/][=notmuch=]] and [[https://github.com/gauteh/lieer][=lieer=]].
 

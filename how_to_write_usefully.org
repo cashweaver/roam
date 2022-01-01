@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       70afedd4-60d2-4e2e-87e1-04999d90079e
+:DIR:      /home/cashweaver/proj/roam/attachments/70afedd4-60d2-4e2e-87e1-04999d90079e
+:ROAM_REFS: http://paulgraham.com/useful.html
+:END:
+#+TITLE: How to Write Usefully
+#+hugo_custom_front_matter: roam_refs '("http://paulgraham.com/useful.html")
+#+STARTUP: overview
+#+AUTHOR: Cash Weaver
+#+DATE: [2021-12-31 Fri 17:46]
+#+HUGO_AUTO_SET_LASTMOD: t
+#+FILETAGS: :@Paul_Graham:writing:
+
+* Summary
+
+A useful essay is one which is novel, correct, important, and strong:
+
+- Novel: It should communicate a "new thing" (point of view, fact, opinion, etc) to at least some of its audience.
+- Correct: Your point(s) should be correct; to the extent which is possible.
+- Important: The point(s)
+
+* Notes
+
+#+begin_quote
+What should an essay be? ... useful.
+#+end_quote
+
+#+begin_quote
+Useful writing tells people something true and important that they didn't already know, and tells them as unequivocally as possible.
+#+end_quote
+
+#+begin_quote
+In effect the [novelty, correctness, importance, and strength] are like numbers you can multiply together to get a score for usefulness.
+#+end_quote
+
+#+begin_quote
+How can you ensure that the things you say are true and novel and important? Believe it or not, there is a trick for doing this. I learned it from my friend Robert Morris, who has a horror of saying anything dumb. His trick is not to say anything unless he's sure it's worth hearing. This makes it hard to get opinions out of him, but when you do, they're usually right.
+
+Translated into essay writing, what this means is that if you write a bad sentence, you don't publish it. You delete it and try again. Often you abandon whole branches of four or five paragraphs. Sometimes a whole essay.
+#+end_quote
+
+* Thoughts

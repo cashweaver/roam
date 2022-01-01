@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       772a02cc-f238-4f25-bc41-a584ac13c301
+:DIR:      /home/cashweaver/proj/roam/attachments/772a02cc-f238-4f25-bc41-a584ac13c301
+:ROAM_REFS: https://psychologydictionary.org/permastore/
+:END:
+#+title: Permastore
+#+FILETAGS: :memory:
+#+hugo_custom_front_matter: roam_refs '("https://psychologydictionary.org/permastore/")
+#+author: Cash Weaver
+#+date: [2021-12-31 Fri 12:05]
+#+startup: overview
+#+hugo_auto_set_lastmod: t
+
+#+begin_quote
+Extremely long-term or lasting memory which forms following extensive training, learning, or experience.
+#+end_quote
+
+Bahrick posited the concept in [[doi:10.1037/0096-3445.113.1.1][Fifty years of memory for Spanish learned in school]].

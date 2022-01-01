@@ -5,7 +5,7 @@
 :END:
 #+title: Monthly Newsletter as a Thinking Tool
 #+hugo_custom_front_matter: roam_refs '("https://www.lesswrong.com/posts/TyswYDeub7mxMXCgi/the-monthly-newsletter-as-thinking-tool")
-#+filetags: :@moridinamael:
+#+filetags: :@moridinamael:writing:
 #+author: Cash Weaver
 #+date: [2021-12-03 Fri 11:48]
 #+startup: overview

@@ -4,6 +4,7 @@
 :ROAM_REFS: https://online.uwa.edu/news/emotional-psychology/
 :END:
 #+title: Three Components of Emotion
+#+FILETAGS: :emotion:
 #+hugo_custom_front_matter: roam_refs '("https://online.uwa.edu/news/emotional-psychology/")
 #+author: Cash Weaver
 #+date: [2021-12-13 Mon 01:03]

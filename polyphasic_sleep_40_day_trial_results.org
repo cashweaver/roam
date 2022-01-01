@@ -7,7 +7,7 @@
 #+date: [2021-07-11 Sun 12:15]
 #+hugo_auto_set_lastmod: t
 #+startup: overview
-#+filetags: :polyphasic-sleep:@cashweaver:
+#+filetags: :polyphasic_sleep:@Cash_Weaver:sleep:
 
 What would you do with another few hours every day? This was the thought that pulled me into attempting a polyphasic sleep schedule.
 

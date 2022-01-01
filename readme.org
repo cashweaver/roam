@@ -7,7 +7,7 @@
 #+date: [2021-12-27 Mon 20:32]
 #+startup: overview
 #+hugo_auto_set_lastmod: t
-#+filetags: :@cashweaver:
+#+filetags: :@Cash_Weaver:meta:
 
 The purpose of this =README= is to explain some of the details in this collection of content. In no particular order:
 

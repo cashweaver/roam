@@ -7,7 +7,7 @@
 #+date: [2021-12-27 Mon 20:21]
 #+startup: overview
 #+hugo_auto_set_lastmod: t
-#+filetags: :@cashweaver:
+#+filetags: :@Cash_Weaver:meta:
 
 - I write and publish using [[https://www.gnu.org/software/emacs/][Emacs]], specifically [[https://github.com/hlissner/doom-emacs][Doom Emacs]] ([[https://github.com/cashweaver/dotfiles/blob/main/config/doom/config.org][my config]]), and a combination of [[https://github.com/org-roam/org-roamp][org-roam]] and [[https://github.com/kaushalmodi/ox-hugo][ox-hugo]].
 - I host the blog on [[https://github.com/cashweaver/cashweaver.com][github]] and store the post content in a [[https://github.com/cashweaver/roam][separate github repo]].

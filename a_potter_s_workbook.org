@@ -3,6 +3,7 @@
 :DIR:      /home/cashweaver/proj/roam/attachments/3f493f0a-aac1-43b6-be22-9711b921f6d8
 :END:
 #+title: A Potter's Workbook
+#+FILETAGS: :ceramics:
 #+author: Cash Weaver
 #+date: [2021-12-11 Sat 11:27]
 #+startup: overview
