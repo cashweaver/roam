@@ -9,13 +9,6 @@
 #+hugo_auto_set_lastmod: t
 #+FILETAGS: :@Cash_Weaver:writing:
 
-#+begin_src emacs-lisp
-(cashweaver-org-mode-add-option
- "foo"
- "bar")
-(pcomplete/org-mode/file-option/filetags)
-#+end_src
-
 Notes/guides/stories/etc on writing which I have found useful:
 
 - [[id:70afedd4-60d2-4e2e-87e1-04999d90079e][How to Write Usefully]]foofoo
