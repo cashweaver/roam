@@ -1,0 +1,65 @@
+:PROPERTIES:
+:ID:       1d064cc3-1f68-44a9-b6fa-6faa0d0233b4
+:DIR:      /home/cashweaver/proj/roam/attachments/1d064cc3-1f68-44a9-b6fa-6faa0d0233b4
+:END:
+#+title: Retrospective 2021
+#+FILETAGS: :retrospective:
+#+author: Cash Weaver
+#+date: [2022-01-02 Sun 13:06]
+#+startup: overview
+#+hugo_auto_set_lastmod: t
+#+hugo_draft: true
+
+I wrote out [[id:60abd5dd-30f8-482c-8de7-421e25ed847e][13 goals for 2021]]. By and large I failed to live up to the goals I set for myself. I had a decent year, but I lost track of key things I wanted to
+
+#+begin_quote
+Give more time to the people in my life. Keep in touch with friends.
+#+end_quote
+
+#+begin_quote
+Learn my [[https://www.lesswrong.com/posts/c8EeJtqnsKyXdLtc5/how-long-can-people-usefully-work][working limit]] and respect it.
+#+end_quote
+
+#+begin_quote
+Become more comfortable [[https://news.ycombinator.com/item?id=25482927][sitting quietly in a room alone]].
+#+end_quote
+
+#+begin_quote
+Notice the [[https://www.lesswrong.com/posts/KwdcMts8P8hacqwrX/noticing-the-taste-of-lotus][taste of lotus]]; live intentionally.
+#+end_quote
+
+#+begin_quote
+Use a [[https://www.lesswrong.com/posts/TyswYDeub7mxMXCgi/the-monthly-newsletter-as-thinking-tool][newsletter]], or similar, and [[https://www.google.com/search?rlz=1CAZJXP_enUS900&sxsrf=ALeKk018Uxd8MrGMD408ZNQF-K2ojSC2kA%3A1609550898080&ei=MszvX8auBI73-gTq8L_IBg&q=writing+thinking+tool&oq=writing+thinking+tool&gs_lcp=CgZwc3ktYWIQDFAAWABggc0GaABwAXgAgAEAiAEAkgEAmAEAqgEHZ3dzLXdpeg&sclient=psy-ab&ved=0ahUKEwjGj5ysjPztAhWOu54KHWr4D2kQ4dUDCA4][writing]] as thinking tools.
+#+end_quote
+
+#+begin_quote
+[[https://news.ycombinator.com/item?id=24259861][Document what I do as if I was describing it to a stranger]].
+#+end_quote
+
+#+begin_quote
+Manage my [[https://www.lesswrong.com/posts/aDtzAZf3LnwYvmBP7/attention-is-your-scarcest-resource][attention]].
+#+end_quote
+
+#+begin_quote
+Write, at least a little bit, about what I read.
+#+end_quote
+
+#+begin_quote
+Read more.
+#+end_quote
+
+#+begin_quote
+Keep a [[http://www.zotero.org][personal archive]] of what I've read.
+#+end_quote
+
+#+begin_quote
+[[https://apps.ankiweb.net/][Remember]] what I've learned.
+#+end_quote
+
+#+begin_quote
+Continue [[https://news.ycombinator.com/item?id=25595583][studying math]] and, eventually, ML/AI.
+#+end_quote
+
+#+begin_quote
+Continue [[https://docs.google.com/spreadsheets/d/1y0rATMeou3hKTt7yDgbNwvtOitZSVFEbjeZBH3AZ5Gs/edit?usp=sharing][lifting]] and working out generally.
+#+end_quote

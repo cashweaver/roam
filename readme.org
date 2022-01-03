@@ -12,6 +12,6 @@
 The purpose of this =README= is to explain some of the details in this collection of content. In no particular order:
 
 - I haven't "written" all of the posts. I employ liberal use of quoting as a way of [[id:01fdcfa8-d1dd-420a-a473-b8ac112d7b2f][archiving]].
-- I use tags prefixed with =@= to identify original authors (eg: [[/tags/cashweaver][@cashweaver]]).
+- I use tags prefixed with =@= to identify original authors (eg: [[/tags/cash-weaver][@cash-weaver]]).
 - When PostA links to PostB, then a backlink to PostA will appear at the bottom of PostB ([[id:01fdcfa8-d1dd-420a-a473-b8ac112d7b2f][example]]).
 - I often omit the source of a quote if there is only once source used in the entire post. You'll find that source mentioned just below the title after "References".

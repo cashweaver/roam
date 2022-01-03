@@ -25,13 +25,6 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-01-09 18:40]
 :END:
-* INPROGRESS [[https://thepointmag.com/examined-life/who-wants-to-play-the-status-game-agnes-callard/][Who wants to play the status game?]] :essay:
-:PROPERTIES:
-:CREATED: [2020-01-24 01:53]
-:END:
-:LOGBOOK:
-CLOCK: [2021-12-29 Wed 13:55]
-:END:
 * TODO [[https://news.ycombinator.com/item?id=22264043][Ask HN: What agenda do you have for 1:1 meetings with your supervisor?]] :discussion:
 :PROPERTIES:
 :CREATED: [2020-02-07 08:04]
@@ -60,21 +53,16 @@ CLOCK: [2021-12-29 Wed 13:55]
 :PROPERTIES:
 :CREATED: [2020-02-16 11:53]
 :END:
-* TODO [[https://payne.org/blog/the-myth-of-the-myth-of-the-10x-programmer/][The Myth of the Myth of the 10x Programmer]] :essay:
-:PROPERTIES:
-:CREATED: [2020-02-17 18:37]
-:END:
-* TODO [[https://hbr.org/2018/12/how-to-collaborate-with-people-you-dont-like][How to Collaborate with People You Don't Like (2018)]] :essay:
-:PROPERTIES:
-:CREATED: [2020-02-19 07:02]
-:END:
 * TODO [[http://introtodeeplearning.com/][MIT 6.S191: Introduction to Deep Learning]] :class:
 :PROPERTIES:
 :CREATED: [2020-02-20 19:46]
 :END:
-* TODO [[http://paulgraham.com/useful.html][How to Write Usefully]] :essay:
+* INPROGRESS [[http://paulgraham.com/useful.html][How to Write Usefully]] :essay:
 :PROPERTIES:
 :CREATED: [2020-02-21 09:07]
+:END:
+:LOGBOOK:
+CLOCK: [2022-01-01 Sat 14:32]
 :END:
 * TODO [[https://roadmap.sh/guides/levels-of-seniority][Levels of Seniority]] :essay:
 :PROPERTIES:

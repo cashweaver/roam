@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       c73727bd-7ed8-4c50-bd08-524ebb2afbea
+:DIR:      /home/cashweaver/proj/roam/attachments/c73727bd-7ed8-4c50-bd08-524ebb2afbea
+:END:
+#+title: Ceramists/Potters I Follow
+#+author: Cash Weaver
+#+date: [2022-01-02 Sun 22:39]
+#+startup: overview
+#+hugo_auto_set_lastmod: t
+
+- [[https://www.youtube.com/c/FlorianGadsbyCeramics][Florian Gadsby]]
+- [[https://www.youtube.com/c/BillvanGilderPottery][Bill van Gilder]]
+- [[https://www.youtube.com/c/dearAli][Dear Ali]]
+- [[https://www.youtube.com/c/hsinchuen][Hsinchuen Lin]]
+- [[https://www.youtube.com/c/ShinobuHashimoto][Shinobu Hashimoto]]
+- [[https://www.youtube.com/channel/UCSirazTEcuYahrfjOH05BmQ][Earth Nation Ceramics]]
+- [[https://youtube.com/c/MaeCeramics][Lilly Maetzig]]
