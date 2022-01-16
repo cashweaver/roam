@@ -3,7 +3,7 @@
 :DIR:      /home/cashweaver/proj/roam/attachments/60abd5dd-30f8-482c-8de7-421e25ed847e
 :END:
 #+title: Goals for 2021
-#+FILETAGS: :resolutions:
+#+FILETAGS: :resolutions:@Cash_Weaver:
 #+author: Cash Weaver
 #+date: [2021-01-02 Sat 13:04]
 #+startup: overview

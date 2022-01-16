@@ -57,6 +57,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-02-20 19:46]
 :END:
+* TODO [[https://jamesaltucher.com/blog/the-ultimate-guide-for-becoming-an-idea-machine/][The Ultimate Guide for Becomming an Idea Machine]]
 * INPROGRESS [[http://paulgraham.com/useful.html][How to Write Usefully]] :essay:
 :PROPERTIES:
 :CREATED: [2020-02-21 09:07]

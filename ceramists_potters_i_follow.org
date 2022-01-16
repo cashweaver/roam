@@ -3,6 +3,7 @@
 :DIR:      /home/cashweaver/proj/roam/attachments/c73727bd-7ed8-4c50-bd08-524ebb2afbea
 :END:
 #+title: Ceramists/Potters I Follow
+#+FILETAGS: :@Cash_Weaver:
 #+author: Cash Weaver
 #+date: [2022-01-02 Sun 22:39]
 #+startup: overview
@@ -15,3 +16,4 @@
 - [[https://www.youtube.com/c/ShinobuHashimoto][Shinobu Hashimoto]]
 - [[https://www.youtube.com/channel/UCSirazTEcuYahrfjOH05BmQ][Earth Nation Ceramics]]
 - [[https://youtube.com/c/MaeCeramics][Lilly Maetzig]]
+- [[https://www.youtube.com/c/IngletonPottery][Ingleton Pottery]]

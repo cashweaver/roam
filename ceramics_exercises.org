@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       a500c749-aab9-4150-876f-6f40c76bba35
+:DIR:      /home/cashweaver/proj/roam/attachments/a500c749-aab9-4150-876f-6f40c76bba35
+:END:
+#+title: Ceramics Exercises
+#+author: Cash Weaver
+#+date: [2022-01-10 Mon 19:13]
+#+startup: overview
+#+hugo_auto_set_lastmod: t
+
+**Throw/form as much as possible.**
+
+1. Throw repeatedly for consistency: Throw 10/25/50/100/... of the same form (eg: a mug) from the same amount of clay and attempt to form them as consistently as you can. Compare them afterward, note differences, and consider what you can do to improve your consistency.
+2. Throw repeatedly for creativity: Throw 10/25/50/100/... different variations on the same form (eg: a vase). This exercise is about [[id:876f8d80-902c-427a-9109-bb3bd447715c][pushing yourself to be creative]] and explore the form you're throwing.
+3. [[id:dee6e7d8-446d-4a94-8aca-fd226b4c2117][... make a cylinder, somewhat taller than it is wide, that suggests the greatest possible internal empty space for the given amount of clay.]]
+4. [[id:5c339128-b0bd-49bd-a7a3-7539af35f024][Wedge up a few pounds of clay and throw as many different kinds of rims as you can devise. Cut each rim off the cylinder, save it, and then throw another.]]
+5. [[id:063d5b45-a1a7-457c-a50c-ccdc97e97058][The third assignment is to throw a cylinder that is not just a throwing exercise but a finished pot—a cylinder with a personality and a story to tell. It can be simple or complex, a bit concave or convex, punctuated with subtle or strong beginnings and endings.]]
+6. [[id:970480b5-cd47-4024-9574-6c44734dc51f][... pitchers. Use at least two pounds of clay or more, and keep it simple. Do not make forms that will require turning or trimming, but think in terms of cylindrically derived shapes.]]
+7. [[https://www.reddit.com/r/Pottery/comments/47wf90/comment/d0g8rmo/?utm_source=share&utm_medium=web2x&context=3][Pull as high as you can]]
+8. [[https://www.reddit.com/r/Pottery/comments/47wf90/comment/d0g8rmo/?utm_source=share&utm_medium=web2x&context=3][Pulling large amounts of clay (getting >50% of your height on your first pull)]]
+9. [[https://www.reddit.com/r/Pottery/comments/47wf90/comment/d0fxp8q/?utm_source=share&utm_medium=web2x&context=3][Try to make 6 inch cylinders from one pound of clay. Realistically you're not going to do it (it's not easy, Idk if I could do it consistently) But it gives you a goal. You want even pulls and consistent thickness the whole way through.]]
+10. [[https://www.reddit.com/r/Pottery/comments/47wf90/comment/d0fxp8q/?utm_source=share&utm_medium=web2x&context=3][Make 10/20/50/100 whatever, just make them. You can recycle clay so you only lose whatever Slip you toss from your bucket.]]
+11. [[https://www.reddit.com/r/Pottery/comments/47wf90/comment/d0g0qxj/?utm_source=share&utm_medium=web2x&context=3][... first draw a silhouette, whatever type of piece and shape you want, and try to make that shape. That will get you in the mode of visualizing before working, and also hones your skills in general so you can make the shapes you want.]]
+12. Cut your form in half after throwing it. How consistent are the walls?
