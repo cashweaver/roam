@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       7bfd0762-1ab3-4797-bdd1-483370601434
+:DIR:      /home/cashweaver/proj/roam/attachments/7bfd0762-1ab3-4797-bdd1-483370601434
+:END:
+#+title: Use The Smallest Word That Does The Job
+#+FILETAGS: :quote:@Elwyn_Brooks_White:
+#+author: Cash Weaver
+#+date: [2022-01-17 Mon 11:33]
+#+startup: overview
+#+hugo_auto_set_lastmod: t
+
+#+begin_quote
+Use the smallest word that does the job.
+
+/E.B. White/
+#+end_quote

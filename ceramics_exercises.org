@@ -3,6 +3,7 @@
 :DIR:      /home/cashweaver/proj/roam/attachments/a500c749-aab9-4150-876f-6f40c76bba35
 :END:
 #+title: Ceramics Exercises
+#+FILETAGS: :@Cash_Weaver:ceramics:
 #+author: Cash Weaver
 #+date: [2022-01-10 Mon 19:13]
 #+startup: overview
