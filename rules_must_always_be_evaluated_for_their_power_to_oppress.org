@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       5f8f88a2-e975-442c-952e-28dbc54f1eb6
+:DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/5f8f88a2-e975-442c-952e-28dbc54f1eb6
+:END:
+#+title: Rules Must Always be Evaluated for their Power to Oppress
+#+FILETAGS: :@Dan_Olson:
+#+author: Cash Weaver
+#+date: [2022-01-24 Mon 12:30]
+#+startup: overview
+#+hugo_auto_set_lastmod: t
+
+#+begin_quote
+Rules Must Always be Evaluated for their Power to Oppress
+
+[[https://www.youtube.com/watch?v=YQ_xWvX1n9g][Dan Olson, Folding Ideas]]
+#+end_quote
