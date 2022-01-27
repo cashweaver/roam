@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       4f9769a8-94c3-461c-b4be-933b522aab15
+:DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/4f9769a8-94c3-461c-b4be-933b522aab15
+:ROAM_REFS: https://commoncog.com/blog/to-get-good-go-after-the-metagame/
+:END:
+#+TITLE: To Get Good, Go After the Metagame
+#+STARTUP: overview
+#+AUTHOR: Cash Weaver
+#+DATE: [2022-01-25 Tue 20:15]
+#+HUGO_AUTO_SET_LASTMOD: t
+* Summary
+* Notes
+* Thoughts

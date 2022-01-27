@@ -57,13 +57,6 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-02-20 19:46]
 :END:
-* INPROGRESS [[http://paulgraham.com/useful.html][How to Write Usefully]] :essay:
-:PROPERTIES:
-:CREATED: [2020-02-21 09:07]
-:END:
-:LOGBOOK:
-CLOCK: [2022-01-01 Sat 14:32]
-:END:
 * TODO [[https://roadmap.sh/guides/levels-of-seniority][Levels of Seniority]] :essay:
 :PROPERTIES:
 :CREATED: [2020-02-22 13:30]
