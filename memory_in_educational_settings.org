@@ -14,7 +14,7 @@
 * Summary
 
 - Retrieval or re-experiencing a memory will increase retention.
-- Studying should be somewhat difficult; neither too difficult that the subject is unable to overcome the challenge, nor too easy. The difficulty is a desirable feature of the process of studying in that the difficulty improves retention.
+- Studying should be somewhat difficult; neither too difficult that the subject is unable to overcome the challenge, nor too easy. The difficulty is [[id:89eb6adc-d8f8-4033-bc46-7fed725c3c01][desirable]] feature of the process of studying in that the difficulty improves retention.
   - One does not need to be aware of the specific benefits of a study method to benefit from them.
 - The way you learned a piece of information as well as the cues/environment during retrieval control your ability to remember and utilize information.
   - There is no "right" study method, though some are better than others. The study method which will be most effective will depend on the situation in which you will need to recall the information.

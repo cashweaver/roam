@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       d65fac7a-c0e4-4f53-95f2-71d7343dc0cf
+:DIR:      /home/cashweaver/proj/roam/attachments/d65fac7a-c0e4-4f53-95f2-71d7343dc0cf
+:ROAM_REFS: https://www.plainlanguage.gov/
+:END:
+#+title: Use Plain Language
+#+FILETAGS: :writing:
+#+hugo_custom_front_matter: roam_refs '("https://www.plainlanguage.gov/")
+#+author: Cash Weaver
+#+date: [2022-01-17 Mon 11:26]
+#+startup: overview
+#+hugo_auto_set_lastmod: t
+
+#+begin_quote
+Plain language makes it easier [...] to read, understand, and use [writing].
+
+/[[https://www.plainlanguage.gov/][plainlanguage.gov]]/
+#+end_quote
+
+* Quotes
+
+- [[id:f9a2d16c-2264-47a7-85ce-db8e962a3811][The Shorter and Plainer the Better]]
+- [[id:7bfd0762-1ab3-4797-bdd1-483370601434][Use The Smallest Word That Does The Job]]
+- [[id:436e3b6b-6b46-4173-b764-d3d902651feb][If I Had More Time, I Would Have Written A Shorter Letter]]

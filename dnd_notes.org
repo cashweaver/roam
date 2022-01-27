@@ -8,8 +8,13 @@
 #+startup: overview
 #+hugo_auto_set_lastmod: t
 
-* Eli Huhoi
+* [2022-01-10 Mon] :week02:quarter1:
+:PROPERTIES:
+:Created:  [2022-01-10 Mon 19:00]
+:END:
 
-** In Virradain's flashback
+* Characters
+** Eli Huhoi
+*** In Virradain's flashback
 
-I'm Suko
+I'm Ivan Puttendeez

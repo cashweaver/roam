@@ -44,6 +44,7 @@ As an apprentice at the Leach Pottery in 1964 and 1965, I helped produce a line 
 *** The Space Within
 :PROPERTIES:
 :NOTER_PAGE: 21
+:ID:       dee6e7d8-446d-4a94-8aca-fd226b4c2117
 :END:
 
 #+begin_quote
@@ -57,6 +58,7 @@ The task was to make a cylinder. The word "pot" was not used in order to keep th
 *** Beginnings and Endings
 :PROPERTIES:
 :NOTER_PAGE: 27
+:ID:       5c339128-b0bd-49bd-a7a3-7539af35f024
 :END:
 
 #+begin_quote
@@ -70,6 +72,7 @@ The variation in results of this exercise will be greater among people than with
 *** Cylinders as Pots
 :PROPERTIES:
 :NOTER_PAGE: 34
+:ID:       063d5b45-a1a7-457c-a50c-ccdc97e97058
 :END:
 
 #+begin_quote
@@ -89,6 +92,7 @@ The cause of round-bottomed pots is a failure to open up a wide enough floor wit
 *** Pitchers
 :PROPERTIES:
 :NOTER_PAGE: 42
+:ID:       970480b5-cd47-4024-9574-6c44734dc51f
 :END:
 
 #+begin_quote
@@ -117,29 +121,39 @@ Bowls require a complete change of tactics, so clear your mind before tackling t
 :NOTER_PAGE: 80
 :END:
 
+**** TODO
+
 *** Learning to See
 :PROPERTIES:
 :NOTER_PAGE: 93
 :END:
+
+**** TODO
 
 *** Style and Voice
 :PROPERTIES:
 :NOTER_PAGE: 101
 :END:
 
+**** TODO
+
 *** Utility and Tradition
 :PROPERTIES:
 :NOTER_PAGE: 113
 :END:
+
+**** TODO
 
 *** Place
 :PROPERTIES:
 :NOTER_PAGE: 118
 :END:
 
+**** TODO
+
 *** Notes
 :PROPERTIES:
 :NOTER_PAGE: 124
 :END:
 
-
+**** TODO

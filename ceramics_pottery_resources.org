@@ -3,7 +3,7 @@
 :DIR:      /home/cashweaver/proj/roam/attachments/0b2473da-3953-457c-b68c-4abc7a235d17
 :END:
 #+title: Ceramics/Pottery Resources
-#+FILETAGS: :ceramics:
+#+FILETAGS: :ceramics:@Cash_Weaver:
 #+author: Cash Weaver
 #+date: [2022-01-02 Sun 20:16]
 #+startup: overview
@@ -61,15 +61,7 @@
 
 ** [[id:c73727bd-7ed8-4c50-bd08-524ebb2afbea][Ceramists/Potters I Follow]]
 
-* Practice
-:PROPERTIES:
-:ID:       d972b61d-9413-49ac-8419-9d1092518314
-:END:
-
-
-TODO: Make into standalone node
-
-- TODO: rephrase: Throw 10 X: Throw ten of something, back to back, with or without variation. Variation will allow you to explore the form. Without variation will allow you to practice consistency.
+* [[id:a500c749-aab9-4150-876f-6f40c76bba35][Ceramics Exercises]]
 
 * Reference
 :PROPERTIES:

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       d4dba9bb-3753-45c8-b3ad-396185b2c62c
+:DIR:      /home/cashweaver/proj/roam/attachments/d4dba9bb-3753-45c8-b3ad-396185b2c62c
+:ROAM_REFS: https://en.wikipedia.org/wiki/Law_of_triviality
+:END:
+#+title: Law of Triviality
+#+hugo_custom_front_matter: roam_refs '("https://en.wikipedia.org/wiki/Law_of_triviality")
+#+author: Cash Weaver
+#+date: [2022-01-18 Tue 07:42]
+#+startup: overview
+#+hugo_auto_set_lastmod: t
+
+#+begin_quote
+[...] people [...] typically give disproportionate weight to trivial issues.
+#+end_quote
+
+Also known as "bike-shedding".

@@ -4,7 +4,6 @@
 :END:
 #+title: Relational Processing
 #+FILETAGS: :learning:
-
 #+author: Cash Weaver
 #+date: [2021-12-31 Fri 11:44]
 #+startup: overview
