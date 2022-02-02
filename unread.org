@@ -1,15 +1,16 @@
 #+TITLE: Unread
 #+AUTHOR: cashweaver
 #+STARTUP: overview
-#+TAGS: book essay class discussion link_group
+#+TAGS: [ type : book essay class discussion link_group ]
+#+TAGS: [ subject : math politics machine_learning_artificial_intelligence management ]
 
 Please sort in order of oldest to youngest.
 
-* TODO [[https://www.theatlantic.com/politics/archive/2016/10/how-democrats-killed-their-populist-soul/504710/][How Democrats Killed their Populist Soul]] :essay:
+* TODO [[https://www.theatlantic.com/politics/archive/2016/10/how-democrats-killed-their-populist-soul/504710/][How Democrats Killed their Populist Soul]] :essay:politics:
 :PROPERTIES:
 :CREATED: [2021-12-27 15:22]
 :END:
-* TODO [[https://www.google.com/books/edition/Goliath/mDxqDwAAQBAJ?hl=en&gbpv=0][Goliath by Matt Stoller]] :book:
+* TODO [[https://www.google.com/books/edition/Goliath/mDxqDwAAQBAJ?hl=en&gbpv=0][Goliath by Matt Stoller]] :book:politics:
 :PROPERTIES:
 :CREATED: [2021-12-27 15:22]
 :END:
@@ -17,7 +18,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-01-01 14:37]
 :END:
-* TODO [[https://d2l.ai/][Dive into Deep Learning]] :book:
+* TODO [[https://d2l.ai/][Dive into Deep Learning]] :book:machine_learning_artificial_intelligence:
 :PROPERTIES:
 :CREATED: [2020-01-03 18:19]
 :END:
@@ -57,113 +58,11 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-02-20 19:46]
 :END:
-* TODO [[https://roadmap.sh/guides/levels-of-seniority][Levels of Seniority]] :essay:
-:PROPERTIES:
-:CREATED: [2020-02-22 13:30]
-:END:
-* TODO [[https://commoncog.com/blog/to-get-good-go-after-the-metagame/][To Get Good, Go After the Metagame]] :essay:
-:PROPERTIES:
-:CREATED: [2020-02-25 14:19]
-:END:
-* TODO [[https://blog.samaltman.com/hard-startups][Hard Startups]] :essay:
-:PROPERTIES:
-:CREATED: [2020-02-26 18:30]
-:END:
-* TODO [[https://slatestarcodex.com/2020/02/27/book-review-the-seven-principles-for-making-marriage-work/][Book Review: The Seven Principles For Making Marriage Work]] :essy:
-:PROPERTIES:
-:CREATED: [2020-02-28 07:28]
-:END:
-* TODO [[https://www.gkogan.co/blog/simple-systems/?r=0][Simple Systems Have Less Downtime]] :essay:
-:PROPERTIES:
-:CREATED: [2020-03-03 02:45]
-:END:
-* TODO [[https://slatestarcodex.com/2020/03/06/socratic-grilling/][Socratic Grilling]] :essay:
-:PROPERTIES:
-:CREATED: [2020-03-06 08:26]
-:END:
-* TODO [[https://www.lpalmieri.com/posts/2020-03-08-on-the-shoulders-of-the-giants/][On the shoulders of the giants]] :essay:
-:PROPERTIES:
-:CREATED: [2020-03-08 01:51]
-:END:
-* TODO [[https://dhwthompson.com/2019/my-favourite-git-commit][My favourite Git commit (2019)]] :essay:
-:PROPERTIES:
-:CREATED: [2020-03-08 18:28]
-:END:
-* TODO [[https://matt.sh/commit-this][How I survived being a $220k/year intern]] :essay:
-:PROPERTIES:
-:CREATED: [2020-03-08 20:12]
-:END:
-* TODO [[https://www.gresearch.co.uk/article/defunctionalisation/][Defunctionalisation: An underappreciated tool for writing good software]] :essay:
-:PROPERTIES:
-:CREATED: [2020-03-09 13:09]
-:END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/fgsmon/for_then_against_highsaturatedfat_diets/][For, Then Against, High-Saturated-Fat Diets]] :essay:
-:PROPERTIES:
-:CREATED: [2020-03-11 06:11]
-:END:
-* TODO [[https://www.nytimes.com/2020/03/11/upshot/alcoholics-anonymous-new-evidence.html][Alcoholics Anonymous vs. other approaches: the evidence is now in]] :essay:
-:PROPERTIES:
-:CREATED: [2020-03-11 13:19]
-:END:
-* TODO [[https://thedorkweb.substack.com/p/tales-from-the-dork-web-4][Cyberpunk: Then and Now]] :essay:
-:PROPERTIES:
-:CREATED: [2020-03-12 17:41]
-:END:
-* TODO [[https://a16z.com/2011/04/14/peacetime-ceowartime-ceo-2/][Peacetime CEO/Wartime CEO (2011)]] :essay:
-:PROPERTIES:
-:CREATED: [2020-03-12 19:02]
-:END:
-* TODO [[https://www.bbc.com/worklife/article/20200306-the-surprising-truth-about-finding-your-passion-at-work][How a 'growth mindset' can lead to success]] :essay:
-:PROPERTIES:
-:CREATED: [2020-03-12 20:56]
-:END:
-* TODO [[https://www.timo-zimmermann.de/2020/03/working-from-home-things-no-one-talks-about/][Working from home – things no one talks about]] :essay:
-:PROPERTIES:
-:CREATED: [2020-03-14 18:28]
-:END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/fj1ryv/scott_on_how_we_almost_had_an_awesome_fda/][Scott on how we almost had an awesome FDA commissioner]] :essay:
-:PROPERTIES:
-:CREATED: [2020-03-15 14:04]
-:END:
-* TODO [[https://slatestarcodex.com/2020/03/17/book-review-hoover/][Book Review: Hoover]] :essay:
-:PROPERTIES:
-:CREATED: [2020-03-17 21:10]
-:END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/fkxgme/the_correct_response_to_uncertainty_is_not/][The correct response to uncertainty is *not* half-speed]] :essay:
-:PROPERTIES:
-:CREATED: [2020-03-18 21:22]
-:END:
-* TODO [[https://en.wikipedia.org/wiki/1%25_rule_(Internet_culture)][1% rule]] :essay:
-:PROPERTIES:
-:CREATED: [2020-03-18 23:27]
-:END:
-* TODO [[https://why.degree/motivation/][Build stuff]] :essay:
-:PROPERTIES:
-:CREATED: [2020-03-20 13:02]
-:END:
-* TODO [[https://letterstoanewdeveloper.com/2019/12/19/cultivate-the-skill-of-undivided-attention-or-deep-work/][Cultivate the Skill of Undivided Attention, or "Deep Work" (2019)]] :essay:
-:PROPERTIES:
-:CREATED: [2020-03-21 14:48]
-:END:
-* TODO [[https://www.pennmedicine.org/updates/blogs/musculoskeletal-and-rheumatology/2018/october/breathing-exercises][Breathing and Exercise: Strength Training for Your Diaphragm (2018)]] :essay:
-:PROPERTIES:
-:CREATED: [2020-03-22 17:39]
-:END:
-* TODO [[https://begriffs.com/posts/2020-03-23-concurrent-programming.html?hn=1][Concurrent Programming, with Examples]] :essay:
-:PROPERTIES:
-:CREATED: [2020-03-24 05:05]
-:END:
-* TODO [[https://jlongster.com/How-I-Became-Better-Programmer][How I became a better programmer (2017)]] :essay:
-:PROPERTIES:
-:CREATED: [2020-03-24 19:58]
-:END:
+* TODO Ben Kuhn's blog: https://www.benkuhn.net/ :link_group:
+* TODO [[https://alhassy.github.io/org-special-block-extras/][org-special-block-extras]] :essay:
 * TODO [[https://news.ycombinator.com/item?id=22682837][Ask HN: How to self-study physics?]] :discussion:
 :PROPERTIES:
 :CREATED: [2020-03-25 08:17]
-:END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/fowhki/the_fish_rots_from_the_head/][The Fish Rots From The Head]] :discussion:essay:
-:PROPERTIES:
-:CREATED: [2020-03-25 19:29]
 :END:
 * TODO [[https://www.reddit.com/r/slatestarcodex/comments/foxxug/i_greatly_enjoy_scotts_writing_what_else_will_i/][I greatly enjoy Scott's writing. What else will I like?]] :discussion:link_group:
 :PROPERTIES:
@@ -173,21 +72,9 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-03-26 14:04]
 :END:
-* TODO [[https://ericlippert.com/2020/03/27/new-grad-vs-senior-dev/][New Grad vs. Senior Dev]] :essay:
-:PROPERTIES:
-:CREATED: [2020-03-28 00:20]
-:END:
-* TODO [[https://lanraccoon.com/2020/youre-not-writing-code-youre-solving-problems][You're not writing code, you're solving problems]] :essay:
-:PROPERTIES:
-:CREATED: [2020-03-29 11:05]
-:END:
 * TODO [[https://news.ycombinator.com/item?id=22718592][Ask HN: Great fiction books that have had a positive impact on your life?]] :discussion:link_group:
 :PROPERTIES:
 :CREATED: [2020-03-29 12:54]
-:END:
-* TODO [[http://smyachenkov.com/posts/cognitive-biases-software-development/][Cognitive Biases in Software Development]] :essay:
-:PROPERTIES:
-:CREATED: [2020-03-30 19:19]
 :END:
 * TODO [[https://www.reddit.com/r/slatestarcodex/comments/fs3ay7/legal_systems_very_different_from_ours_because_i/][Legal Systems Very Different From Ours, Because I Just Made Them Up]] :discussion:essay:
 :PROPERTIES:
@@ -201,15 +88,11 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-04-06 16:20]
 :END:
-* TODO [[https://www.edge.org/response-detail/11783][What concept would improve everybody's cognitive toolkit? Kayfabe (2011)]] :essay:
-:PROPERTIES:
-:CREATED: [2020-04-06 19:14]
-:END:
 * TODO [[https://news.ycombinator.com/item?id=22800136][Ask HN: What is your blog and why should I read it?]] :link_group:discussion:
 :PROPERTIES:
 :CREATED: [2020-04-07 03:33]
 :END:
-* TODO [[https://www.damtp.cam.ac.uk/user/tong/em/dyson.pdf][Why is Maxwell's theory so hard to understand? (2007) [pdf]]] :essay:
+* TODO [[https://www.damtp.cam.ac.uk/user/tong/em/dyson.pdf][Why is Maxwell's theory so hard to understand? (2007) [pdf]]] :essay:math:
 :PROPERTIES:
 :CREATED: [2020-04-08 07:49]
 :END:
@@ -229,61 +112,29 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-11-13 09:00]
 :END:
-* TODO [[http://www.jezzamon.com/fourier/index.html][An Interactive Introduction to Fourier Transforms]] :essay:
+* TODO [[http://www.jezzamon.com/fourier/index.html][An Interactive Introduction to Fourier Transforms]] :essay:math:
 :PROPERTIES:
 :CREATED: [2020-11-14 21:19]
 :END:
-* TODO [[https://betterexplained.com/][BetterExplained: Clear, intuitive lessons about mathematics]] :essay:
+* TODO [[https://betterexplained.com/][BetterExplained: Clear, intuitive lessons about mathematics]] :essay:math:
 :PROPERTIES:
 :CREATED: [2020-11-15 11:14]
 :END:
-* TODO [[https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf][What distinguishes great software engineers? (2019) [pdf]]] :essay:
-:PROPERTIES:
-:CREATED: [2020-11-16 02:27]
-:END:
-* TODO [[https://www.lesswrong.com/posts/eZCrCB3HiDB55Ccqx/spend-twice-as-much-effort-every-time-you-attempt-to-solve-a][Spend twice as much effort every time you attempt to solve a problem]] :essay:
-:PROPERTIES:
-:CREATED: [2020-11-16 04:07]
-:END:
-* TODO [[https://stopa.io/post/269][What Gödel Discovered]] :essay:
+* TODO [[https://stopa.io/post/269][What Gödel Discovered]] :essay:math:
 :PROPERTIES:
 :CREATED: [2020-11-16 19:15]
-:END:
-* TODO [[https://aeon.co/essays/how-raising-children-can-change-a-fathers-brain][The biology of dads]] :essay:
-:PROPERTIES:
-:CREATED: [2020-11-17 15:07]
-:END:
-* TODO [[https://www.newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done][The Rise and Fall of Getting Things Done]] :essay:
-:PROPERTIES:
-:CREATED: [2020-11-18 00:45]
-:END:
-* TODO [[https://www.nityesh.com/equal-pay-for-equal-work-at-a-remote-company/]["Equal pay for equal work" in remote jobs]] :essay:
-:PROPERTIES:
-:CREATED: [2020-11-18 08:03]
 :END:
 * TODO [[https://news.ycombinator.com/item?id=25136258][Ask HN: What is the best money you have spent on professional development?]] :discussion:link_group:
 :PROPERTIES:
 :CREATED: [2020-11-18 13:02]
 :END:
-* TODO [[https://www.lesswrong.com/posts/SKQmvZMTY6zQf3Ktc/writing-to-think][Writing to think]] :essay:
-:PROPERTIES:
-:CREATED: [2020-11-18 16:02]
-:END:
 * TODO [[https://www.stephendiehl.com/posts/exotic03.html][Exotic Programming Ideas, Part 3: Effect Systems]] :essay:
 :PROPERTIES:
 :CREATED: [2020-11-22 15:56]
 :END:
-* TODO [[https://zandercutt.com/2019/02/18/were-optimizing-ourselves-to-death/][We're Optimizing Ourselves to Death (2019)]] :essay:
-:PROPERTIES:
-:CREATED: [2020-11-22 19:25]
-:END:
 * TODO [[https://www.lesswrong.com/posts/k6NkvAcRaKBMAzqEF/my-intellectual-influences][My intellectual influences]] :essay:
 :PROPERTIES:
 :CREATED: [2020-11-23 02:48]
-:END:
-* TODO [[https://mythirdbrain.substack.com/p/how-i-spend-my-attention][How I Spend My Attention]] :essay:
-:PROPERTIES:
-:CREATED: [2020-11-23 02:54]
 :END:
 * TODO [[https://betterexplained.com/articles/intuitive-convolution/][Convolution Is Fancy Multiplication]] :essay:
 :PROPERTIES:
@@ -313,14 +164,6 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-11-25 21:36]
 :END:
-* TODO [[https://www.julian.com/guide/write/intro][Writing well]] :essay:
-:PROPERTIES:
-:CREATED: [2020-11-26 02:55]
-:END:
-* TODO [[https://www.lesswrong.com/posts/5wGFS2sZhKAihSg6k/success-buys-freedom][Success Buys Freedom]] :essay:
-:PROPERTIES:
-:CREATED: [2020-11-26 03:02]
-:END:
 * TODO [[https://overreacted.io/things-i-dont-know-as-of-2018/][Things I Don't Know as of 2018]] :essay:
 :PROPERTIES:
 :CREATED: [2020-11-26 16:18]
@@ -345,10 +188,6 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-11-28 08:01]
 :END:
-* TODO [[https://www.arameb.com/blog/2020/11/22/probability][Is Probability Real?]] :essay:
-:PROPERTIES:
-:CREATED: [2020-11-28 13:23]
-:END:
 * TODO [[https://twitter.com/_SecondThought/status/1332746158947635202][YouTube shadowbans video titled "The CIA is a Terrorist Organization"]] :essay:
 :PROPERTIES:
 :CREATED: [2020-11-29 13:34]
@@ -356,10 +195,6 @@ Please sort in order of oldest to youngest.
 * TODO [[https://news.ycombinator.com/item?id=25245125][Ask HN: Top Coursera Courses?]] :discussion:link_group:
 :PROPERTIES:
 :CREATED: [2020-11-29 14:00]
-:END:
-* TODO [[https://onlinelibrary.wiley.com/doi/10.1002/hbm.25132][Sleep duration is associated with brain structure and cognitive performance]]
-:PROPERTIES:
-:CREATED: [2020-11-29 17:15]
 :END:
 * TODO [[https://www.bbc.com/worklife/article/20201123-the-psychology-behind-revenge-bedtime-procrastination][The psychology behind 'revenge bedtime procrastination']] :essay:
 :PROPERTIES:
@@ -380,10 +215,6 @@ Please sort in order of oldest to youngest.
 * TODO [[https://www.lesswrong.com/posts/QFBEjjAvT6KbaA3dY/the-lesswrong-2019-review][The LessWrong 2019 Review]] :link_group:
 :PROPERTIES:
 :CREATED: [2020-12-02 11:21]
-:END:
-* TODO [[https://www.lesswrong.com/posts/N2iHH2HcN94nYPhuh/how-i-write][How I Write]] :essay:
-:PROPERTIES:
-:CREATED: [2020-12-03 00:49]
 :END:
 * TODO [[https://www.lesswrong.com/posts/CpZmtD9FBzyzueGfP/in-addition-to-ragebait-and-doomscrolling][In Addition to Ragebait and Doomscrolling]] :essay:
 :PROPERTIES:

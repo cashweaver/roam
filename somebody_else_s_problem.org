@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       c5f1ce6a-5a0f-4889-881b-6862d462cf08
+:DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/c5f1ce6a-5a0f-4889-881b-6862d462cf08
+:ROAM_REFS: https://en.wikipedia.org/wiki/Somebody_else%27s_problem
+:END:
+#+title: Somebody Else's Problem
+#+hugo_custom_front_matter: roam_refs '("https://en.wikipedia.org/wiki/Somebody_else%27s_problem")
+#+author: Cash Weaver
+#+date: [2022-01-29 Sat 09:39]
+#+startup: overview
+#+hugo_auto_set_lastmod: t
+
+#+begin_quote
+[...] an issue which is dismissed by a person on the grounds that they consider somebody else to be responsible for it, or that it is "out of scope" in a particular context.
+#+end_quote

@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       17fd1711-830b-4b81-a9bb-57a88e24c06b
+:DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/17fd1711-830b-4b81-a9bb-57a88e24c06b
+:END:
+#+title: Work on One Thing at a Time
+#+FILETAGS: :attention:@Cash_Weaver:
+#+author: Cash Weaver
+#+date: [2022-01-30 Sun 11:47]
+#+startup: overview
+#+hugo_auto_set_lastmod: t
+#+hugo_draft: t
+
+* TODO

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       8cef0813-034d-492e-a45c-d2c9caeae1b1
+:DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/8cef0813-034d-492e-a45c-d2c9caeae1b1
+:ROAM_REFS: https://www.edge.org/response-detail/11783
+:END:
+#+TITLE: What concept would improve everybody's cognitive toolkit? Kayfabe (2011)
+#+STARTUP: overview
+#+AUTHOR: Cash Weaver
+#+DATE: [2022-02-01 Tue 09:43]
+#+HUGO_AUTO_SET_LASTMOD: t
+#+HUGO_DRAFT: t
+* TODO Summary
+* TODO Notes
+* TODO Thoughts

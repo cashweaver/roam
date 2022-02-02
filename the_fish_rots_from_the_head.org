@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       644b7f75-6618-477d-bd6b-3271cc9d6471
+:DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/644b7f75-6618-477d-bd6b-3271cc9d6471
+:ROAM_REFS: https://www.reddit.com/r/slatestarcodex/comments/fowhki/the_fish_rots_from_the_head/
+:END:
+#+TITLE: The Fish Rots From The Head
+#+STARTUP: overview
+#+AUTHOR: Cash Weaver
+#+DATE: [2022-02-01 Tue 09:41]
+#+HUGO_AUTO_SET_LASTMOD: t
+#+HUGO_DRAFT: t
+* TODO Summary
+* TODO Notes
+* TODO Thoughts

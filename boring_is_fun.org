@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       3baf57be-df25-429e-9bd6-5654d2fea9cf
+:DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/3baf57be-df25-429e-9bd6-5654d2fea9cf
+:ROAM_REFS: https://jamesstuber.com/boring-is-fun/
+:END:
+#+TITLE: Boring is Fun
+#+hugo_custom_front_matter: roam_refs '("https://jamesstuber.com/boring-is-fun/")
+#+STARTUP: overview
+#+AUTHOR: Cash Weaver
+#+DATE: [2022-02-01 Tue 08:58]
+#+HUGO_AUTO_SET_LASTMOD: t
+#+HUGO_DRAFT: t
+* TODO Summary
+* TODO Notes
+
+#+begin_quote
+We go to incredible lengths to avoid actions that we know are good for us.
+#+end_quote
+
+#+begin_quote
+Ski enthusiast Tim Peck shows us that there are actually two types of fun:
+
+Type 1 Fun: Pure fun, untarnished by setbacks
+Type 2 Fun: Suffering now; fun after the fact, in retrospect
+Not Fun: Not fun now, not fun later, “I’m never doing that again”
+#+end_quote
+
+
+* TODO Thoughts
+
+* TODO Create node for "two types of fun" with attribution to Tim Peck

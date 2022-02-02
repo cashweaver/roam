@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       dea093d4-ed58-42d7-b8a6-63acfa291676
+:DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/dea093d4-ed58-42d7-b8a6-63acfa291676
+:ROAM_REFS: https://en.wikipedia.org/wiki/Tier_list
+:END:
+#+title: S-tier
+#+hugo_custom_front_matter: roam_refs '("https://en.wikipedia.org/wiki/Tier_list")
+#+author: Cash Weaver
+#+date: [2022-01-29 Sat 15:01]
+#+startup: overview
+#+hugo_auto_set_lastmod: t
+
+The top-tier.
+
+#+begin_quote
+'S' tier may mean "Superb" or "Super" and may originate from academic grading in Japan.
+#+end_quote

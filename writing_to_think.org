@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       bfc1e54d-2c91-4514-ad99-54e6494268bb
+:DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/bfc1e54d-2c91-4514-ad99-54e6494268bb
+:ROAM_REFS: https://www.lesswrong.com/posts/SKQmvZMTY6zQf3Ktc/writing-to-think
+:END:
+#+TITLE: Writing to think
+#+STARTUP: overview
+#+AUTHOR: Cash Weaver
+#+DATE: [2022-02-01 Tue 09:20]
+#+HUGO_AUTO_SET_LASTMOD: t
+#+HUGO_DRAFT: t
+* TODO Summary
+* TODO Notes
+* TODO Thoughts

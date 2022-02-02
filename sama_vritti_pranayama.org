@@ -1,0 +1,55 @@
+:PROPERTIES:
+:ID:       6057ca27-4e3e-41d0-9fbe-78f9084f822d
+:DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/6057ca27-4e3e-41d0-9fbe-78f9084f822d
+:ROAM_REFS: https://www.yogabasics.com/practice/sama-vritti-pranayama
+:ROAM_ALIASES: "Square Breathing" "Box Breathing"
+:END:
+#+title: Sama Vritti Pranayama
+#+hugo_custom_front_matter: roam_refs '("https://www.yogabasics.com/practice/sama-vritti-pranayama")
+#+author: Cash Weaver
+#+date: [2022-01-31 Mon 10:32]
+#+startup: overview
+#+hugo_auto_set_lastmod: t
+#+fooHUGO_ALIASES: square_breathing box_breathing
+
+A four-part breathing technique:
+
+1. Inhale
+2. Hold
+3. Exhale
+4. Hold
+
+The practitioner should perform each part for the same duration (eg: inhale four seconds, hold four seconds, etc).
+
+#+begin_src emacs-lisp
+(defun cashweaver-org-roam--mirror-roam-aliases-to-hugo-aliases ()
+  "Copy the list of ROAM_ALIASES into HUGO_ALIASES."
+  (interactive)
+  (when (org-roam-file-p)
+    (when-let*
+        ((option
+          "HUGO_ALIASES")
+                       (raw-roam-aliases
+         (read (format "(%s)"
+          (org-export-get-node-property
+            :ROAM_ALIASES
+            (org-element-parse-buffer)))))
+         (roam-aliases
+          (mapcar
+           #'downcase
+           (mapcar
+            (lambda (alias)
+              (replace-regexp-in-string
+               " "
+               "_"
+               alias))
+            raw-roam-aliases))))
+      ;;roam-aliases
+     roam-aliases
+      )))
+
+(cashweaver-org-roam--mirror-roam-aliases-to-hugo-aliases)
+#+end_src
+
+#+RESULTS:
+| square_breathing | box_breathing |

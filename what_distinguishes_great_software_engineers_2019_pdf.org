@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       7350853f-d730-4466-99a7-a0bfd018342d
+:DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/7350853f-d730-4466-99a7-a0bfd018342d
+:ROAM_REFS: https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf
+:END:
+#+TITLE: What distinguishes great software engineers?
+#+hugo_custom_front_matter: roam_refs '("https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf")
+#+STARTUP: overview
+#+AUTHOR: Cash Weaver
+#+DATE: [2022-01-27 Thu 13:30]
+#+HUGO_AUTO_SET_LASTMOD: t
+#+HUGO_DRAFT: t
+
+* TODO Summary
+:LOGBOOK:
+CLOCK: [2022-01-27 Thu 13:30]
+:END:
+* TODO Notes
+* TODO Thoughts

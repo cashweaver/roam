@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       84145367-7735-4ec3-b0c4-53a4d4498fc1
+:DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/84145367-7735-4ec3-b0c4-53a4d4498fc1
+:ROAM_REFS: https://lanraccoon.com/2020/youre-not-writing-code-youre-solving-problems
+:END:
+#+TITLE: You're not writing code, you're solving problems
+#+STARTUP: overview
+#+AUTHOR: Cash Weaver
+#+DATE: [2022-02-01 Tue 09:42]
+#+HUGO_AUTO_SET_LASTMOD: t
+#+HUGO_DRAFT: t
+* TODO Summary
+* TODO Notes
+* TODO Thoughts

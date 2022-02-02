@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       b2e08bb3-f67a-476e-b195-55d63ca8aac2
+:DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/b2e08bb3-f67a-476e-b195-55d63ca8aac2
+:ROAM_REFS: https://jlongster.com/How-I-Became-Better-Programmer
+:END:
+#+TITLE: How I became a better programmer (2017)
+#+hugo_custom_front_matter: roam_refs '("https://jlongster.com/How-I-Became-Better-Programmer")
+#+STARTUP: overview
+#+AUTHOR: Cash Weaver
+#+DATE: [2022-01-27 Thu 13:27]
+#+HUGO_AUTO_SET_LASTMOD: t
+#+HUGO_DRAFT: t
+
+* TODO Summary
+:LOGBOOK:
+CLOCK: [2022-01-27 Thu 13:27]
+:END:
+* TODO Notes
+* TODO Thoughts

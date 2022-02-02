@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       1d600a1f-a495-46b1-ae62-e674037e0931
+:DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/1d600a1f-a495-46b1-ae62-e674037e0931
+:ROAM_REFS: https://mythirdbrain.substack.com/p/how-i-spend-my-attention
+:END:
+#+TITLE: How I Spend My Attention
+#+STARTUP: overview
+#+AUTHOR: Cash Weaver
+#+DATE: [2022-02-01 Tue 09:19]
+#+HUGO_AUTO_SET_LASTMOD: t
+#+HUGO_DRAFT: t
+* TODO Summary
+* TODO Notes
+* TODO Thoughts
