@@ -6,6 +6,10 @@
 
 Please sort in order of oldest to youngest.
 
+* TODO Plans within plans within plans
+
+* TODO Xenos gambit
+
 * TODO [[https://www.theatlantic.com/politics/archive/2016/10/how-democrats-killed-their-populist-soul/504710/][How Democrats Killed their Populist Soul]] :essay:politics:
 :PROPERTIES:
 :CREATED: [2021-12-27 15:22]
