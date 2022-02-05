@@ -6,8 +6,7 @@
 
 Please sort in order of oldest to youngest.
 
-* TODO Plans within plans within plans
-
+* TODO [[https://notes.andymatuschak.org/][Andy Matuschak's Notes]] :link_group:
 * TODO Xenos gambit
 
 * TODO [[https://www.theatlantic.com/politics/archive/2016/10/how-democrats-killed-their-populist-soul/504710/][How Democrats Killed their Populist Soul]] :essay:politics:
