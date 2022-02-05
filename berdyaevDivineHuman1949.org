@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@berdyaevDivineHuman1949]
+:ID:       a425b559-513f-475d-b397-27f26cc7c799
+:DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/a425b559-513f-475d-b397-27f26cc7c799
+:END:
+#+title: From The Divine and the Human
+#+FILETAGS: :@Nicolas_Berdyaev:quote:
+#+hugo_custom_front_matter: roam_refs '("[cite:@berdyaevDivineHuman1949]")
+#+author: Cash Weaver
+#+date: [2022-02-04 Fri 08:10]
+#+startup: overview
+#+hugo_auto_set_lastmod: t
+
+#+begin_quote
+This was once revealed to me in a dream.
+
+[cite:@berdyaevDivineHuman1949 p.6;]
+#+end_quote
