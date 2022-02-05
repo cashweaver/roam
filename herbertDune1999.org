@@ -4,7 +4,7 @@
 :DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/68077361-66a6-4abe-b00f-dfb3d83630f2
 :END:
 #+title: Herbert :: Dune
-#+FILETAGS: :@Frank_Herbert:
+#+FILETAGS: :@Frank_Herbert:dune:
 #+author: Cash Weaver
 #+date: [2022-02-05 Sat 12:32]
 #+startup: overview
@@ -12,27 +12,6 @@
 
 * Quotes
 
-** Plans Within Plans
-:PROPERTIES:
-:ID:       2508fff7-b51e-4b67-a12b-1607f42e5eb5
-:END:
-#+begin_quote
-"Listen carefully, Feyd," the Baron said. "Observe the plans within plans within plans."
-
-/Baron Vladimir Harkonnen, [cite:@herbertDune1999]/
-#+end_quote
-
-
-** The First Lesson
-:PROPERTIES:
-:ID:       4e72ec88-c35b-48f1-99f8-e01e99bab6bb
-:END:
-
-#+begin_quote
-Muad'Dib learned rapidly because his first training was in how to learn. And the first lesson of all was the basic trust that he could learn. It's shocking to find how many people do not believe they can learn, and how many more believe learning to be difficult. Muad'Dib knew that every experience carries its lesson.
-
-/Princess Irulan, [cite:@herbertDune1999]/
-#+end_quote
-
-
+- [[id:7c49d995-a4d4-4c95-84c0-9dae9d8ab498][The First Lesson]]
+- [[id:d8b060f2-5b7e-44bd-8f8c-b0dd32d2cf76][Plans within plans within plans]]
 #+print_bibliography:

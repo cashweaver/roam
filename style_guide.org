@@ -1,0 +1,55 @@
+:PROPERTIES:
+:ID:       05911fff-a79b-4462-bf6d-a3cec4e1c9f2
+:DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/05911fff-a79b-4462-bf6d-a3cec4e1c9f2
+:END:
+#+title: Style Guide
+#+FILETAGS: :meta:@Cash_Weaver:
+#+author: Cash Weaver
+#+date: [2022-02-05 Sat 13:12]
+#+startup: overview
+#+hugo_auto_set_lastmod: t
+
+A style guide for my =org-roam= notes files.
+
+* Tags
+
+Make liberal use of tags.
+
+* Specifying an Author
+
+Specify an author using a node-level tag prefixed with =@= (eg: =@Cash_Weaver=).
+
+* Quotes
+
+** Attribution
+
+Attribution lines in quotes should be in /italics/.
+
+*** Does it Need Attribution?
+
+Every quote should contain an attribution unless it meets one of the following criteria:
+
+1. The quote is from a source referenced in =ROAM_REFS= and this source is the *only* source present in =ROAM_REFS=.
+
+*** Examples
+
+#+begin_quote
+Org is a mode for keeping notes, maintaining TODO lists, and project planning with a fast and effective plain-text markup language. It also is an authoring system with unique support for literate programming and reproducible research.
+
+/[[https://orgmode.org/manual/Summary.html][org-mode Manual: Summary]]/
+#+end_quote
+
+#+begin_quote
+Muad'Dib learned rapidly because his first training was in how to learn. And the first lesson of all was the basic trust that he could learn. It's shocking to find how many people do not believe they can learn, and how many more believe learning to be difficult. Muad'Dib knew that every experience carries its lesson.
+
+/Princess Irulan, [cite:@herbertDune1999]/
+#+end_quote
+
+** Quote Nodes
+
+Quotes should live in stand-alone single nodes (eg: [[id:7c49d995-a4d4-4c95-84c0-9dae9d8ab498][The First Lesson]]). This is multi-purpose:
+
+1. When in doubt, make the node smaller.
+2. Simplicity for the reader: Multiple quotes on a single page may confuse a user who has just arrived on that page by following a reference link. Which of the quotes they see is the right one?
+3. Future-proof: We will be able to, eventually, provide hover previews (similar to those used on [[https://www.gwern.net/][gwern.net]]). Similarly, standalone quote nodes will fit into a transclusion model better than multi-quote nodes.
+#+print_bibliography:
