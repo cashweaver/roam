@@ -39,6 +39,6 @@ What about creativity, for instance? Klein covers this in his research; in Sourc
 
 * Thoughts
 
-The idea rings true to me when I think about how chess masters describe thinking about the game in the moment. I recall them mentioning pattern matching explicitly; though I've since [[id:30104c07-3553-4f52-a70e-e974143c58d7][lost the reference]].
+The idea rings true to me when I think about how chess masters describe thinking about the game in the moment. I recall them mentioning pattern matching explicitly; though I've since [[id:0438f2a7-9b18-480c-a485-b5a2e122e7f0][lost the reference]].
 
 * TODO Follow up on the pages this one links out to

@@ -13,6 +13,11 @@
 
 * Quotes
 
+** Revealed in a Dream
+:PROPERTIES:
+:ID:       0438f2a7-9b18-480c-a485-b5a2e122e7f0
+:END:
+
 #+begin_quote
 This was once revealed to me in a dream.
 
