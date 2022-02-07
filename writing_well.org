@@ -4,6 +4,7 @@
 :ROAM_REFS: https://www.julian.com/guide/write/intro
 :END:
 #+TITLE: Writing well
+#+hugo_custom_front_matter: roam_refs '("https://www.julian.com/guide/write/intro")
 #+STARTUP: overview
 #+AUTHOR: Cash Weaver
 #+DATE: [2022-02-01 Tue 09:21]
@@ -12,3 +13,4 @@
 * TODO Summary
 * TODO Notes
 * TODO Thoughts
+* TODO Convert to citation

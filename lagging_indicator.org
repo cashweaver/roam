@@ -17,3 +17,4 @@ Lagging indicators are indicators that usually change after [a thing] as a whole
 
 * TODO Examples
 * TODO Maybe rephrase the definition into my own words?
+* TODO Convert to citation through Zotero

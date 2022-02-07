@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@DesirableDifficulty2022]
+:ID:       89eb6adc-d8f8-4033-bc46-7fed725c3c01
+:DIR:      /home/cashweaver/proj/roam/attachments/89eb6adc-d8f8-4033-bc46-7fed725c3c01
+:END:
+#+title: Wikipedia :: Desirable Difficulty
+#+author: Cash Weaver
+#+date: [2022-02-06 Sun 16:03]
+#+startup: overview
+#+filetags: :reference:
+#+hugo_auto_set_lastmod: t
+ 
+[cite:@DesirableDifficulty2022]
+
+#+begin_quote
+A desirable difficulty is a learning task that requires a considerable but desirable amount of effort, thereby improving long-term performance.
+#+end_quote
+
+Examples include:
+
+1. Retrieval practice (eg: flashcards)
+2. [[id:37699e33-fccb-43bf-ab4b-ca9e74a03510][Spacing]] and interleaving (eg: [[id:a72eecfc-c64a-438a-ae26-d18c5725cd5c][Spaced Repetition]])
+
+#+begin_quote
+To determine whether a difficulty is desirable, use the following three guidelines:
+
+1. The processing at encoding should be the same as the processing at retrieval.
+2. The processing at encoding should be the same as the processing during practice.
+3. The task must be able to be accomplished. Too difficult a task may dissuade the learner and prevent full processing.
+
+TODO
+#+end_quote
+
+* TODO Include direct quote from Memory in Educational Settings by Marsh and Butler, as they're quoted in the wikipedia page.
+#+print_bibliography:

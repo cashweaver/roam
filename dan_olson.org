@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       cfeb6969-326d-4804-a08c-d232cbd40369
+:DIR:      /home/cashweaver/proj/roam/attachments/cfeb6969-326d-4804-a08c-d232cbd40369
+:END:
+#+title: Dan Olson
+#+author: Cash Weaver
+#+date: [2022-02-06 Sun 16:27]
+#+startup: overview
+#+filetags: :person:
+#+hugo_auto_set_lastmod: t
+
+Among other things:
+
+- [[https://www.youtube.com/channel/UCyNtlmLB73-7gtlBz00XOQQ][Folding Ideas on YouTube]]

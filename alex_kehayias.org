@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       d566fd17-7c20-45b9-99c9-b2d0709127cb
+:DIR:      /home/cashweaver/proj/roam/attachments/d566fd17-7c20-45b9-99c9-b2d0709127cb
+:END:
+#+title: Alex Kehayias
+#+author: Cash Weaver
+#+date: [2022-02-06 Sun 16:44]
+#+startup: overview
+#+filetags: :person:
+#+hugo_auto_set_lastmod: t
+Among other things:
+
+- publishes their notes at [[https://notes.alexkehayias.com]].

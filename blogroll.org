@@ -10,6 +10,6 @@
 
 A list of blogs I've found informative/useful/fun in no particular order:
 
-- [[https://www.benkuhn.net/][Ben Kuhn]] ([[/tags/@ben-kuhn][@Ben_Kuhn]])
+- [[id:12b9ccec-dfcb-473d-83b7-1daa9f450ed0][Ben Kuhn]]'s [[https://www.benkuhn.net/][blog]]
 
 * TODO Add more

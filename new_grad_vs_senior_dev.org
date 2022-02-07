@@ -4,6 +4,7 @@
 :ROAM_REFS: https://ericlippert.com/2020/03/27/new-grad-vs-senior-dev/
 :END:
 #+TITLE: New Grad vs. Senior Dev
+#+hugo_custom_front_matter: roam_refs '("https://ericlippert.com/2020/03/27/new-grad-vs-senior-dev/")
 #+STARTUP: overview
 #+AUTHOR: Cash Weaver
 #+DATE: [2022-02-01 Tue 09:14]
@@ -12,3 +13,4 @@
 * TODO Summary
 * TODO Notes
 * TODO Thoughts
+* TODO Convert to citation through Zotero

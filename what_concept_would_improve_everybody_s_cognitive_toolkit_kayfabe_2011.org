@@ -4,6 +4,7 @@
 :ROAM_REFS: https://www.edge.org/response-detail/11783
 :END:
 #+TITLE: What concept would improve everybody's cognitive toolkit? Kayfabe (2011)
+#+hugo_custom_front_matter: roam_refs '("https://www.edge.org/response-detail/11783")
 #+STARTUP: overview
 #+AUTHOR: Cash Weaver
 #+DATE: [2022-02-01 Tue 09:43]
@@ -12,3 +13,4 @@
 * TODO Summary
 * TODO Notes
 * TODO Thoughts
+* TODO Add to zotero, delete

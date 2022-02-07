@@ -1,21 +1,15 @@
 :PROPERTIES:
 :ID:       cb4d578c-d0d4-4056-aad1-c6ee153eb42f
 :DIR:      /home/cashweaver/proj/roam/attachments/cb4d578c-d0d4-4056-aad1-c6ee153eb42f
-:ROAM_REFS: http://www.aaronsw.com/weblog/theoryofchange
 :END:
 #+title: Theory of Change
-#+hugo_custom_front_matter: roam_refs '("http://www.aaronsw.com/weblog/theoryofchange")
-#+filetags: :@Aaron_Swartz:
 #+author: Cash Weaver
 #+date: [2021-12-03 Fri 12:28]
 #+startup: overview
 #+hugo_auto_set_lastmod: t
 
-
-#+begin_quote
-I am increasingly convinced that the difference between effective and ineffective people is their skill at developing a theory of change.
-#+end_quote
-
 #+begin_quote
 A theory of change is the opposite of a theory of action — it works backwards from the goal, in concrete steps, to figure out what you can do to achieve it. To develop a theory of change, you need to start at the end and repeatedly ask yourself, “Concretely, how does one achieve that?”
+
+[[id:6d2276f9-4b72-46be-a4dc-9cdd41997122][Aaron Swartz :: Theory of Change]]
 #+end_quote

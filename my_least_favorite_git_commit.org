@@ -48,3 +48,5 @@ If you are tempted to write a whole story in a commit message, you should think 
 * Thoughts
 
 See: [[id:c74e3129-38af-45f8-bd2b-8a6fa5a0cad0][Documenting Your Work]]
+
+* TODO Convert to citation through Zotero

@@ -1,16 +1,11 @@
 :PROPERTIES:
 :ID:       82d1d3b6-dd55-43bf-828e-b34508ac136c
 :DIR:      /home/cashweaver/proj/roam/attachments/82d1d3b6-dd55-43bf-828e-b34508ac136c
-:ROAM_REFS: https://www.calnewport.com/about/
 :END:
 #+title: Deep Work
-#+hugo_custom_front_matter: roam_refs '("https://www.calnewport.com/about/")
-#+filetags: :@Cal_Newport:
 #+author: Cash Weaver
 #+date: [2021-12-03 Fri 12:12]
 #+startup: overview
 #+hugo_auto_set_lastmod: t
 
-The ability to concentrate, without distraction, on a demanding task.
-
-* TODO Improve
+The ability, proposed by [[id:b89cc482-a774-43af-a690-14ed0270480c][Cal Newport]], to concentrate, without distraction, on a demanding task.

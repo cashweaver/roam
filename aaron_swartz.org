@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       62152128-36b1-4229-a6ce-a78858975120
+:DIR:      /home/cashweaver/proj/roam/attachments/62152128-36b1-4229-a6ce-a78858975120
+:END:
+#+title: Aaron Swartz
+#+author: Cash Weaver
+#+date: [2022-02-06 Sun 11:54]
+#+startup: overview
+#+hugo_auto_set_lastmod: t

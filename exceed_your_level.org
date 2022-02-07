@@ -3,7 +3,7 @@
 :DIR:      /home/cashweaver/proj/roam/attachments/6981e213-aaad-4356-8968-abc1766bfb39
 :END:
 #+title: Exceed Your Level
-#+filetags: :quote:@Bruce_Lee:
+#+filetags: :quote:
 #+author: Cash Weaver
 #+date: [2021-12-03 Fri 12:25]
 #+startup: overview
@@ -12,5 +12,5 @@
 #+begin_quote
 There are no limits. There are plateaus, but you must not stay there, you must go beyond them. If it kills you, it kills you. A man must constantly exceed his level.
 
-Bruce Lee
+/[[id:95cd4413-31d3-4158-af10-68139d69c04d][Bruce Lee]]/
 #+end_quote

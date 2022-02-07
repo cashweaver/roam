@@ -9,8 +9,8 @@
 #+startup: overview
 #+hugo_auto_set_lastmod: t
 
-- [[https://www.youtube.com/c/FlorianGadsbyCeramics][Florian Gadsby]]
-- [[https://www.youtube.com/c/BillvanGilderPottery][Bill van Gilder]]
+- [[id:1e9881d1-e09a-4113-b22e-cd914c997910][Florian Gadsby]]
+- [[id:61c4327f-c370-4acd-b247-a4db048be285][Bill van Gilder]]
 - [[https://www.youtube.com/c/dearAli][Dear Ali]]
 - [[https://www.youtube.com/c/hsinchuen][Hsinchuen Lin]]
 - [[https://www.youtube.com/c/ShinobuHashimoto][Shinobu Hashimoto]]

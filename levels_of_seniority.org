@@ -65,3 +65,5 @@ Senior developers are the next level after the Mid-level developers. They are th
 - They have respect for the code that was written before them. They are generous when passing judgment on the architecture or the design decisions made in the codebase. They approach inheriting legacy code with an "opportunity mindset" rather than a complaining one.
 - They know how to give feedback without hurting anyone.
 #+end_quote
+
+* TODO Convert to citation through Zotero

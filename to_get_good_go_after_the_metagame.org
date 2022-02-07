@@ -52,3 +52,5 @@ If you can’t master a particular skill, drop back down to its component elemen
 #+end_quote
 
 * TODO Thoughts
+
+* TODO Convert to citation

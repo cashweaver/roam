@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       5140bc26-825e-4e26-aec6-3738a5fe2ab1
+:DIR:      /home/cashweaver/proj/roam/attachments/5140bc26-825e-4e26-aec6-3738a5fe2ab1
+:END:
+#+title: How I Write Notes
+#+author: Cash Weaver
+#+date: [2021-12-27 Mon 20:21]
+#+startup: overview
+#+hugo_auto_set_lastmod: t
+
+- I write and publish using [[id:5ad4f07c-b06a-4dbf-afa5-176f25b0ded7][Emacs]], specifically [[id:983095a2-2f92-46a9-868b-c79fa11fbcbb][Doom Emacs]] ([[https://github.com/cashweaver/dotfiles/blob/main/config/doom/config.org][my config]]), and a combination of [[id:1497025f-da3e-4bed-be19-f8f9c9a0e351][org-roam]] and [[id:5b40598c-308f-429d-8a0a-9c72bc1653f3][ox-hugo]].
+- I host the blog on [[https://github.com/cashweaver/cashweaver.com][github]] and store the post content in a [[https://github.com/cashweaver/roam][separate github repo]].

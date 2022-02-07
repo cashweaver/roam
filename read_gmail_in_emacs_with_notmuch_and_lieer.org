@@ -9,15 +9,15 @@
 #+hugo_auto_set_lastmod: t
 #+filetags: :@Cash_Weaver:email:emacs:
 
-This is a guide to setting up access to email (eg: @gmail.com) within [[https://github.com/hlissner/doom-emacs][=doom emacs=]] using [[https://notmuchmail.org/][=notmuch=]] and [[https://github.com/gauteh/lieer][=lieer=]].
+This is a guide to setting up access to email from a Gmail account (eg: @gmail.com) within [[id:5ad4f07c-b06a-4dbf-afa5-176f25b0ded7][Emacs]] ([[id:983095a2-2f92-46a9-868b-c79fa11fbcbb][Doom Emacs]]) using [[https://notmuchmail.org/][=notmuch=]] and [[https://github.com/gauteh/lieer][=lieer=]].
 
 You may have to complete additional steps if you are not using [[https://github.com/hlissner/doom-emacs][=doom emacs=]] or if your set-up differs from mine in other ways.
 
-** Prerequisites
+* Prerequisites
 
 Please be sure you've completed these steps before continuing:
 
-*** Required Software
+** Required Software
 
 1. =lieer=
 
@@ -33,13 +33,13 @@ pip3 install -r requirements.txt
 sudo apt install notmuch
 #+END_SRC
 
-*** Create an OAuth2 Client ID
+** Create an OAuth2 Client ID
 
 1. Please refer to: [[id:486b286b-8806-4282-af4e-cfbac4fb0990][Create an OAuth2 Client ID]]
 2. Ensure GMail APIs are enabled for this Client ID.
 3. Download the JSON format of this key.
 
-*** Enable =notmuch= within =emacs=
+** Enable =notmuch= within =emacs=
 
 This is written for those using [[https://github.com/hlissner/doom-emacs][=doom emacs=]]. Those using other flavors of =emacs= will need to enable =notmuch= on their own.
 
@@ -47,7 +47,7 @@ This is written for those using [[https://github.com/hlissner/doom-emacs][=doom 
 2. Run =doom sync= in your shell.
 3. Reload =doom emacs= by either killing =emacs= and restarting, or by running =doom/reload= (=SPC : doom/reload= or =SPC h r r=).
 
-** Configure =notmuch=
+* Configure =notmuch=
 
 These steps are pulled from =notmuch='s own [[https://notmuchmail.org/getting-started/][documentation]].
 
@@ -70,7 +70,7 @@ Found 0 total files (that's not much mail)
 No new mail.
 #+END_EXAMPLE
 
-** Configure =lieer=
+* Configure =lieer=
 
 These steps are pulled from =lieer='s own [[https://github.com/gauteh/lieer#usage][documentation]].
 
@@ -137,7 +137,7 @@ credentials stored in /path/to/your/mail/directory/you.gmail/.credentials.gmaili
 /path/to/lieer/gmi sync
 #+END_SRC
 
-*** Set up Cronjob to Sync Email
+* Set up Cronjob to Sync Email
 
 You could also use a =systemd= timer for this.
 
@@ -157,7 +157,7 @@ cd /path/to/your/mail/directory/you.gmail
 */3 * * * * bash /path/to/your/script/sync_email.sh
 #+END_EXAMPLE
 
-** Configure =notmuch= within =emacs= (optional)
+* Configure =notmuch= within =emacs= (optional)
 
 - Set up [[https://notmuchmail.org/doc/latest/notmuch-emacs.html#saved-searches][saved searches]].
 
@@ -170,6 +170,6 @@ cd /path/to/your/mail/directory/you.gmail
 (add-hook! 'message-mode-hook 'visual-line-mode)
 #+END_EXAMPLE
 
-** Done!
+* Done!
 
 For those of you using [[https://github.com/hlissner/doom-emacs][=doom emacs=]], you can open notmuch from anywhere with =SPC o m=.

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       8c414004-a945-4c4b-a374-ab35a73383fb
+:DIR:      /home/cashweaver/proj/roam/attachments/8c414004-a945-4c4b-a374-ab35a73383fb
+:END:
+#+title: Dan Moore
+#+author: Cash Weaver
+#+date: [2022-02-06 Sun 16:01]
+#+startup: overview
+#+filetags: :person:
+#+hugo_auto_set_lastmod: t

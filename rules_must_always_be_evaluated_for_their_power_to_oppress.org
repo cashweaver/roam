@@ -12,5 +12,5 @@
 #+begin_quote
 Rules Must Always be Evaluated for their Power to Oppress
 
-[[https://www.youtube.com/watch?v=YQ_xWvX1n9g][Dan Olson, Folding Ideas]]
+/[[id:cfeb6969-326d-4804-a08c-d232cbd40369][Dan Olson]], [[youtube:YQ_xWvX1n9g][Line Goes Up – The Problem With NFTs]]/
 #+end_quote

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       4c9b1bbf-2a4b-43fa-a266-b559c018d80e
+:DIR:      /home/cashweaver/proj/roam/attachments/4c9b1bbf-2a4b-43fa-a266-b559c018d80e
+:END:
+#+title: Cedric Chin
+#+author: Cash Weaver
+#+date: [2022-02-06 Sun 15:53]
+#+startup: overview
+#+filetags: :person:
+#+hugo_auto_set_lastmod: t

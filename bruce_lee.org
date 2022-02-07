@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       95cd4413-31d3-4158-af10-68139d69c04d
+:DIR:      /home/cashweaver/proj/roam/attachments/95cd4413-31d3-4158-af10-68139d69c04d
+:END:
+#+title: Bruce Lee
+#+author: Cash Weaver
+#+date: [2022-02-06 Sun 16:09]
+#+startup: overview
+#+filetags: :person:
+#+hugo_auto_set_lastmod: t

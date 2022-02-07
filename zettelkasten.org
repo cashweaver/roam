@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       b130e6f2-31a1-4c3a-ae8b-7d8208a69710
+:DIR:      /home/cashweaver/proj/roam/attachments/b130e6f2-31a1-4c3a-ae8b-7d8208a69710
+:ROAM_REFS: https://en.wikipedia.org/wiki/Zettelkasten
+:END:
+#+title: Zettelkasten
+#+FILETAGS: :personal_knowledge_management:
+#+hugo_custom_front_matter: roam_refs '("https://en.wikipedia.org/wiki/Zettelkasten")
+#+author: Cash Weaver
+#+date: [2022-02-06 Sun 07:15]
+#+startup: overview
+#+hugo_auto_set_lastmod: t
+
+A zettelkasten is a [[id:773406e0-fe95-41f4-a254-b2c6ade18ce9][personal knowledge management]] system consisting of densely interlinked (usually) short notes. The system was originally implemented with index cards. Nowadays there are [[id:1497025f-da3e-4bed-be19-f8f9c9a0e351][digital solutions]].
+
+* TODO Convert to citation

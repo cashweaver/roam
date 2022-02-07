@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@FestinaLente2022]
+:ID:       ff009594-d69f-4d33-b0c2-65ed62eaf0b2
+:DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/ff009594-d69f-4d33-b0c2-65ed62eaf0b2
+:END:
+#+title: Wikipedia :: Festina Lente
+#+author: Cash Weaver
+#+date: [2022-02-06 Sun 16:50]
+#+startup: overview
+#+filetags: :reference:
+#+hugo_auto_set_lastmod: t
+ 
+[cite:@FestinaLente2022]
+
+#+begin_quote
+[...] a classical adage and oxymoron meaning "make haste slowly" (sometimes rendered in English as "more haste, less speed").
+#+end_quote
+#+print_bibliography:

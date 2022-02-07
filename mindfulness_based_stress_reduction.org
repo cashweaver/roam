@@ -19,3 +19,5 @@
 - The program has been [[https://en.wikipedia.org/wiki/Mindfulness-based_stress_reduction#Evaluation_of_effectiveness][found to be effective]].
 - Some hospitals staff experts who offer a regularly-occurring class.
   - Dave Potter offers a free version in his [[https://palousemindfulness.com/][Palouse Mindfulness program]].
+
+* TODO Convert to citation through Zotero

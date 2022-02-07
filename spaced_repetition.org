@@ -14,3 +14,5 @@
 #+begin_quote
 Spaced repetition is an evidence-based learning technique that is usually performed with flashcards. Newly introduced and more difficult flashcards are shown more frequently, while older and less difficult flashcards are shown less frequently in order to exploit the psychological [[id:37699e33-fccb-43bf-ab4b-ca9e74a03510][spacing effect]]. The use of spaced repetition has been proven to increase rate of learning.
 #+end_quote
+
+* TODO Convert to citation

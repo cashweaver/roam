@@ -49,7 +49,6 @@ The other approach is what many smart (but non-geniuses) take: the buffet approa
 [[https://news.ycombinator.com/item?id=22327704][wenc]]
 #+end_quote
 
-
 * Thoughts
 :PROPERTIES:
 :ID:       0c2543e9-cbf9-4324-b9c2-ecbc8109b18c

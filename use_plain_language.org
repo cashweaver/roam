@@ -22,3 +22,5 @@ Plain language makes it easier [...] to read, understand, and use [writing].
 - [[id:f9a2d16c-2264-47a7-85ce-db8e962a3811][The Shorter and Plainer the Better]]
 - [[id:7bfd0762-1ab3-4797-bdd1-483370601434][Use The Smallest Word That Does The Job]]
 - [[id:436e3b6b-6b46-4173-b764-d3d902651feb][If I Had More Time, I Would Have Written A Shorter Letter]]
+
+* TODO Convert to citation

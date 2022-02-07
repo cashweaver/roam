@@ -4,6 +4,7 @@
 :ROAM_REFS: https://mythirdbrain.substack.com/p/how-i-spend-my-attention
 :END:
 #+TITLE: How I Spend My Attention
+#+hugo_custom_front_matter: roam_refs '("https://mythirdbrain.substack.com/p/how-i-spend-my-attention")
 #+STARTUP: overview
 #+AUTHOR: Cash Weaver
 #+DATE: [2022-02-01 Tue 09:19]
@@ -12,3 +13,4 @@
 * TODO Summary
 * TODO Notes
 * TODO Thoughts
+* TODO Add to Zotero, then delete

@@ -4,6 +4,7 @@
 :ROAM_REFS: https://www.lesswrong.com/posts/N2iHH2HcN94nYPhuh/how-i-write
 :END:
 #+TITLE: How I Write
+#+hugo_custom_front_matter: roam_refs '("https://www.lesswrong.com/posts/N2iHH2HcN94nYPhuh/how-i-write")
 #+STARTUP: overview
 #+AUTHOR: Cash Weaver
 #+DATE: [2022-02-01 Tue 09:24]
@@ -12,3 +13,4 @@
 * TODO Summary
 * TODO Notes
 * TODO Thoughts
+* TODO Add to Zotero, then delete

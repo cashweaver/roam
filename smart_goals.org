@@ -19,3 +19,5 @@ SMART goals are:
 - Realistic – state what results can realistically be achieved, given available resources
 - Time-related – specify when the result(s) can be achieved
 #+end_quote
+
+* TODO Convert to citation

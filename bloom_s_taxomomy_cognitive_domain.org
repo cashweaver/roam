@@ -1,6 +1,4 @@
 :PROPERTIES:
-:ID:       5fbaa05c-666f-4d45-b798-ff36ace22126
-:DIR:      /home/cashweaver/proj/roam/attachments/5fbaa05c-666f-4d45-b798-ff36ace22126
 :ROAM_REFS: https://en.wikipedia.org/wiki/Bloom's_taxonomy
 :END:
 #+title: Bloom's Taxomomy: Cognitive Domain
@@ -10,28 +8,3 @@
 #+date: [2021-12-31 Fri 12:24]
 #+startup: overview
 #+hugo_auto_set_lastmod: t
-
-#+begin_quote
-... [A hierarchical model] used to classify educational learning objectives into levels of complexity and specificity. ... The cognitive domain list has been the primary focus of most traditional education and is frequently used to structure curriculum learning objectives, assessments and activities.
-#+end_quote
-
-In order from least complex to most complex:
-
-1. Knowledge
-2. Comprehension
-3. Application
-4. Analysis
-5. Synthesis
-6. Evaluation
-
-#+DOWNLOADED: https://upload.wikimedia.org/wikipedia/commons/7/72/BloomsTaxonomy.png @ 2021-12-31 12:30:10
-[[file:2021-12-31_12-30-10_BloomsTaxonomy.png]]
-
-Anderson proposed [[isbn:978-0-8013-1903-7][proposed a revision of Bloom's cognitive taxomomy]] (in order from least complex to most complex):
-
-1. Remember
-2. Understand
-3. Apply
-4. Analyze
-5. Evaluate
-6. Create

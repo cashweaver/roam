@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@newport]
+:ID:       aa3b22f0-3771-464e-824d-8d0eeb7f331b
+:DIR:      /home/cashweaver/proj/roam/attachments/aa3b22f0-3771-464e-824d-8d0eeb7f331b
+:END:
+#+title: Cal Newport :: About
+#+author: Cash Weaver
+#+date: [2022-02-06 Sun 15:14]
+#+startup: overview
+#+filetags: reference
+#+hugo_auto_set_lastmod: t
+
+- Source: [cite:@newport]
+- Author: [[id:b89cc482-a774-43af-a690-14ed0270480c][Cal Newport]]
+
+* Summary
+* Thoughts
+* Notes
+
+#+begin_quote
+In modern knowledge work, the primary capital resource is human brains; or, more specifically, these brains’ ability to create new value through sustained attention. At the moment, most individuals and organizations are terrible at optimizing this resource, prioritizing instead the convenience and flexibility of persistent, unstructured messaging (e.g.,  email and IM). I predict that as this sector evolves, we’ll get better at optimizing attention capital, and accordingly leave behind our current culture of communication overload.
+
+/[cite:@newport]/
+#+end_quote
+
+#+begin_quote
+The Deep Work Hypothesis: The ability to concentrate without distraction on a demanding task (what I call “deep work”) is becoming more rare at the same time that it’s becoming more valuable in the knowledge sector. As a result, those individuals and organizations who put in the hard work to cultivate this skill will thrive.
+
+/[cite:@newport]/
+#+end_quote
+
+#+begin_quote
+Digital Minimalism: The services delivered through your devices have become so alluring and addictive that they can significantly erode the quality of your life and your sense of autonomy. My solution is a philosophy I call digital minimalism, which argues that you should radically reduce the time you spend online, focusing on a small number of activities chosen because they support things you deeply value, and then happily miss out on everything else.
+
+/[cite:@newport]/
+#+end_quote
+
+#+begin_quote
+Attention Capital Theory: In modern knowledge work, the primary capital resource is human brains; or, more specifically, these brains’ ability to create new value through sustained attention. At the moment, most individuals and organizations are terrible at optimizing this resource, prioritizing instead the convenience and flexibility of persistent, unstructured messaging (e.g., email and IM). I predict that as this sector evolves, we’ll get better at optimizing attention capital, and accordingly leave behind our current culture of communication overload.
+
+/[cite:@newport]/
+#+end_quote
+#+print_bibliography:

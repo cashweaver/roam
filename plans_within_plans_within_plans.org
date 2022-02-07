@@ -3,7 +3,7 @@
 :DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/d8b060f2-5b7e-44bd-8f8c-b0dd32d2cf76
 :END:
 #+title: Plans within plans within plans
-#+FILETAGS: :quote:dune:@Frank_Herbert:
+#+FILETAGS: :quote:
 #+author: Cash Weaver
 #+date: [2022-02-03 Thu 06:21]
 #+startup: overview
@@ -12,6 +12,5 @@
 #+begin_quote
 "Listen carefully, Feyd," the Baron said. "Observe the plans within plans within plans."
 
-/Baron Vladimir Harkonnen, [cite:@herbertDune1999]/
+/Baron Vladimir Harkonnen, [[id:68077361-66a6-4abe-b00f-dfb3d83630f2][Herbert :: Dune]]/
 #+end_quote
-#+print_bibliography:

@@ -4,6 +4,7 @@
 :ROAM_REFS: https://lanraccoon.com/2020/youre-not-writing-code-youre-solving-problems
 :END:
 #+TITLE: You're not writing code, you're solving problems
+#+hugo_custom_front_matter: roam_refs '("https://lanraccoon.com/2020/youre-not-writing-code-youre-solving-problems")
 #+STARTUP: overview
 #+AUTHOR: Cash Weaver
 #+DATE: [2022-02-01 Tue 09:42]
@@ -12,3 +13,4 @@
 * TODO Summary
 * TODO Notes
 * TODO Thoughts
+* TODO Convert to citation

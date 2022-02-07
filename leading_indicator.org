@@ -21,3 +21,4 @@ Leading indicators are indicators that usually, but not always, change before th
 -
 
 * TODO Maybe rephrase the definition into my own words?
+* TODO Convert to citation through Zotero

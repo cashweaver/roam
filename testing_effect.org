@@ -12,3 +12,5 @@
 #+hugo_auto_set_lastmod: t
 
 Retrieving a piece of information from memory will increase ones ability to recall that piece of information over long periods of time. A common example would be using tests as a tool for study. The student has to attempt to recall the information from memory while taking the test and thereby improves their recall.
+
+* TODO Convert to citation

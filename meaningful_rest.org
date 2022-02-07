@@ -20,3 +20,5 @@ If you’re anything like me, these lists are basically disjoint!
 #+begin_quote
 Most situations in my life have a default response, and that takes no effort to follow. To deviate from the default response, I need to spend a scarce resource - willpower. Being tired is essentially being low on willpower, and the problem is that my default actions when low willpower do not regenerate willpower.
 #+end_quote
+
+* TODO Convert to citation through Zotero

@@ -9,15 +9,15 @@
 #+hugo_auto_set_lastmod: t
 #+filetags: :@Cash_Weaver:email:emacs:
 
-This is a guide to setting up access to email from a Gmail account (eg: @gmail.com) within [[https://github.com/hlissner/doom-emacs][=doom emacs=]] using =mu=, =mbsync= (=isync=), and =mu4e= (=mu= for =emacs=).
+This is a guide to setting up access to email from a Gmail account (eg: @gmail.com) within [[id:5ad4f07c-b06a-4dbf-afa5-176f25b0ded7][Emacs]] ([[id:983095a2-2f92-46a9-868b-c79fa11fbcbb][Doom Emacs]]) using =mu=, =mbsync= (=isync=), and =mu4e= (=mu= for =emacs=).
 
 You may have to complete additional steps if you are not using [[https://github.com/hlissner/doom-emacs][=doom emacs=]], Gmail, or if your set-up differs from mine in other ways.
 
-** Prerequisites
+* Prerequisites
 
 Please be sure you've completed these steps before continuing:
 
-*** Required Software
+** Required Software
 
 1. Install =mbsync= version >= 1.4.1.
 
@@ -83,11 +83,11 @@ sudo apt install sasl2-bin
 saslpluginviewer | grep XOAUTH2
 #+END_SRC
 
-*** Create an OAuth2 Client ID
+** Create an OAuth2 Client ID
 
 Please refer to: [[id:486b286b-8806-4282-af4e-cfbac4fb0990][Create an OAuth2 Client ID]]
 
-*** Create =mbsyncrc=
+** Create =mbsyncrc=
 
 1. Create a new file at =~/.mbsyncrc= (or symlink to that location, etc).
 2. Base your config on mine, included below:
@@ -141,11 +141,11 @@ Channel gmail-trash
 Channel gmail-drafts
 #+END_EXAMPLE
 
-*** Emable IMAP in your Gmail Account
+** Emable IMAP in your Gmail Account
 
 Follow the [[https://support.google.com/mail/answer/7126229?hl=en][documentation]] to enable IMAP.
 
-*** Enable =mu4e= within =emacs=
+** Enable =mu4e= within =emacs=
 
 This step is written for those using [[https://github.com/hlissner/doom-emacs][=doom emacs=]]. Those using other flavors of =emacs= will need to enable =mu4e= on their own.
 
@@ -159,7 +159,7 @@ doom sync
 
 3. Reload =doom emacs= by either killing =emacs= and restarting, or by running =doom/reload= (=SPC : doom/reload= or =SPC h r r=).
 
-** Sync and Index Your Email
+* Sync and Index Your Email
 
 Follow the steps documented by [[https://github.com/hlissner/doom-emacs/blob/develop/modules/email/mu4e/README.org][doom emacs' mu4e section]].
 

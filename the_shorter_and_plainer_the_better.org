@@ -3,7 +3,7 @@
 :DIR:      /home/cashweaver/proj/roam/attachments/f9a2d16c-2264-47a7-85ce-db8e962a3811
 :END:
 #+title: The Shorter and Plainer the Better
-#+FILETAGS: :@Beatrix_Potter:
+#+FILETAGS: :quote:
 #+author: Cash Weaver
 #+date: [2022-01-18 Tue 07:21]
 #+startup: overview
@@ -12,5 +12,5 @@
 #+begin_quote
 The shorter and plainer the better.
 
-/Beatrix Potter/
+/[[id:664e547c-e250-4fbf-9050-a245db80c1c4][Beatrix Potter]]/
 #+end_quote

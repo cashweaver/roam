@@ -82,3 +82,5 @@ This commit message goes into a lot of detail about what the problem looked like
 * Thoughts
 
 See: [[id:c74e3129-38af-45f8-bd2b-8a6fa5a0cad0][Documenting Your Work]]
+
+* TODO Convert to citation through Zotero

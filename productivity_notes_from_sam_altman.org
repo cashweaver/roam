@@ -52,3 +52,5 @@ Like most people, I sometimes go through periods of a week or two where I just h
 #+begin_quote
 Don't neglect your family and friends for the sake of productivity—that's a very stupid tradeoff (and very likely a net productivity loss, because you'll be less happy). Don't neglect doing things you love or that clear your head either.
 #+end_quote
+
+* TODO Convert to citation

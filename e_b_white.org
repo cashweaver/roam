@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       5374a3c9-1d18-458f-9f0b-7d06381690ef
+:DIR:      /home/cashweaver/proj/roam/attachments/5374a3c9-1d18-458f-9f0b-7d06381690ef
+:END:
+#+title: E.B. White
+#+author: Cash Weaver
+#+date: [2022-02-06 Sun 16:31]
+#+startup: overview
+#+filetags: :person:
+#+hugo_auto_set_lastmod: t
+Among other things:
+* TODO

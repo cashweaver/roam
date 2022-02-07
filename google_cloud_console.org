@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1763246d-a141-487f-b528-2884b0a95dc5
+:DIR:      /home/cashweaver/proj/roam/attachments/1763246d-a141-487f-b528-2884b0a95dc5
+:END:
+#+title: Google Cloud Console
+#+author: Cash Weaver
+#+date: [2022-02-06 Sun 16:24]
+#+startup: overview
+#+hugo_auto_set_lastmod: t
+
+* TODO

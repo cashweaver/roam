@@ -28,3 +28,5 @@ I think 10x developers, like world-class athletes, musicians, and authors, absol
 * Thoughts
 
 This reminds me of a way of conceptualizing a "10x" programmer (though I no longer recall where I read the idea): 10x programmers are not 10x because they code/write/etc 10x faster; they're 10x because they solve the big problems that a non-10x programmer cannot solve.
+
+* TODO Convert to citation

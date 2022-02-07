@@ -28,3 +28,5 @@ I would define real work as work which no one else currently alive could accompl
 Another part of me isn't satisfied with this definition. "Real" work isn't the only kind of work out there. Say there's only one person who alive who could crack open some problem in a complicated field. That person wouldn't also be able to implement that solution across multiple domains, companies, etc. Those implementations of a burst of "real" work are valuable and meaningful. The person who discovers a new irrigation method has done meaningful work but so have the people who put that discovery into practice in farms around the world.
 
 Perhaps the nuance I'm attempting to address is somewhere between meaningful work and unique work.
+
+* TODO Convert to citation

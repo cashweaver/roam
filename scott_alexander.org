@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       e7e4bd59-fa63-49a8-bfca-6c767d1c2330
+:DIR:      /home/cashweaver/proj/roam/attachments/e7e4bd59-fa63-49a8-bfca-6c767d1c2330
+:END:
+#+title: Scott Alexander
+#+author: Cash Weaver
+#+date: [2022-02-06 Sun 15:44]
+#+startup: overview
+#+filetags: :person:
+#+hugo_auto_set_lastmod: t
+
+Author of [[https://slatestarcodex.com/][Slate Star Codex]] and [[https://astralcodexten.substack.com/][Astral Star Codex]].

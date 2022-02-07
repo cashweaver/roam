@@ -7,7 +7,7 @@
 #+date: [2021-12-27 Mon 19:48]
 #+startup: overview
 #+hugo_auto_set_lastmod: t
-#+filetags: :@Cash_Weaver:oauth2:google_cloud:
+#+filetags: :oauth2:google_cloud:
 
 A short guide to creating an OAuth2 Client ID through the Google Cloud Console.
 

@@ -11,3 +11,7 @@
 #+HUGO_AUTO_SET_LASTMOD: t
 
 I have a hard time keeping track of personal relationships. Perhaps this would be a helpful tool.
+
+* TODO Convert to citation through Zotero
+
+* TODO Create node for "personal CRM". Is there a better name for this?

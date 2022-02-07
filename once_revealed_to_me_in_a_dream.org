@@ -1,9 +1,9 @@
 :PROPERTIES:
-:ROAM_REFS: https://en.wikiquote.org/wiki/Nikolai_Berdyaev [cite:@berdyaevDivineHuman1949]
 :ID:       27cb520e-f5d5-45b2-b92e-cde08209beef
 :DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/27cb520e-f5d5-45b2-b92e-cde08209beef
 :END:
 #+title: Once Revealed to Me in a Dream
+#+FILETAGS: :quote:
 #+hugo_custom_front_matter: roam_refs '("https://en.wikiquote.org/wiki/Nikolai_Berdyaev")
 #+author: Cash Weaver
 #+date: [2022-02-05 Sat 12:50]
@@ -13,7 +13,5 @@
 #+begin_quote
 This was once revealed to me in a dream.
 
-[cite/l:@berdyaevDivineHuman1949 p.6;]
+/[[id:a425b559-513f-475d-b397-27f26cc7c799][Nikolai Berdyaev :: From The Divine and the Human]]/
 #+end_quote
-
-#+print_bibliography:

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@DunningKrugerEffect2022]
+:ID:       393d22dc-fb65-4f8c-9070-6973d6c9668e
+:DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/393d22dc-fb65-4f8c-9070-6973d6c9668e
+:END:
+#+title: Wikipedia :: Dunning-Kruger Effect
+#+author: Cash Weaver
+#+date: [2022-02-06 Sun 16:07]
+#+startup: overview
+#+filetags: :reference:
+#+hugo_auto_set_lastmod: t
+ 
+[cite:@DunningKrugerEffect2022]
+
+#+begin_quote
+[T]he cognitive bias whereby people with low ability at a task overestimate their ability. Some researchers also include in their definition the opposite effect for high performers: their tendency to underestimate their skills.
+#+end_quote
+#+print_bibliography:

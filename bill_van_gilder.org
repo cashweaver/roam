@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       61c4327f-c370-4acd-b247-a4db048be285
+:DIR:      /home/cashweaver/proj/roam/attachments/61c4327f-c370-4acd-b247-a4db048be285
+:END:
+#+title: Bill van Gilder
+#+author: Cash Weaver
+#+date: [2022-02-06 Sun 15:58]
+#+startup: overview
+#+filetags: :person:
+#+hugo_auto_set_lastmod: t
+
+Among other things:
+
+- A potter
+- [[https://www.youtube.com/c/BillvanGilderPottery][YouTube]]

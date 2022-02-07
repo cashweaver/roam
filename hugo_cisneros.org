@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       ab84ad24-3d02-4246-b8ea-7b11b93ceeb3
+:DIR:      /home/cashweaver/proj/roam/attachments/ab84ad24-3d02-4246-b8ea-7b11b93ceeb3
+:END:
+#+title: Hugo Cisneros
+#+author: Cash Weaver
+#+date: [2022-02-06 Sun 16:46]
+#+startup: overview
+#+filetags: :person:
+#+hugo_auto_set_lastmod: t
+Among other things:
+
+- publishes their notes as [[https://hugocisneros.com/notes/]].

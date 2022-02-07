@@ -4,6 +4,7 @@
 :ROAM_REFS: https://www.lesswrong.com/posts/SKQmvZMTY6zQf3Ktc/writing-to-think
 :END:
 #+TITLE: Writing to think
+#+hugo_custom_front_matter: roam_refs '("https://www.lesswrong.com/posts/SKQmvZMTY6zQf3Ktc/writing-to-think")
 #+STARTUP: overview
 #+AUTHOR: Cash Weaver
 #+DATE: [2022-02-01 Tue 09:20]
@@ -12,3 +13,4 @@
 * TODO Summary
 * TODO Notes
 * TODO Thoughts
+* TODO Convert to citation

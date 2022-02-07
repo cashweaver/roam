@@ -22,3 +22,5 @@ Type three fun is the sticking point for most people:
 #+begin_quote
 [...] [I]t’s the type that makes most of us go crawling back to Type 1, and say, "The heck with Type 2, because it’s just too damned close to Type 3." While we often learn something from our suffering during Type 2 that furthers our outdoor knowledge and experience, it’s Type 3 that chases us away from activities altogether. In fact, most great stories of Type 3 Fun will include the phrase, "And that was the last time I…"
 #+end_quote
+
+* TODO Convert to citation

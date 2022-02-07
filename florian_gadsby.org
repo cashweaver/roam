@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       1e9881d1-e09a-4113-b22e-cd914c997910
+:DIR:      /home/cashweaver/proj/roam/attachments/1e9881d1-e09a-4113-b22e-cd914c997910
+:END:
+#+title: Florian Gadsby
+#+author: Cash Weaver
+#+date: [2022-02-06 Sun 15:56]
+#+startup: overview
+#+filetags: :person:
+#+hugo_auto_set_lastmod: t
+
+Among other things:
+
+- A potter
+- [[https://www.youtube.com/c/FlorianGadsbyCeramics][On YouTube]]

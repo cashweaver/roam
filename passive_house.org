@@ -10,3 +10,4 @@
 #+hugo_draft: t
 
 * TODO Definition
+* TODO Convert to citation

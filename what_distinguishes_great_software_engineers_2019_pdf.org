@@ -17,3 +17,4 @@ CLOCK: [2022-01-27 Thu 13:30]
 :END:
 * TODO Notes
 * TODO Thoughts
+* TODO Add to zotero, then delete

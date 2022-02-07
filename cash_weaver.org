@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       0d192773-9121-459e-931a-86a0f0ce9991
+:DIR:      /home/cashweaver/proj/roam/attachments/0d192773-9121-459e-931a-86a0f0ce9991
+:END:
+#+title: Cash Weaver
+#+FILETAGS: :person:
+#+author: Cash Weaver
+#+date: [2022-02-06 Sun 09:01]
+#+startup: overview
+#+hugo_auto_set_lastmod: t
+
+Among other things:
+
+- Myself
+- Employed as a software engineer
+- Author of [[http://cashweaver.com][cashweaver.com]]

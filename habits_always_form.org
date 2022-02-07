@@ -20,3 +20,5 @@ When we talk about habits, we generally talk about learning good habits. Or form
 
 So be aware of what you do, what you’re doing, and how you’re doing it. Every do digs deeper. Every does grips stronger.
 #+end_quote
+
+* TODO Convert to citation

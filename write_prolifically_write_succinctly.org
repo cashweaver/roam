@@ -10,7 +10,6 @@
 #+date: [2022-01-17 Mon 07:28]
 #+startup: overview
 #+hugo_auto_set_lastmod: t
-
 * Summary
 
 * Notes
@@ -29,3 +28,5 @@ Third, keeping something short forces you, the writer, to distill what you want 
 
 
 * Thoughts
+
+* TODO

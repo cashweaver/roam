@@ -1,23 +1,25 @@
 :PROPERTIES:
 :ID:       05911fff-a79b-4462-bf6d-a3cec4e1c9f2
-:DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/05911fff-a79b-4462-bf6d-a3cec4e1c9f2
+:DIR:      /home/cashweaver/proj/roam/attachments/05911fff-a79b-4462-bf6d-a3cec4e1c9f2
 :END:
 #+title: Style Guide
-#+FILETAGS: :meta:@Cash_Weaver:
+#+FILETAGS: :meta:
 #+author: Cash Weaver
 #+date: [2022-02-05 Sat 13:12]
 #+startup: overview
 #+hugo_auto_set_lastmod: t
 
-A style guide for my =org-roam= notes files.
+A style guide for my [[id:773406e0-fe95-41f4-a254-b2c6ade18ce9][personal knowledge management]] system (powered by [[id:1497025f-da3e-4bed-be19-f8f9c9a0e351][org-roam]]):
 
 * Tags
 
-Make liberal use of tags.
+Prefer links to tags.
 
 * Specifying an Author
 
-Specify an author using a node-level tag prefixed with =@= (eg: =@Cash_Weaver=).
+Specify an author by linking to that author's node (eg: [[id:0d192773-9121-459e-931a-86a0f0ce9991][Cash Weaver]])
+
+Formerly, the policy was: Specify an author using a node-level tag prefixed with =@= (eg: =@Cash_Weaver=).
 
 * Quotes
 
@@ -45,6 +47,10 @@ Muad'Dib learned rapidly because his first training was in how to learn. And the
 /Princess Irulan, [cite:@herbertDune1999]/
 #+end_quote
 
+** How Much is Too Much?
+
+There isn't a hard rule on how much quoting is too much. Large quotes [[id:18745aec-fcd1-4dd5-a55f-73fdc409aacb][have their benefits]].
+
 ** Quote Nodes
 
 Quotes should live in stand-alone single nodes (eg: [[id:7c49d995-a4d4-4c95-84c0-9dae9d8ab498][The First Lesson]]). This is multi-purpose:
@@ -53,3 +59,13 @@ Quotes should live in stand-alone single nodes (eg: [[id:7c49d995-a4d4-4c95-84c0
 2. Simplicity for the reader: Multiple quotes on a single page may confuse a user who has just arrived on that page by following a reference link. Which of the quotes they see is the right one?
 3. Future-proof: We will be able to, eventually, provide hover previews (similar to those used on [[https://www.gwern.net/][gwern.net]]). Similarly, standalone quote nodes will fit into a transclusion model better than multi-quote nodes.
 #+print_bibliography:
+
+* Links
+
+** Favicons
+
+Favicons are nice additions to links. They provide visual context to where the user expects the link to take them. Let's include them alongside external links. I've written a [[https://github.com/cashweaver/basic-favicon-links][script to make the process easier]].
+
+* Backlinks
+
+Backlinks are the backbone of a powerful [[id:b130e6f2-31a1-4c3a-ae8b-7d8208a69710][zettelkasten]] system. The published form of these notes *must* include backlinks.

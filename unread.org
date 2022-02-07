@@ -6,6 +6,8 @@
 
 Please sort in order of oldest to youngest.
 
+* TODO [[https://notes.alexkehayias.com/][Alex Kehayias's Notes]] :link_group:
+* TODO [[https://hugocisneros.com/notes/][Hugo Cisneros's Notes]] :link_group:
 * TODO [[https://notes.andymatuschak.org/][Andy Matuschak's Notes]] :link_group:
 * TODO Xenos gambit
 

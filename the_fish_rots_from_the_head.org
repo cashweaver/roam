@@ -4,6 +4,7 @@
 :ROAM_REFS: https://www.reddit.com/r/slatestarcodex/comments/fowhki/the_fish_rots_from_the_head/
 :END:
 #+TITLE: The Fish Rots From The Head
+#+hugo_custom_front_matter: roam_refs '("https://www.reddit.com/r/slatestarcodex/comments/fowhki/the_fish_rots_from_the_head/")
 #+STARTUP: overview
 #+AUTHOR: Cash Weaver
 #+DATE: [2022-02-01 Tue 09:41]
@@ -12,3 +13,4 @@
 * TODO Summary
 * TODO Notes
 * TODO Thoughts
+* TODO Add to zotero, delete

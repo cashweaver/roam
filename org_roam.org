@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       1497025f-da3e-4bed-be19-f8f9c9a0e351
+:DIR:      /home/cashweaver/proj/roam/attachments/1497025f-da3e-4bed-be19-f8f9c9a0e351
+:END:
+#+title: org-roam
+#+author: Cash Weaver
+#+date: [2022-02-06 Sun 07:22]
+#+startup: overview
+#+hugo_auto_set_lastmod: t

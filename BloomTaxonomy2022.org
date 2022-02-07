@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@BloomTaxonomy2022]
+:ID:       5fbaa05c-666f-4d45-b798-ff36ace22126
+:DIR:      /home/cashweaver/proj/roam/attachments/5fbaa05c-666f-4d45-b798-ff36ace22126
+:END:
+#+title: Wikipedia :: Bloom's Taxonomy
+#+author: Cash Weaver
+#+date: [2022-02-06 Sun 15:38]
+#+startup: overview
+#+filetags: :reference:
+#+hugo_auto_set_lastmod: t
+ 
+[cite:@BloomTaxonomy2022]
+
+#+begin_quote
+Bloom's taxonomy is a set of three hierarchical models used to classify educational learning objectives into levels of complexity and specificity. ... The cognitive domain list has been the primary focus of most traditional education and is frequently used to structure curriculum learning objectives, assessments and activities.
+
+/[cite:@BloomTaxonomy2022]/
+#+end_quote
+
+In order from least complex to most complex:
+
+1. Knowledge
+2. Comprehension
+3. Application
+4. Analysis
+5. Synthesis
+6. Evaluation
+
+#+DOWNLOADED: https://upload.wikimedia.org/wikipedia/commons/7/72/BloomsTaxonomy.png @ 2021-12-31 12:30:10
+[[file:2021-12-31_12-30-10_BloomsTaxonomy.png]]
+
+Anderson proposed [[isbn:978-0-8013-1903-7][proposed a revision of Bloom's cognitive taxomomy]] (in order from least complex to most complex):
+
+1. Remember
+2. Understand
+3. Apply
+4. Analyze
+5. Evaluate
+6. Create
+#+print_bibliography:

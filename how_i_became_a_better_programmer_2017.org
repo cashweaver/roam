@@ -17,3 +17,4 @@ CLOCK: [2022-01-27 Thu 13:27]
 :END:
 * TODO Notes
 * TODO Thoughts
+* TODO Convert to citation
