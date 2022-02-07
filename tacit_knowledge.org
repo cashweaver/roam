@@ -1,10 +1,9 @@
 :PROPERTIES:
 :ID:       d636dfa7-428d-457c-8db6-15fa61e03bef
 :DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/d636dfa7-428d-457c-8db6-15fa61e03bef
-:ROAM_REFS: https://en.wikipedia.org/wiki/Tacit_knowledge
 :END:
 #+title: Tacit Knowledge
-#+hugo_custom_front_matter: roam_refs '("https://en.wikipedia.org/wiki/Tacit_knowledge")
+#+FILETAGS: :concept:
 #+author: Cash Weaver
 #+date: [2022-01-30 Sun 13:17]
 #+startup: overview
@@ -14,6 +13,7 @@
 Tacit knowledge or implicit knowledge—as opposed to formal, codified or explicit knowledge—is knowledge that is difficult to express or extract, and thus more difficult to transfer to others by means of writing it down or verbalizing it. This can include personal wisdom, experience, insight, and intuition.
 
 For example, knowing that London is in the United Kingdom is a piece of explicit knowledge; it can be written down, transmitted, and understood by a recipient. In contrast, the ability to speak a language, ride a bicycle, knead dough, play a musical instrument, or design and use complex equipment requires all sorts of knowledge which is not always known explicitly, even by expert practitioners, and which is difficult or impossible to explicitly transfer to other people.
-#+end_quote
 
-* TODO Convert to citation
+[cite:@TacitKnowledge2022]
+#+end_quote
+#+print_bibliography:

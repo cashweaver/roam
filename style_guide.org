@@ -11,9 +11,18 @@
 
 A style guide for my [[id:773406e0-fe95-41f4-a254-b2c6ade18ce9][personal knowledge management]] system (powered by [[id:1497025f-da3e-4bed-be19-f8f9c9a0e351][org-roam]]):
 
+* General
+
+- [[id:d65fac7a-c0e4-4f53-95f2-71d7343dc0cf][Use Plain Language]]
+
 * Tags
 
-Prefer links to tags.
+- Prefer links to tags
+- Maintain the integrity of the following tags in particular:
+  - =concept=
+  - =reference=: About a specific citation
+  - =quote=: A single quote; should link back to it's reference node
+  - =person=: A person
 
 * Specifying an Author
 

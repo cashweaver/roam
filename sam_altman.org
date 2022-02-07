@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       b6eed0c7-f6da-4145-b89a-c2415d7c0eb7
+:DIR:      /home/cashweaver/proj/roam/attachments/b6eed0c7-f6da-4145-b89a-c2415d7c0eb7
+:END:
+#+title: Sam Altman
+#+author: Cash Weaver
+#+date: [2022-02-07 Mon 06:46]
+#+startup: overview
+#+filetags: :person:
+#+hugo_auto_set_lastmod: t
+Among other things:
+
+* TODO

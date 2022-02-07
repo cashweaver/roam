@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       d2b00ba2-7832-4bdf-b93a-8a6fd527e5a4
+:DIR:      /home/cashweaver/proj/roam/attachments/d2b00ba2-7832-4bdf-b93a-8a6fd527e5a4
+:END:
+#+title: Alexey Nikitin
+#+author: Cash Weaver
+#+date: [2022-02-07 Mon 06:31]
+#+startup: overview
+#+filetags: :person:
+#+hugo_auto_set_lastmod: t
+Among other things:
+
+* TODO

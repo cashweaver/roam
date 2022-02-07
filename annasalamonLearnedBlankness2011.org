@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@salamonLearnedBlankness2011]
+:ID:       8589981c-2ef6-46ed-b197-bb8acbece4ec
+:DIR:      /home/cashweaver/proj/roam/attachments/8589981c-2ef6-46ed-b197-bb8acbece4ec
+:END:
+#+title:  Anna Salamon :: Learned Blankness
+#+author: Cash Weaver
+#+date: [2022-02-06 Sun 17:49]
+#+startup: overview
+#+filetags: :reference:
+#+hugo_auto_set_lastmod: t
+ 
+[[id:ebe7bcfc-87ef-404b-b6cd-e413ab6d8f16][Anna Salamon]], [cite:@salamonLearnedBlankness2011]
+
+* Summary
+* Thoughts
+* Notes
+#+begin_quote
+Martin Seligman coined the term "learned helplessness" to describe a condition in which someone has learned to behave as though they were helpless. I think we need a term for learned helplessness about thinking (in a particular domain). I’ll call this “learned blankness”. Folks who fall prey to learned blankness may still take actions -- sometimes my students practiced the procedures again and again, hired a tutor, etc. But they do so as though carrying out rituals to an unknown god -- parts of them may be trying, but their “understand X” center has given up.
+#+end_quote
+#+print_bibliography:

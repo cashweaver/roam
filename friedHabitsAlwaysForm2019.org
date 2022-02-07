@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@friedHabitsAlwaysForm2019]
+:ID:       02b5bf70-cf7f-49d0-b1f0-60fc0270abb0
+:DIR:      /home/cashweaver/proj/roam/attachments/02b5bf70-cf7f-49d0-b1f0-60fc0270abb0
+:END:
+#+title: Jason Fried :: Habits Always Form
+#+author: Cash Weaver
+#+date: [2022-02-06 Sun 17:53]
+#+startup: overview
+#+filetags: :reference:
+#+hugo_auto_set_lastmod: t
+ 
+[[id:a9705d03-a4bf-4f25-935f-5aaa78a41a07][Jason Fried]], [cite:@friedHabitsAlwaysForm2019]
+
+#+begin_quote
+Habits are always forming. No matter what you do, you’re also forming habits too. Keep that in mind with whatever you do.
+
+When we talk about habits, we generally talk about learning good habits. Or forming good habits. Both of these outcomes suggest we can end up with the habits we want. And technically we can! But most of the habits we have are habits we ended up with after years of unconscious behavior. They’re not intentional. They’ve been planting deep roots under the surface, sight unseen. Fertilized, watered, and well-fed by recurring behavior. Trying to pull that habit out of the ground later is going to be incredibly difficult. Your grip has to be better than its grip, and it rarely is.
+
+So be aware of what you do, what you’re doing, and how you’re doing it. Every do digs deeper. Every does grips stronger.
+#+end_quote
+#+print_bibliography:

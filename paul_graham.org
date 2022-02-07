@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       8a9360e0-306a-422a-804f-e2fd6664b8fe
+:DIR:      /home/cashweaver/proj/roam/attachments/8a9360e0-306a-422a-804f-e2fd6664b8fe
+:END:
+#+title: Paul Graham
+#+author: Cash Weaver
+#+date: [2022-02-06 Sun 17:43]
+#+startup: overview
+#+filetags: :person:
+#+hugo_auto_set_lastmod: t
+Among other things:
+
+* TODO

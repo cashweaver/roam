@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       c15e2a88-d5d8-404e-bbba-487f51c563a0
+:DIR:      /home/cashweaver/proj/roam/attachments/c15e2a88-d5d8-404e-bbba-487f51c563a0
+:END:
+#+title: David Thompson
+#+author: Cash Weaver
+#+date: [2022-02-07 Mon 06:26]
+#+startup: overview
+#+filetags: :person:
+#+hugo_auto_set_lastmod: t
+Among other things:
+
+* TODO

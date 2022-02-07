@@ -11,9 +11,8 @@
 
 A technique of studying/learning where one emphasizes the relationships between pieces of information.
 
-    #+begin_quote
+#+begin_quote
 ... [R]elational processing refers to the encoding of similarities and differences across pieces of information. For example, sorting words into categories, ordering sentences to create a coherent text, and explaining why each subsequent step in a science experiment follows the preceding step all involve comparing to-be-remembered events to each other.
 
 [[id:91d7761c-fb74-4f25-94cc-948d7522b818][Memory in Educational Settings]]
-    #+end_quote
-* TODO Convert to citation
+#+end_quote

@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       08f7aba1-10e6-4f7a-a595-430d7253491f
+:DIR:      /home/cashweaver/proj/roam/attachments/08f7aba1-10e6-4f7a-a595-430d7253491f
+:END:
+#+title: James Altucher
+#+author: Cash Weaver
+#+date: [2022-02-07 Mon 07:16]
+#+startup: overview
+#+filetags: :person:
+#+hugo_auto_set_lastmod: t
+Among other things:
+
+- https://jamesaltucher.com

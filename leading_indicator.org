@@ -1,24 +1,21 @@
 :PROPERTIES:
 :ID:       31eaa796-a578-43ae-a119-a1d8505cbe72
 :DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/31eaa796-a578-43ae-a119-a1d8505cbe72
-:ROAM_REFS: https://en.wikipedia.org/wiki/Economic_indicator
 :END:
 #+title: Leading Indicator
-#+hugo_custom_front_matter: roam_refs '("https://en.wikipedia.org/wiki/Economic_indicator")
 #+author: Cash Weaver
 #+date: [2022-01-28 Fri 08:18]
 #+startup: overview
 #+hugo_auto_set_lastmod: t
-#+HUGO_DRAFT: t
 
 #+begin_quote
 Leading indicators are indicators that usually, but not always, change before the [a thing] as a whole changes. They are therefore useful as short-term predictors of the [a thing].
+
+/[cite:@EconomicIndicator2021]/
 #+end_quote
 
 * TODO Examples
 
 - Amount of sleep someone gets as a leading indicator for their focus during the day.
--
 
-* TODO Maybe rephrase the definition into my own words?
-* TODO Convert to citation through Zotero
+#+print_bibliography:

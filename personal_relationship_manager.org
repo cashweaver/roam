@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4938a000-de24-45a9-bb5b-5b8559bc99c3
+:DIR:      /home/cashweaver/proj/roam/attachments/4938a000-de24-45a9-bb5b-5b8559bc99c3
+:END:
+#+title: Personal Relationship Manager
+#+author: Cash Weaver
+#+date: [2022-02-07 Mon 06:05]
+#+startup: overview
+#+hugo_auto_set_lastmod: t
+
+A Customer Relationship Manager (CRM) for personal use.

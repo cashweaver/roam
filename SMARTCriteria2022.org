@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@SMARTCriteria2022]
+:ID:       68f0244e-a6f4-42d5-ac41-2d2001987ea3
+:DIR:      /home/cashweaver/proj/roam/attachments/68f0244e-a6f4-42d5-ac41-2d2001987ea3
+:END:
+#+title: Wikipedia :: SMART Criteria
+#+author: Cash Weaver
+#+date: [2022-02-07 Mon 06:59]
+#+startup: overview
+#+filetags: :reference:
+#+hugo_auto_set_lastmod: t
+ 
+[cite:@SMARTCriteria2022]
+
+SMART goals are:
+
+#+begin_quote
+- Specific – target a specific area
+- Measurable – quantify or at least suggest an indicator of progress
+- Assignable – specify who will do it
+- Realistic – state what results can realistically be achieved, given available resources
+- Time-related – specify when the result(s) can be achieved
+#+end_quote
+
+#+print_bibliography:

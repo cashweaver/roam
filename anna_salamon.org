@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       ebe7bcfc-87ef-404b-b6cd-e413ab6d8f16
+:DIR:      /home/cashweaver/proj/roam/attachments/ebe7bcfc-87ef-404b-b6cd-e413ab6d8f16
+:END:
+#+title: Anna Salamon
+#+author: Cash Weaver
+#+date: [2022-02-06 Sun 17:49]
+#+startup: overview
+#+filetags: :person:
+#+hugo_auto_set_lastmod: t
+Among other things:
+
+- (at time of writing) president and co-founder of the Center for Applied Rationality
+- [[https://www.lesswrong.com/users/annasalamon][AnnaSalamon]] on [[id:820021b3-7576-4516-9fe2-51cbfe263ebe][LessWrong]]

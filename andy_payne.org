@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       fc84cac1-019c-46a3-bab2-5f68e57135ec
+:DIR:      /home/cashweaver/proj/roam/attachments/fc84cac1-019c-46a3-bab2-5f68e57135ec
+:END:
+#+title: Andy Payne
+#+author: Cash Weaver
+#+date: [2022-02-07 Mon 07:33]
+#+startup: overview
+#+filetags: :person:
+#+hugo_auto_set_lastmod: t
+Among other things:
+
+* TODO

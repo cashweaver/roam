@@ -8,3 +8,7 @@
 #+startup: overview
 #+filetags: :person:
 #+hugo_auto_set_lastmod: t
+
+Among other things:
+
+- https://commoncog.com/

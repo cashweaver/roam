@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       699c0a4b-7bcf-4175-851c-8dd5deac8e84
+:DIR:      /home/cashweaver/proj/roam/attachments/699c0a4b-7bcf-4175-851c-8dd5deac8e84
+:END:
+#+title: Derek Sivers
+#+author: Cash Weaver
+#+date: [2022-02-07 Mon 07:34]
+#+startup: overview
+#+filetags: :person:
+#+hugo_auto_set_lastmod: t
+Among other things:
+
+* TODO

@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       5a7ebf66-7622-47b1-9778-91cbb4566561
+:DIR:      /home/cashweaver/proj/roam/attachments/5a7ebf66-7622-47b1-9778-91cbb4566561
+:END:
+#+title: Stephen Kuenzli
+#+author: Cash Weaver
+#+date: [2022-02-06 Sun 20:49]
+#+startup: overview
+#+filetags: :person:
+#+hugo_auto_set_lastmod: t
+Among other things:
+
+* TODO

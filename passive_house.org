@@ -9,5 +9,11 @@
 #+hugo_auto_set_lastmod: t
 #+hugo_draft: t
 
-* TODO Definition
-* TODO Convert to citation
+#+begin_quote
+[...] a voluntary standard for energy efficiency in a building, which reduces the building's ecological footprint.
+
+/[cite:@PassiveHouse2022]/
+#+end_quote
+
+* TODO Expand
+#+print_bibliography:
