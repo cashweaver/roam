@@ -7,13 +7,29 @@
 #+author: Cash Weaver
 #+date: [2022-02-05 Sat 13:12]
 #+startup: overview
+#+options: num:t
 #+hugo_auto_set_lastmod: t
 
 A style guide for my [[id:773406e0-fe95-41f4-a254-b2c6ade18ce9][personal knowledge management]] system (powered by [[id:1497025f-da3e-4bed-be19-f8f9c9a0e351][org-roam]]):
 
 * General
 
-- [[id:d65fac7a-c0e4-4f53-95f2-71d7343dc0cf][Use Plain Language]]
+** [[id:d65fac7a-c0e4-4f53-95f2-71d7343dc0cf][Use Plain Language]]
+** Use Serial Commas
+
+#+begin_quote
+[...] a serial comma (also called a series comma, Oxford comma, or Harvard comma) is a comma placed immediately after the penultimate term (i.e., before the coordinating conjunction, such as and or or) in a series of three or more terms.
+
+[cite:@SerialComma2022]
+#+end_quote
+
+Note that serial commas are not a fix-all for ambigious sentences. They may, in fact, /introduce/ ambiguity [cite:@SerialComma2022].
+
+*** Examples
+
+- Incorrect: "To my parents, Abraham Lincoln and God."
+- *Correct*: "To my parents, Abraham Lincoln, and God."
+** [[id:3e310bff-729b-429b-9e10-769422c75561][Vary the Length of Sentences]]
 
 * Tags
 
@@ -34,20 +50,26 @@ Formerly, the policy was: Specify an author using a node-level tag prefixed with
 
 ** Attribution
 
-Attribution lines in quotes should be in /italics/.
+- Place attributions on the last line of the quote.
+- The attribution may, but doesn't have to, be /italicized/.
+- The form of the attribution should be one of, in order of preference:
+  1. *Ideal*: "<link to person>, <citation>"
+  1. "<person>, <citation>"
+  2. "<person>" or "<citation>"
+  3. "<general link>"
 
 *** Does it Need Attribution?
 
 Every quote should contain an attribution unless it meets one of the following criteria:
 
-1. The quote is from a source referenced in =ROAM_REFS= and this source is the *only* source present in =ROAM_REFS=.
+1. The quote is from a cited source which appears in the node's bibliography and this source is the *only* citation present in the node.
 
 *** Examples
 
 #+begin_quote
-Org is a mode for keeping notes, maintaining TODO lists, and project planning with a fast and effective plain-text markup language. It also is an authoring system with unique support for literate programming and reproducible research.
+I am increasingly convinced that the difference between effective and ineffective people is their skill at developing a theory of change.
 
-/[[https://orgmode.org/manual/Summary.html][org-mode Manual: Summary]]/
+[[id:62152128-36b1-4229-a6ce-a78858975120][Aaron Swartz]], [cite:@swartzTheoryChange2010]
 #+end_quote
 
 #+begin_quote
@@ -56,25 +78,31 @@ Muad'Dib learned rapidly because his first training was in how to learn. And the
 /Princess Irulan, [cite:@herbertDune1999]/
 #+end_quote
 
+#+begin_quote
+Org is a mode for keeping notes, maintaining TODO lists, and project planning with a fast and effective plain-text markup language. It also is an authoring system with unique support for literate programming and reproducible research.
+
+/[[https://orgmode.org/manual/Summary.html][org-mode Manual: Summary]]/
+#+end_quote
+
 ** How Much is Too Much?
 
 There isn't a hard rule on how much quoting is too much. Large quotes [[id:18745aec-fcd1-4dd5-a55f-73fdc409aacb][have their benefits]].
 
 ** Quote Nodes
 
-Quotes should live in stand-alone single nodes (eg: [[id:7c49d995-a4d4-4c95-84c0-9dae9d8ab498][The First Lesson]]). This is multi-purpose:
+Quotes can live in stand-alone single nodes (eg: [[id:7c49d995-a4d4-4c95-84c0-9dae9d8ab498][The First Lesson]]). This is multi-purpose:
 
 1. When in doubt, make the node smaller.
-2. Simplicity for the reader: Multiple quotes on a single page may confuse a user who has just arrived on that page by following a reference link. Which of the quotes they see is the right one?
+2. Easier to link to specific quotes: Suppose a reader clicks on a link and arrives on a page with five quotes visible. This may confuse the reader. Which of the visible quotes is the right one?
 3. Future-proof: We will be able to, eventually, provide hover previews (similar to those used on [[https://www.gwern.net/][gwern.net]]). Similarly, standalone quote nodes will fit into a transclusion model better than multi-quote nodes.
-#+print_bibliography:
 
 * Links
 
-** Favicons
+** Show Favicons with Links
 
-Favicons are nice additions to links. They provide visual context to where the user expects the link to take them. Let's include them alongside external links. I've written a [[https://github.com/cashweaver/basic-favicon-links][script to make the process easier]].
+Favicons are nice additions to links. They provide visual context to where the reader expects the link to take them. Let's include them alongside external links. I've written a [[https://github.com/cashweaver/basic-favicon-links][script to make the process easier]].
 
-* Backlinks
+** Every Node Must Include Backlinks
 
 Backlinks are the backbone of a powerful [[id:b130e6f2-31a1-4c3a-ae8b-7d8208a69710][zettelkasten]] system. The published form of these notes *must* include backlinks.
+#+print_bibliography:

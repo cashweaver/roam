@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@shapiroHowPunctuate]
+:ID:       7f8365a4-bafd-4ab1-9034-957f76b904a0
+:DIR:      /home/cashweaver/proj/roam/attachments/7f8365a4-bafd-4ab1-9034-957f76b904a0
+:END:
+#+title: Julian Shapiro :: How to Punctuate
+#+author: Cash Weaver
+#+date: [2022-02-07 Mon 16:30]
+#+startup: overview
+#+filetags: :reference:
+#+hugo_auto_set_lastmod: t
+ 
+[[id:5d78b917-4138-4236-a15e-22a6ae7b19a2][Julian Shapiro]], [cite:@shapiroHowPunctuate]
+
+* TODO Summary
+* TODO Thoughts
+* TODO Notes
+#+print_bibliography:
+* TODO Incorporate points I agree with into [[id:05911fff-a79b-4462-bf6d-a3cec4e1c9f2][Style Guide]]

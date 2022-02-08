@@ -9,18 +9,16 @@
 #+startup: overview
 #+hugo_auto_set_lastmod: t
 
+[[id:62152128-36b1-4229-a6ce-a78858975120][Aaron Swartz]], [cite:@swartzTheoryChange2010]
+
 * Notes
 
 #+begin_quote
 I am increasingly convinced that the difference between effective and ineffective people is their skill at developing a theory of change.
-
-/[cite:@swartzTheoryChange2010]/
 #+end_quote
 
 #+begin_quote
 A theory of change is the opposite of a theory of action — it works backwards from the goal, in concrete steps, to figure out what you can do to achieve it. To develop a theory of change, you need to start at the end and repeatedly ask yourself, “Concretely, how does one achieve that?”
-
-/[cite:@swartzTheoryChange2010]/
 #+end_quote
 
 #+print_bibliography:

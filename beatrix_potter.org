@@ -8,6 +8,10 @@
 #+startup: overview
 #+filetags: :person:
 #+hugo_auto_set_lastmod: t
-Among other things:
 
-* TODO
+#+begin_quote
+an English writer, illustrator, natural scientist and conservationist; she was best known for her children's books featuring animals, such as The Tale of Peter Rabbit.
+
+[cite:@BeatrixPotter2022]
+#+end_quote
+#+print_bibliography:

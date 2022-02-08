@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3e310bff-729b-429b-9e10-769422c75561
+:DIR:      /home/cashweaver/proj/roam/attachments/3e310bff-729b-429b-9e10-769422c75561
+:END:
+#+title: This Sentence Has Five Words
+#+author: Cash Weaver
+#+date: [2022-02-07 Mon 17:05]
+#+startup: overview
+#+filetags: :quote:
+#+hugo_auto_set_lastmod: t
+#+begin_quote
+This sentence has five words. Here are five more words. Five-word sentences are fine. But several together become monotonous. Listen to what is happening. The writing is getting boring. The sound of it drones. It’s like a stuck record. The ear demands some variety.
+
+Now listen. I vary the sentence length, and I create music. Music. The writing sings. It has a pleasant rhythm, a lilt, a harmony. I use short sentences. And I use sentences of medium length. And sometimes, when I am certain the reader is rested, I will engage him with a sentence of considerable length, a sentence that burns with energy and builds with all the impetus of a crescendo, the roll of the drums, the crash of the cymbals–sounds that say listen to this, it is important.
+
+So write with a combination of short, medium, and long sentences. Create a sound that pleases the reader’s ear. Don’t just write words. Write music.”
+
+[[id:94f3dcc8-dc62-48f1-b15e-8dbb9f23d554][Gary Provost]], [cite:@provost100WaysImproveYourWriting2014]
+#+end_quote
+#+print_bibliography:

@@ -1,0 +1,63 @@
+:PROPERTIES:
+:ID:       248e3cc9-0511-4e71-afd6-19320d3fd61d
+:DIR:      /home/cashweaver/proj/roam/attachments/248e3cc9-0511-4e71-afd6-19320d3fd61d
+:END:
+#+title: Julian Shapiro :: Writing Well Handbook
+#+author: Cash Weaver
+#+date: [2022-02-07 Mon 16:13]
+#+startup: overview
+#+hugo_auto_set_lastmod: t
+
+[[id:5d78b917-4138-4236-a15e-22a6ae7b19a2][Julian Shapiro]]
+
+* TODO Thoughts
+
+* Notes
+** TODO Introduction
+:PROPERTIES:
+:ID:       0612ee76-fa86-49ca-9aa8-509eb3bb0f4e
+:END:
+
+[[id:5d78b917-4138-4236-a15e-22a6ae7b19a2][Julian Shapiro]], [cite:@shapiroWritingWellHandbook]
+
+#+begin_quote
+This handbook helps you write nonfiction books and blogs.
+
+[cite:@shapiroWritingWellHandbook]
+#+end_quote
+
+** TODO What to Write About
+:PROPERTIES:
+:ID:       729ca636-fd4f-4203-aef9-ec8211948a99
+:END:
+
+[[id:5d78b917-4138-4236-a15e-22a6ae7b19a2][Julian Shapiro]], [cite:@shapiroWritingHandbookHowSourceWritingIdeas]
+
+** TODO Writing First Drafts
+:PROPERTIES:
+:ID:       3a9421aa-105f-4338-a228-1c65fa5e0d99
+:END:
+
+[[id:5d78b917-4138-4236-a15e-22a6ae7b19a2][Julian Shapiro]], [cite:@shapiroWritingHandbookHowWriteFirstDraft]
+
+** TODO Rewriting and Editing
+:PROPERTIES:
+:ID:       b46ea6ee-5a61-47ee-81e1-163af9ff9cc4
+:END:
+
+[[id:5d78b917-4138-4236-a15e-22a6ae7b19a2][Julian Shapiro]], [cite:@shapiroWritingHandbookHowRewriteYourFirstDraft]
+
+** TODO Writing Style
+:PROPERTIES:
+:ID:       372554f4-e2c2-4757-b7c5-f4e279e37e2f
+:END:
+
+[[id:5d78b917-4138-4236-a15e-22a6ae7b19a2][Julian Shapiro]], [cite:@shapiroWritingHandbookHowWriteStyle]
+
+** TODO Practicing Writing
+:PROPERTIES:
+:ID:       00d52261-4038-4440-99db-8214a9039f0d
+:END:
+
+[[id:5d78b917-4138-4236-a15e-22a6ae7b19a2][Julian Shapiro]], [cite:@shapiroWritingHandbookHowPracticeWriting]
+#+print_bibliography:
