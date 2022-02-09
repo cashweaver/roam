@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a4f67dcc-8f90-4a21-abc8-b85bbaf2dee4
+:DIR:      /home/cashweaver/proj/roam/attachments/a4f67dcc-8f90-4a21-abc8-b85bbaf2dee4
+:END:
+#+title: Plans Within Plans
+#+author: Cash Weaver
+#+date: [2022-02-08 Tue 10:44]
+#+startup: overview
+#+hugo_auto_set_lastmod: t
+
+* TODO

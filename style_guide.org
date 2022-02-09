@@ -31,14 +31,22 @@ Note that serial commas are not a fix-all for ambigious sentences. They may, in 
 - *Correct*: "To my parents, Abraham Lincoln, and God."
 ** [[id:3e310bff-729b-429b-9e10-769422c75561][Vary the Length of Sentences]]
 
+* Types of Nodes
+:PROPERTIES:
+:ID:       d5d079f4-0808-40e6-905b-32a335c1ecbf
+:END:
+
+| Type      | Tag         | Description                          | Example                         |
+|-----------+-------------+--------------------------------------+---------------------------------|
+| Concept   | =concept=   | About an idea/concept                | [[id:a4f67dcc-8f90-4a21-abc8-b85bbaf2dee4][Plans Within Plans]]              |
+| Reference | =reference= | The node-form of a specific citation | [[id:68077361-66a6-4abe-b00f-dfb3d83630f2][Herbert :: Dune]]                 |
+| Quote     | =quote=     | Contain a single quote               | [[id:d8b060f2-5b7e-44bd-8f8c-b0dd32d2cf76][Plans within plans within plans]] |
+| Person    | =person=    | About a single person                | [[id:9650cad7-fc51-4d4e-a436-e35bb038a2bf][Baron Vladimir Harkonnen]]        |
+
 * Tags
 
 - Prefer links to tags
-- Maintain the integrity of the following tags in particular:
-  - =concept=
-  - =reference=: About a specific citation
-  - =quote=: A single quote; should link back to it's reference node
-  - =person=: A person
+- Maintain the validity of the tags associated with [[id:d5d079f4-0808-40e6-905b-32a335c1ecbf][Types of Nodes]]
 
 * Specifying an Author
 

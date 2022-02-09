@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       a0503d43-fe6f-4dfb-838c-4fc3ad2d64ea
+:DIR:      /home/cashweaver/proj/roam/attachments/a0503d43-fe6f-4dfb-838c-4fc3ad2d64ea
+:ROAM_ALIASES: "Princess Irulan"
+:END:
+#+title: Irulan Corrino
+#+author: Cash Weaver
+#+date: [2022-02-08 Tue 10:33]
+#+startup: overview
+#+filetags: :person:
+#+hugo_auto_set_lastmod: t
+Among other things:
+
+* TODO

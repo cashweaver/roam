@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       9650cad7-fc51-4d4e-a436-e35bb038a2bf
+:DIR:      /home/cashweaver/proj/roam/attachments/9650cad7-fc51-4d4e-a436-e35bb038a2bf
+:ROAM_ALIASES: "Baron Vladimir Harkonnen" "The Baron"
+:END:
+#+title: Vladimir Harkonnen
+#+author: Cash Weaver
+#+date: [2022-02-08 Tue 10:45]
+#+startup: overview
+#+filetags: :person:
+#+hugo_auto_set_lastmod: t
+Among other things:
+
+* TODO
