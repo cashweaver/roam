@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       29171a49-1148-45e0-b2d4-26d2066b51b7
+:DIR:      /home/cashweaver/proj/roam/attachments/29171a49-1148-45e0-b2d4-26d2066b51b7
+:END:
+#+title: Todos
+#+author: Cash Weaver
+#+date: [2022-02-07 Mon 16:30]
+#+startup: overview
+#+filetags: :meta:
+#+hugo_auto_set_lastmod: t
+
+* TODO [#2] Node idea: Specifics of my blog post authoring process with =emacs=, =org-mode=, =ox-hugo=, and =org-roam=.
+* TODO [#2] Node idea: Thoughts on productivity, guilt, and free time as an illusion.
+* TODO [#2] Node idea: My process for managing my Anki cards in Emacs.
+* TODO [#1] Node idea: Future impact of climate change on USA with focus on picking a place to live
+:PROPERTIES:
+:Created: [2022-02-07 Mon 20:42]
+:END:
+* TODO [#2] Tag nodes with =concept=
+:PROPERTIES:
+:Created: [2022-02-09 Wed 04:14]
+:END:
+* TODO [#2] Tag nodes with =reference=
+:PROPERTIES:
+:Created: [2022-02-09 Wed 04:15]
+:END:
+* TODO [#2] Tag nodes with =person=
+:PROPERTIES:
+:Created: [2022-02-09 Wed 04:15]
+:END:
+* TODO [#2] Tag nodes with =quote=
+:PROPERTIES:
+:Created: [2022-02-09 Wed 04:15]
+:END:
