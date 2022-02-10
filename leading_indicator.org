@@ -3,6 +3,7 @@
 :DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/31eaa796-a578-43ae-a119-a1d8505cbe72
 :END:
 #+title: Leading Indicator
+#+FILETAGS: :reference:
 #+author: Cash Weaver
 #+date: [2022-01-28 Fri 08:18]
 #+startup: overview

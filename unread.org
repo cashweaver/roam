@@ -2,24 +2,32 @@
 #+AUTHOR: cashweaver
 #+STARTUP: overview
 #+TAGS: [ type : book essay class discussion link_group ]
-#+TAGS: [ subject : math politics machine_learning_artificial_intelligence management ]
+#+TAGS: [ subject : math politics machine_learning_artificial_intelligence management emacs productivity physics learning ]
+#+TAGS: [ when : someday ]
 
 Please sort in order of oldest to youngest.
 
 * TODO [[https://notes.alexkehayias.com/][Alex Kehayias's Notes]] :link_group:
+:PROPERTIES:
+:CREATED: [2022-02-05 14:37]
+:END:
 * TODO [[https://hugocisneros.com/notes/][Hugo Cisneros's Notes]] :link_group:
+:PROPERTIES:
+:CREATED: [2022-02-05 14:37]
+:END:
 * TODO [[https://notes.andymatuschak.org/][Andy Matuschak's Notes]] :link_group:
-* TODO Xenos gambit
-
-* TODO [[https://www.theatlantic.com/politics/archive/2016/10/how-democrats-killed-their-populist-soul/504710/][How Democrats Killed their Populist Soul]] :essay:politics:
+:PROPERTIES:
+:CREATED: [2022-02-05 14:37]
+:END:
+* TODO [[https://www.theatlantic.com/politics/archive/2016/10/how-democrats-killed-their-populist-soul/504710/][How Democrats Killed their Populist Soul]] :essay:politics:someday:
 :PROPERTIES:
 :CREATED: [2021-12-27 15:22]
 :END:
-* TODO [[https://www.google.com/books/edition/Goliath/mDxqDwAAQBAJ?hl=en&gbpv=0][Goliath by Matt Stoller]] :book:politics:
+* TODO [[https://www.google.com/books/edition/Goliath/mDxqDwAAQBAJ?hl=en&gbpv=0][Goliath by Matt Stoller]] :book:politics:someday:
 :PROPERTIES:
 :CREATED: [2021-12-27 15:22]
 :END:
-* TODO [[https://news.ycombinator.com/item?id=21928170][Ask HN: What niche blogs are worthwhile to follow?]] :link_group:
+* TODO [[https://news.ycombinator.com/item?id=21928170][Ask HN: What niche blogs are worthwhile to follow?]] :link_group:someday:
 :PROPERTIES:
 :CREATED: [2020-01-01 14:37]
 :END:
@@ -31,41 +39,33 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-01-09 18:40]
 :END:
-* TODO [[https://news.ycombinator.com/item?id=22264043][Ask HN: What agenda do you have for 1:1 meetings with your supervisor?]] :discussion:
+* TODO [[https://news.ycombinator.com/item?id=22264043][Ask HN: What agenda do you have for 1:1 meetings with your supervisor?]] :discussion:management:someday:
 :PROPERTIES:
 :CREATED: [2020-02-07 08:04]
 :END:
-* TODO [[https://news.ycombinator.com/item?id=22273224][Ask HN: What are good solo developer blogs that you enjoy reading?]] :discussion:link_group:
+* TODO [[https://news.ycombinator.com/item?id=22273224][Ask HN: What are good solo developer blogs that you enjoy reading?]] :discussion:link_group:someday:
 :PROPERTIES:
 :CREATED: [2020-02-08 02:02]
 :END:
-* TODO [[https://news.ycombinator.com/item?id=22280939][Ask HN: What are the underrated newsletters you like reading?]] :link_group:discussion:
+* TODO [[https://news.ycombinator.com/item?id=22280939][Ask HN: What are the underrated newsletters you like reading?]] :link_group:discussion:someday:
 :PROPERTIES:
 :CREATED: [2020-02-09 07:47]
 :END:
-* TODO [[http://www.openculture.com/2020/02/old-book-illustrations-download.html][Download Thousands of Illustrations from the 19th and 20th Centuries]] :essay:
-:PROPERTIES:
-:CREATED: [2020-02-13 06:17]
-:END:
-* TODO [[https://news.ycombinator.com/item?id=22325975][Ask HN: How do you learn complex, dense technical information?]] :discussion:
-:PROPERTIES:
-:CREATED: [2020-02-14 12:25]
-:END:
-* TODO [[https://www.reddit.com/r/MachineLearning/comments/f4oxuj/discussion_what_are_some_habits_of_highly/][[Discussion] What are some habits of highly effective ML researchers?]] :discussion:
+* TODO [[https://www.reddit.com/r/MachineLearning/comments/f4oxuj/discussion_what_are_some_habits_of_highly/][[Discussion] What are some habits of highly effective ML researchers?]] :discussion:productivity:machine_learning_artificial_intelligence:someday:
 :PROPERTIES:
 :CREATED: [2020-02-16 10:27]
 :END:
-* TODO [[https://github.com/VGraupera/1on1-questions][1-on-1 meeting questions]] :essay:
+* TODO [[https://github.com/VGraupera/1on1-questions][1-on-1 meeting questions]] :essay:management:someday:
 :PROPERTIES:
 :CREATED: [2020-02-16 11:53]
 :END:
-* TODO [[http://introtodeeplearning.com/][MIT 6.S191: Introduction to Deep Learning]] :class:
+* TODO [[http://introtodeeplearning.com/][MIT 6.S191: Introduction to Deep Learning]] :class:machine_learning_artificial_intelligence:someday:
 :PROPERTIES:
 :CREATED: [2020-02-20 19:46]
 :END:
 * TODO Ben Kuhn's blog: https://www.benkuhn.net/ :link_group:
-* TODO [[https://alhassy.github.io/org-special-block-extras/][org-special-block-extras]] :essay:
-* TODO [[https://news.ycombinator.com/item?id=22682837][Ask HN: How to self-study physics?]] :discussion:
+* TODO [[https://alhassy.github.io/org-special-block-extras/][org-special-block-extras]] :essay:emacs:someday:
+* TODO [[https://news.ycombinator.com/item?id=22682837][Ask HN: How to self-study physics?]] :discussion:learning:someday:physics:
 :PROPERTIES:
 :CREATED: [2020-03-25 08:17]
 :END:
@@ -73,11 +73,11 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-03-25 20:48]
 :END:
-* TODO [[https://mapfilterfold.com/][Show HN: Meta book recommendations from Ask HN threads]] :link_group:discussion:
+* TODO [[https://mapfilterfold.com/][Show HN: Meta book recommendations from Ask HN threads]] :link_group:discussion:someday:
 :PROPERTIES:
 :CREATED: [2020-03-26 14:04]
 :END:
-* TODO [[https://news.ycombinator.com/item?id=22718592][Ask HN: Great fiction books that have had a positive impact on your life?]] :discussion:link_group:
+* TODO [[https://news.ycombinator.com/item?id=22718592][Ask HN: Great fiction books that have had a positive impact on your life?]] :discussion:link_group:someday:
 :PROPERTIES:
 :CREATED: [2020-03-29 12:54]
 :END:
@@ -89,11 +89,11 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-04-02 05:46]
 :END:
-* TODO [[https://news.ycombinator.com/item?id=22794984][Ask HN: Must Read from ACM Library?]] :discussion:link_group:
+* TODO [[https://news.ycombinator.com/item?id=22794984][Ask HN: Must Read from ACM Library?]] :discussion:link_group:someday:
 :PROPERTIES:
 :CREATED: [2020-04-06 16:20]
 :END:
-* TODO [[https://news.ycombinator.com/item?id=22800136][Ask HN: What is your blog and why should I read it?]] :link_group:discussion:
+* TODO [[https://news.ycombinator.com/item?id=22800136][Ask HN: What is your blog and why should I read it?]] :link_group:discussion:someday:
 :PROPERTIES:
 :CREATED: [2020-04-07 03:33]
 :END:

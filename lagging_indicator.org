@@ -3,6 +3,7 @@
 :DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/c112d0b0-ceef-4a41-9dc8-013a31bd1f49
 :END:
 #+title: Lagging Indicator
+#+FILETAGS: :reference:
 #+author: Cash Weaver
 #+date: [2022-01-28 Fri 08:07]
 #+startup: overview

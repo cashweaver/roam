@@ -3,6 +3,8 @@
 :DIR:      /home/cashweaver/proj/roam/attachments/b00a62dd-b06c-4943-81d7-140b11e15c8b
 :END:
 #+title: Solve the Problem
+#+FILETAGS: :concept:
+
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 16:37]
 #+startup: overview

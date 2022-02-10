@@ -3,7 +3,7 @@
 :DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/c74e3129-38af-45f8-bd2b-8a6fa5a0cad0
 :END:
 #+title: Documenting Your Work
-#+FILETAGS: :@Cash_Weaver:
+#+FILETAGS: :concept:
 #+author: Cash Weaver
 #+date: [2022-01-29 Sat 14:37]
 #+startup: overview

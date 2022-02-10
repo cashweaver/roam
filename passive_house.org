@@ -3,6 +3,7 @@
 :DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/846cdec4-5f6c-4dd9-99a4-d30ea0b61180
 :END:
 #+title: Passive House
+#+FILETAGS: :concept:
 #+author: Cash Weaver
 #+date: [2022-01-29 Sat 16:52]
 #+startup: overview
