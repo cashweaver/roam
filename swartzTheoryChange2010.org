@@ -3,7 +3,7 @@
 :ID:       6d2276f9-4b72-46be-a4dc-9cdd41997122
 :DIR:      /home/cashweaver/proj/roam/attachments/6d2276f9-4b72-46be-a4dc-9cdd41997122
 :END:
-#+title: Aaron Swartz :: Theory of Change
+#+title: Aaron Swartz | Theory of Change
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 12:06]
 #+startup: overview

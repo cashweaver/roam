@@ -3,7 +3,7 @@
 :ID:       91d7761c-fb74-4f25-94cc-948d7522b818
 :DIR:      /home/cashweaver/proj/roam/attachments/91d7761c-fb74-4f25-94cc-948d7522b818
 :END:
-#+title: Elizabeth J. Marsh, Andrew C. Butler :: Memory in Educational Settings
+#+title: Elizabeth J. Marsh, Andrew C. Butler | Memory in Educational Settings
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 21:10]
 #+startup: overview

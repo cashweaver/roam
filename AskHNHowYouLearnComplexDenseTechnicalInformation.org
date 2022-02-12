@@ -3,7 +3,7 @@
 :ID:       39b74423-8abb-4fd6-8ca1-536539e2d05b
 :DIR:      /home/cashweaver/proj/roam/attachments/39b74423-8abb-4fd6-8ca1-536539e2d05b
 :END:
-#+title: Hacker News :: Ask HN: How Do You Learn Complex, Dense Technical Information?
+#+title: Hacker News | Ask HN: How Do You Learn Complex, Dense Technical Information?
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 14:56]
 #+startup: overview

@@ -3,7 +3,7 @@
 :ID:       ff009594-d69f-4d33-b0c2-65ed62eaf0b2
 :DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/ff009594-d69f-4d33-b0c2-65ed62eaf0b2
 :END:
-#+title: Wikipedia :: Festina Lente
+#+title: Wikipedia | Festina Lente
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 16:50]
 #+startup: overview

@@ -3,7 +3,7 @@
 :ID:       ee7ed2c5-dd15-42aa-8cfe-8149ce58473e
 :DIR:      /home/cashweaver/proj/roam/attachments/ee7ed2c5-dd15-42aa-8cfe-8149ce58473e
 :END:
-#+title: Cedric Chin :: The Three Kinds of Non-Fiction Books
+#+title: Cedric Chin | The Three Kinds of Non-Fiction Books
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 07:36]
 #+startup: overview

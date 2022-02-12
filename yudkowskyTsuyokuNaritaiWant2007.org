@@ -3,7 +3,7 @@
 :ID:       9bbe0740-9dff-4d2a-908e-535e96ea4e59
 :DIR:      /home/cashweaver/proj/roam/attachments/9bbe0740-9dff-4d2a-908e-535e96ea4e59
 :END:
-#+title: Eliezer Yudkowsky :: Tsuyoku Naritai! (I Want To Become Stronger)
+#+title: Eliezer Yudkowsky | Tsuyoku Naritai! (I Want To Become Stronger)
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 08:06]
 #+startup: overview

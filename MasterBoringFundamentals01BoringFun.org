@@ -3,7 +3,7 @@
 :ID:       3baf57be-df25-429e-9bd6-5654d2fea9cf
 :DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/3baf57be-df25-429e-9bd6-5654d2fea9cf
 :END:
-#+title: James Stuber :: Master Boring Fundamentals 01: Boring Is Fun
+#+title: James Stuber | Master Boring Fundamentals 01: Boring Is Fun
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 15:51]
 #+startup: overview

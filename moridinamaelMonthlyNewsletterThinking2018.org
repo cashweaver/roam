@@ -3,7 +3,7 @@
 :ID:       da8376c0-7849-47fd-9f79-fca821651232
 :DIR:      /home/cashweaver/proj/roam/attachments/da8376c0-7849-47fd-9f79-fca821651232
 :END:
-#+title:  moridinamael :: The Monthly Newsletter as Thinking Tool
+#+title:  moridinamael | The Monthly Newsletter as Thinking Tool
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 06:19]
 #+startup: overview

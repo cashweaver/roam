@@ -10,6 +10,6 @@
 
 These sites are fantastic examples of well-done implementations of the [[id:b130e6f2-31a1-4c3a-ae8b-7d8208a69710][zettelkasten]] system. They serve as inspiration for my own notes.
 
-- [[id:df479fb9-f7b0-4e3a-a7eb-41849fbc190e][Andy Matuschak]]'s [[https://notes.andymatuschak.org/][Notes]]
-- [[id:d566fd17-7c20-45b9-99c9-b2d0709127cb][Alex Kehayias]]'s [[https://notes.alexkehayias.com/][Notes]]
-- [[id:ab84ad24-3d02-4246-b8ea-7b11b93ceeb3][Hugo Cisneros]]'s [[https://hugocisneros.com/notes/][Notes]]
+- [[id:df479fb9-f7b0-4e3a-a7eb-41849fbc190e][Andy Matuschak]]'s [[https://notes.andymatuschak.org/][notes]]
+- [[id:d566fd17-7c20-45b9-99c9-b2d0709127cb][Alex Kehayias]]'s [[https://notes.alexkehayias.com/][notes]]
+- [[id:ab84ad24-3d02-4246-b8ea-7b11b93ceeb3][Hugo Cisneros]]'s [[https://hugocisneros.com/notes/][notes]]

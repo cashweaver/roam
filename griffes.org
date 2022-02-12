@@ -3,7 +3,7 @@
 :ID:       18745aec-fcd1-4dd5-a55f-73fdc409aacb
 :DIR:      /home/cashweaver/proj/roam/attachments/18745aec-fcd1-4dd5-a55f-73fdc409aacb
 :END:
-#+title: Milan Griffes :: (A)
+#+title: Milan Griffes | (A)
 #+FILETAGS: :reference:
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 13:12]

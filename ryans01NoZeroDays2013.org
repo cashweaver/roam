@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@ryans01NoZeroDays2013]
+:ID:       c89158fd-05ac-4c66-8986-05753e15096c
+:DIR:      /home/cashweaver/proj/roam/attachments/c89158fd-05ac-4c66-8986-05753e15096c
+:END:
+#+title:  ryans01 | No Zero Days
+#+author: Cash Weaver
+#+date: [2022-02-12 Sat 08:33]
+#+startup: overview
+#+filetags: :reference:
+#+hugo_auto_set_lastmod: t
+ 
+[cite:@ryans01NoZeroDays2013]
+
+* Summary
+* Thoughts
+* Notes
+
+#+begin_quote
+Rule numero uno - There are no more zero days. What's a zero day? A zero day is when you don't do a single fucking thing towards whatever dream or goal or want or whatever that you got going on. No more zeros. I'm not saying you gotta bust an essay out everyday, that's not the point. The point I'm trying to make is that you have to make yourself, promise yourself, that the new SYSTEM you live in is a NON-ZERO system. Didnt' do anything all fucking day and it's 11:58 PM? Write one sentence. One pushup. Read one page of that chapter. One. Because one is non zero.
+#+end_quote
+
+#+print_bibliography:

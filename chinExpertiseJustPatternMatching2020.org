@@ -3,7 +3,7 @@
 :ID:       b481f4e5-63b4-4455-8406-49825121b06c
 :DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/b481f4e5-63b4-4455-8406-49825121b06c
 :END:
-#+title: Cedric Chin :: Expertise Is 'Just' Pattern Matching
+#+title: Cedric Chin | Expertise Is 'Just' Pattern Matching
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 16:53]
 #+startup: overview

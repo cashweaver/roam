@@ -3,7 +3,7 @@
 :ID:       bef6464a-d3ae-41c1-b63a-8871326a1d23
 :DIR:      /home/cashweaver/proj/roam/attachments/bef6464a-d3ae-41c1-b63a-8871326a1d23
 :END:
-#+title: Cedric Chin :: What Is a Career Moat?
+#+title: Cedric Chin | What Is a Career Moat?
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 15:53]
 #+startup: overview

@@ -3,7 +3,7 @@
 :ID:       53938c1e-d71b-436a-bbc5-f3c220c677ea
 :DIR:      /home/cashweaver/proj/roam/attachments/53938c1e-d71b-436a-bbc5-f3c220c677ea
 :END:
-#+title: Adam Zerner :: Writing to Think
+#+title: Adam Zerner | Writing to Think
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 18:46]
 #+startup: overview

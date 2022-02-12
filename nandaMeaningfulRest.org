@@ -3,7 +3,7 @@
 :ID:       670eb58e-6802-4b6e-8f16-ce2e40276513
 :DIR:      /home/cashweaver/proj/roam/attachments/670eb58e-6802-4b6e-8f16-ce2e40276513
 :END:
-#+title: Neel Nanda :: Meaningful Rest
+#+title: Neel Nanda | Meaningful Rest
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 20:52]
 #+startup: overview

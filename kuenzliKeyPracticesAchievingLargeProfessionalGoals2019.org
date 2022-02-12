@@ -3,7 +3,7 @@
 :ID:       3e7f1498-0d7c-4794-99c3-c22d6e316c52
 :DIR:      /home/cashweaver/proj/roam/attachments/3e7f1498-0d7c-4794-99c3-c22d6e316c52
 :END:
-#+title: Stephen Kuenzli :: Key Practices for Achieving Large Professional Goals
+#+title: Stephen Kuenzli | Key Practices for Achieving Large Professional Goals
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 20:49]
 #+startup: overview

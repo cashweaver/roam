@@ -3,7 +3,7 @@
 :ID:       8589981c-2ef6-46ed-b197-bb8acbece4ec
 :DIR:      /home/cashweaver/proj/roam/attachments/8589981c-2ef6-46ed-b197-bb8acbece4ec
 :END:
-#+title:  Anna Salamon :: Learned Blankness
+#+title:  Anna Salamon | Learned Blankness
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 17:49]
 #+startup: overview

@@ -3,7 +3,7 @@
 :ID:       4625d068-26fe-47d7-93b3-da12b0151ca1
 :DIR:      /home/cashweaver/proj/roam/attachments/4625d068-26fe-47d7-93b3-da12b0151ca1
 :END:
-#+title: Ben Kuhn :: Attention Is Your Scarcest Resource
+#+title: Ben Kuhn | Attention Is Your Scarcest Resource
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 15:31]
 #+startup: overview

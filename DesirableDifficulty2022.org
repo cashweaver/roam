@@ -3,7 +3,7 @@
 :ID:       89eb6adc-d8f8-4033-bc46-7fed725c3c01
 :DIR:      /home/cashweaver/proj/roam/attachments/89eb6adc-d8f8-4033-bc46-7fed725c3c01
 :END:
-#+title: Wikipedia :: Desirable Difficulty
+#+title: Wikipedia | Desirable Difficulty
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 16:03]
 #+startup: overview

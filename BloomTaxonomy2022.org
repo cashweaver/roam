@@ -3,7 +3,7 @@
 :ID:       5fbaa05c-666f-4d45-b798-ff36ace22126
 :DIR:      /home/cashweaver/proj/roam/attachments/5fbaa05c-666f-4d45-b798-ff36ace22126
 :END:
-#+title: Wikipedia :: Bloom's Taxonomy
+#+title: Wikipedia | Bloom's Taxonomy
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 15:38]
 #+startup: overview

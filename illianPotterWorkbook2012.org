@@ -3,7 +3,7 @@
 :ID:       3f493f0a-aac1-43b6-be22-9711b921f6d8
 :DIR:      /home/cashweaver/proj/roam/attachments/3f493f0a-aac1-43b6-be22-9711b921f6d8
 :END:
-#+title: Clary Illian :: A Potter's Workbook.
+#+title: Clary Illian | A Potter's Workbook.
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 15:34]
 #+startup: overview

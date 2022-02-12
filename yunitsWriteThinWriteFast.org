@@ -3,7 +3,7 @@
 :ID:       5f3247b2-ef62-4279-9794-4adeea0634c7
 :DIR:      /home/cashweaver/proj/roam/attachments/5f3247b2-ef62-4279-9794-4adeea0634c7
 :END:
-#+title: Breck Yunits :: Write Thin to Write Fast
+#+title: Breck Yunits | Write Thin to Write Fast
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 08:20]
 #+startup: overview

@@ -9,7 +9,7 @@
 #+startup: overview
 #+hugo_auto_set_lastmod: t
 
-* TODO Synthesize [[id:17f93a40-5390-4de9-8285-6a41e29d0a2d][David Thompson :: My Favourite Git Commit]]
+* TODO Synthesize [[id:17f93a40-5390-4de9-8285-6a41e29d0a2d][David Thompson | My Favourite Git Commit]]
 
 - Documentation is good when, and only when, it is also discoverable
 - Your documentation is discoverable when it exists where your audience goes when they are looking for it

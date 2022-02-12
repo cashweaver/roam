@@ -3,7 +3,7 @@
 :ID:       3626303a-41d6-4d8c-98ee-186e6f59cb44
 :DIR:      /home/cashweaver/proj/roam/attachments/3626303a-41d6-4d8c-98ee-186e6f59cb44
 :END:
-#+title: Sam Altman :: Productivity
+#+title: Sam Altman | Productivity
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 06:46]
 #+startup: overview

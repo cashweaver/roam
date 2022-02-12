@@ -3,7 +3,7 @@
 :ID:       4f9769a8-94c3-461c-b4be-933b522aab15
 :DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/4f9769a8-94c3-461c-b4be-933b522aab15
 :END:
-#+title: Cedric Chin :: To Get Good, Go After The Metagame
+#+title: Cedric Chin | To Get Good, Go After The Metagame
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 08:01]
 #+startup: overview

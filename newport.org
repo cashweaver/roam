@@ -3,7 +3,7 @@
 :ID:       aa3b22f0-3771-464e-824d-8d0eeb7f331b
 :DIR:      /home/cashweaver/proj/roam/attachments/aa3b22f0-3771-464e-824d-8d0eeb7f331b
 :END:
-#+title: Cal Newport :: About
+#+title: Cal Newport | About
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 15:14]
 #+startup: overview

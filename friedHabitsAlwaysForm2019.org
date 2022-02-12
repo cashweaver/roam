@@ -3,7 +3,7 @@
 :ID:       02b5bf70-cf7f-49d0-b1f0-60fc0270abb0
 :DIR:      /home/cashweaver/proj/roam/attachments/02b5bf70-cf7f-49d0-b1f0-60fc0270abb0
 :END:
-#+title: Jason Fried :: Habits Always Form
+#+title: Jason Fried | Habits Always Form
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 17:53]
 #+startup: overview

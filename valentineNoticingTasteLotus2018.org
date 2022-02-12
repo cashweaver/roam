@@ -3,7 +3,7 @@
 :ID:       83ed5740-7670-4308-b82b-4bb788978e54
 :DIR:      /home/cashweaver/proj/roam/attachments/83ed5740-7670-4308-b82b-4bb788978e54
 :END:
-#+title:  Valentine :: Noticing the Taste of Lotus
+#+title:  Valentine | Noticing the Taste of Lotus
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 06:33]
 #+startup: overview

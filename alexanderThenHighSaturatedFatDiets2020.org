@@ -3,7 +3,7 @@
 :ID:       4737f7a9-faec-4d2c-a901-227495ab0373
 :DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/4737f7a9-faec-4d2c-a901-227495ab0373
 :END:
-#+title: Scott Alexander :: For, Then Against, High-Saturated-Fat Diets
+#+title: Scott Alexander | For, Then Against, High-Saturated-Fat Diets
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 17:33]
 #+startup: overview

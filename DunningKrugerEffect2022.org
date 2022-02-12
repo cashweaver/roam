@@ -3,7 +3,7 @@
 :ID:       393d22dc-fb65-4f8c-9070-6973d6c9668e
 :DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/393d22dc-fb65-4f8c-9070-6973d6c9668e
 :END:
-#+title: Wikipedia :: Dunning-Kruger Effect
+#+title: Wikipedia | Dunning-Kruger Effect
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 16:07]
 #+startup: overview

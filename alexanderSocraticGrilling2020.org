@@ -3,7 +3,7 @@
 :ID:       cb4ba655-dabf-40a2-95e7-0cdbff887074
 :DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/cb4ba655-dabf-40a2-95e7-0cdbff887074
 :END:
-#+title: Scott Alexander :: Socratic Grilling
+#+title: Scott Alexander | Socratic Grilling
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 07:03]
 #+startup: overview

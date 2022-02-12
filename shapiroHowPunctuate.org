@@ -3,7 +3,7 @@
 :ID:       7f8365a4-bafd-4ab1-9034-957f76b904a0
 :DIR:      /home/cashweaver/proj/roam/attachments/7f8365a4-bafd-4ab1-9034-957f76b904a0
 :END:
-#+title: Julian Shapiro :: How to Punctuate
+#+title: Julian Shapiro | How to Punctuate
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 16:30]
 #+startup: overview

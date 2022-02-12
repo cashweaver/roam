@@ -3,7 +3,7 @@
 :ID:       876f8d80-902c-427a-9109-bb3bd447715c
 :DIR:      /home/cashweaver/proj/roam/attachments/876f8d80-902c-427a-9109-bb3bd447715c
 :END:
-#+title: James Altucher :: The Ultimate Guide for Becoming an Idea Machine
+#+title: James Altucher | The Ultimate Guide for Becoming an Idea Machine
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 07:16]
 #+startup: overview

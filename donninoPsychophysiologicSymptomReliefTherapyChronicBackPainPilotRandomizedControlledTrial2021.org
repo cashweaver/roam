@@ -3,7 +3,7 @@
 :ID:       38bba771-d7e5-467f-80bb-ebd79faf793c
 :DIR:      /home/cashweaver/proj/roam/attachments/38bba771-d7e5-467f-80bb-ebd79faf793c
 :END:
-#+title: Michael W. Donnino et al. :: Psychophysiologic Symptom Relief Therapy for Chronic Back Pain: A Pilot Randomized Controlled Trial
+#+title: Michael W. Donnino et al. | Psychophysiologic Symptom Relief Therapy for Chronic Back Pain: A Pilot Randomized Controlled Trial
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 06:48]
 #+startup: overview

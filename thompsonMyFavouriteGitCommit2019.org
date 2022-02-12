@@ -3,7 +3,7 @@
 :ID:       ffc0d2f1-9a41-4562-8625-a669a5110836
 :DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/ffc0d2f1-9a41-4562-8625-a669a5110836
 :END:
-#+title: David Thompson :: My Favourite Git Commit
+#+title: David Thompson | My Favourite Git Commit
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 06:26]
 #+startup: overview

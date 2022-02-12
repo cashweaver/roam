@@ -3,7 +3,7 @@
 :ID:       2149d460-f6e0-4696-b34d-c2cc2228d8db
 :DIR:      /home/cashweaver/proj/roam/attachments/2149d460-f6e0-4696-b34d-c2cc2228d8db
 :END:
-#+title: Ben Kuhn :: Be Impatient
+#+title: Ben Kuhn | Be Impatient
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 15:36]
 #+startup: overview

@@ -2,7 +2,7 @@
 :ID:       248e3cc9-0511-4e71-afd6-19320d3fd61d
 :DIR:      /home/cashweaver/proj/roam/attachments/248e3cc9-0511-4e71-afd6-19320d3fd61d
 :END:
-#+title: Julian Shapiro :: Writing Well Handbook
+#+title: Julian Shapiro | Writing Well Handbook
 #+FILETAGS: :reference:
 
 #+author: Cash Weaver

@@ -13,5 +13,5 @@
 #+begin_quote
 This was once revealed to me in a dream.
 
-/[[id:a425b559-513f-475d-b397-27f26cc7c799][Nikolai Berdyaev :: From The Divine and the Human]]/
+/[[id:a425b559-513f-475d-b397-27f26cc7c799][Nikolai Berdyaev | From The Divine and the Human]]/
 #+end_quote

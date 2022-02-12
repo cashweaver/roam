@@ -3,7 +3,7 @@
 :ID:       3bac7cee-9146-45df-be28-bb51ac48be68
 :DIR:      /home/cashweaver/proj/roam/attachments/3bac7cee-9146-45df-be28-bb51ac48be68
 :END:
-#+title:  Anna Salamon :: Humans Are Not Automatically Strategic
+#+title:  Anna Salamon | Humans Are Not Automatically Strategic
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 20:45]
 #+startup: overview

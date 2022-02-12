@@ -3,7 +3,7 @@
 :ID:       e6b1cd50-8293-44a3-bcba-d302d0835470
 :DIR:      /home/cashweaver/proj/roam/attachments/e6b1cd50-8293-44a3-bcba-d302d0835470
 :END:
-#+title: S Keshav :: How to Read a Paper
+#+title: S Keshav | How to Read a Paper
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 17:58]
 #+startup: overview

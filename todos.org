@@ -31,3 +31,7 @@
 :PROPERTIES:
 :Created: [2022-02-09 Wed 04:15]
 :END:
+* TODO [#2] Node idea: Akido/etc as a metaphor for redirecting unhelpful thoughts. "I must be productive at all times" can become helpful by redefining what it means to be productive and the types of activities which are productive.
+:PROPERTIES:
+:Created: [2022-02-11 Fri 21:02]
+:END:

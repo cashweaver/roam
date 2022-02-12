@@ -3,7 +3,7 @@
 :ID:       e56c1e98-41b1-4e92-8fbb-f007e5cf4a8e
 :DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/e56c1e98-41b1-4e92-8fbb-f007e5cf4a8e
 :END:
-#+title: Kamran Ahmed :: Levels of Seniority
+#+title: Kamran Ahmed | Levels of Seniority
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 20:50]
 #+startup: overview

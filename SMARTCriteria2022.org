@@ -3,7 +3,7 @@
 :ID:       68f0244e-a6f4-42d5-ac41-2d2001987ea3
 :DIR:      /home/cashweaver/proj/roam/attachments/68f0244e-a6f4-42d5-ac41-2d2001987ea3
 :END:
-#+title: Wikipedia :: SMART Criteria
+#+title: Wikipedia | SMART Criteria
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 06:59]
 #+startup: overview

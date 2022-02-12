@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       f549369f-9c2b-4c90-a2c8-05cbdaf34b27
+:DIR:      /home/cashweaver/proj/roam/attachments/f549369f-9c2b-4c90-a2c8-05cbdaf34b27
+:END:
+#+title: A Man Grows Most Tired While Standing Still
+#+author: Cash Weaver
+#+date: [2022-02-11 Fri 17:18]
+#+startup: overview
+#+filetags: :quote:
+#+hugo_auto_set_lastmod: t
+
+#+begin_quote
+A man grows most tired while standing still.
+
+/Chinese Proverb/
+#+end_quote

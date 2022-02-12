@@ -3,7 +3,7 @@
 :ID:       8710324a-ceda-4590-86ee-ad11c3eb36b9
 :DIR:      /home/cashweaver/proj/roam/attachments/8710324a-ceda-4590-86ee-ad11c3eb36b9
 :END:
-#+title: TV Tropes :: Xanatos Gambit
+#+title: TV Tropes | Xanatos Gambit
 #+author: Cash Weaver
 #+date: [2022-02-09 Wed 08:27]
 #+startup: overview

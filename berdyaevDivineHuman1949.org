@@ -3,7 +3,7 @@
 :ID:       a425b559-513f-475d-b397-27f26cc7c799
 :DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/a425b559-513f-475d-b397-27f26cc7c799
 :END:
-#+title: Nikolai Berdyaev :: From The Divine and the Human
+#+title: Nikolai Berdyaev | From The Divine and the Human
 #+hugo_custom_front_matter: roam_refs '("https://en.wikiquote.org/wiki/Nikolai_Berdyaev")
 #+FILETAGS: :@Nicolas_Berdyaev:quote:
 #+author: Cash Weaver

@@ -3,7 +3,7 @@
 :ID:       89fb44ee-8994-4c6c-89db-bc210039a39b
 :DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/89fb44ee-8994-4c6c-89db-bc210039a39b
 :END:
-#+title: Alexey Nikitin :: My least favorite Git commit
+#+title: Alexey Nikitin | My least favorite Git commit
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 06:31]
 #+startup: overview

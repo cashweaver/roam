@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       58a0506b-8d6e-4fe5-b0d8-286ebe6a8772
+:DIR:      /home/cashweaver/proj/roam/attachments/58a0506b-8d6e-4fe5-b0d8-286ebe6a8772
+:END:
+#+title: Compount Interest is the Eight Wonder
+#+author: Cash Weaver
+#+date: [2022-02-11 Fri 20:10]
+#+startup: overview
+#+filetags: :quote:
+#+hugo_auto_set_lastmod: t
+
+#+begin_quote
+Compound interest is the eighth wonder of the world. He who understands it, earns it; he who doesn't, pays it.
+
+[[id:2ff14f4b-d498-4ef2-8943-9215cfee8f43][Albert Einstein]] (maybe)
+#+end_quote

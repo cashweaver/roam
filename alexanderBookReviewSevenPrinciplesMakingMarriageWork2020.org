@@ -3,7 +3,7 @@
 :ID:       0bbaf0b3-afed-49e2-a5f5-61c0a0cff973
 :DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/0bbaf0b3-afed-49e2-a5f5-61c0a0cff973
 :END:
-#+title: Scott Alexander :: Book Review: The Seven Principles For Making Marriage Work
+#+title: Scott Alexander | Book Review: The Seven Principles For Making Marriage Work
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 15:43]
 #+startup: overview

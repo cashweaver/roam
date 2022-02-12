@@ -3,7 +3,7 @@
 :ID:       47d61b82-dbf0-42b1-b612-3065af126e55
 :DIR:      /home/cashweaver/proj/roam/attachments/47d61b82-dbf0-42b1-b612-3065af126e55
 :END:
-#+title: Andy Payne :: The Myth of the Myth of the 10x Programmer
+#+title: Andy Payne | The Myth of the Myth of the 10x Programmer
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 07:33]
 #+startup: overview

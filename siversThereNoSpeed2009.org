@@ -3,7 +3,7 @@
 :ID:       e02451fc-c9d5-4c02-849b-d9b7d4cc95a7
 :DIR:      /home/cashweaver/proj/roam/attachments/e02451fc-c9d5-4c02-849b-d9b7d4cc95a7
 :END:
-#+title: Derek Sivers :: There's No Speed Limit
+#+title: Derek Sivers | There's No Speed Limit
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 07:34]
 #+startup: overview
