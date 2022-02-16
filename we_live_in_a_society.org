@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       c69643f9-5c87-4b75-8a07-3e87767a567f
+:DIR:      /home/cashweaver/proj/roam/attachments/c69643f9-5c87-4b75-8a07-3e87767a567f
+:END:
+#+title: We Live In A Society
+#+author: Cash Weaver
+#+date: [2022-02-15 Tue 09:29]
+#+startup: overview
+#+filetags: :concept:
+#+hugo_auto_set_lastmod: t
+
+See:
+
+- [[id:b0e5ef46-d1f3-43ce-9fc0-2a9ce52ce4c9][Wikipedia | Paradox of Tolerance]]

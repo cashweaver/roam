@@ -13,3 +13,4 @@ These sites are fantastic examples of well-done implementations of the [[id:b130
 - [[id:df479fb9-f7b0-4e3a-a7eb-41849fbc190e][Andy Matuschak]]'s [[https://notes.andymatuschak.org/][notes]]
 - [[id:d566fd17-7c20-45b9-99c9-b2d0709127cb][Alex Kehayias]]'s [[https://notes.alexkehayias.com/][notes]]
 - [[id:ab84ad24-3d02-4246-b8ea-7b11b93ceeb3][Hugo Cisneros]]'s [[https://hugocisneros.com/notes/][notes]]
+- [[github:KasperZutterman/Second-Brain]["A curated list of awesome public zettelkastens"]]

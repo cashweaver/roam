@@ -35,3 +35,99 @@
 :PROPERTIES:
 :Created: [2022-02-11 Fri 21:02]
 :END:
+* TODO [#2] Node idea: Hard truths I've learned and (hopefully) internalized - or - things I read when I was young and just started "getting" recently; tacit knowledge
+:PROPERTIES:
+:Created: [2022-02-13 Sun 12:55]
+:END:
+* TODO [#2] Node idea: I'm not good at keepting habits; techinquest to improve the likelyhood of success; the hardest thing I've ever done is establish and maintain habits; the most impactful things I've ever done have been in establishing and maintaining habits
+:PROPERTIES:
+:Created: [2022-02-13 Sun 13:14]
+:END:
+* TODO [#2] Node idea: Do small experiments; Time yourself for a few minutes to extrapolate for a whole task
+:PROPERTIES:
+:Created: [2022-02-13 Sun 22:40]
+:END:
+* TODO [#2] Node idea: Preference falsification; broader than virtue signaling
+:PROPERTIES:
+:Created: [2022-02-14 Mon 08:16]
+:END:
+* TODO [#2] Node idea: Steelman (as opposed to strawman)
+:PROPERTIES:
+:Created: [2022-02-14 Mon 09:05]
+:END:
+* TODO [#2] Acting in line with my values requires occassional disagreement or broaching uncomfortable topics or cutting people out of my life. I have found those actions to be worthwhile in 100% of cases.
+:PROPERTIES:
+:Created: [2022-02-14 Mon 09:10]
+:END:
+* TODO [#2] Node idea: Try to proactively solve problems; fix things before they're even problems. Avoid war by removing the conditions that give rise to war.
+:PROPERTIES:
+:Created: [2022-02-14 Mon 09:35]
+:END:
+* TODO [#2] Node idea: "If you face reality too much, it kills you. ~ Woody Allen"
+:PROPERTIES:
+:Created: [2022-02-14 Mon 10:20]
+:END:
+* TODO [#2] Node idea: Overall workflow for roam notes is to have individual ideas that build up connections over time. These connections form groups from which synthesized ideas can be extracted. The roam notes aren't meant to be read by others on their own -- other should start with the synthesis.
+:PROPERTIES:
+:Created: [2022-02-14 Mon 10:36]
+:END:
+* TODO [#2] Node idea: Be curious; implies a growth mindset; implies humbleness and "I don't know everything"; required careful listening and attention rather than "waiting for you to finish so I can say my thing"
+:PROPERTIES:
+:Created: [2022-02-14 Mon 11:44]
+:END:
+* TODO [#2] Node idea: http://five.sentenc.es/
+:PROPERTIES:
+:Created: [2022-02-14 Mon 11:57]
+:END:
+* TODO [#2] Node idea: Butlarian Jihad
+:PROPERTIES:
+:Created: [2022-02-14 Mon 12:05]
+:END:
+* TODO [#2] Node idea: Meaning of life: There is no specific meaning of life. Choose your own. Link to john green's other people quote. I've chosen "Empower meaningful lives" as my purpose.
+:PROPERTIES:
+:Created: [2022-02-14 Mon 12:07]
+:END:
+* TODO [#2] Node idea: Don't go back to sleep (https://theanarchistlibrary.org/library/david-graeber-after-the-pandemic-we-can-t-go-back-to-sleep); Learn from experiences and don't just revert to prior behaviors
+:PROPERTIES:
+:Created: [2022-02-14 Mon 12:25]
+:END:
+* TODO [#2] Node idea: Consume media/essays/etc using RSS or another non-intrusive "background"-type process :idea:
+:PROPERTIES:
+:Created: [2022-02-14 Mon 12:27]
+:END:
+* TODO [#2] Node idea: Focus on topics/areas for some amount of time; analogous to multi-tasking. Don't read a lisp article, then a farming article, then a political article (or books, etc). Dive into lisp for a little while, say a week of focus, summarize what you've taken away, then move to another topic. Work to synthesize later. :idea:
+:PROPERTIES:
+:Created: [2022-02-14 Mon 12:30]
+:END:
+* TODO [#2] Node idea: You think the way you practice. To think with a long term perspective it isn't sufficient to know a long term perspective exists -- you must cultivate a regular practice of long term thinking. Perhaps take up bonsai or another hobby/etc which forces a long term perspective.
+:PROPERTIES:
+:Created: [2022-02-14 Mon 12:53]
+:END:
+* TODO [#2] Things you're allowed to do
+:PROPERTIES:
+:Created: [2022-02-14 Mon 12:55]
+:END:
+** [[https://bastian.rieck.me/blog/posts/2021/things/][Things you are allowed to do, academic edition]] :advice:essay:
+:PROPERTIES:
+:CREATED: [2021-11-18 17:25]
+:END:
+** [[https://news.ycombinator.com/item?id=25513713][Things You're Allowed to Do]] :essay:discussion:someday:
+:PROPERTIES:
+:CREATED: [2020-12-23 02:20]
+:END:
+** [[https://news.ycombinator.com/item?id=29267982][Things You're Allowed to Do, academic edition]] :essay:discussion:someday:
+:PROPERTIES:
+:CREATED: [2020-12-23 02:20]
+:END:
+* TODO [#2] Atomic habits, tiny habits, power of habit: Habits
+:PROPERTIES:
+:Created: [2022-02-14 Mon 13:54]
+:END:
+* TODO [#2] Node idea: Stating the basics is a good starting point. It's easy to assume your audience has already heard X so you omit it. Try including it nonetheless :idea:
+:PROPERTIES:
+:Created: [2022-02-14 Mon 14:12]
+:END:
+* TODO [#2] Use https://github.com/org-roam/org-roam-ui to identify unconnected nodes
+:PROPERTIES:
+:Created: [2022-02-15 Tue 09:39]
+:END:

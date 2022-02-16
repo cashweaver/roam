@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       966f6682-54bf-4958-816c-fcd7482ccf79
+:DIR:      /home/cashweaver/proj/roam/attachments/966f6682-54bf-4958-816c-fcd7482ccf79
+:END:
+#+title: The Periphery is Where the Future Reveals Itself
+#+author: Cash Weaver
+#+date: [2022-02-14 Mon 09:42]
+#+startup: overview
+#+filetags: :quote:
+#+hugo_auto_set_lastmod: t
+* TODO
+#+begin_quote
+The periphery is where the future reveals itself.
+                  —Erroneously attributed to J. G. Ballard by Mark Fisher
+/[[https:foo][source]]/
+#+end_quote

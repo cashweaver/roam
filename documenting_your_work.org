@@ -9,7 +9,7 @@
 #+startup: overview
 #+hugo_auto_set_lastmod: t
 
-* TODO Synthesize [[id:17f93a40-5390-4de9-8285-6a41e29d0a2d][David Thompson | My Favourite Git Commit]]
+* TODO Synthesize [[id:ffc0d2f1-9a41-4562-8625-a669a5110836][David Thompson | My Favourite Git Commit]]
 
 - Documentation is good when, and only when, it is also discoverable
 - Your documentation is discoverable when it exists where your audience goes when they are looking for it
@@ -22,3 +22,5 @@
 - https://hackernoon.com/write-good-documentation-6caffb9082b4
 - https://www.variance.com/posts/6-rules-of-good-documentation
 - https://idratherbewriting.com/simplifying-complexity/discoverability-through-metadata.html
+- [cite:@ReadmeDrivenDevelopment]
+#+print_bibliography:
