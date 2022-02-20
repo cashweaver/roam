@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       d636dfa7-428d-457c-8db6-15fa61e03bef
 :DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/d636dfa7-428d-457c-8db6-15fa61e03bef
+:ROAM_ALIASES: "Implicit Knowledge"
 :END:
 #+title: Tacit Knowledge
 #+FILETAGS: :concept:

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@ManMan2022]
+:ID:       37bbf306-c299-4c06-acac-bb6f34b26b37
+:DIR:      /home/cashweaver/proj/roam/attachments/37bbf306-c299-4c06-acac-bb6f34b26b37
+:END:
+#+title: Wikipedia | Man After Man
+#+author: Cash Weaver
+#+date: [2022-02-18 Fri 15:08]
+#+startup: overview
+#+filetags: :reference:
+#+hugo_auto_set_lastmod: t
+ 
+[cite:@ManMan2022]
+
+* Summary
+* Thoughts
+* Notes
+#+print_bibliography:

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@SerenityPrayer2021]
+:ID:       749f3b30-7a42-4262-9175-f9b2046557ec
+:DIR:      /home/cashweaver/proj/roam/attachments/749f3b30-7a42-4262-9175-f9b2046557ec
+:END:
+#+title: Wikipedia | Serenity Prayer
+#+author: Cash Weaver
+#+date: [2022-02-17 Thu 07:20]
+#+startup: overview
+#+filetags: :reference:
+#+hugo_auto_set_lastmod: t
+ 
+Reinhold Niebuhr, [cite:@SerenityPrayer2021]
+
+#+begin_quote
+God, grant me the serenity to accept the things I cannot change,
+courage to change the things I can,
+and wisdom to know the difference.
+#+end_quote
+
+#+print_bibliography:

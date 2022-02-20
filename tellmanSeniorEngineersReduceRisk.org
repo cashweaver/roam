@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@tellmanSeniorEngineersReduceRisk]
+:ID:       e7753777-506e-490e-b79e-59dede5dce2e
+:DIR:      /home/cashweaver/proj/roam/attachments/e7753777-506e-490e-b79e-59dede5dce2e
+:END:
+#+title: Zach Tellman | Senior Engineers Reduce Risk
+#+author: Cash Weaver
+#+date: [2022-02-18 Fri 19:25]
+#+startup: overview
+#+filetags: :reference:
+#+hugo_auto_set_lastmod: t
+ 
+[[id:d89d29a2-927a-4369-ad45-bc031a2f7266][Zach Tellman]], [cite:@tellmanSeniorEngineersReduceRisk]
+
+* TODO Summary
+* TODO Thoughts
+* TODO Notes
+#+begin_quote
+Senior engineers reduce risk, in every sense. Often, “risk” is used to describe technical risk, which is that the software doesn’t function properly, or is never completed at all. But there are other issues that can prevent the business atop the software from succeeding - risks around process, or product design, or sales, or the company’s culture. A senior engineer understands these risks, and mitigates them where possible.
+#+end_quote
+
+#+begin_quote
+Where possible, solving the general form of any problem is preferable to solving a single instance. However, this is only possible if the problem space is well understood. Premature abstraction, in code or elsewhere, introduces risk. If the failure modes in production are poorly understood, volunteering for pager duty may be the only way to really help.
+#+end_quote
+
+#+begin_quote
+Most risks, especially where managed effectively, never come to pass. For this reason, it’s often impossible to tell the difference between real risk and perceived risk. By the same token, it can be difficult to tell the difference between real impact and perceived impact. If a senior engineer identifies a significant risk, they have to be able to concisely explain and prioritize it for a non-expert audience.
+#+end_quote
+
+#+begin_quote
+Every company has different risks, and so every company expects something different from their senior engineers. An engineer who has spent the last five years making small, continuous improvements to the processes in a larger company may not enjoy or even understand the sort of role expected by a three person startup. The expectation that “senior” is a fungible title is both widespread and harmful, leading to unrealistic expectations from both engineers and companies.
+#+end_quote
+
+#+print_bibliography:

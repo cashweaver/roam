@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@ChestertonFence2018]
+:ID:       57b1490d-6fc1-408e-8ecd-b8156b6e1365
+:DIR:      /home/cashweaver/proj/roam/attachments/57b1490d-6fc1-408e-8ecd-b8156b6e1365
+:END:
+#+title: Wiktionary | Chesterton's Fence
+#+author: Cash Weaver
+#+date: [2022-02-19 Sat 09:35]
+#+startup: overview
+#+filetags: :reference:
+#+hugo_auto_set_lastmod: t
+ 
+[cite:@ChestertonFence2018]
+
+#+begin_quote
+The principle that reforms should not be made until the reasoning behind the existing state of affairs is understood.
+#+end_quote
+
+#+print_bibliography:

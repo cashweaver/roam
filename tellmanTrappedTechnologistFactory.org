@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@tellmanTrappedTechnologistFactory]
+:ID:       1182a8b4-b808-47e2-92e3-f69bb9e57981
+:DIR:      /home/cashweaver/proj/roam/attachments/1182a8b4-b808-47e2-92e3-f69bb9e57981
+:END:
+#+title: Zach Tellman | Trapped in the Technologist Factory
+#+author: Cash Weaver
+#+date: [2022-02-19 Sat 09:32]
+#+startup: overview
+#+filetags: :reference:
+#+hugo_auto_set_lastmod: t
+ 
+[[id:d89d29a2-927a-4369-ad45-bc031a2f7266][Zach Tellman]], [cite:@tellmanTrappedTechnologistFactory]
+
+* TODO Summary
+* TODO Thoughts
+* TODO Notes
+
+#+begin_quote
+I learned two lessons from this time in my life. The first was personal: I am, at heart, a technologist. I like to generalize, to abstract. While I believe it’s crucial to understand the context around your software, I’m happiest when that context is other people’s software.
+
+The second lesson was broader, and less obvious: our industry is designed to foster people like me.
+
+This was surprising because it seems so clearly against our own interest. In almost every case, companies fail because they build the wrong thing. Unless your customers are themselves engineers, I’m the wrong person to help with that. You want someone comfortable at the periphery of your system, who wants to learn about the competitive landscape, who wants to talk to customers. You want a product engineer.
+#+end_quote
+
+#+begin_quote
+Chesterton notwithstanding, the fastest way to learn why a fence exists is to tear it down and see what happens.
+#+end_quote
+
+See [[id:57b1490d-6fc1-408e-8ecd-b8156b6e1365][Wiktionary | Chesterton's Fence]].
+
+
+#+print_bibliography:

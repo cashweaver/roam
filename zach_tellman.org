@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       d89d29a2-927a-4369-ad45-bc031a2f7266
+:DIR:      /home/cashweaver/proj/roam/attachments/d89d29a2-927a-4369-ad45-bc031a2f7266
+:END:
+#+title: Zach Tellman
+#+author: Cash Weaver
+#+date: [2022-02-18 Fri 16:25]
+#+startup: overview
+#+filetags: :person:
+#+hugo_auto_set_lastmod: t
+
+Among other things:
+
+- [[https://ideolalia.com/][Personal website / blog]]

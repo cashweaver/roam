@@ -7,6 +7,171 @@
 
 Please sort in order of oldest to youngest.
 
+* TODO https://www.mentalnodes.com/ :link_group:
+* TODO https://anshulkhare.in/ :link_group:
+* TODO https://www.neilwithdata.com/mathematics-self-learner :math:link_group:book:
+* TODO https://garden.anthonyamar.fr/ :link_group:
+* TODO https://notes.aquiles.me/ :link_group:
+* TODO https://notes.aravindballa.com/ :link_group:
+* TODO https://notes.arne.me :link_group:
+* TODO https://github.com/azer/notebook :link_group:
+* TODO https://notes.azlen.me/g3tibyfv/ :link_group:
+* TODO https://benrobertson.io/notes :link_group:
+* TODO https://lannonbr.com/garden :link_group:
+* TODO https://bennetthardwick.com/wiki/ :link_group:
+* TODO https://bhupesh.gitbook.io/notes/ :link_group:
+* TODO http://webseitz.fluxent.com/wiki/ :link_group:
+* TODO https://notes.binnyva.com/ :link_group:
+* TODO http://brendanschlagel.com/canon/ :link_group:
+* TODO https://bphenriques.github.io/knowledge-base/ :link_group:
+* TODO https://publish.obsidian.md/bryan-jenks/INDEX :link_group:
+* TODO https://busterbenson.com/piles/ :link_group:
+* TODO https://calvin.readthedocs.io/en/latest/ :link_group:
+* TODO http://memex.cc/ :link_group:
+* TODO https://garden.charlietrochlil.com/ :link_group:
+* TODO https://chasem.co/notes/ :link_group:
+* TODO http://autobiography.chinarut.com :link_group:
+* TODO https://tw.boffosocko.com/ :link_group:
+* TODO https://www.christopherbiscardi.com/garden :link_group:
+* TODO https://www.mtsolitary.com/ :link_group:
+* TODO http://bactra.org/notebooks/ :link_group:
+* TODO https://notes.crisrojas.com :link_group:
+* TODO https://www.dschapman.com/notes :link_group:
+* TODO https://notes.danielmathiot.tech :link_group:
+* TODO http://danny.oz.au/ :link_group:
+* TODO https://giffmex.org/Welcome.html :link_group:
+* TODO https://sivers.org/book :link_group:
+* TODO https://wiki.xxiivv.com :link_group:
+* TODO https://github.com/slowernews/notebook :link_group:
+* TODO https://www.edwinwenink.xyz/etc/blogroll/ :link_group:
+* TODO https://wiki.anarchist.work/ :link_group:
+* TODO https://fabien.benetou.fr/ :link_group:
+* TODO https://frandsalerno.github.io/ :link_group:
+* TODO https://kkga.me/tags/note :link_group:
+* TODO http://gordonbrander.com/pattern/ :link_group:
+* TODO https://greaby.github.io/galaxie-gd/ :link_group:
+* TODO https://karreiro.com/wiki/ :link_group:
+* TODO https://roamresearch.com/#/app/digitaljungle/page/3-pt2rrKj :link_group:
+* TODO https://www.gwern.net/ :link_group:
+* TODO https://notes.hamel.dev/ :link_group:
+* TODO https://github.com/hthuwal/notes :link_group:
+* TODO https://hacdias.com/notes :link_group:
+* TODO https://notes.hiran.in/ :link_group:
+* TODO https://wiki.stultus.in :link_group:
+* TODO https://garden.ianjones.us/ :link_group:
+* TODO https://wiki.jacob.chvatal.com/ :link_group:
+* TODO https://jameskolean.tech/ :link_group:
+* TODO https://jlongster.com/ :link_group:
+* TODO https://jamischarles.com/ :link_group:
+* TODO https://jevakallio.github.io/notes/ :link_group:
+* TODO https://adactio.com/ :link_group:
+* TODO https://jeremynixon.github.io/ :link_group:
+* TODO https://www.jerrysbrain.com/ :link_group:
+* TODO https://beepb00p.xyz/exobrain/ :link_group:
+* TODO https://braindump.jethro.dev/ :link_group:
+* TODO https://joelchan.roam.garden/ :link_group:
+* TODO https://joelhooks.com/ :link_group:
+* TODO https://johackim.com/ :link_group:
+* TODO https://johno.com/notes/ :link_group:
+* TODO http://fourmilab.ch/ :link_group:
+* TODO https://joschuasgarden.com/ :link_group:
+* TODO https://joshbuchea.com/notes :link_group:
+* TODO https://scrapbox.io/kahlil/ :link_group:
+* TODO https://garden.kevincunningham.co.uk :link_group:
+* TODO https://laurosilva.com/welcome-to-my-digital-garden/ :link_group:
+* TODO https://wiki.secretgeek.net/ :link_group:
+* TODO https://strikingloo.github.io/wiki/ :link_group:
+* TODO https://lyz-code.github.io/blue-book/ :link_group:
+* TODO https://m0wer.github.io/memento/ :link_group:
+* TODO https://maggieappleton.com/garden :link_group:
+* TODO https://www.kmaasrud.com/brain/ :link_group:
+* TODO https://re1.dev/wiki/ :link_group:
+* TODO https://mathieudutour.github.io/gatsby-digital-garden/ :link_group:
+* TODO https://matt.roam.garden/ :link_group:
+* TODO https://max-antonucci.gitbook.io/study-notebook/ :link_group:
+* TODO https://digitalgarden.maxholzheu.com/ :link_group:
+* TODO https://notes.mxstbr.com/ :link_group:
+* TODO https://maximevaillancourt.com/notes :link_group:
+* TODO https://mek.fyi/ :link_group:
+* TODO https://tannenbaum.netlify.app/ :link_group:
+* TODO https://wiki.thingsandstuff.org/Main_Page :link_group:
+* TODO http://mitchwagner.com/ :link_group:
+* TODO https://nadiaeghbal.com/notes/ :link_group:
+* TODO https://nagarjun.co/pensees :link_group:
+* TODO https://commonplace.doubleloop.net/ :link_group:
+* TODO https://barnsworthburning.net/ :link_group:
+* TODO https://wiki.nikitavoloboev.xyz/ :link_group:
+* TODO https://blog.noahtren.com/note/3acea2e1/ :link_group:
+* TODO https://www.notion.so/818782f2ff0f44ccbc5941e3fd4d0cd0?v=3badd8762a2f424189dc13c6f4f11539 :link_group:
+* TODO https://garden.oshyan.com/ :link_group:
+* TODO https://pbat.ch/wiki/ :link_group:
+* TODO https://paulbricman.com/secondbrain/ :link_group:
+* TODO https://paul.copplest.one/knowledge/ :link_group:
+* TODO https://paulie.dev/posts/ :link_group:
+* TODO https://braindump.pepegar.com/ :link_group:
+* TODO http://thoughtstorms.info/view/HelloWorld :link_group:
+* TODO https://www.scaruffi.com/index.html :link_group:
+* TODO https://garden.doomhammer.info :link_group:
+* TODO https://supermemo.guru/wiki/Piotr_Wozniak :link_group:
+* TODO https://prasanthkarri.com/ :link_group:
+* TODO https://abstractxan.xyz/site/home.html :link_group:
+* TODO https://garden.rahulrajeev.net :link_group:
+* TODO https://garden.raphaelsprenger.de/ :link_group:
+* TODO https://rasulkireev.com/digital-garden/ :link_group:
+* TODO https://richardhaines.dev/blog/ :link_group:
+* TODO https://roamresearch.com/#/app/Rob-Haisfield-Thinking-in-Public/page/XtzimCS2z :link_group:
+* TODO https://myndmess.miraheze.org/wiki/User:RobLa :link_group:
+* TODO https://roamresearch.com/#/app/digitaljungle/page/3-pt2rrKj :link_group:
+* TODO https://rosano.hmm.garden :link_group:
+* TODO https://notes.rosiecampbell.me/ :link_group:
+* TODO https://ruivieira.dev :link_group:
+* TODO https://www.notion.so/ryan-dawidjan-414196ebb5204aa89f5af7ead579cae4 :link_group:
+* TODO https://ryan.warner.codes/notes :link_group:
+* TODO https://notes.salman.io/ :link_group:
+* TODO https://notes.sjm.codes/ :link_group:
+* TODO https://docs.thottingal.in/ :link_group:
+* TODO https://notes.santiyounger.com/ :link_group:
+* TODO https://www.sanyamkapoor.com/kb :link_group:
+* TODO http://meet-me-in.space/ :link_group:
+* TODO https://scottspence.com/garden :link_group:
+* TODO https://exobrain.sean.fish/ :link_group:
+* TODO https://github.com/dufferzafar/notes :link_group:
+* TODO https://www.swyx.io/writing :link_group:
+* TODO https://wiki.shreyasminocha.me :link_group:
+* TODO https://zettelkasten.sorenbjornstad.com/ :link_group:
+* TODO https://www.srid.ca/ :link_group:
+* TODO https://steve.dondley.com/notes/ :link_group:
+* TODO https://roamresearch.com/#/app/stian-research/page/3T1ePQfcr :link_group:
+* TODO https://szymonkaliski.com/notes/ :link_group:
+* TODO https://coding.maier.dev/notes :link_group:
+* TODO https://blog.grotenhuis.info/digital-garden/ :link_group:
+* TODO https://tommi.space/jam :link_group:
+* TODO https://tomcritchlow.com/wiki/ :link_group:
+* TODO https://www.zylstra.org/blog/wiki-frontpage/ :link_group:
+* TODO http://garden.tymon-zaniewski.xyz :link_group:
+* TODO https://roamresearch.com/#/app/visakanv-public/page/45EU_k-rI :link_group:
+* TODO https://vlad.roam.garden/ :link_group:
+* TODO https://walterteng.com/garden/ :link_group:
+* TODO https://notebook.wayanjimmy.xyz/ :link_group:
+* TODO https://waylonwalker.com/notes :link_group:
+* TODO https://nurselog.online/ :link_group:
+* TODO https://winnielim.org/journal/ :link_group:
+* TODO https://charlesliuyx.github.io/ :link_group:
+* TODO https://til.yenly.wtf/ :link_group:
+* TODO https://ycp.so/ :link_group:
+* TODO http://okmij.org/ftp/ :link_group:
+* TODO https://anagora.org/ :link_group:
+* TODO https://emsenn.net/ :link_group:
+* TODO https://lateral.wiki/ :link_group:
+* TODO https://philosopher.life/ :link_group:
+* TODO https://sphygm.us/ :link_group:
+* TODO https://webring.xxiivv.com/ :link_group:
+* TODO https://wiki.waifu.haus/ :link_group:
+
+
+
+* TODO https://ideolalia.com :link_group:
+
 * TODO [[github:KasperZutterman/Second-Brain][KasperZutterman/Second-Brain]] :link_group:someday:
 * TODO [[https://notes.alexkehayias.com/][Alex Kehayias's Notes]] :link_group:someday:
 :PROPERTIES:
@@ -85,25 +250,9 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-11-15 11:14]
 :END:
-* TODO [[https://www.lesswrong.com/posts/k6NkvAcRaKBMAzqEF/my-intellectual-influences][My intellectual influences]] :essay:
-:PROPERTIES:
-:CREATED: [2020-11-23 02:48]
-:END:
 * TODO [[https://betterexplained.com/articles/intuitive-convolution/][Convolution Is Fancy Multiplication]] :essay:math:
 :PROPERTIES:
 :CREATED: [2020-11-23 19:39]
-:END:
-* TODO [[https://www.lesswrong.com/posts/qHpazCw3ryvBojGSa/my-fear-heuristic][My Fear Heuristic]] :essay:
-:PROPERTIES:
-:CREATED: [2020-12-01 19:34]
-:END:
-* TODO [[https://klimy.co/blog/benefits-of-walking][Benefits of Walking]] :essay:
-:PROPERTIES:
-:CREATED: [2020-12-05 17:28]
-:END:
-* TODO [[https://panelbear.com/blog/boring-tech/][Choose Boring Technology]] :essay:
-:PROPERTIES:
-:CREATED: [2020-12-06 10:46]
 :END:
 * TODO [[https://emacsconf.org/2020/talks/][EmacsConf 2020 Talks]] :link_group:emacs:
 :PROPERTIES:

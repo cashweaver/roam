@@ -1,0 +1,83 @@
+:PROPERTIES:
+:ID:       e5987482-328e-40af-bcec-b69f27a49caa
+:DIR:      /home/cashweaver/proj/roam/attachments/e5987482-328e-40af-bcec-b69f27a49caa
+:END:
+#+title: Works in Progress
+#+author: Cash Weaver
+#+date: [2022-02-18 Fri 17:26]
+#+startup: overview
+#+hugo_auto_set_lastmod: t
+
+A collection of work-in-progress posts. I will eventually extract these into individual nodes.
+
+* Components of Software Project Planning
+
+** TODO Identify and Explicitly Define the Problem
+
+- Perhaps the most important part
+- Define the solution you seek to solve. Your project is a success if it addresses the points you list here.
+
+** TODO Understand the History and Surroundings
+
+Projects are rarely greenfield. Consider the history of projects which came before and the context in which your project exists.
+
+** TODO Dependencies
+
+Understand how your work will depend on external services.
+
+- Do those services have capacity to support your project?
+- What will you do if one of your dependencies fails?
+
+** TODO Technical Debt
+
+- Is there pre-existing technical debt?
+- What, if any, technical debt will this project introduce?
+  - What is your plan, and timeline, for mitigation and/or remediation?
+
+** TODO Estimates
+
+- Timeline estimate
+- Effort estimate
+
+** TODO Security
+
+** TODO Reliability
+
+** TODO Data Integrity
+
+** TODO Privacy
+
+** TODO Scalability
+
+** TODO Latency
+
+** TODO Abuse
+
+** TODO Accessibility
+
+** TODO Alternative Methods
+
+- Assume there is more than one way to complete your project. Resist the pull of your first idea. Think critically and document alternative approaches to solving the underlying problem
+
+** TODO Have a Plan for ...
+
+*** TODO Launch
+
+- How will you launch your project?
+
+*** TODO Testing
+*** TODO Documentation
+
+- How will you document your project? At minimum you should have a document which describes the goals, etc (see below).
+
+* Software Project Planning Principles
+
+1. It doesn't exist unless you can measure it.
+   - Your feature isn't "live" unless you have a metric/heartbeat/etc which indicates as such.
+   -
+
+* Skills of a Senior Engineer
+- [cite:@tellmanSeniorEngineersReduceRisk]
+- [cite:@ahmedLevelsSeniority]
+- Understand the flow of data through the system; 10,000 foot view
+#+print_bibliography:

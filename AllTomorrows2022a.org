@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@AllTomorrows2022a]
+:ID:       392666aa-baf5-4b52-b95f-e37b893ac63e
+:DIR:      /home/cashweaver/proj/roam/attachments/392666aa-baf5-4b52-b95f-e37b893ac63e
+:END:
+#+title: Wikipedia | All Tomorrows
+#+author: Cash Weaver
+#+date: [2022-02-18 Fri 15:06]
+#+startup: overview
+#+filetags: :reference:
+#+hugo_auto_set_lastmod: t
+ 
+[cite:@AllTomorrows2022a]
+
+#+begin_quote
+All Tomorrows: A Billion Year Chronicle of the Myriad Species and Mixed Fortunes of Man is a 2006 work of science fiction and speculative evolution written and illustrated by the Turkish artist C. M. Kosemen under the pen name Nemo Ramjet. It explores a hypothetical future path of human evolution set from the near future to a billion years from the present. Several future human species evolve through natural means and through genetic engineering, conducted by both humans themselves and by a mysterious and superior alien species called the Qu.
+#+end_quote
+
+There is also a video summary on YouTube by Alt Shift X: [[youtube:imNtSPM3-r4][All Tomorrows: the future of humanity?]]
+#+print_bibliography:

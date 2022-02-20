@@ -131,3 +131,24 @@
 :PROPERTIES:
 :Created: [2022-02-15 Tue 09:39]
 :END:
+* TODO [#2] Node idea: Concept, not sure of name, things like litany against fear, serenity prayer, etc, are phrases (better word?) that are used to bring about a particular state of mind :idea:
+:PROPERTIES:
+:Created: [2022-02-17 Thu 07:10]
+:END:
+
+Term ideas:
+
+- perspective bridges
+
+Related
+
+- [[id:458de7df-08ff-40dc-9a7b-18f2d14520ee][Litany Against Fear]]
+- [[id:6957a9e8-cfa5-45c3-acb5-805aac1fd68e][2.1]]
+* TODO [#2] Node idea: "Keep a Code" Keep to a code of ethics that you define. The "lawful" alignment in the old d&d grids :idea:
+:PROPERTIES:
+:Created: [2022-02-18 Fri 16:07]
+:END:
+* TODO [#2] Node idea: Habits I keep, or am trying to keep :idea:
+:PROPERTIES:
+:Created: [2022-02-18 Fri 16:08]
+:END:

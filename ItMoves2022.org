@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@ItMoves2022]
+:ID:       62c2da6b-ad55-4802-a334-f984b938b498
+:DIR:      /home/cashweaver/proj/roam/attachments/62c2da6b-ad55-4802-a334-f984b938b498
+:ROAM_ALIASES: "Eppur si muove"
+:END:
+#+title: Wikipedia | And Yet It Moves
+#+author: Cash Weaver
+#+date: [2022-02-18 Fri 16:30]
+#+startup: overview
+#+filetags: :reference:
+#+hugo_auto_set_lastmod: t
+ 
+[cite:@ItMoves2022]
+
+#+begin_quote
+"And yet it moves" or "Although it does move" (Italian: E pur si muove or Eppur si muove) is a phrase attributed to the Italian mathematician, physicist and philosopher Galileo Galilei (1564–1642) in 1633 after being forced to recant his claims that the Earth moves around the Sun, rather than the converse. In this context, the implication of the phrase is: despite his recantation, the Church's proclamations to the contrary, or any other conviction or doctrine of men, the Earth does, in fact, move (around the Sun, and not vice versa).
+#+end_quote
+
+#+print_bibliography:

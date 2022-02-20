@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       8331d841-b588-4780-b730-ded8ada343f2
+:DIR:      /home/cashweaver/proj/roam/attachments/8331d841-b588-4780-b730-ded8ada343f2
+:END:
+#+title: Make Implicit Knowledge Explicit
+#+author: Cash Weaver
+#+date: [2022-02-18 Fri 16:25]
+#+startup: overview
+#+filetags: :concept:
+#+hugo_auto_set_lastmod: t
+
+* TODO

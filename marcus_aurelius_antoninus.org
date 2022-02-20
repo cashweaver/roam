@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       759ba2f0-39b0-4d43-a48b-f4997e8178f3
+:DIR:      /home/cashweaver/proj/roam/attachments/759ba2f0-39b0-4d43-a48b-f4997e8178f3
+:END:
+#+title: Marcus Aurelius Antoninus
+#+author: Cash Weaver
+#+date: [2022-02-17 Thu 06:44]
+#+startup: overview
+#+filetags: :person:
+#+hugo_auto_set_lastmod: t
+Among other things:
+
+- [[id:84e0e30f-a362-4aae-b540-4541e00af0a8][Marcus Aurelius Antoninus | The Meditations of the Emperor Marcus Antoninus]]
+#+print_bibliography:

@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       c9129417-aebc-45da-869d-39024b2c0352
+:DIR:      /home/cashweaver/proj/roam/attachments/c9129417-aebc-45da-869d-39024b2c0352
+:END:
+#+title: Douglas Adams
+#+author: Cash Weaver
+#+date: [2022-02-18 Fri 15:11]
+#+startup: overview
+#+filetags: :person:
+#+hugo_auto_set_lastmod: t
+Among other things:
+
+* TODO

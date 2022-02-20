@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@DeepTime2021]
+:ID:       607e152b-fce5-4e83-a88e-58c0f1f5571d
+:DIR:      /home/cashweaver/proj/roam/attachments/607e152b-fce5-4e83-a88e-58c0f1f5571d
+:END:
+#+title: Wikipedia | Deep Time
+#+author: Cash Weaver
+#+date: [2022-02-18 Fri 13:07]
+#+startup: overview
+#+filetags: :reference:
+#+hugo_auto_set_lastmod: t
+ 
+[cite:@DeepTime2021]
+
+#+begin_quote
+Deep time is a term introduced and applied by John McPhee to the concept of geologic time in his Basin and Range, parts of which originally appeared in the New Yorker magazine.
+#+end_quote
+
+#+begin_quote
+Consider the Earth's history as the old measure of the English yard, the distance from the King's nose to the tip of his outstretched hand. One stroke of a nail file on his middle finger erases human history.
+#+end_quote
+
+#+print_bibliography:

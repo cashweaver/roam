@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       458de7df-08ff-40dc-9a7b-18f2d14520ee
+:DIR:      /home/cashweaver/proj/roam/attachments/458de7df-08ff-40dc-9a7b-18f2d14520ee
+:END:
+#+title: Litany Against Fear
+#+author: Cash Weaver
+#+date: [2022-02-17 Thu 07:03]
+#+startup: overview
+#+filetags: :quote:
+#+hugo_auto_set_lastmod: t
+#+begin_quote
+I must not fear.
+
+Fear is the mind-killer.
+
+Fear is the little-death that brings total obliteration.
+
+I will face my fear.
+
+I will permit it to pass over me and through me.
+
+And when it has gone past I will turn the inner eye to see its path.
+
+Where the fear has gone there will be nothing.
+
+Only I will remain.
+
+/Bene Gesserit, [[id:68077361-66a6-4abe-b00f-dfb3d83630f2][Herbert | Dune]]/
+#+end_quote

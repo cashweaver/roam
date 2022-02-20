@@ -9,4 +9,6 @@
 #+filetags: :person:
 #+hugo_auto_set_lastmod: t
 
-- [[https://www.benkuhn.net/][Blog]]
+Among other things,
+
+- [[https://www.benkuhn.net/][Personal website / blog]]
