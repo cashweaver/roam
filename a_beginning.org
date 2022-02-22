@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       9032f4f9-c2f4-4af5-9f69-4840c3bbbce8
+:DIR:      /home/cashweaver/proj/roam/attachments/9032f4f9-c2f4-4af5-9f69-4840c3bbbce8
+:END:
+#+title: A Beginning
+#+author: Cash Weaver
+#+date: [2022-02-21 Mon 07:03]
+#+startup: overview
+#+filetags: :quote:
+#+hugo_auto_set_lastmod: t
+#+begin_quote
+A beginning is the time for taking the most delicate care that the balances are correct. This every sister of the Bene Gesserit knows.
+
+[[id:a0503d43-fe6f-4dfb-838c-4fc3ad2d64ea][Princess Irulan]], [[id:68077361-66a6-4abe-b00f-dfb3d83630f2][Herbert | Dune]]
+#+end_quote

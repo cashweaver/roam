@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@Metagaming2021]
+:ID:       5d636267-334b-4a01-b41d-c6cd6e826a26
+:DIR:      /home/cashweaver/proj/roam/attachments/5d636267-334b-4a01-b41d-c6cd6e826a26
+:END:
+#+title: Wikipedia | Metagaming
+#+author: Cash Weaver
+#+date: [2022-02-21 Mon 17:01]
+#+startup: overview
+#+filetags: :reference:
+#+hugo_auto_set_lastmod: t
+ 
+[cite:@Metagaming2021]
+
+#+begin_quote
+Metagame, Hypergame, or game about the game, is an approach to a game that transcends or operates outside of the prescribed rules of the game, uses external factors to affect the game, or goes beyond the supposed limits or environment set by the game.
+
+Metagaming might also refer to a game which functions to create or modify the rules of a sub-game. Thus, we might play a metagame selecting which rules will apply during the play of the game itself.
+#+end_quote
+
+#+print_bibliography:

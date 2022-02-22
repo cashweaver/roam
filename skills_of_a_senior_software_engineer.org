@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       973e037c-6ae7-4c6a-abf8-57339feb49f9
+:DIR:      /home/cashweaver/proj/roam/attachments/973e037c-6ae7-4c6a-abf8-57339feb49f9
+:END:
+#+title: Skills of a Senior Software Engineer
+#+author: Cash Weaver
+#+date: [2022-02-21 Mon 15:20]
+#+startup: overview
+#+filetags: :concept:
+#+hugo_auto_set_lastmod: t
+
+A senior software engineer is an amorphous title. Companies will often use their own term, or invent further terms above or below "senior". The definition or requirements will be different for each person you ask.
+
+[[id:554edef5-e102-4628-9997-acdf7ed60a35][Well set goals are easier to achieve]], so I've sought out common traits of "senior" roles and collected them here to help guide me as I try to [[id:d797ba44-b962-4d6e-9b71-38ca49d070ce][get good]]. I expect a majority of these traits are common for all senior roles --- software engineer or otherwise.
+
+* TODO Incorporate Sources
+
+- [[id:e7753777-506e-490e-b79e-59dede5dce2e][Zach Tellman | Senior Engineers Reduce Risk]]
+- [[id:04347fa3-3c14-4aa8-8fd1-abeac684837f][John Allspaw | On Being A Senior Engineer]]
+- [[id:e56c1e98-41b1-4e92-8fbb-f007e5cf4a8e][Kamran Ahmed | Levels of Seniority]]
+- [[id:7af2ca45-ca0d-452d-83b3-a700057009d7][Tom Limoncelli | What Makes a Sysadmin a Senior Sysadmin?]]
+- Understand the flow of data through the system; 10,000 foot view

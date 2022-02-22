@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       d797ba44-b962-4d6e-9b71-38ca49d070ce
+:DIR:      /home/cashweaver/proj/roam/attachments/d797ba44-b962-4d6e-9b71-38ca49d070ce
+:END:
+#+title: Get Good
+#+author: Cash Weaver
+#+date: [2022-02-21 Mon 15:40]
+#+startup: overview
+#+filetags: :concept:
+#+hugo_auto_set_lastmod: t
+
+* TODO
+
+Git gud scrub

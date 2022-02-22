@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       54ab93e2-7316-4e51-a36f-1baf210cfdbf
+:DIR:      /home/cashweaver/proj/roam/attachments/54ab93e2-7316-4e51-a36f-1baf210cfdbf
+:END:
+#+title: You Don't Know Everything
+#+author: Cash Weaver
+#+date: [2022-02-21 Mon 15:26]
+#+startup: overview
+#+filetags: :concept:
+#+hugo_auto_set_lastmod: t
+
+* TODO

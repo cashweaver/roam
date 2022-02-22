@@ -13,34 +13,20 @@
 A style guide for my [[id:773406e0-fe95-41f4-a254-b2c6ade18ce9][personal knowledge management]] system (powered by [[id:1497025f-da3e-4bed-be19-f8f9c9a0e351][org-roam]]):
 
 * General
-
 ** [[id:d65fac7a-c0e4-4f53-95f2-71d7343dc0cf][Use Plain Language]]
-** Use Serial Commas
-
-#+begin_quote
-[...] a serial comma (also called a series comma, Oxford comma, or Harvard comma) is a comma placed immediately after the penultimate term (i.e., before the coordinating conjunction, such as and or or) in a series of three or more terms.
-
-[cite:@SerialComma2022]
-#+end_quote
-
-Note that serial commas are not a fix-all for ambigious sentences. They may, in fact, /introduce/ ambiguity [cite:@SerialComma2022].
-
-*** Examples
-
-- Incorrect: "To my parents, Abraham Lincoln and God."
-- *Correct*: "To my parents, Abraham Lincoln, and God."
+** [[id:5b18fea0-1aab-4ad3-91ef-781a2524f11d][Use Serial Commas]]
 ** [[id:3e310bff-729b-429b-9e10-769422c75561][Vary the Length of Sentences]]
-
+** [[id:fd00fbf2-6b65-442f-90b9-b9d5d64a5fde][Be Explicit]]
 * Types of Nodes
 :PROPERTIES:
 :ID:       d5d079f4-0808-40e6-905b-32a335c1ecbf
 :END:
 
-| Type      | Tag         | Description                          | Example                                                                      |
-|-----------+-------------+--------------------------------------+------------------------------------------------------------------------------|
+| Type      | Tag         | Description                          | Example                         |
+|-----------+-------------+--------------------------------------+---------------------------------|
 | Concept   | =concept=   | About an idea/concept                | [[id:a4f67dcc-8f90-4a21-abc8-b85bbaf2dee4][Plans Within Plans]]              |
 | Reference | =reference= | The node-form of a specific citation | [[id:68077361-66a6-4abe-b00f-dfb3d83630f2][Dune]]                            |
-| Quote     | =quote=     | Contain a single quote               | [[id:d8b060f2-5b7e-44bd-8f8c-b0dd32d2cf76][Plans within plans within plans]] |
+| Quote     | =quote=     | Contains a single quote              | [[id:d8b060f2-5b7e-44bd-8f8c-b0dd32d2cf76][Plans within plans within plans]] |
 | Person    | =person=    | About a single person                | [[id:9650cad7-fc51-4d4e-a436-e35bb038a2bf][Baron Vladimir Harkonnen]]        |
 
 * Tags

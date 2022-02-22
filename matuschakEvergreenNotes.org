@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@matuschakEvergreenNotes]
+:ID:       eb5965f1-211b-45cb-9f56-b8e85c48bb6d
+:DIR:      /home/cashweaver/proj/roam/attachments/eb5965f1-211b-45cb-9f56-b8e85c48bb6d
+:END:
+#+title: Andy Matuschak | Evergreen Notes
+#+author: Cash Weaver
+#+date: [2022-02-21 Mon 17:40]
+#+startup: overview
+#+filetags: :reference:
+#+hugo_auto_set_lastmod: t
+ 
+[[id:df479fb9-f7b0-4e3a-a7eb-41849fbc190e][Andy Matuschak]], [cite:@matuschakEvergreenNotes]
+
+* TODO Summary
+* TODO Thoughts
+* TODO Notes
+
+Quoting from Andy's notes is difficult due to their tightly linked nature. Quoting a chunk of text only provides /some/ of the intended detail; most of the detail is behind the links.
+
+#+begin_quote
+Evergreen notes are written and organized to evolve, contribute, and accumulate over time, across projects.
+#+end_quote
+
+#+print_bibliography:

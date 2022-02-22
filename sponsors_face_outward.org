@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       8ff15f08-a2b1-432c-b093-c774ab951f2c
+:DIR:      /home/cashweaver/proj/roam/attachments/8ff15f08-a2b1-432c-b093-c774ab951f2c
+:END:
+#+title: Sponsors Face Outward
+#+author: Cash Weaver
+#+date: [2022-02-21 Mon 16:10]
+#+startup: overview
+#+filetags: :concept:
+#+hugo_auto_set_lastmod: t
+
+* TODO
+
+Sponsors face outward, rather than inward toward the one they sponsor. They advocate for the sponsored in their absence --- often in conversations in which the sponsored isn't present.

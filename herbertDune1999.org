@@ -4,14 +4,12 @@
 :DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/68077361-66a6-4abe-b00f-dfb3d83630f2
 :END:
 #+title: Herbert | Dune
-#+FILETAGS: :@Frank_Herbert:dune:
+#+FILETAGS: reference:
 #+author: Cash Weaver
 #+date: [2022-02-05 Sat 12:32]
 #+startup: overview
 #+hugo_auto_set_lastmod: t
 
-* Quotes
+[[id:7f3c7b18-3173-4c69-a4c5-b7d33630ae85][Frank Herbert]], [cite:@herbertDune1999]
 
-- [[id:7c49d995-a4d4-4c95-84c0-9dae9d8ab498][The First Lesson]]
-- [[id:d8b060f2-5b7e-44bd-8f8c-b0dd32d2cf76][Plans within plans within plans]]
 #+print_bibliography:

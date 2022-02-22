@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       15909524-30d0-41ae-88b2-767e6c996d66
+:DIR:      /home/cashweaver/proj/roam/attachments/15909524-30d0-41ae-88b2-767e6c996d66
+:END:
+#+title: Focusing Techniques
+#+author: Cash Weaver
+#+date: [2022-02-21 Mon 07:08]
+#+startup: overview
+#+filetags: :concept:
+#+hugo_auto_set_lastmod: t
+
+Focusing techniques bridge the gap between a desired state of mind and your present state.

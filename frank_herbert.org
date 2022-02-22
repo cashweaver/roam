@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       7f3c7b18-3173-4c69-a4c5-b7d33630ae85
+:DIR:      /home/cashweaver/proj/roam/attachments/7f3c7b18-3173-4c69-a4c5-b7d33630ae85
+:END:
+#+title: Frank Herbert
+#+author: Cash Weaver
+#+date: [2022-02-20 Sun 13:05]
+#+startup: overview
+#+filetags: :person:
+#+hugo_auto_set_lastmod: t
+Among other things:
+
+* Author of [[id:68077361-66a6-4abe-b00f-dfb3d83630f2][Herbert | Dune]]

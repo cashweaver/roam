@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       40d6bbef-ec19-45e2-9fe2-bf6de3c8aded
+:DIR:      /home/cashweaver/proj/roam/attachments/40d6bbef-ec19-45e2-9fe2-bf6de3c8aded
+:END:
+#+title: Mentors Face Inward
+#+author: Cash Weaver
+#+date: [2022-02-21 Mon 16:10]
+#+startup: overview
+#+filetags: :concept:
+#+hugo_auto_set_lastmod: t
+
+* TODO
+
+Mentors face inward; toward their mentee.

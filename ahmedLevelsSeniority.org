@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ROAM_REFS: [cite:@ahmedLevelsSeniority]
 :ID:       e56c1e98-41b1-4e92-8fbb-f007e5cf4a8e
-:DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/e56c1e98-41b1-4e92-8fbb-f007e5cf4a8e
+:DIR:      /home/cashweaver/proj/roam/attachments/e56c1e98-41b1-4e92-8fbb-f007e5cf4a8e
 :END:
 #+title: Kamran Ahmed | Levels of Seniority
 #+author: Cash Weaver
