@@ -1,6 +1,7 @@
 :PROPERTIES:
 :DIR:      /home/cashweaver/proj/roam/attachments/6db3dc17-f091-4c31-ab22-74d8ec0ebb5e
 :ID:       6db3dc17-f091-4c31-ab22-74d8ec0ebb5e
+:LAST_MODIFIED: [2022-02-25 Fri 13:34]
 :END:
 #+TITLE: 1% rule
 #+FILETAGS: :concept:

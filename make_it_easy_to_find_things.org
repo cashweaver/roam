@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       78be7a1a-f0dd-400d-b998-edc5ef44e08b
+:DIR:      /home/cashweaver/proj/roam/attachments/78be7a1a-f0dd-400d-b998-edc5ef44e08b
+:END:
+#+title: Make it Easy to Find Things
+#+author: Cash Weaver
+#+date: [2022-02-22 Tue 07:00]
+#+startup: overview
+#+filetags: :concept:
+#+hugo_auto_set_lastmod: t
+
+* TODO

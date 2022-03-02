@@ -1,6 +1,7 @@
 :PROPERTIES:
 :ID:       15909524-30d0-41ae-88b2-767e6c996d66
 :DIR:      /home/cashweaver/proj/roam/attachments/15909524-30d0-41ae-88b2-767e6c996d66
+:ROAM_ALIASES: "Intention Setting"
 :END:
 #+title: Focusing Techniques
 #+author: Cash Weaver

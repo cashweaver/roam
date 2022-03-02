@@ -7,6 +7,8 @@
 
 Please sort in order of oldest to youngest.
 
+* TODO https://github.com/rememberYou/.emacs.d :emacs:
+
 * TODO https://www.mentalnodes.com/ :link_group:
 * TODO https://anshulkhare.in/ :link_group:
 * TODO https://www.neilwithdata.com/mathematics-self-learner :math:link_group:book:

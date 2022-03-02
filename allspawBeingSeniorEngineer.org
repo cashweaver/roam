@@ -14,7 +14,7 @@
 
 * TODO Summary
 * TODO Thoughts
-* TODO Notes
+* Notes
 #+begin_quote
 In order not to confuse titles with expectations that are fuzzy, sometimes I'll refer to engineering maturity.
 

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       b1a664cb-c661-4c44-bf55-fc407c528ad1
+:DIR:      /home/cashweaver/proj/roam/attachments/b1a664cb-c661-4c44-bf55-fc407c528ad1
+:END:
+#+title: Wizard's First Rule
+#+author: Cash Weaver
+#+date: [2022-02-22 Tue 18:52]
+#+startup: overview
+#+filetags: :quote:
+#+hugo_auto_set_lastmod: t
+#+begin_quote
+Wizard's First Rule: people are stupid.
+
+People are stupid; given proper motivation, almost anyone will believe almost anything. Because people are stupid, they will believe a lie because they want to believe it's true, or because they are afraid it might be true. People's heads are full of knowledge, facts, and beliefs, and most of it is false, yet they think it all true. People are stupid; they can only rarely tell the difference between a lie and the truth, and yet they are confident they can, and so are all the easier to fool."
+
+Zedd, [cite:@WizardFirstRule2021]
+#+end_quote
+
+#+print_bibliography:

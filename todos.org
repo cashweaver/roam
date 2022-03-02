@@ -152,3 +152,5 @@ Related
 :PROPERTIES:
 :Created: [2022-02-18 Fri 16:08]
 :END:
+* TODO [#3] Remove customized attachment dir properties from all nodes
+* TODO [#2] Node idea: Org-mode as a personal relationship management platform. org-roam, nodes-as-contacts, Google Drive as storage
