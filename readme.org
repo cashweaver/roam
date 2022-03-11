@@ -5,7 +5,6 @@
 #+title: README
 #+author: Cash Weaver
 #+date: [2021-12-27 Mon 20:32]
-#+startup: overview
 #+hugo_auto_set_lastmod: t
 #+filetags: :meta:
 

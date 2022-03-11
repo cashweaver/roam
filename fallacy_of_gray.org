@@ -5,7 +5,6 @@
 #+title: Fallacy of Gray
 #+author: Cash Weaver
 #+date: [2022-02-17 Thu 10:32]
-#+startup: overview
 #+filetags: :concept:
 #+hugo_auto_set_lastmod: t
 

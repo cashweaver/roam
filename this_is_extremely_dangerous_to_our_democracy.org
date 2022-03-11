@@ -5,7 +5,6 @@
 #+title: This is Extremely Dangerous to Our Democracy
 #+author: Cash Weaver
 #+date: [2022-02-17 Thu 08:37]
-#+startup: overview
 #+filetags: :quote:
 #+hugo_auto_set_lastmod: t
 

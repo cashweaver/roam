@@ -5,7 +5,6 @@
 #+title: Metformin
 #+author: Cash Weaver
 #+date: [2022-02-14 Mon 16:52]
-#+startup: overview
 #+hugo_auto_set_lastmod: t
 
 * TODO

@@ -5,7 +5,6 @@
 #+title: Get Good
 #+author: Cash Weaver
 #+date: [2022-02-21 Mon 15:40]
-#+startup: overview
 #+filetags: :concept:
 #+hugo_auto_set_lastmod: t
 

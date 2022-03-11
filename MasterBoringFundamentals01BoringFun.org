@@ -6,7 +6,6 @@
 #+title: James Stuber | Master Boring Fundamentals 01: Boring Is Fun
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 15:51]
-#+startup: overview
 #+filetags: :reference:
 #+hugo_auto_set_lastmod: t
  

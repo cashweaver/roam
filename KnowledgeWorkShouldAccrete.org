@@ -6,7 +6,6 @@
 #+title: Andy Matuschak | Knowledge Work Should Accrete
 #+author: Cash Weaver
 #+date: [2022-02-11 Fri 20:02]
-#+startup: overview
 #+filetags: :reference:
 #+hugo_auto_set_lastmod: t
  

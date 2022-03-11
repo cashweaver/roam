@@ -6,7 +6,6 @@
 #+title: Elizabeth J. Marsh, Andrew C. Butler | Memory in Educational Settings
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 21:10]
-#+startup: overview
 #+filetags: :reference:
 #+hugo_auto_set_lastmod: t
  

@@ -6,7 +6,6 @@
 #+title: Scott Alexander | Book Review: The Seven Principles For Making Marriage Work
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 15:43]
-#+startup: overview
 #+filetags: :reference:
 #+hugo_auto_set_lastmod: t
  

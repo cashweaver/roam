@@ -6,7 +6,6 @@
 #+title: Zach Tellman | Trapped in the Technologist Factory
 #+author: Cash Weaver
 #+date: [2022-02-19 Sat 09:32]
-#+startup: overview
 #+filetags: :reference:
 #+hugo_auto_set_lastmod: t
  

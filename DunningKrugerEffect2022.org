@@ -6,7 +6,6 @@
 #+title: Wikipedia | Dunning-Kruger Effect
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 16:07]
-#+startup: overview
 #+filetags: :reference:
 #+hugo_auto_set_lastmod: t
  

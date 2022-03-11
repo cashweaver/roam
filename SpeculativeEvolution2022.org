@@ -6,7 +6,6 @@
 #+title: Wikipedia | Speculative Evolution
 #+author: Cash Weaver
 #+date: [2022-02-18 Fri 15:04]
-#+startup: overview
 #+filetags: :reference:
 #+hugo_auto_set_lastmod: t
  

@@ -6,7 +6,6 @@
 #+title: Aaron Swartz | Theory of Change
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 12:06]
-#+startup: overview
 #+hugo_auto_set_lastmod: t
 
 [[id:62152128-36b1-4229-a6ce-a78858975120][Aaron Swartz]], [cite:@swartzTheoryChange2010]

@@ -6,7 +6,6 @@
 #+title:  ryans01 | No Zero Days
 #+author: Cash Weaver
 #+date: [2022-02-12 Sat 08:33]
-#+startup: overview
 #+filetags: :reference:
 #+hugo_auto_set_lastmod: t
  

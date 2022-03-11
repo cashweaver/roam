@@ -6,7 +6,6 @@
 #+title: Zach Tellman | Senior Engineers Reduce Risk
 #+author: Cash Weaver
 #+date: [2022-02-18 Fri 19:25]
-#+startup: overview
 #+filetags: :reference:
 #+hugo_auto_set_lastmod: t
  

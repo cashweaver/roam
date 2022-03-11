@@ -6,7 +6,6 @@
 #+title: Percy Bysshe Shelley | Ozymandias
 #+author: Cash Weaver
 #+date: [2022-02-26 Sat 18:30]
-#+startup: overview
 #+filetags: :quote:
 #+hugo_auto_set_lastmod: t
  

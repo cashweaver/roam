@@ -5,7 +5,6 @@
 #+title: Solve the General Case
 #+author: Cash Weaver
 #+date: [2022-02-18 Fri 19:23]
-#+startup: overview
 #+filetags: :concept:
 #+hugo_auto_set_lastmod: t
 

@@ -5,7 +5,6 @@
 #+title: Litany Against Fear
 #+author: Cash Weaver
 #+date: [2022-02-17 Thu 07:03]
-#+startup: overview
 #+filetags: :quote:
 #+hugo_auto_set_lastmod: t
 #+begin_quote

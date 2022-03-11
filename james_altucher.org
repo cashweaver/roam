@@ -5,7 +5,6 @@
 #+title: James Altucher
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 07:16]
-#+startup: overview
 #+filetags: :person:
 #+hugo_auto_set_lastmod: t
 Among other things:

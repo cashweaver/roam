@@ -6,7 +6,6 @@
 #+title: Alexey Nikitin | My least favorite Git commit
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 06:31]
-#+startup: overview
 #+filetags: :reference:
 #+hugo_auto_set_lastmod: t
  

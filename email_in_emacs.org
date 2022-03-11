@@ -4,7 +4,6 @@
 #+title: Email in Emacs
 #+author: Cash Weaver
 #+date: [2022-03-11 Fri 10:46]
-#+startup: overview
 #+filetags: :concept:
 #+hugo_auto_set_lastmod: t
 

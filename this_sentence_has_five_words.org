@@ -5,7 +5,6 @@
 #+title: This Sentence Has Five Words
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 17:05]
-#+startup: overview
 #+filetags: :quote:
 #+hugo_auto_set_lastmod: t
 #+begin_quote

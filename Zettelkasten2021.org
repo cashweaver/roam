@@ -6,7 +6,6 @@
 #+title: Wikipedia | Zettelkasten
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 18:03]
-#+startup: overview
 #+filetags: :reference:
 #+hugo_auto_set_lastmod: t
  

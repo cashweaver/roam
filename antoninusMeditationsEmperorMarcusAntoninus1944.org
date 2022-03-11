@@ -6,7 +6,6 @@
 #+title: Marcus Aurelius Antoninus | The Meditations of the Emperor Marcus Antoninus
 #+author: Cash Weaver
 #+date: [2022-02-17 Thu 06:44]
-#+startup: overview
 #+filetags: :reference:
 #+hugo_auto_set_lastmod: t
  

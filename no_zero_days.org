@@ -5,7 +5,6 @@
 #+title: No Zero Days
 #+author: Cash Weaver
 #+date: [2022-02-12 Sat 08:30]
-#+startup: overview
 #+filetags: :concept:
 #+hugo_auto_set_lastmod: t
 

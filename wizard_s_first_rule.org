@@ -5,7 +5,6 @@
 #+title: Wizard's First Rule
 #+author: Cash Weaver
 #+date: [2022-02-22 Tue 18:52]
-#+startup: overview
 #+filetags: :quote:
 #+hugo_auto_set_lastmod: t
 #+begin_quote

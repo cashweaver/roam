@@ -5,7 +5,6 @@
 #+title: Ceramists/Potters I Follow
 #+author: Cash Weaver
 #+date: [2022-01-02 Sun 22:39]
-#+startup: overview
 #+hugo_auto_set_lastmod: t
 
 - [[id:1e9881d1-e09a-4113-b22e-cd914c997910][Florian Gadsby]]

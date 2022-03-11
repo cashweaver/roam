@@ -5,7 +5,6 @@
 #+title: Compount Interest is the Eight Wonder
 #+author: Cash Weaver
 #+date: [2022-02-11 Fri 20:10]
-#+startup: overview
 #+filetags: :quote:
 #+hugo_auto_set_lastmod: t
 

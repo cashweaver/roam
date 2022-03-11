@@ -5,7 +5,6 @@
 #+title: Be Concious of Your Defaults
 #+author: Cash Weaver
 #+date: [2022-02-17 Thu 07:24]
-#+startup: overview
 #+filetags: :concept:
 #+hugo_auto_set_lastmod: t
 

@@ -6,7 +6,6 @@
 #+title:  Valentine | Noticing the Taste of Lotus
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 06:33]
-#+startup: overview
 #+filetags: :reference:
 #+hugo_auto_set_lastmod: t
  

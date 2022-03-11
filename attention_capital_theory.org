@@ -5,5 +5,4 @@
 #+title: Attention Capital Theory
 #+author: Cash Weaver
 #+date: [2021-12-03 Fri 12:17]
-#+startup: overview
 #+hugo_auto_set_lastmod: t

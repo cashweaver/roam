@@ -6,7 +6,6 @@
 #+title:  Anna Salamon | Learned Blankness
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 17:49]
-#+startup: overview
 #+filetags: :reference:
 #+hugo_auto_set_lastmod: t
  

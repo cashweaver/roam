@@ -7,7 +7,6 @@
 #+hugo_custom_front_matter: roam_refs '("https://quoteinvestigator.com/2012/04/28/shorter-letter")
 #+author: Cash Weaver
 #+date: [2022-01-17 Mon 11:30]
-#+startup: overview
 #+hugo_auto_set_lastmod: t
 
 #+begin_quote

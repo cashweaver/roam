@@ -8,7 +8,6 @@
 #+hugo_custom_front_matter: roam_refs '("https://letterstoanewdeveloper.com/2019/12/19/cultivate-the-skill-of-undivided-attention-or-deep-work/")
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 16:00]
-#+startup: overview
 #+filetags: :reference:
 #+hugo_auto_set_lastmod: t
  

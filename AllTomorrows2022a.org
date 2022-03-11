@@ -6,7 +6,6 @@
 #+title: Wikipedia | All Tomorrows
 #+author: Cash Weaver
 #+date: [2022-02-18 Fri 15:06]
-#+startup: overview
 #+filetags: :reference:
 #+hugo_auto_set_lastmod: t
  

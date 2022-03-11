@@ -6,7 +6,6 @@
 #+title:  moridinamael | The Monthly Newsletter as Thinking Tool
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 06:19]
-#+startup: overview
 #+filetags: :reference:
 #+hugo_auto_set_lastmod: t
  

@@ -6,7 +6,6 @@
 #+title: Wiktionary | Chesterton's Fence
 #+author: Cash Weaver
 #+date: [2022-02-19 Sat 09:35]
-#+startup: overview
 #+filetags: :reference:
 #+hugo_auto_set_lastmod: t
  

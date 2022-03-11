@@ -6,7 +6,6 @@
 #+title: James Altucher | The Ultimate Guide for Becoming an Idea Machine
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 07:16]
-#+startup: overview
 #+filetags: :reference:
 #+hugo_auto_set_lastmod: t
  

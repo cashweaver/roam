@@ -6,7 +6,6 @@
 #+title: Vladimir Harkonnen
 #+author: Cash Weaver
 #+date: [2022-02-08 Tue 10:45]
-#+startup: overview
 #+filetags: :person:
 #+hugo_auto_set_lastmod: t
 Among other things:

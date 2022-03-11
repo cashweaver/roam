@@ -6,7 +6,6 @@
 #+title: Andy Payne | The Myth of the Myth of the 10x Programmer
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 07:33]
-#+startup: overview
 #+filetags: :reference:
 #+hugo_auto_set_lastmod: t
  

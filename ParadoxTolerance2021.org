@@ -6,7 +6,6 @@
 #+title: Wikipedia | Paradox of Tolerance
 #+author: Cash Weaver
 #+date: [2022-02-15 Tue 09:25]
-#+startup: overview
 #+filetags: :reference:
 #+hugo_auto_set_lastmod: t
  

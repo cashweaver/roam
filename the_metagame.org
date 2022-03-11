@@ -5,7 +5,6 @@
 #+title: The Metagame
 #+author: Cash Weaver
 #+date: [2022-02-21 Mon 17:05]
-#+startup: overview
 #+filetags: :concept:
 #+hugo_auto_set_lastmod: t
 

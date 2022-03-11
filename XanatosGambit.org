@@ -6,7 +6,6 @@
 #+title: TV Tropes | Xanatos Gambit
 #+author: Cash Weaver
 #+date: [2022-02-09 Wed 08:27]
-#+startup: overview
 #+filetags: :reference:
 #+hugo_auto_set_lastmod: t
  

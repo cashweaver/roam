@@ -5,7 +5,6 @@
 #+title: A Beginning
 #+author: Cash Weaver
 #+date: [2022-02-21 Mon 07:03]
-#+startup: overview
 #+filetags: :quote:
 #+hugo_auto_set_lastmod: t
 #+begin_quote

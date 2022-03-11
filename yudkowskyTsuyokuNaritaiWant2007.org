@@ -6,7 +6,6 @@
 #+title: Eliezer Yudkowsky | Tsuyoku Naritai! (I Want To Become Stronger)
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 08:06]
-#+startup: overview
 #+filetags: :reference:
 #+hugo_auto_set_lastmod: t
  

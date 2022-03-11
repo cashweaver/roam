@@ -5,7 +5,6 @@
 #+title: Make it Easy to Find Things
 #+author: Cash Weaver
 #+date: [2022-02-22 Tue 07:00]
-#+startup: overview
 #+filetags: :concept:
 #+hugo_auto_set_lastmod: t
 

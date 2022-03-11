@@ -6,7 +6,6 @@
 #+title: Irulan Corrino
 #+author: Cash Weaver
 #+date: [2022-02-08 Tue 10:33]
-#+startup: overview
 #+filetags: :person:
 #+hugo_auto_set_lastmod: t
 

@@ -6,7 +6,6 @@
 #+title: Five Sentences
 #+author: Cash Weaver
 #+date: [2022-02-15 Tue 13:21]
-#+startup: overview
 #+filetags: :reference:
 #+hugo_auto_set_lastmod: t
  

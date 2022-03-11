@@ -5,7 +5,6 @@
 #+title: Use Dictates Meaning
 #+author: Cash Weaver
 #+date: [2022-02-25 Fri 18:58]
-#+startup: overview
 #+filetags: :concept:
 #+hugo_auto_set_lastmod: t
 

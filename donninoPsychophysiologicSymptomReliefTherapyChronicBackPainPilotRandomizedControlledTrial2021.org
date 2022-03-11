@@ -6,7 +6,6 @@
 #+title: Michael W. Donnino et al. | Psychophysiologic Symptom Relief Therapy for Chronic Back Pain: A Pilot Randomized Controlled Trial
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 06:48]
-#+startup: overview
 #+filetags: :reference:
 #+hugo_auto_set_lastmod: t
  

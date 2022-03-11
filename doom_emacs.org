@@ -7,7 +7,6 @@
 #+hugo_custom_front_matter: roam_refs '("https://github.com/hlissner/doom-emacs")
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 09:04]
-#+startup: overview
 #+hugo_auto_set_lastmod: t
 
 #+begin_quote

@@ -5,7 +5,6 @@
 #+title: Wiktionary | Fait Accompli
 #+author: Cash Weaver
 #+date: [2022-03-07 Mon 09:35]
-#+startup: overview
 #+filetags: :reference:
 #+hugo_auto_set_lastmod: t
  

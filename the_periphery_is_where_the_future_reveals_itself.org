@@ -5,7 +5,6 @@
 #+title: The Periphery is Where the Future Reveals Itself
 #+author: Cash Weaver
 #+date: [2022-02-14 Mon 09:42]
-#+startup: overview
 #+filetags: :quote:
 #+hugo_auto_set_lastmod: t
 * TODO

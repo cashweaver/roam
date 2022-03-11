@@ -5,7 +5,6 @@
 #+title: Personal Relationship Manager
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 06:05]
-#+startup: overview
 #+hugo_auto_set_lastmod: t
 
 A Customer Relationship Manager (CRM) for personal use.

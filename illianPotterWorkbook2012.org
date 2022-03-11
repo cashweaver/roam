@@ -6,7 +6,6 @@
 #+title: Clary Illian | A Potter's Workbook.
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 15:34]
-#+startup: overview
 #+filetags: reference
 #+hugo_auto_set_lastmod: t
  

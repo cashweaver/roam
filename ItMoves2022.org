@@ -7,7 +7,6 @@
 #+title: Wikipedia | And Yet It Moves
 #+author: Cash Weaver
 #+date: [2022-02-18 Fri 16:30]
-#+startup: overview
 #+filetags: :reference:
 #+hugo_auto_set_lastmod: t
  

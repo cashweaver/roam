@@ -5,7 +5,6 @@
 #+title: Todos
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 16:30]
-#+startup: overview
 #+hugo_auto_set_lastmod: t
 
 * TODO [#2] Node idea: Specifics of my blog post authoring process with =emacs=, =org-mode=, =ox-hugo=, and =org-roam=.

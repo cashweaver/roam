@@ -6,7 +6,6 @@
 #+title: Wikipedia | SMART Criteria
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 06:59]
-#+startup: overview
 #+filetags: :reference:
 #+hugo_auto_set_lastmod: t
  

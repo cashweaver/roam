@@ -7,7 +7,6 @@
 #+hugo_custom_front_matter: roam_refs '("https://en.wikiquote.org/wiki/Nikolai_Berdyaev")
 #+author: Cash Weaver
 #+date: [2022-02-05 Sat 12:50]
-#+startup: overview
 #+hugo_auto_set_lastmod: t
 
 #+begin_quote

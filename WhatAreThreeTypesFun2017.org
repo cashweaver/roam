@@ -6,7 +6,6 @@
 #+title: Tim Peck | What Are the Three Types of Fun?
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 08:09]
-#+startup: overview
 #+filetags: :reference:
 #+hugo_auto_set_lastmod: t
  

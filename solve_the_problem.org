@@ -7,7 +7,6 @@
 
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 16:37]
-#+startup: overview
 #+hugo_auto_set_lastmod: t
 
 * TODO Your goal should be solving the problem first and foremost

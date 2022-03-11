@@ -5,7 +5,6 @@
 #+title: E.B. White
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 16:31]
-#+startup: overview
 #+filetags: :person:
 #+hugo_auto_set_lastmod: t
 Among other things:

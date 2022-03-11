@@ -5,7 +5,6 @@
 #+title: Rules Must Always be Evaluated for their Power to Oppress
 #+author: Cash Weaver
 #+date: [2022-01-24 Mon 12:30]
-#+startup: overview
 #+hugo_auto_set_lastmod: t
 
 #+begin_quote

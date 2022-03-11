@@ -6,7 +6,6 @@
 #+title: David Thompson | My Favourite Git Commit
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 06:26]
-#+startup: overview
 #+filetags: :reference:
 #+hugo_auto_set_lastmod: t
  

@@ -5,7 +5,6 @@
 #+title: Goals for 2021
 #+author: Cash Weaver
 #+date: [2021-01-02 Sat 13:04]
-#+startup: overview
 #+hugo_auto_set_lastmod: t
 
 The unexamined life is not worth living, [[https://youtu.be/l2kN7pEME4o?t=51][man]].

@@ -5,7 +5,6 @@
 #+title: Define Abbreviations
 #+author: Cash Weaver
 #+date: [2022-02-20 Sun 13:00]
-#+startup: overview
 #+filetags: :concept:
 #+hugo_auto_set_lastmod: t
 

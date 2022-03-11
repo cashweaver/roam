@@ -6,7 +6,6 @@
 #+title: Ask HN: What Was the Best Decision You Made in Your Career? | Hacker News
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 15:01]
-#+startup: overview
 #+filetags: reference
 #+hugo_auto_set_lastmod: t
 

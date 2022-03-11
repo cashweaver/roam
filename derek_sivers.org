@@ -5,7 +5,6 @@
 #+title: Derek Sivers
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 07:34]
-#+startup: overview
 #+filetags: :person:
 #+hugo_auto_set_lastmod: t
 Among other things:

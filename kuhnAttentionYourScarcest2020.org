@@ -6,7 +6,6 @@
 #+title: Ben Kuhn | Attention Is Your Scarcest Resource
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 15:31]
-#+startup: overview
 #+filetags: reference
 #+hugo_auto_set_lastmod: t
  

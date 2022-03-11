@@ -5,7 +5,6 @@
 #+title: Matt Freeman
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 06:20]
-#+startup: overview
 #+filetags: :person:
 #+hugo_auto_set_lastmod: t
 Among other things:

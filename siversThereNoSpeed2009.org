@@ -6,7 +6,6 @@
 #+title: Derek Sivers | There's No Speed Limit
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 07:34]
-#+startup: overview
 #+filetags: :reference:
 #+hugo_auto_set_lastmod: t
  

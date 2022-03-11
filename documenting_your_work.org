@@ -6,7 +6,6 @@
 #+FILETAGS: :concept:
 #+author: Cash Weaver
 #+date: [2022-01-29 Sat 14:37]
-#+startup: overview
 #+hugo_auto_set_lastmod: t
 
 * TODO Synthesize [[id:ffc0d2f1-9a41-4562-8625-a669a5110836][David Thompson | My Favourite Git Commit]]

@@ -6,7 +6,6 @@
 #+title: Tom Limoncelli | What Makes a Sysadmin a Senior Sysadmin?
 #+author: Cash Weaver
 #+date: [2022-02-21 Mon 17:12]
-#+startup: overview
 #+filetags: :reference:
 #+hugo_auto_set_lastmod: t
  

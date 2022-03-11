@@ -6,7 +6,6 @@
 #+title: Walter Lippmann | The Basic Problem of Democracy
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 07:13]
-#+startup: overview
 #+filetags: :reference:
 #+hugo_auto_set_lastmod: t
  

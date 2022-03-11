@@ -6,7 +6,6 @@
 #+title: Wikipedia | Metagaming
 #+author: Cash Weaver
 #+date: [2022-02-21 Mon 17:01]
-#+startup: overview
 #+filetags: :reference:
 #+hugo_auto_set_lastmod: t
  

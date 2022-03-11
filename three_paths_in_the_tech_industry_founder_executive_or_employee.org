@@ -9,7 +9,6 @@
 #+date: [2021-11-27 Thu 07:00]
 #+hugo_auto_set_lastmod: t
 #+hugo_draft: true
-#+startup: overview
 
 The article begins with:
 

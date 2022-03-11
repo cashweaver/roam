@@ -6,7 +6,6 @@
 #+title: Zach Tellman | Thought Leaders and Chicken Sexers
 #+author: Cash Weaver
 #+date: [2022-02-18 Fri 16:25]
-#+startup: overview
 #+filetags: :reference:
 #+hugo_auto_set_lastmod: t
  

@@ -8,7 +8,6 @@
 #+hugo_custom_front_matter: roam_refs '("https://critter.blog/2020/10/02/write-5x-more-but-write-5x-less/" "https://blog.kewah.com/2021/write-more-but-shorter/" "https://azdavis.net/posts/write-more-but-less/")
 #+author: Cash Weaver
 #+date: [2022-01-17 Mon 07:28]
-#+startup: overview
 #+hugo_auto_set_lastmod: t
 * Summary
 

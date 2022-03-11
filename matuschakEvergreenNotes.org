@@ -6,7 +6,6 @@
 #+title: Andy Matuschak | Evergreen Notes
 #+author: Cash Weaver
 #+date: [2022-02-21 Mon 17:40]
-#+startup: overview
 #+filetags: :reference:
 #+hugo_auto_set_lastmod: t
  

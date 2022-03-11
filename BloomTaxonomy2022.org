@@ -6,7 +6,6 @@
 #+title: Wikipedia | Bloom's Taxonomy
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 15:38]
-#+startup: overview
 #+filetags: :reference:
 #+hugo_auto_set_lastmod: t
  

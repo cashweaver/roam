@@ -5,7 +5,6 @@
 #+title: Play to Win
 #+author: Cash Weaver
 #+date: [2022-02-16 Wed 19:22]
-#+startup: overview
 #+filetags: :concept:
 #+hugo_auto_set_lastmod: t
 

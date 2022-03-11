@@ -5,7 +5,6 @@
 #+title: Be Explicit
 #+author: Cash Weaver
 #+date: [2022-02-20 Sun 10:59]
-#+startup: overview
 #+filetags: :concept:
 #+hugo_auto_set_lastmod: t
 

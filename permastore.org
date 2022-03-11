@@ -6,7 +6,6 @@
 #+FILETAGS: :concept:
 #+author: Cash Weaver
 #+date: [2021-12-31 Fri 12:05]
-#+startup: overview
 #+hugo_auto_set_lastmod: t
 
 #+begin_quote

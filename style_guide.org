@@ -6,7 +6,6 @@
 #+FILETAGS: :meta:
 #+author: Cash Weaver
 #+date: [2022-02-05 Sat 13:12]
-#+startup: overview
 #+options: num:t
 #+hugo_auto_set_lastmod: t
 

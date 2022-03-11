@@ -5,7 +5,6 @@
 #+title: LessWrong
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 06:38]
-#+startup: overview
 #+hugo_auto_set_lastmod: t
 
 A rationalist community and website.

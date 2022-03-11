@@ -5,7 +5,6 @@
 #+title: Theory of Change
 #+author: Cash Weaver
 #+date: [2021-12-03 Fri 12:28]
-#+startup: overview
 #+hugo_auto_set_lastmod: t
 
 #+begin_quote

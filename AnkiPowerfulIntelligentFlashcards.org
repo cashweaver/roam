@@ -6,7 +6,6 @@
 #+title: Anki
 #+author: Cash Weaver
 #+date: [2022-02-08 Tue 13:08]
-#+startup: overview
 #+filetags: :reference:
 #+hugo_auto_set_lastmod: t
 

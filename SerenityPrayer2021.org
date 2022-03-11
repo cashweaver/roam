@@ -6,7 +6,6 @@
 #+title: Wikipedia | Serenity Prayer
 #+author: Cash Weaver
 #+date: [2022-02-17 Thu 07:20]
-#+startup: overview
 #+filetags: :reference:
 #+hugo_auto_set_lastmod: t
  

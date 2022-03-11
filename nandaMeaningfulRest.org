@@ -6,7 +6,6 @@
 #+title: Neel Nanda | Meaningful Rest
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 20:52]
-#+startup: overview
 #+filetags: :reference:
 #+hugo_auto_set_lastmod: t
  

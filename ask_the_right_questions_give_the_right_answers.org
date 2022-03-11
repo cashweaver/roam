@@ -5,7 +5,6 @@
 #+title: Ask the Right Questions, Give the Right Answers
 #+author: Cash Weaver
 #+date: [2022-02-21 Mon 16:04]
-#+startup: overview
 #+filetags: :concept:
 #+hugo_auto_set_lastmod: t
 
