@@ -3,7 +3,7 @@
 :DIR:      /home/cashweaver/proj/roam/attachments/d65fac7a-c0e4-4f53-95f2-71d7343dc0cf
 :END:
 #+title: Use Plain Language
-#+FILETAGS: :writing:concept:
+#+FILETAGS: :concept:
 #+author: Cash Weaver
 #+date: [2022-01-17 Mon 11:26]
 #+startup: overview

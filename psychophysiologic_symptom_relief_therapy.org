@@ -4,7 +4,8 @@
 :ROAM_ALIASES: PSRT
 :END:
 #+title: Psychophysiologic Symptom Relief Therapy
-#+FILETAGS: :health:
+#+FILETAGS: :concept:
+
 #+author: Cash Weaver
 #+date: [2021-12-03 Fri 06:31]
 #+hugo_auto_set_lastmod: t

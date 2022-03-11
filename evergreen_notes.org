@@ -3,7 +3,7 @@
 :DIR:      /home/cashweaver/proj/roam/attachments/eb88f117-4925-42c7-a9cf-5789987fd933
 :END:
 #+title: Evergreen Notes
-#+FILETAGS: :@Andy_Matuschak:
+#+FILETAGS: :concept:
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 07:24]
 #+startup: overview

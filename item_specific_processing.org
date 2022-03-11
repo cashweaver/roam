@@ -3,7 +3,7 @@
 :DIR:      /home/cashweaver/proj/roam/attachments/e860a606-84d0-47a0-8230-a702e86c363a
 :END:
 #+title: Item-specific Processing
-#+FILETAGS: :learning:
+#+FILETAGS: :concept:
 #+author: Cash Weaver
 #+date: [2021-12-31 Fri 11:40]
 #+startup: overview

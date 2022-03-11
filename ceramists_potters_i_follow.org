@@ -3,7 +3,6 @@
 :DIR:      /home/cashweaver/proj/roam/attachments/c73727bd-7ed8-4c50-bd08-524ebb2afbea
 :END:
 #+title: Ceramists/Potters I Follow
-#+FILETAGS: :@Cash_Weaver:
 #+author: Cash Weaver
 #+date: [2022-01-02 Sun 22:39]
 #+startup: overview

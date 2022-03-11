@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@FaitAccompli2022]
+:ID:       ecc8e89c-b85e-454f-a67a-dded3fbb7587
+:END:
+#+title: Wiktionary | Fait Accompli
+#+author: Cash Weaver
+#+date: [2022-03-07 Mon 09:35]
+#+startup: overview
+#+filetags: :reference:
+#+hugo_auto_set_lastmod: t
+ 
+#+begin_quote
+Often said of something irreversible and/or performed without going through standard procedure, completed before those affected by it are in a position to query or reverse it.
+
+[cite:@FaitAccompli2022]
+#+end_quote
+#+print_bibliography:

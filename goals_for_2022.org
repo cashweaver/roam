@@ -3,7 +3,6 @@
 :DIR:      /home/cashweaver/proj/roam/attachments/f8a6ddda-eefa-4559-9f2f-a4ea26c7a223
 :END:
 #+title: Goals for 2022
-#+FILETAGS: :@Cash_Weaver:
 #+author: Cash Weaver
 #+date: [2022-01-02 Sun 13:34]
 #+startup: overview

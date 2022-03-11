@@ -62,19 +62,31 @@
                   org-attach-directory (file-truename
                                         (format
                                          "%s/attachments/"
-                                         org-roam-directory))))
+                                         org-roam-directory))
+
+                  cashweaver/org-roam--file-path-exceptions-to-export-after-save `(,(format "%sunread.org"
+                                                                                            org-roam-directory)
+                                                                                   ,(format "%sunread.org_archive"
+                                                                                            org-roam-directory))
+                  cashweaver/org-roam--file-path-exceptions-to-add-bibliography `(,(format "%sunread.org"
+                                                                                           org-roam-directory)
+                                                                                  ,(format "%sunread.org_archive"
+                                                                                           org-roam-directory))))
          (eval . (setq-local
                   org-roam-db-location (expand-file-name
                                         "org-roam.db"
                                         org-roam-directory)))))
 
  (org-mode . ((eval . (org-hugo-auto-export-mode))
-              (eval . (add-hook! 'before-save-hook
-                                 :local
-                                 #'cashweaver/org-roam--rewrite-smart-to-ascii))
-              (eval . (add-hook! 'before-save-hook
-                                 :local
-                                 #'cashweaver-org-roam--mirror-roam-refs-to-front-matter))
-              (eval . (add-hook! 'before-save-hook
-                                 :local
-                                 #'cashweaver-org-roam--add-bibliography)))))
+              (eval . (add-hook!
+                       'before-save-hook
+                       :local
+                       #'cashweaver/org-roam-rewrite-smart-to-ascii))
+              (eval . (add-hook!
+                       'before-save-hook
+                       :local
+                       #'cashweaver/org-roam-mirror-roam-refs-to-front-matter))
+              (eval . (add-hook!
+                       'before-save-hook
+                       :local
+                       #'cashweaver/org-roam-add-bibliography)))))

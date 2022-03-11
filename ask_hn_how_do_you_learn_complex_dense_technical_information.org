@@ -1,15 +1,15 @@
 :PROPERTIES:
 :ID:       2667c79c-7b48-424c-ba91-d0ace144a86c
 :DIR:      /home/cashweaver/proj/roam/attachments/2667c79c-7b48-424c-ba91-d0ace144a86c
-:ROAM_REFS: https://news.ycombinator.com/item?id=22325975
+:ROAM_REFS: [cite:@AskHNHowYouLearnComplexDenseTechnicalInformation]
 :END:
 #+TITLE: Ask HN: How do you learn complex, dense technical information?
-#+FILETAGS: :learning:
-#+hugo_custom_front_matter: roam_refs '("https://news.ycombinator.com/item?id=22325975")
-#+STARTUP: overview
+#+FILETAGS: :reference:
 #+AUTHOR: Cash Weaver
 #+DATE: [2021-12-30 Thu 12:41]
 #+HUGO_AUTO_SET_LASTMOD: t
+
+[cite:@AskHNHowYouLearnComplexDenseTechnicalInformation]
 
 * Notes
 
@@ -50,7 +50,5 @@ The other approach is what many smart (but non-geniuses) take: the buffet approa
 #+end_quote
 
 * Thoughts
-:PROPERTIES:
-:ID:       0c2543e9-cbf9-4324-b9c2-ecbc8109b18c
-:END:
 Relevant: [[id:e6b1cd50-8293-44a3-bcba-d302d0835470][How to Read a Paper]]
+#+print_bibliography:
