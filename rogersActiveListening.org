@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@rogersActiveListening]
+:ID:       cf76d35e-d0df-434b-ab27-2792f4fd3d79
+:END:
+#+title: Carl R Rogers, Richard E Farson | Active Listening
+#+author: Cash Weaver
+#+date: [2022-03-12 Sat 03:46]
+#+filetags: :reference:
+#+hugo_auto_set_lastmod: t
+ 
+[cite:@rogersActiveListening]
+
+* TODO Summary
+* TODO Thoughts
+* TODO Notes
+:PROPERTIES:
+:NOTER_DOCUMENT: attachments/cf/76d35e-d0df-434b-ab27-2792f4fd3d79/active-listening.pdf
+:NOTER_PAGE: 4
+:END:
+
+#+print_bibliography:

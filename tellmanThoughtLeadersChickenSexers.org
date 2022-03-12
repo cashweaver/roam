@@ -10,19 +10,18 @@
 #+hugo_auto_set_lastmod: t
  
 [[id:d89d29a2-927a-4369-ad45-bc031a2f7266][Zach Tellman]], [cite:@tellmanThoughtLeadersChickenSexers]
-
 * Summary
 * Thoughts
 * Notes
 
 #+begin_quote
-When [tacit] knowledge begins to lead us astray, however, Polanyi tells us we that must delve into it. We must make it explicit. An explicit understanding of speech might be necessary for someone with a speech impediment, but also for a professional performer; to be at the top of your field, it’s almost always necessary to transform innate talent into something more.
+When [tacit] knowledge begins to lead us astray, however, Polanyi tells us we that must delve into it. We must make it explicit. An explicit understanding of speech might be necessary for someone with a speech impediment, but also for a professional performer; to be at the top of your field, it's almost always necessary to transform innate talent into something more.
 #+end_quote
 
 (see: [[id:8331d841-b588-4780-b730-ded8ada343f2][Make Implicit Knowledge Explicit]])
 
 #+begin_quote
-No one’s sensibilities about software design are so refined that they can teach simply through demonstration. We have to distill our intuition down to principles, and let those principles guide us beyond the bounds of our intuition. Anything less is just rentier pedagogy; maxims stripped of any context, whose true meaning within a given situation can only be judged by a single person
+No one's sensibilities about software design are so refined that they can teach simply through demonstration. We have to distill our intuition down to principles, and let those principles guide us beyond the bounds of our intuition. Anything less is just rentier pedagogy; maxims stripped of any context, whose true meaning within a given situation can only be judged by a single person
 #+end_quote
 
 #+print_bibliography:

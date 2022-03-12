@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@grahamWhenPeopleAre2022]
+:ID:       815271e0-33b8-4c6c-bb55-24b0f6ddcda7
+:END:
+#+title: Paul Graham | When People Are Naturally Good at Something
+#+author: Cash Weaver
+#+date: [2022-03-12 Sat 05:00]
+#+filetags: :quote:
+#+hugo_auto_set_lastmod: t
+
+#+begin_quote
+When people are naturally good at something, they tend to be puzzled by how bad other people are at it. So that's one way to figure out what you're naturally good at. What do other people seem puzzlingly bad at? (Being right doesn't count. Everyone thinks they're right.)
+
+[[id:8a9360e0-306a-422a-804f-e2fd6664b8fe][Paul Graham]], [cite:@grahamWhenPeopleAre2022]
+#+end_quote
+#+print_bibliography:

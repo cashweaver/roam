@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@salvatierRealityHasSurprising]
+:ID:       16937276-fd62-4d50-90ef-cdf5ab036442
+:END:
+#+title: John Salvatier | Reality Has a Surprising Amount of Detail
+#+author: Cash Weaver
+#+date: [2022-03-12 Sat 04:29]
+#+filetags: :reference:
+#+hugo_auto_set_lastmod: t
+ 
+[cite:@salvatierRealityHasSurprising]
+
+* TODO Summary
+* TODO Thoughts
+* TODO Notes
+
+#+begin_quote
+[...] it's that everything is fiddly, but you only notice the fiddliness when you're new [...]
+#+end_quote
+
+#+begin_quote
+The more difficult your mission, the more details there will be that are critical to understand for success.
+
+You might hope that these surprising details are irrelevant to your mission, but not so. Some of them will end up being key.
+#+end_quote
+
+#+begin_quote
+You might also hope that the important details will be obvious when you run into them, but not so. Such details aren't automatically visible, even when you're directly running up against them. Things can just seem messy and noisy instead.
+#+end_quote
+
+#+print_bibliography:

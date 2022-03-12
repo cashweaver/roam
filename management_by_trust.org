@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       295eeb2d-4265-481a-affe-2009f7f33a3a
+:END:
+#+title: Management By Trust
+#+author: Cash Weaver
+#+date: [2022-03-12 Sat 03:38]
+#+startup: overview
+#+filetags: :concept:
+#+hugo_auto_set_lastmod: t
+
+- [cite:@ardLittleTasksLittle]
+#+print_bibliography:

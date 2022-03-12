@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@kuhnDefenseBlubStudies]
+:ID:       2b7b62cd-9368-468d-a562-4bc13acb2ee1
+:END:
+#+title: Ben Kuhn | In Defense of Blub Studies
+#+author: Cash Weaver
+#+date: [2022-03-12 Sat 05:25]
+#+filetags: :reference:
+#+hugo_auto_set_lastmod: t
+ 
+[[id:12b9ccec-dfcb-473d-83b7-1daa9f450ed0][Ben Kuhn]], [cite:@kuhnDefenseBlubStudies]
+
+* TODO Summary
+* TODO Thoughts
+* TODO Notes
+#+print_bibliography:

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       ca6fd965-8c9c-470c-b020-8fe0765ceb20
+:END:
+#+title: Blub Studies
+#+author: Cash Weaver
+#+date: [2022-03-12 Sat 05:09]
+#+startup: overview
+#+filetags: :concept:
+#+hugo_auto_set_lastmod: t
+
+Blub studies are the "mundane, ultra-specific-seeming knowledge" [cite:@kuhnDefenseBlubStudies] underlying something. It's the "fiddly technical details" [cite:@kuhnDefenseBlubStudies]. "There's a seemingly infinite amount of it, full of bespoke details for you to stumble over, and that makes it, often, unbelievably frustrating" [cite:@kuhnDefenseBlubStudies].
+
+See [[id:2b7b62cd-9368-468d-a562-4bc13acb2ee1][Ben Kuhn | In Defense of Blub Studies]].
+
+#+print_bibliography:

@@ -261,30 +261,16 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-12-06 16:00]
 :END:
-* TODO [[https://ideolalia.com/essays/thought-leaders-and-chicken-sexers.html][Thought Leaders and Chicken Sexers]] :essay:
-:PROPERTIES:
-:CREATED: [2020-12-06 19:04]
-:END:
-* TODO [[https://mtlynch.io/code-review-love/][How to Make Your Code Reviewer Fall in Love with You]] :essay:
-:PROPERTIES:
-:CREATED: [2020-12-07 07:54]
-:END:
 * TODO [[https://www.reddit.com/r/learnmachinelearning/comments/k8p48m/what_are_the_different_activation_functions_and/][What are the different activation functions and why we use them?]] :essay:machine_learning_artificial_intelligence:math:someday:
 :PROPERTIES:
 :CREATED: [2020-12-07 20:46]
-:END:
-* TODO [[https://news.ycombinator.com/item?id=25344640][Are people with dark personality traits more likely to succeed?]] :essay:discussion:
-:PROPERTIES:
-:CREATED: [2020-12-08 13:17]
-:END:
-* TODO [[http://adamard.com/little_tasks.html][Little Tasks, Little Trust]] :essay:
-:PROPERTIES:
-:CREATED: [2020-12-08 15:29]
 :END:
 * TODO [[https://news.ycombinator.com/item?id=25346456][Ask HN: What's the best paper you've read in 2020?]] :link_group:discussion:
 :PROPERTIES:
 :CREATED: [2020-12-08 15:29]
 :END:
+* TODO https://slatestarcodex.com/2014/03/24/should-you-reverse-any-advice-you-hear/ :essay:
+
 * TODO [[https://www.reddit.com/r/slatestarcodex/comments/k9hc7v/what_are_your_favorite_lectures_on_youtube/][What are your favorite lectures on YouTube?]] :link_group:discussion:
 :PROPERTIES:
 :CREATED: [2020-12-09 00:55]

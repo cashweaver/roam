@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@elhageComputersCanBe]
+:ID:       19ba13d6-259f-4734-a1be-aaa5d51fcd16
+:END:
+#+title: Nelson Elhage | Computers Can Be Understood
+#+author: Cash Weaver
+#+date: [2022-03-12 Sat 04:56]
+#+filetags: :reference:
+#+hugo_auto_set_lastmod: t
+ 
+[[id:5c0d65a3-c200-43e2-afdc-ef6811b3c8ff][Nelson Elhage]], [cite:@elhageComputersCanBe]
+
+* TODO Summary
+* TODO Thoughts
+* TODO Notes
+#+print_bibliography:

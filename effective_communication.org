@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       af59804b-3199-476f-89c0-0ad1e5b6cd6e
+:END:
+#+title: Effective Communication
+#+author: Cash Weaver
+#+date: [2022-03-12 Sat 04:27]
+#+startup: overview
+#+filetags: :concept:
+#+hugo_auto_set_lastmod: t
+
+* TODO
+
+- [[id:617eec3a-89c3-4b9f-9074-47d4bf4e69fd][Ben Kuhn | To Listen Well, Get Curious]]
