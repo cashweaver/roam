@@ -269,8 +269,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-12-08 15:29]
 :END:
-* TODO https://slatestarcodex.com/2014/03/24/should-you-reverse-any-advice-you-hear/ :essay:
-
+* TODO Lisp in Small Pieces :book:
 * TODO [[https://www.reddit.com/r/slatestarcodex/comments/k9hc7v/what_are_your_favorite_lectures_on_youtube/][What are your favorite lectures on YouTube?]] :link_group:discussion:
 :PROPERTIES:
 :CREATED: [2020-12-09 00:55]
@@ -286,10 +285,6 @@ Please sort in order of oldest to youngest.
 * TODO [[https://www.reddit.com/r/slatestarcodex/comments/kb9jll/teaching_math_via_its_history/][Teaching math via its history?]] :discussion:math:
 :PROPERTIES:
 :CREATED: [2020-12-11 19:33]
-:END:
-* TODO [[https://www.lesswrong.com/posts/4K5pJnKBGkqqTbyxx/to-listen-well-get-curious][To listen well, get curious]] :essay:
-:PROPERTIES:
-:CREATED: [2020-12-13 07:38]
 :END:
 * TODO [[https://www.reddit.com/r/slatestarcodex/comments/kcffka/rules_of_thought/][Rules of Thought]] :discussion:
 :PROPERTIES:

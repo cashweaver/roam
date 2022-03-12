@@ -6,17 +6,17 @@
 #+FILETAGS: :meta:
 #+author: Cash Weaver
 #+date: [2022-02-05 Sat 13:12]
-#+options: num:t
 #+hugo_auto_set_lastmod: t
 
 A style guide for my [[id:773406e0-fe95-41f4-a254-b2c6ade18ce9][personal knowledge management]] system (powered by [[id:1497025f-da3e-4bed-be19-f8f9c9a0e351][org-roam]]):
 
 * General
-** [[id:d65fac7a-c0e4-4f53-95f2-71d7343dc0cf][Use Plain Language]]
-** [[id:5b18fea0-1aab-4ad3-91ef-781a2524f11d][Use Serial Commas]]
-** [[id:3e310bff-729b-429b-9e10-769422c75561][Vary the Length of Sentences]]
-** [[id:fd00fbf2-6b65-442f-90b9-b9d5d64a5fde][Be Explicit]]
-* Types of Nodes
+- [[id:d65fac7a-c0e4-4f53-95f2-71d7343dc0cf][Use Plain Language]]
+- [[id:5b18fea0-1aab-4ad3-91ef-781a2524f11d][Use Serial Commas]]
+- [[id:3e310bff-729b-429b-9e10-769422c75561][Vary the Length of Sentences]]
+- [[id:fd00fbf2-6b65-442f-90b9-b9d5d64a5fde][Be Explicit]]
+
+* Node types
 :PROPERTIES:
 :ID:       d5d079f4-0808-40e6-905b-32a335c1ecbf
 :END:
@@ -30,14 +30,7 @@ A style guide for my [[id:773406e0-fe95-41f4-a254-b2c6ade18ce9][personal knowled
 
 * Tags
 
-- Prefer links to tags
-- Maintain the validity of the tags associated with [[id:d5d079f4-0808-40e6-905b-32a335c1ecbf][Types of Nodes]]
-
-* Specifying an Author
-
-Specify an author by linking to that author's node (eg: [[id:0d192773-9121-459e-931a-86a0f0ce9991][Cash Weaver]])
-
-Formerly, the policy was: Specify an author using a node-level tag prefixed with =@= (eg: =@Cash_Weaver=). There may still be an odd tag or two among the notes.
+Prefer links to tags. Maintain the validity of the tags associated with [[id:d5d079f4-0808-40e6-905b-32a335c1ecbf][node types]].
 
 * Quotes
 
@@ -51,7 +44,7 @@ Formerly, the policy was: Specify an author using a node-level tag prefixed with
   2. "<person>" or "<citation>"
   3. "<general link>"
 
-*** Does it Need Attribution?
+*** Does it need attribution?
 
 Every quote should contain an attribution unless it meets one of the following criteria:
 
@@ -77,11 +70,11 @@ Org is a mode for keeping notes, maintaining TODO lists, and project planning wi
 /[[https://orgmode.org/manual/Summary.html][org-mode Manual: Summary]]/
 #+end_quote
 
-** How Much is Too Much?
+** Large quotes are okay
 
 There isn't a hard rule on how much quoting is too much. Large quotes [[id:18745aec-fcd1-4dd5-a55f-73fdc409aacb][have their benefits]].
 
-** Quote Nodes
+** Nodes can just be a quote
 
 Quotes can live in stand-alone single nodes (eg: [[id:7c49d995-a4d4-4c95-84c0-9dae9d8ab498][The First Lesson]]). This is multi-purpose:
 
@@ -91,11 +84,11 @@ Quotes can live in stand-alone single nodes (eg: [[id:7c49d995-a4d4-4c95-84c0-9d
 
 * Links
 
-** Show Favicons with Links
+** Show favicons alongside links
 
 Favicons are nice additions to links. They provide visual context to where the reader expects the link to take them. Let's include them alongside external links. I've written a [[https://github.com/cashweaver/basic-favicon-links][script to make the process easier]].
 
-** Every Node Must Include Backlinks
+** Every node must include backlinks
 
 Backlinks are the backbone of a powerful [[id:b130e6f2-31a1-4c3a-ae8b-7d8208a69710][zettelkasten]] system. The published form of these notes *must* include backlinks.
 #+print_bibliography:

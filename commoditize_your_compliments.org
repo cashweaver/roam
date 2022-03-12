@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       f4ce56ce-f473-4f06-b78b-db67aaaa45d2
+:END:
+#+title: Commoditize Your Compliments
+#+author: Cash Weaver
+#+date: [2022-03-12 Sat 10:27]
+#+filetags: :concept:
+#+hugo_auto_set_lastmod: t
+
+#+begin_quote
+All else being equal, demand for a product increases when the prices of its complements decrease.
+
+[cite:@spolskyStrategyLetter2002]
+#+end_quote
+#+print_bibliography:

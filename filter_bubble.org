@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       895e6fb7-8503-486a-978f-9c1dc155d373
+:END:
+#+title: Filter Bubble
+#+author: Cash Weaver
+#+date: [2022-03-12 Sat 07:26]
+#+startup: overview
+#+filetags: :concept:
+#+hugo_auto_set_lastmod: t
+
+#+begin_quote
+A filter bubble [...] is a state of intellectual isolation that can result from personalized searches when a website algorithm selectively guesses what information a user would like to see based on information about the user, such as location, past click-behavior and search history.
+
+[cite:@FilterBubble2022]
+#+end_quote
+
+Related:
+
+- [[id:3657474e-5e72-4f19-8664-c66583f6310d][Echo Chamber]]
+#+print_bibliography:

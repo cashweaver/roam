@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ROAM_REFS: [cite:@kuhnListenWellGet]
+:ROAM_REFS: [cite:@kuhnListenWellGetCurious]
 :ID:       617eec3a-89c3-4b9f-9074-47d4bf4e69fd
 :END:
 #+title: Ben Kuhn | To Listen Well, Get Curious
@@ -8,11 +8,17 @@
 #+filetags: :reference:
 #+hugo_auto_set_lastmod: t
  
-[[id:12b9ccec-dfcb-473d-83b7-1daa9f450ed0][Ben Kuhn]], [cite:@kuhnListenWellGet]
+[[id:12b9ccec-dfcb-473d-83b7-1daa9f450ed0][Ben Kuhn]], [cite:@kuhnListenWellGetCurious]
 
 * Summary
 
-Curiosity should be the through line of a listener's role in conversation.
+Curiosity should underlie a listener's behavior in conversations.
+
+* Thoughts
+
+Listening well, and asking curious questions, ensures you [[id:e3a7869c-d28d-4733-85ca-bcce823054e2][understand the problem]].
+
+I find that my misunderstandings are the result of premature and ill-founded assumptions on my part. There is a balancing act to maintain between [[id:58c81d3f-d1ab-44b8-8ff1-32c5baa6c1e0][reasoning from analogy]] and [[id:0b13cdf1-2678-420e-b919-4a349d4ef81a][reasoning from first principles]].
 
 * Notes
 

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4dc60214-2e6b-45de-bed5-6e2fec793385
+:END:
+#+title: Stages of Problem Solving
+#+author: Cash Weaver
+#+date: [2022-03-12 Sat 08:13]
+#+startup: overview
+#+filetags: :concept:
+#+hugo_auto_set_lastmod: t
+
+* Understand the problem
+:PROPERTIES:
+:ID:       e3a7869c-d28d-4733-85ca-bcce823054e2
+:END:
+* Develop a solution for the problem
+:PROPERTIES:
+:ID:       c7ffc7dd-6d53-4cbb-9945-86d265e51d12
+:END:
+* Implement the solution
+:PROPERTIES:
+:ID:       4f5e453e-5721-4f27-aca6-1c830749d566
+:END:

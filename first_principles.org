@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       0f5abcf4-ac0d-40d7-a62b-62daeac65485
+:END:
+#+title: First Principles
+#+author: Cash Weaver
+#+date: [2022-03-12 Sat 08:16]
+#+startup: overview
+#+filetags: :concept:
+#+hugo_auto_set_lastmod: t
+
+The fundamental building blocks of a subject.
+
+Related:
+
+- [[id:0b13cdf1-2678-420e-b919-4a349d4ef81a][Reasoning from First Principles]]
+
+
+* TODO Citations, quotes, etc

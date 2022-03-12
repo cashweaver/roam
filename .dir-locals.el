@@ -11,7 +11,6 @@
                                                    "#+title: ${title}\n"
                                                    "#+author: Cash Weaver\n"
                                                    "#+date: [%<%Y-%m-%d %a %H:%M>]\n"
-                                                   "#+startup: overview\n"
                                                    "#+filetags: :concept:\n"
                                                    "#+hugo_auto_set_lastmod: t\n"))
                                                 :unnarrowed t)
@@ -22,7 +21,6 @@
                                                    "#+title: ${title}\n"
                                                    "#+author: Cash Weaver\n"
                                                    "#+date: [%<%Y-%m-%d %a %H:%M>]\n"
-                                                   "#+startup: overview\n"
                                                    "#+hugo_auto_set_lastmod: t\n"
                                                    "* TODO"))
                                                 :unnarrowed t)
@@ -33,7 +31,6 @@
                                                    "#+title: ${title}\n"
                                                    "#+author: Cash Weaver\n"
                                                    "#+date: [%<%Y-%m-%d %a %H:%M>]\n"
-                                                   "#+startup: overview\n"
                                                    "#+filetags: :person:\n"
                                                    "#+hugo_auto_set_lastmod: t\n"
                                                    "Among other things:\n"
@@ -46,7 +43,6 @@
                                                    "#+title: ${title}\n"
                                                    "#+author: Cash Weaver\n"
                                                    "#+date: [%<%Y-%m-%d %a %H:%M>]\n"
-                                                   "#+startup: overview\n"
                                                    "#+filetags: :quote:\n"
                                                    "#+hugo_auto_set_lastmod: t\n"
                                                    "#+begin_quote\n"

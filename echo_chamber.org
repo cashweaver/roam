@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3657474e-5e72-4f19-8664-c66583f6310d
+:END:
+#+title: Echo Chamber
+#+author: Cash Weaver
+#+date: [2022-03-12 Sat 07:26]
+#+startup: overview
+#+filetags: :concept:
+#+hugo_auto_set_lastmod: t
+
+#+begin_quote
+[...] an echo chamber refers to situations in which beliefs are amplified or reinforced by communication and repetition inside a closed system and insulated from rebuttal.
+
+[cite:@EchoChamberMedia2022]
+#+end_quote
+
+Related:
+
+- [[id:895e6fb7-8503-486a-978f-9c1dc155d373][Filter Bubble]]
+#+print_bibliography:
