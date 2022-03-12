@@ -16,18 +16,17 @@
 * TODO Notes
 
 #+begin_quote
-I learned two lessons from this time in my life. The first was personal: I am, at heart, a technologist. I like to generalize, to abstract. While I believe it’s crucial to understand the context around your software, I’m happiest when that context is other people’s software.
+I learned two lessons from this time in my life. The first was personal: I am, at heart, a technologist. I like to generalize, to abstract. While I believe it's crucial to understand the context around your software, I'm happiest when that context is other people's software.
 
 The second lesson was broader, and less obvious: our industry is designed to foster people like me.
 
-This was surprising because it seems so clearly against our own interest. In almost every case, companies fail because they build the wrong thing. Unless your customers are themselves engineers, I’m the wrong person to help with that. You want someone comfortable at the periphery of your system, who wants to learn about the competitive landscape, who wants to talk to customers. You want a product engineer.
+This was surprising because it seems so clearly against our own interest. In almost every case, companies fail because they build the wrong thing. Unless your customers are themselves engineers, I'm the wrong person to help with that. You want someone comfortable at the periphery of your system, who wants to learn about the competitive landscape, who wants to talk to customers. You want a product engineer.
 #+end_quote
 
 #+begin_quote
 Chesterton notwithstanding, the fastest way to learn why a fence exists is to tear it down and see what happens.
 #+end_quote
 
-See [[id:57b1490d-6fc1-408e-8ecd-b8156b6e1365][Wiktionary | Chesterton's Fence]].
-
+See [[id:975b8bf2-d4cb-4a1d-a976-0f6d0130dbc5][Chesterton's Fence]].
 
 #+print_bibliography:
