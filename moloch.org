@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       3aea1e2f-dd21-4c21-a8c9-7efd610424c4
+:END:
+#+title: Moloch
+#+author: Cash Weaver
+#+date: [2022-03-13 Sun 20:24]
+#+filetags: :concept:
+#+hugo_auto_set_lastmod: t
+
+Among other things,
+
+- Carthaginian demon
+- Personification of forces and systems which compel individuals to race to the bottom (see [[id:e93466a6-cad5-4f3c-bb75-7990f7e9886f][Howl]], [[id:1bba449a-48eb-479a-be4d-a4d7f8095b6a][Scott Alexander | Meditations On Moloch]])

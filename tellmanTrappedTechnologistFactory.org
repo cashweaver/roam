@@ -28,5 +28,4 @@ Chesterton notwithstanding, the fastest way to learn why a fence exists is to te
 #+end_quote
 
 See [[id:975b8bf2-d4cb-4a1d-a976-0f6d0130dbc5][Chesterton's Fence]].
-
 #+print_bibliography:

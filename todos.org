@@ -157,3 +157,13 @@ Related
 :PROPERTIES:
 :Created: [2022-03-12 Sat 07:46]
 :END:
+* TODO [#2] Learn about Edith Health
+:PROPERTIES:
+:Effort:   1h
+:END:
+
+- https://www.youtube.com/watch?v=IJFM8Kui1W0
+* TODO Parenting / Interacting with Children
+
+- [[id:99e14785-13bb-420c-b0b5-b14bad1bd163][Freddish]]
+- [[id:cc8635c1-ea8a-4d60-a3c3-4a08b00c51ce][Dave Orr | Parenting Rules]]

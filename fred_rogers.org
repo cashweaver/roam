@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       f95aa4a2-494d-49e9-aa6f-6bcd0e3e759f
+:END:
+#+title: Fred Rogers
+#+author: Cash Weaver
+#+date: [2022-03-13 Sun 18:01]
+#+filetags: :person:
+#+hugo_auto_set_lastmod: t
+Among other things:
+
+* TODO

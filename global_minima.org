@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       48db2ef9-4ac8-4c80-bc81-01f87be81943
+:END:
+#+title: Global Minima
+#+author: Cash Weaver
+#+date: [2022-03-14 Mon 07:40]
+#+filetags: :concept:
+#+hugo_auto_set_lastmod: t
+
+The global minima is the smallest value of a function on the entire domain [cite:@MaximaMinima2022].
+
+* TODO Examples
+
+#+print_bibliography:

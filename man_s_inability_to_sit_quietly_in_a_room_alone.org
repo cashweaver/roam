@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       68e208ad-a4d6-403e-aae3-2ef207499d99
+:END:
+#+title: Man's Inability to Sit Quietly in a Room Alone
+#+author: Cash Weaver
+#+date: [2022-03-13 Sun 17:14]
+#+filetags: :quote:
+#+hugo_auto_set_lastmod: t
+#+begin_quote
+All of humanity's problems stem from man's inability to sit quietly in a room alone.
+
+/Blaise Pascal/, /Pensées/
+#+end_quote

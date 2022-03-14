@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       dae21b2f-5799-4a32-8e5d-3c8db186cb30
+:END:
+#+title: Global Maxima
+#+author: Cash Weaver
+#+date: [2022-03-14 Mon 07:42]
+#+filetags: :concept:
+#+hugo_auto_set_lastmod: t
+
+The global maxima is the largest value of a function on the entire domain [cite:@MaximaMinima2022].
+
+* TODO Examples
+#+print_bibliography:

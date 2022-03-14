@@ -278,6 +278,8 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-12-09 02:19]
 :END:
+* TODO https://slatestarcodex.com/2013/04/06/poor-folks-do-smile-for-now/ :essay:
+* TODO https://www.overcomingbias.com/2009/09/this-is-the-dream-time.html :essay:
 * TODO [[https://emacssurvey.org/2020/][Emacs Survey 2020 Results]] :link_group:emacs:
 :PROPERTIES:
 :CREATED: [2020-12-11 17:38]
@@ -294,18 +296,6 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-12-16 17:35]
 :END:
-* TODO [[https://news.ycombinator.com/item?id=25476266][Commoditize your complement (2019)]] :essay:discussion:
-:PROPERTIES:
-:CREATED: [2020-12-19 09:16]
-:END:
-* TODO [[https://news.ycombinator.com/item?id=25482075][The Abolition of Work (2002)]] :essay:discussion:
-:PROPERTIES:
-:CREATED: [2020-12-19 22:57]
-:END:
-* TODO [[https://news.ycombinator.com/item?id=25482927][All problems stem from man's inability to sit quietly in a room alone (2014)]] :essay:discussion:
-:PROPERTIES:
-:CREATED: [2020-12-20 01:06]
-:END:
 * TODO [[https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/][The Gervais Principle, or the Office According to "The Office" (2009)]] :essay:politics:management:someday:
 :PROPERTIES:
 :CREATED: [2020-12-20 15:28]
@@ -313,14 +303,6 @@ Please sort in order of oldest to youngest.
 * TODO [[https://news.ycombinator.com/item?id=25500671][Write code. Not too much. Mostly functions.]] :discussion:essay:computer_science:
 :PROPERTIES:
 :CREATED: [2020-12-21 22:53]
-:END:
-* TODO [[https://www.lesswrong.com/posts/8gapy2nLy4wysXSGL/parenting-rules][parenting rules]] :essay:parenting:
-:PROPERTIES:
-:CREATED: [2020-12-22 07:41]
-:END:
-* TODO [[https://news.ycombinator.com/item?id=25506371][You Should Write a User Guide]] :essay:discussion:
-:PROPERTIES:
-:CREATED: [2020-12-22 14:08]
 :END:
 * TODO [[https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life][100 Tips for a Better Life]] :essay:advice:someday:
 :PROPERTIES:
@@ -330,6 +312,8 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-12-24 00:38]
 :END:
+* TODO https://www.niskanencenter.org/public-policy-utopia/ :essay:politics:someday:
+* TODO [[https://celandine13.livejournal.com/33599.html]] :essay:advice:someday:
 * TODO [[https://news.ycombinator.com/item?id=25530700][Ask HN: What was a book that changed your life?]] :link_group:discussion:advice:someday:book:
 :PROPERTIES:
 :CREATED: [2020-12-24 19:39]
@@ -362,10 +346,6 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-12-27 20:03]
 :END:
-* TODO [[https://www.lesswrong.com/posts/MGWEztZY8GZ5im4x7/the-good-try-rule][The Good Try Rule]] :essay:advice:
-:PROPERTIES:
-:CREATED: [2020-12-27 22:46]
-:END:
 * TODO [[https://josephg.com/blog/3-tribes/][Tribes of Programming (2017)]] :essay:computer_science:
 :PROPERTIES:
 :CREATED: [2020-12-28 16:55]
@@ -385,10 +365,6 @@ Please sort in order of oldest to youngest.
 * TODO [[https://www.reddit.com/r/MachineLearning/comments/knai5q/r_a_list_of_best_papers_from_top_ai_conferences/][[R] A List of Best Papers from Top AI Conferences in 2020]] :link_group:discussion:machine_learning_artificial_intelligence:someday:
 :PROPERTIES:
 :CREATED: [2020-12-30 20:50]
-:END:
-* TODO [[https://thereformedbroker.com/2020/12/30/talk-less-listen-more/][Talk Less, Listen More]] :essay:advice:
-:PROPERTIES:
-:CREATED: [2020-12-30 22:04]
 :END:
 * TODO [[https://philipkiely.com/assets/files/WfSD_Bonus_Interview_-_Donald_Knuth.pdf][Interview Transcript – Donald Knuth [pdf]]] :essay:
 :PROPERTIES:

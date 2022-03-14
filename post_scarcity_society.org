@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       7bb3980d-e901-4f5e-b102-61a0a89de28c
+:END:
+#+title: Post-scarcity Society
+#+author: Cash Weaver
+#+date: [2022-03-13 Sun 16:59]
+#+filetags: :concept:
+#+hugo_auto_set_lastmod: t
+
+* TODO

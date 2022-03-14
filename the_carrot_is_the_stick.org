@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       23bf8c2e-5c00-414a-860f-3a6c87ea6283
+:END:
+#+title: The Carrot is the Stick
+#+author: Cash Weaver
+#+date: [2022-03-13 Sun 16:34]
+#+filetags: :quote:
+#+hugo_auto_set_lastmod: t
+
+#+begin_quote
+The carrot is just the stick by other means.
+
+[[id:64b2ba46-31c4-4d78-9d9e-82fe2ca54526][Bob Black]], [cite:@blackAbolitionWork]
+#+end_quote
+
+The enticing value of an carrot depends on the one-being-enticed's lack of that carrot. They don't yet have the carrot that they want. Why do they not already have the carrot? The stick.
+
+#+print_bibliography:

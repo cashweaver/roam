@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       043438c3-d647-4fe0-a29b-cd1c44e9e3e7
+:END:
+#+title: Fully Automated Luxury Communism
+#+author: Cash Weaver
+#+date: [2022-03-13 Sun 17:32]
+#+filetags: :concept:
+#+hugo_auto_set_lastmod: t
+
+A specific [[id:7bb3980d-e901-4f5e-b102-61a0a89de28c][post-scarcity society]] achieved through a combination of automative technology and material abundance.

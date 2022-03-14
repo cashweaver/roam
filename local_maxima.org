@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       93680ef4-e95c-4320-8d28-7b60f8453a40
+:END:
+#+title: Local Maxima
+#+author: Cash Weaver
+#+date: [2022-03-14 Mon 07:41]
+#+filetags: :concept:
+#+hugo_auto_set_lastmod: t
+
+The local maxima is the largest value of a function within a given range [cite:@MaximaMinima2022].
+
+* TODO Examples
+#+print_bibliography:

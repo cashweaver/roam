@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       d85e93d5-5a6b-449e-b39e-e0f2609fd532
+:END:
+#+title: Zone of Proximal Development
+#+author: Cash Weaver
+#+date: [2022-03-13 Sun 18:48]
+#+filetags: :concept:
+#+hugo_auto_set_lastmod: t
+
+#+begin_quote
+The zone of proximal development is the distance between what a learner is capable of doing unsupported, and what they can do supported.
+
+[cite:@ZoneProximalDevelopment2022]
+#+end_quote
+
+#+print_bibliography:

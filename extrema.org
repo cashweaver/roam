@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       0318ca22-3322-437d-916e-4a4724cd52b8
+:END:
+#+title: Extrema
+#+author: Cash Weaver
+#+date: [2022-03-14 Mon 07:31]
+#+filetags: :concept:
+#+hugo_auto_set_lastmod: t
+
+
+- [[id:48db2ef9-4ac8-4c80-bc81-01f87be81943][Global Minima]]
+- [[id:b60aaeac-0364-4d7b-8189-4ded082154ff][Local Minima]]
+- [[id:dae21b2f-5799-4a32-8e5d-3c8db186cb30][Global Maxima]]
+- [[id:93680ef4-e95c-4320-8d28-7b60f8453a40][Local Maxima]]
+
+* Etymology
+
+Extrema refer to both minima and maxima collectively [cite:@MaximaMinima2022].
+
+#+print_bibliography:
