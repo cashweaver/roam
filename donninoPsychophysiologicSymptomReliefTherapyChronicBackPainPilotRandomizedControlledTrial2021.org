@@ -9,7 +9,7 @@
 #+filetags: :reference:
 #+hugo_auto_set_lastmod: t
  
-[cite:@donninoPsychophysiologicSymptomRelief2021]
+[cite:@donninoPsychophysiologicSymptomReliefTherapyChronicBackPainPilotRandomizedControlledTrial2021]
 
 * Summary
 * Thoughts
