@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       8e50c265-f020-4b20-bf7f-f7a3ce818bba
+:ROAM_ALIASES: Ems
+:END:
+#+title: Em
+#+author: Cash Weaver
+#+date: [2022-03-15 Tue 09:00]
+#+filetags: :concept:
+#+hugo_auto_set_lastmod: t
+
+Ems are copies of human minds which exist on computers in [[id:6d55a204-cace-464c-b771-66bd9af50ed0][Robin Hanson | The Age of Em: Work, Love, and Life When Robots Rule the Earth]].

@@ -8,6 +8,8 @@
 
 [cite:@ContractDraftingEm]
 
+See [[id:8e50c265-f020-4b20-bf7f-f7a3ce818bba][Em]].
+
 #+begin_verse
 I am a contract-drafting em,
 The loyalest of lawyers!

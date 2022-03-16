@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       426b6e66-710b-4d01-8ff0-f5311478260c
+:END:
+#+title: Pure Functions
+#+author: Cash Weaver
+#+date: [2022-03-15 Tue 14:54]
+#+filetags: :concept:
+#+hugo_auto_set_lastmod: t
+
+#+begin_quote
+In computer programming, a pure function is a function that has the following properties:
+
+1. the function return values are identical for identical arguments (no variation with local static variables, non-local variables, mutable reference arguments or input streams), and
+2. the function application has no side effects (no mutation of local static variables, non-local variables, mutable reference arguments or input/output streams).
+
+Thus a pure function is a computational analogue of a mathematical function. Some authors, particularly from the imperative language community, use the term "pure" for all functions that just have the above property 2.
+
+[cite:@PureFunction2022]
+#+end_quote
+#+print_bibliography:

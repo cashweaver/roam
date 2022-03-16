@@ -132,8 +132,6 @@ The two active ingredients of government are laws plus violence – or more abst
 But these institutions not only incentivize others, but are incentivized themselves. These are large organizations made of lots of people who are competing for jobs, status, prestige, et cetera – there's no reason they should be immune to the same multipolar traps as everyone else, and indeed they aren't. Governments can in theory keep corporations, citizens, et cetera out of certain traps, but as we saw above there are many traps that governments themselves can fall into.
 #+end_quote
 
-#+print_bibliography:
-
 ** IV
 
 #+begin_quote
@@ -191,3 +189,4 @@ He always and everywhere offers the same deal: throw what you love most into the
 
 As long as the offer's open, it will be irresistible. So we need to close the offer. Only another god can kill Moloch. We have one on our side, but he needs our help. We should give it to him.
 #+end_quote
+#+print_bibliography:

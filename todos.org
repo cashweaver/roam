@@ -167,3 +167,10 @@ Related
 
 - [[id:99e14785-13bb-420c-b0b5-b14bad1bd163][Freddish]]
 - [[id:cc8635c1-ea8a-4d60-a3c3-4a08b00c51ce][Dave Orr | Parenting Rules]]
+* TODO Writing good software / Software patterns I like
+
+- [[id:426b6e66-710b-4d01-8ff0-f5311478260c][Pure Functions]]
+- "Bad programmers worry about the code. Good programmers worry about data structures and their relationships." - Linus Torvalds
+- [cite:@smithWriteCodeNotTooMuchMostlyFunctions]
+
+#+print_bibliography:

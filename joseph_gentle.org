@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       1b0fdfea-7b5d-46b9-abde-7b5140109299
+:END:
+#+title: Joseph Gentle
+#+author: Cash Weaver
+#+date: [2022-03-14 Mon 10:07]
+#+filetags: :person:
+#+hugo_auto_set_lastmod: t
+Among other things:
+
+* TODO
