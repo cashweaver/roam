@@ -11,4 +11,8 @@
 
 #+begin_quote
 ox-hugo is an Org exporter backend that exports Org to Hugo-compatible Markdown (Blackfriday) and also generates the front-matter (in TOML or YAML format).
+
+[cite:@modiOxHugoCarefullyCraftedOrgExporterBackendHugo2022]
 #+end_quote
+
+#+print_bibliography:
