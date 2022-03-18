@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       e3915b9e-665b-4da5-b2ec-42ba090918c9
+:END:
+#+title: Innovator's Dilemma
+#+author: Cash Weaver
+#+date: [2022-03-16 Wed 19:44]
+#+filetags: :concept:
+#+hugo_auto_set_lastmod: t
+
+#+begin_quote
+[...] describes how large incumbent companies lose market share by listening to their customers and providing what appears to be the highest-value products, but new companies that serve low-value customers with poorly developed technology can improve that technology incrementally until it is good enough to quickly and take market share from established business.
+#+end_quote
+
+[cite:@InnovatorDilemma2022]
+#+print_bibliography:

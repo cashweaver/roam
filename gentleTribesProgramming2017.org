@@ -24,11 +24,12 @@ We self-select into communities of our peers based on these ideals. We use coded
 I think each group has its own conferences, and its own subreddits. Its own programming languages, heroes and its own villains.
 #+end_quote
 
-* TODO Thoughts
-
 * Notes
 
 ** Programming as applied mathematics
+:PROPERTIES:
+:ID:       f1b52515-ce90-451f-8b58-281cc314a693
+:END:
 
 #+begin_quote
 - Source code: The source should read like poetry - dense, with very few lines of code needed to express an idea. Once understood, the terse program seems like a beautiful and obvious description of your program. It is more important that the source code is simple than the execution is simple or fast. High level languages are better than low level languages because they let you express your intent more clearly.
@@ -43,6 +44,9 @@ Most (arguably all) of the modern advancements in programming languages come fro
 
 
 ** Programming as hardware hacking
+:PROPERTIES:
+:ID:       8aba3ca3-4de0-46cc-be4a-4e7c4611fafd
+:END:
 
 #+begin_quote
 - Source code: The code should be clean, but clean code is less important than a clean execution. Low level languages are often better than high level languages because you can be more explicit about what the computer will do when it executes your code. (Thus you have more room to optimize).
@@ -56,6 +60,9 @@ To this community we owe almost all performance improvements in our computers, a
 #+end_quote
 
 ** Programming as a tool to make things
+:PROPERTIES:
+:ID:       d2918b36-ab82-4e9c-a7ee-ded62efb1d62
+:END:
 
 #+begin_quote
 - Source code: The code should be clean, but only because cleaner code is easier to iterate on. Code cleanliness is less important than most other considerations.

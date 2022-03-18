@@ -329,26 +329,14 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-12-27 09:33]
 :END:
-* TODO [[https://news.ycombinator.com/item?id=25552267][Systems design explains the world: volume 1]] :essay:discussion:systems:
-:PROPERTIES:
-:CREATED: [2020-12-27 16:51]
-:END:
 * TODO [[https://news.ycombinator.com/item?id=25553818][Ask HN: Favorite Podcast Episode of 2020?]] :link_group:discussion:
 :PROPERTIES:
 :CREATED: [2020-12-27 20:03]
 :END:
-* TODO [[https://josephg.com/blog/3-tribes/][Tribes of Programming (2017)]] :essay:computer_science:
-:PROPERTIES:
-:CREATED: [2020-12-28 16:55]
-:END:
-* TODO https://josephg.com/blog/crdts-are-the-future/ :essay:
+* TODO https://josephg.com/blog/crdts-are-the-future/ :essay:computer_science:someday:
 * TODO [[https://www.reddit.com/r/learnmachinelearning/comments/km5l8t/best_way_to_learn_reinforcement_learning_in_2021/][Best way to learn reinforcement learning in 2021?]] :discussion:machine_learning_artificial_intelligence:
 :PROPERTIES:
 :CREATED: [2020-12-29 03:01]
-:END:
-* TODO [[https://media.ccc.de/v/rc3-11512-cia_vs_wikileaks][CIA vs. Wikileaks [video]]] :essay:
-:PROPERTIES:
-:CREATED: [2020-12-29 07:44]
 :END:
 * TODO [[https://danluu.com/essential-complexity/][Against Essential and Accidental Complexity]] :essay:
 :PROPERTIES:
