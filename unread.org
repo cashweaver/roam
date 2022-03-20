@@ -338,37 +338,13 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-12-29 03:01]
 :END:
-* TODO [[https://danluu.com/essential-complexity/][Against Essential and Accidental Complexity]] :essay:
-:PROPERTIES:
-:CREATED: [2020-12-29 12:37]
-:END:
 * TODO [[https://www.reddit.com/r/MachineLearning/comments/knai5q/r_a_list_of_best_papers_from_top_ai_conferences/][[R] A List of Best Papers from Top AI Conferences in 2020]] :link_group:discussion:machine_learning_artificial_intelligence:someday:
 :PROPERTIES:
 :CREATED: [2020-12-30 20:50]
 :END:
-* TODO [[https://philipkiely.com/assets/files/WfSD_Bonus_Interview_-_Donald_Knuth.pdf][Interview Transcript – Donald Knuth [pdf]]] :essay:
-:PROPERTIES:
-:CREATED: [2020-12-31 04:30]
-:END:
-* TODO [[https://www.lesswrong.com/posts/AksEurnb73RCg9Dse/one-year-of-pomodoros-1][One Year of Pomodoros]] :essay:
-:PROPERTIES:
-:CREATED: [2020-12-31 06:44]
-:END:
-* TODO [[https://nadiaeghbal.com/shameless][Shamelessness as a Strategy (2019)]] :essay:advice:
-:PROPERTIES:
-:CREATED: [2020-12-31 09:26]
-:END:
 * TODO [[https://web.stanford.edu/~hastie/Papers/ESLII.pdf][The Elements of Statistical Learning [pdf]]] :book:math:
 :PROPERTIES:
 :CREATED: [2020-12-31 12:48]
-:END:
-* TODO [[https://berthub.eu/articles/posts/what-is-life/][What Is Life? (2019)]] :essay:
-:PROPERTIES:
-:CREATED: [2020-12-31 14:27]
-:END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/knvp0z/utilitarianism_for_engineers_2013_by_scott/]["Utilitarianism for Engineers" (2013) by Scott Alexander: "It's impossible to compare interpersonal utilities in theory but pretty easy in practice. Every time you give up your seat on the subway to an old woman with a cane, you're doing a quick little interpersonal utility calculation."]] :essay:
-:PROPERTIES:
-:CREATED: [2020-12-31 18:52]
 :END:
 * TODO [[https://news.ycombinator.com/item?id=25595971][My Favorite Books 2020]] :essay:discussion:link_group:book:
 :PROPERTIES:
@@ -386,14 +362,6 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-01-01 08:50]
 :END:
-* TODO [[https://news.ycombinator.com/item?id=25603490][The parenting style that creates leaders]] :essay:discussion:parenting:
-:PROPERTIES:
-:CREATED: [2021-01-01 14:31]
-:END:
-* TODO [[https://news.ycombinator.com/item?id=25604732][You're Never Too Old to Become a Beginner]] :essay:discussion:learning:
-:PROPERTIES:
-:CREATED: [2021-01-01 17:15]
-:END:
 * TODO [[https://news.ycombinator.com/item?id=25604828][Ask HN: What was your favorite comment in 2020?]] :link_group:
 :PROPERTIES:
 :CREATED: [2021-01-01 17:25]
@@ -401,10 +369,6 @@ Please sort in order of oldest to youngest.
 * TODO [[https://zenhabits.net/zh2020/][Essential Zen Habits of 2020]] :essay:link_group:
 :PROPERTIES:
 :CREATED: [2021-01-01 17:31]
-:END:
-* TODO [[https://damnoptimist.substack.com/p/8-things-i-didnt-learn-in-2020][Things I Didn't Learn in 2020]] :essay:
-:PROPERTIES:
-:CREATED: [2021-01-01 19:49]
 :END:
 * TODO [[https://matthewsaltz.wordpress.com/2020/11/24/a-simple-and-dynamic-method-for-consistent-productivity/][A Simple and Dynamic Method for Consistent Productivity]] :essay:productivity:
 :PROPERTIES:
