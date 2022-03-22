@@ -4,7 +4,6 @@
 #+title: Custom Anki Notes
 #+author: Cash Weaver
 #+date: [2022-03-11 Fri 11:30]
-#+hugo_auto_set_lastmod: t
 
 I use [[id:6472f018-ab80-4c73-b973-adb8417939db][Anki]] to help myself remember the things I learn. I found creating cards, as well as managing existing cards, was easier after creating custom note types to represent specific information.
 

@@ -5,7 +5,6 @@
 #+title: Journaling Using Emacs, org-mode, Google Drive, and rclone
 #+author: Cash Weaver
 #+date: [2022-02-19 Sat 09:48]
-#+hugo_auto_set_lastmod: t
 
 * TODO
 

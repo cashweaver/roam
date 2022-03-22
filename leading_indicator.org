@@ -6,7 +6,6 @@
 #+FILETAGS: :reference:
 #+author: Cash Weaver
 #+date: [2022-01-28 Fri 08:18]
-#+hugo_auto_set_lastmod: t
 
 #+begin_quote
 Leading indicators are indicators that usually, but not always, change before the [a thing] as a whole changes. They are therefore useful as short-term predictors of the [a thing].

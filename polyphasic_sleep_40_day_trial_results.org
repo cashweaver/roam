@@ -5,7 +5,6 @@
 #+title: Polyphasic Sleep: 40 Day Trial Results
 #+author: Cash Weaver
 #+date: [2021-07-11 Sun 12:15]
-#+hugo_auto_set_lastmod: t
 
 What would you do with another few hours every day? This was the thought that pulled me into attempting a polyphasic sleep schedule.
 

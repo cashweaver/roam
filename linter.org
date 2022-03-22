@@ -6,7 +6,6 @@
 #+date: [2022-03-12 Sat 10:05]
 #+startup: overview
 #+filetags: :concept:
-#+hugo_auto_set_lastmod: t
 
 #+begin_quote
 Lint, or a linter, is a static code analysis tool used to flag programming errors, bugs, stylistic errors and suspicious constructs.

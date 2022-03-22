@@ -7,7 +7,6 @@
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 07:33]
 #+filetags: :reference:
-#+hugo_auto_set_lastmod: t
  
 [[id:fc84cac1-019c-46a3-bab2-5f68e57135ec][Andy Payne]], [cite:@payneMythMyth10xProgrammer2020]
 

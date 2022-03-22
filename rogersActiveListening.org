@@ -6,7 +6,6 @@
 #+author: Cash Weaver
 #+date: [2022-03-12 Sat 03:46]
 #+filetags: :reference:
-#+hugo_auto_set_lastmod: t
  
 [cite:@rogersActiveListening]
 

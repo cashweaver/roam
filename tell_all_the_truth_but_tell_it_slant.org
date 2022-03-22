@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       af1ca7da-bebf-4161-8162-057cae4a0951
+:END:
+#+title: Tell all the truth but tell it slant
+#+author: Cash Weaver
+#+date: [2022-03-22 Tue 07:44]
+#+filetags: :poem:
+
+#+begin_verse
+Tell all the truth but tell it slant —
+Success in Circuit lies
+Too bright for our infirm Delight
+The Truth's superb surprise
+As Lightning to the Children eased
+With explanation kind
+The Truth must dazzle gradually
+Or every man be blind —
+#+end_verse
+
+[cite:@dickinsonTellAllTruthTellItSlant2022]
+#+print_bibliography:

@@ -6,7 +6,6 @@
 #+date: [2022-03-12 Sat 07:26]
 #+startup: overview
 #+filetags: :concept:
-#+hugo_auto_set_lastmod: t
 
 #+begin_quote
 [...] an echo chamber refers to situations in which beliefs are amplified or reinforced by communication and repetition inside a closed system and insulated from rebuttal.

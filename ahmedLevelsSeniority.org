@@ -7,7 +7,6 @@
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 20:50]
 #+filetags: :reference:
-#+hugo_auto_set_lastmod: t
  
 [[id:356faca9-bd06-4496-a9a4-43204208fa95][Kamran Ahmed]], [cite:@ahmedLevelsSeniority]
 

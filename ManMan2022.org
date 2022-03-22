@@ -7,7 +7,6 @@
 #+author: Cash Weaver
 #+date: [2022-02-18 Fri 15:08]
 #+filetags: :reference:
-#+hugo_auto_set_lastmod: t
  
 [cite:@ManMan2022]
 

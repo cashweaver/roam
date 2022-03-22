@@ -6,7 +6,6 @@
 #+author: Cash Weaver
 #+date: [2022-03-13 Sun 16:25]
 #+filetags: :reference:
-#+hugo_auto_set_lastmod: t
  
 [[id:64b2ba46-31c4-4d78-9d9e-82fe2ca54526][Bob Black]], [cite:@blackAbolitionWork]
 

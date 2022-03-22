@@ -6,7 +6,6 @@
 #+author: Cash Weaver
 #+date: [2022-02-14 Mon 09:42]
 #+filetags: :quote:
-#+hugo_auto_set_lastmod: t
 * TODO
 #+begin_quote
 The periphery is where the future reveals itself.

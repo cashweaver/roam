@@ -7,7 +7,6 @@
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 17:53]
 #+filetags: :reference:
-#+hugo_auto_set_lastmod: t
  
 [[id:a9705d03-a4bf-4f25-935f-5aaa78a41a07][Jason Fried]], [cite:@friedHabitsAlwaysForm2019]
 

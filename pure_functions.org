@@ -5,7 +5,6 @@
 #+author: Cash Weaver
 #+date: [2022-03-15 Tue 14:54]
 #+filetags: :concept:
-#+hugo_auto_set_lastmod: t
 
 #+begin_quote
 In computer programming, a pure function is a function that has the following properties:

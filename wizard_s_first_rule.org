@@ -6,7 +6,6 @@
 #+author: Cash Weaver
 #+date: [2022-02-22 Tue 18:52]
 #+filetags: :quote:
-#+hugo_auto_set_lastmod: t
 #+begin_quote
 Wizard's First Rule: people are stupid.
 

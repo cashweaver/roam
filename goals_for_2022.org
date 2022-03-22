@@ -5,7 +5,6 @@
 #+title: Goals for 2022
 #+author: Cash Weaver
 #+date: [2022-01-02 Sun 13:34]
-#+hugo_auto_set_lastmod: t
 
 I like to start the year by writing a list of goals for myself. This exercise helps me identify what is important in the near future, think about how best to achieve it, and help myself see progress toward where I want to be in my life. Last year wrote out [[id:60abd5dd-30f8-482c-8de7-421e25ed847e][13 goals for 2021]]. Unfortunately, I wrote them quickly and they fell out of my mind about as fast. That said, I did make some progress the writing/reading goals by virtue of getting [[id:5140bc26-825e-4e26-aec6-3738a5fe2ab1][blog system together]].
 

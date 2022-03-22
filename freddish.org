@@ -5,7 +5,6 @@
 #+author: Cash Weaver
 #+date: [2022-03-13 Sun 17:59]
 #+filetags: :concept:
-#+hugo_auto_set_lastmod: t
 
 Freddish refers to the way [[id:f95aa4a2-494d-49e9-aa6f-6bcd0e3e759f][Fred Rogers]] would speak with children.
 

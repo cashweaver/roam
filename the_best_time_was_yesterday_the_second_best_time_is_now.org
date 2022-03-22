@@ -5,7 +5,6 @@
 #+author: Cash Weaver
 #+date: [2022-03-20 Sun 15:25]
 #+filetags: :concept:
-#+hugo_auto_set_lastmod: t
 
 The best time for X[fn:1] was yesterday. The second best time is now.
 

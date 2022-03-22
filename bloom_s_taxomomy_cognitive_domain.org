@@ -6,4 +6,3 @@
 #+hugo_custom_front_matter: roam_refs '("https://en.wikipedia.org/wiki/Bloom's_taxonomy")
 #+author: Cash Weaver
 #+date: [2021-12-31 Fri 12:24]
-#+hugo_auto_set_lastmod: t

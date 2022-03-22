@@ -6,7 +6,6 @@
 #+author: Cash Weaver
 #+date: [2022-02-11 Fri 17:18]
 #+filetags: :quote:
-#+hugo_auto_set_lastmod: t
 
 #+begin_quote
 A man grows most tired while standing still.

@@ -6,7 +6,6 @@
 #+date: [2022-03-12 Sat 10:04]
 #+startup: overview
 #+filetags: :concept:
-#+hugo_auto_set_lastmod: t
 
 You should use a [[id:bb5a1f30-1733-41b5-9c34-bcac7f8cb701][linter]] to analyze your prose.
 

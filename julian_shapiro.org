@@ -6,7 +6,6 @@
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 16:20]
 #+filetags: :person:
-#+hugo_auto_set_lastmod: t
 Among other things:
 
 - https://www.julian.com/

@@ -7,7 +7,6 @@
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 07:34]
 #+filetags: :reference:
-#+hugo_auto_set_lastmod: t
  
 [[id:699c0a4b-7bcf-4175-851c-8dd5deac8e84][Derek Sivers]], [cite:@siversThereNoSpeed2009]
 

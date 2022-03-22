@@ -7,7 +7,6 @@
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 07:16]
 #+filetags: :reference:
-#+hugo_auto_set_lastmod: t
  
 [[id:08f7aba1-10e6-4f7a-a595-430d7253491f][James Altucher]], [cite:@UltimateGuideBecomingIdeaMachine2014]
 

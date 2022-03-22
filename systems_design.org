@@ -5,7 +5,6 @@
 #+author: Cash Weaver
 #+date: [2022-03-15 Tue 21:20]
 #+filetags: :concept:
-#+hugo_auto_set_lastmod: t
 
 Systems design, insofar as I understand it, is difficult to define. It's difficult to define not because no one has thought to define it --- they have:
 

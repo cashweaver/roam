@@ -7,7 +7,6 @@
 #+author: Cash Weaver
 #+date: [2022-02-21 Mon 15:31]
 #+filetags: :reference:
-#+hugo_auto_set_lastmod: t
  
 [[id:7b38ec01-c3cb-4ea3-9c02-a3be22880118][John Allspaw]], [cite:@allspawBeingSeniorEngineer]
 

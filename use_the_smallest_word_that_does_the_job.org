@@ -6,7 +6,6 @@
 #+FILETAGS: :quote:
 #+author: Cash Weaver
 #+date: [2022-01-17 Mon 11:33]
-#+hugo_auto_set_lastmod: t
 
 #+begin_quote
 Use the smallest word that does the job.

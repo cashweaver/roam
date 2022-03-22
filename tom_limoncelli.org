@@ -6,7 +6,6 @@
 #+author: Cash Weaver
 #+date: [2022-02-21 Mon 15:50]
 #+filetags: :person:
-#+hugo_auto_set_lastmod: t
 
 #+begin_quote
 Tom Limoncelli is an American system administrator, author, and speaker. A system administrator and network engineer since 1987, he speaks at conferences around the world on topics ranging from firewall security to time management.

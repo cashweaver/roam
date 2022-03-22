@@ -7,7 +7,6 @@
 #+FILETAGS: :concept:
 #+author: Cash Weaver
 #+date: [2022-01-31 Mon 10:32]
-#+hugo_auto_set_lastmod: t
 
 A four-part breathing technique:
 

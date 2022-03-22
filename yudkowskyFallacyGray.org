@@ -7,7 +7,6 @@
 #+author: Cash Weaver
 #+date: [2022-02-17 Thu 10:30]
 #+filetags: :reference:
-#+hugo_auto_set_lastmod: t
  
 [[id:614d0317-e7fc-4ee2-a68a-e93471500fa0][Eliezer Yudkowsky]], [cite:@yudkowskyFallacyGray]
 * Summary

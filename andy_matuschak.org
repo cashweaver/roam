@@ -5,7 +5,6 @@
 #+title: Andy Matuschak
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 07:35]
-#+hugo_auto_set_lastmod: t
 
 A "a software engineer, designer, and researcher" who, among other things:
 

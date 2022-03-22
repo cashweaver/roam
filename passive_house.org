@@ -6,7 +6,6 @@
 #+FILETAGS: :concept:
 #+author: Cash Weaver
 #+date: [2022-01-29 Sat 16:52]
-#+hugo_auto_set_lastmod: t
 #+hugo_draft: t
 
 #+begin_quote
@@ -15,5 +14,5 @@
 /[cite:@PassiveHouse2022]/
 #+end_quote
 
-* TODO Expand
+* TODO
 #+print_bibliography:

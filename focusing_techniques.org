@@ -7,6 +7,5 @@
 #+author: Cash Weaver
 #+date: [2022-02-21 Mon 07:08]
 #+filetags: :concept:
-#+hugo_auto_set_lastmod: t
 
 Focusing techniques bridge the gap between a desired state of mind and your present state.

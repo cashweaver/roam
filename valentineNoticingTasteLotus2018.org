@@ -7,7 +7,6 @@
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 06:33]
 #+filetags: :reference:
-#+hugo_auto_set_lastmod: t
  
 [[id:9acbb70a-b102-4633-a1ee-bf1821e80735][Michael Smith]], [cite:@valentineNoticingTasteLotus2018]
 

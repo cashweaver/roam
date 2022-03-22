@@ -5,7 +5,9 @@
 #+FILETAGS: :concept:
 #+author: Cash Weaver
 #+date: [2022-01-30 Sun 11:47]
-#+hugo_auto_set_lastmod: t
 #+hugo_draft: t
 
 * TODO
+
+- [cite:@matthewsaltzSimpleDynamicMethodConsistentProductivity2020]
+#+print_bibliography:

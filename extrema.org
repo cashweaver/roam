@@ -5,7 +5,6 @@
 #+author: Cash Weaver
 #+date: [2022-03-14 Mon 07:31]
 #+filetags: :concept:
-#+hugo_auto_set_lastmod: t
 
 
 - [[id:48db2ef9-4ac8-4c80-bc81-01f87be81943][Global Minima]]

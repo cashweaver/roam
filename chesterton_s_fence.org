@@ -5,4 +5,3 @@
 #+author: Cash Weaver
 #+date: [2022-03-12 Sat 08:11]
 #+filetags: :concept:
-#+hugo_auto_set_lastmod: t

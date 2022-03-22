@@ -6,7 +6,6 @@
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 16:34]
 #+filetags: :person:
-#+hugo_auto_set_lastmod: t
 
 #+begin_quote
 an English writer, illustrator, natural scientist and conservationist; she was best known for her children's books featuring animals, such as The Tale of Peter Rabbit.

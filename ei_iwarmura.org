@@ -5,7 +5,6 @@
 #+author: Cash Weaver
 #+date: [2022-03-13 Sun 14:07]
 #+filetags: :person:
-#+hugo_auto_set_lastmod: t
 Among other things:
 
 - [[https://www.en-iwamura.com/][Personal website]]

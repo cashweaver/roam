@@ -6,7 +6,6 @@
 #+date: [2022-03-12 Sat 07:26]
 #+startup: overview
 #+filetags: :concept:
-#+hugo_auto_set_lastmod: t
 
 #+begin_quote
 A filter bubble [...] is a state of intellectual isolation that can result from personalized searches when a website algorithm selectively guesses what information a user would like to see based on information about the user, such as location, past click-behavior and search history.

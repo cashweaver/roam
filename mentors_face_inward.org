@@ -6,7 +6,6 @@
 #+author: Cash Weaver
 #+date: [2022-02-21 Mon 16:10]
 #+filetags: :concept:
-#+hugo_auto_set_lastmod: t
 
 * TODO
 

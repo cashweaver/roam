@@ -4,7 +4,6 @@
 #+title: Contract Drafting Em
 #+author: Cash Weaver
 #+date: [2022-03-14 Mon 08:38]
-#+hugo_auto_set_lastmod: t
 
 [cite:@ContractDraftingEm]
 

@@ -7,7 +7,6 @@
 #+author: Cash Weaver
 #+date: [2022-02-21 Mon 17:40]
 #+filetags: :reference:
-#+hugo_auto_set_lastmod: t
  
 [[id:df479fb9-f7b0-4e3a-a7eb-41849fbc190e][Andy Matuschak]], [cite:@matuschakEvergreenNotes]
 

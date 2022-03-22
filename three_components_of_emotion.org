@@ -7,7 +7,6 @@
 #+FILETAGS: :reference:
 #+author: Cash Weaver
 #+date: [2021-12-13 Mon 01:03]
-#+hugo_auto_set_lastmod: t
 
 [cite:@ScienceEmotionExploringBasicsEmotionalPsychology2019]
 

@@ -5,7 +5,6 @@
 #+title: org-roam
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 07:22]
-#+hugo_auto_set_lastmod: t
 
 #+begin_quote
 Org-roam is a plain-text knowledge management system. It brings some of Roam's more powerful features into the Org-mode ecosystem.

@@ -7,7 +7,6 @@
 #+author: Cash Weaver
 #+date: [2022-02-19 Sat 09:32]
 #+filetags: :reference:
-#+hugo_auto_set_lastmod: t
  
 [[id:d89d29a2-927a-4369-ad45-bc031a2f7266][Zach Tellman]], [cite:@tellmanTrappedTechnologistFactory]
 

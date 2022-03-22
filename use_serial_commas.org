@@ -6,7 +6,6 @@
 #+author: Cash Weaver
 #+date: [2022-02-20 Sun 13:16]
 #+filetags: :concept:
-#+hugo_auto_set_lastmod: t
 
 #+begin_quote
 [...] a serial comma (also called a series comma, Oxford comma, or Harvard comma) is a comma placed immediately after the penultimate term (i.e., before the coordinating conjunction, such as and or or) in a series of three or more terms.

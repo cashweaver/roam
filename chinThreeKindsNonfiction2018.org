@@ -7,7 +7,6 @@
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 07:36]
 #+filetags: :reference:
-#+hugo_auto_set_lastmod: t
  
 [[id:4c9b1bbf-2a4b-43fa-a266-b559c018d80e][Cedric Chin]], [cite:@chinThreeKindsNonfiction2018]
 

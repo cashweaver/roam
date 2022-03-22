@@ -6,7 +6,6 @@
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 07:33]
 #+filetags: :person:
-#+hugo_auto_set_lastmod: t
 Among other things:
 
 - https://payne.org/

@@ -5,7 +5,6 @@
 #+author: Cash Weaver
 #+date: [2022-03-15 Tue 09:05]
 #+filetags: :person:
-#+hugo_auto_set_lastmod: t
 Among other things:
 
 * TODO

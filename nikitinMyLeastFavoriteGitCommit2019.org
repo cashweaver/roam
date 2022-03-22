@@ -7,7 +7,6 @@
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 06:31]
 #+filetags: :reference:
-#+hugo_auto_set_lastmod: t
  
 [[id:d2b00ba2-7832-4bdf-b93a-8a6fd527e5a4][Alexey Nikitin]], [cite:@nikitinMyLeastFavoriteGitCommit2019]
 

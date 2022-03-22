@@ -6,7 +6,6 @@
 #+title: Aaron Swartz | Theory of Change
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 12:06]
-#+hugo_auto_set_lastmod: t
 
 [[id:62152128-36b1-4229-a6ce-a78858975120][Aaron Swartz]], [cite:@swartzTheoryChange2010]
 
@@ -17,7 +16,7 @@ I am increasingly convinced that the difference between effective and ineffectiv
 #+end_quote
 
 #+begin_quote
-A theory of change is the opposite of a theory of action — it works backwards from the goal, in concrete steps, to figure out what you can do to achieve it. To develop a theory of change, you need to start at the end and repeatedly ask yourself, “Concretely, how does one achieve that?”
+A theory of change is the opposite of a theory of action — it works backwards from the goal, in concrete steps, to figure out what you can do to achieve it. To develop a theory of change, you need to start at the end and repeatedly ask yourself, "Concretely, how does one achieve that?"
 #+end_quote
 
 #+print_bibliography:

@@ -6,7 +6,6 @@
 #+author: Cash Weaver
 #+date: [2022-03-15 Tue 09:05]
 #+filetags: :reference:
-#+hugo_auto_set_lastmod: t
  
 [[id:c5c893c1-84c9-4ea7-9cad-ba258e494400][Robin Hanson]], [cite:@hansonAgeEmWorkLoveLifeWhenRobotsRuleEarth2016]
 

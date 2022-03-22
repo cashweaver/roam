@@ -5,7 +5,6 @@
 #+title: Blogroll
 #+author: Cash Weaver
 #+date: [2022-01-30 Sun 11:59]
-#+hugo_auto_set_lastmod: t
 
 A list of blogs I've found informative/useful/fun in no particular order:
 

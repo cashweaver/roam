@@ -7,7 +7,6 @@
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 08:09]
 #+filetags: :reference:
-#+hugo_auto_set_lastmod: t
  
 [[id:de4c984b-79f6-49b6-bc23-1272eb110559][Tim Peck]], [cite:@peckWhatAreThreeTypesFun2017]
 

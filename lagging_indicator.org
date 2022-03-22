@@ -6,7 +6,6 @@
 #+FILETAGS: :reference:
 #+author: Cash Weaver
 #+date: [2022-01-28 Fri 08:07]
-#+hugo_auto_set_lastmod: t
 
 #+begin_quote
 Lagging indicators are indicators that usually change after [a thing] as a whole does. [...] The unemployment rate is a lagging indicator: employment tends to increase two or three quarters after an upturn in [a thing].

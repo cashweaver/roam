@@ -6,6 +6,5 @@
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 15:44]
 #+filetags: :person:
-#+hugo_auto_set_lastmod: t
 
 Author of [[https://slatestarcodex.com/][Slate Star Codex]] and [[https://astralcodexten.substack.com/][Astral Star Codex]].

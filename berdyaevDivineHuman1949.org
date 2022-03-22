@@ -8,7 +8,6 @@
 #+FILETAGS: :quote:
 #+author: Cash Weaver
 #+date: [2022-02-04 Fri 08:10]
-#+hugo_auto_set_lastmod: t
 
 * Quotes
 

@@ -7,7 +7,6 @@
 #+author: Cash Weaver
 #+date: [2022-02-26 Sat 18:30]
 #+filetags: :quote:
-#+hugo_auto_set_lastmod: t
  
 #+begin_quote
 I met a traveller from an antique land

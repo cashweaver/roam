@@ -7,7 +7,6 @@
 #+hugo_custom_front_matter: roam_refs '("https://github.com/kaushalmodi/ox-hugo")
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 09:06]
-#+hugo_auto_set_lastmod: t
 
 #+begin_quote
 ox-hugo is an Org exporter backend that exports Org to Hugo-compatible Markdown (Blackfriday) and also generates the front-matter (in TOML or YAML format).

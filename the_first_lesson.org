@@ -5,7 +5,6 @@
 #+title: The First Lesson
 #+author: Cash Weaver
 #+date: [2021-05-30 Sun 12:44]
-#+hugo_auto_set_lastmod: t
 #+filetags: :quote:
 
 #+begin_quote

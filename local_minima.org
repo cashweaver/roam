@@ -5,7 +5,6 @@
 #+author: Cash Weaver
 #+date: [2022-03-14 Mon 07:38]
 #+filetags: :concept:
-#+hugo_auto_set_lastmod: t
 
 The local minima is the smallest value of a function within a given range [cite:@MaximaMinima2022].
 

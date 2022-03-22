@@ -6,7 +6,6 @@
 #+date: [2022-03-12 Sat 07:21]
 #+startup: overview
 #+filetags: :concept:
-#+hugo_auto_set_lastmod: t
 
 #+begin_quote
 Metacognition is an awareness of one's thought processes and an understanding of the patterns behind them.

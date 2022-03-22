@@ -6,4 +6,3 @@
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 15:52]
 #+filetags: :person:
-#+hugo_auto_set_lastmod: t

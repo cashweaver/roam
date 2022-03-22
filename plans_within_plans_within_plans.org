@@ -6,7 +6,6 @@
 #+FILETAGS: :quote:
 #+author: Cash Weaver
 #+date: [2022-02-03 Thu 06:21]
-#+hugo_auto_set_lastmod: t
 
 #+begin_quote
 "Listen carefully, Feyd," the Baron said. "Observe the plans within plans within plans."

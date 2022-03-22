@@ -6,7 +6,6 @@
 #+FILETAGS: :concept:
 #+author: Cash Weaver
 #+date: [2021-12-31 Fri 12:05]
-#+hugo_auto_set_lastmod: t
 
 #+begin_quote
 Extremely long-term or lasting memory which forms following extensive training, learning, or experience.

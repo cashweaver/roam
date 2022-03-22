@@ -6,7 +6,6 @@
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 17:49]
 #+filetags: :person:
-#+hugo_auto_set_lastmod: t
 Among other things:
 
 - (at time of writing) president and co-founder of the Center for Applied Rationality

@@ -6,7 +6,6 @@
 #+author: Cash Weaver
 #+date: [2022-02-17 Thu 10:32]
 #+filetags: :concept:
-#+hugo_auto_set_lastmod: t
 
 The fallacy of gray is an assertion, in the face of a lack of a clear black and white divide, that the cases are all equally good or bad. The fallacy is that (to continue the color metaphor) each case is a different /shade/ of gray; that some cases are better (for some definition of better) than others.
 

@@ -7,7 +7,6 @@
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 15:14]
 #+filetags: reference
-#+hugo_auto_set_lastmod: t
 
 - Source: [cite:@newport]
 - Author: [[id:b89cc482-a774-43af-a690-14ed0270480c][Cal Newport]]

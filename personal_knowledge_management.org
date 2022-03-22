@@ -5,6 +5,5 @@
 #+title: Personal Knowledge Management
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 07:20]
-#+hugo_auto_set_lastmod: t
 
 * TODO

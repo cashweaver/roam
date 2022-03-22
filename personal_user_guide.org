@@ -5,7 +5,6 @@
 #+author: Cash Weaver
 #+date: [2022-03-13 Sun 18:57]
 #+filetags: :concept:
-#+hugo_auto_set_lastmod: t
 
 A personal user guide explains how an individual would like others to interact with them. It explains how best to work with them.
 

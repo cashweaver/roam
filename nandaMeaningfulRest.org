@@ -7,7 +7,6 @@
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 20:52]
 #+filetags: :reference:
-#+hugo_auto_set_lastmod: t
  
 [[id:034e5d64-198b-432c-bbba-d5936f92fe4f][Neel Nanda]], [cite:@nandaMeaningfulRest]
 

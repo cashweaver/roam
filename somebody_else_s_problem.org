@@ -6,7 +6,6 @@
 #+FILETAGS: :concept:
 #+author: Cash Weaver
 #+date: [2022-01-29 Sat 09:39]
-#+hugo_auto_set_lastmod: t
 
 #+begin_quote
 [...] an issue which is dismissed by a person on the grounds that they consider somebody else to be responsible for it, or that it is "out of scope" in a particular context.

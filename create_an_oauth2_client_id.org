@@ -5,7 +5,6 @@
 #+title: Create an OAuth2 Client ID
 #+author: Cash Weaver
 #+date: [2021-12-27 Mon 19:48]
-#+hugo_auto_set_lastmod: t
 
 A short guide to creating an OAuth2 Client ID through the Google Cloud Console.
 

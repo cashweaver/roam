@@ -7,7 +7,6 @@
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 08:20]
 #+filetags: :reference:
-#+hugo_auto_set_lastmod: t
  
 [[id:bb7a9df4-8e05-476b-96e3-3e29344e0600][Breck Yunits]], [cite:@yunitsWriteThinWriteFast]
 

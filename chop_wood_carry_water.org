@@ -5,7 +5,6 @@
 #+author: Cash Weaver
 #+date: [2022-03-13 Sun 20:01]
 #+filetags: :quote:
-#+hugo_auto_set_lastmod: t
 
 #+begin_quote
 Before enlightenment, chop wood, carry water. After enlightenment, chop wood, carry water.

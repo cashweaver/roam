@@ -6,7 +6,6 @@
 #+date: [2022-03-12 Sat 04:56]
 #+startup: overview
 #+filetags: :person:
-#+hugo_auto_set_lastmod: t
 Among other things:
 
 - [[https://nelhage.com/][Personal website]]

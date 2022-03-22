@@ -5,6 +5,5 @@
 #+title: Google Cloud Console
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 16:24]
-#+hugo_auto_set_lastmod: t
 
 * TODO

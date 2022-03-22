@@ -36,6 +36,16 @@
                                                    "Among other things:\n"
                                                    "* TODO"))
                                                 :unnarrowed t)
+                                               ("P" "poem" plain "%?" :target
+                                                (file+head
+                                                 "${slug}.org"
+                                                 ,(concat
+                                                   "#+title: ${title}\n"
+                                                   "#+author: Cash Weaver\n"
+                                                   "#+date: [%<%Y-%m-%d %a %H:%M>]\n"
+                                                   "#+filetags: :poem:\n"
+                                                   "#+hugo_auto_set_lastmod: t\n"))
+                                                :unnarrowed t)
                                                ("q" "quote" plain "%?" :target
                                                 (file+head
                                                  "${slug}.org"
@@ -59,7 +69,7 @@
                                         (format
                                          "%s/attachments/"
                                          org-roam-directory))
-
+                  org-hugo-auto-set-lastmod t
                   cashweaver/org-roam--file-path-exceptions-to-export-after-save `(,(format "%sunread.org"
                                                                                             org-roam-directory)
                                                                                    ,(format "%sunread.org_archive"

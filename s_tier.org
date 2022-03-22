@@ -8,7 +8,6 @@
 #+hugo_custom_front_matter: roam_refs '("https://en.wikipedia.org/wiki/Tier_list")
 #+author: Cash Weaver
 #+date: [2022-01-29 Sat 15:01]
-#+hugo_auto_set_lastmod: t
 
 The top-tier.
 

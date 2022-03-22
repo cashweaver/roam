@@ -7,7 +7,6 @@
 #+author: Cash Weaver
 #+date: [2022-02-07 Mon 06:19]
 #+filetags: :reference:
-#+hugo_auto_set_lastmod: t
  
 [[id:edc893d8-ed7d-4b34-aa48-d1bb8239ec0c][Matt Freeman]], [cite:@moridinamaelMonthlyNewsletterThinking2018]
 

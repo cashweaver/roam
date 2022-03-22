@@ -5,4 +5,3 @@
 #+title: Aaron Swartz
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 11:54]
-#+hugo_auto_set_lastmod: t

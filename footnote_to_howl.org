@@ -5,7 +5,6 @@
 #+author: Cash Weaver
 #+date: [2022-03-14 Mon 08:54]
 #+filetags: :reference:
-#+hugo_auto_set_lastmod: t
 
 [cite:@ginsbergFootnoteHowl2022]
 

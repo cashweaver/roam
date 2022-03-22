@@ -9,7 +9,6 @@
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 16:00]
 #+filetags: :reference:
-#+hugo_auto_set_lastmod: t
  
 [[id:8c414004-a945-4c4b-a374-ab35a73383fb][Dan Moore]], [cite:@mooredsCultivateSkillUndividedAttentionDeepWork2019]
 

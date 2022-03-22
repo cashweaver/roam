@@ -5,7 +5,6 @@
 #+author: Cash Weaver
 #+date: [2022-03-14 Mon 07:01]
 #+filetags: :concept:
-#+hugo_auto_set_lastmod: t
 
 #+begin_quote
 The prisoner's dilemma is a standard example of a game analyzed in game theory that shows why two completely rational individuals might not cooperate, even if it appears that it is in their best interests to do so.

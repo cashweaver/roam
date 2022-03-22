@@ -6,7 +6,6 @@
 #+date: [2022-03-12 Sat 05:09]
 #+startup: overview
 #+filetags: :concept:
-#+hugo_auto_set_lastmod: t
 
 Blub studies are the "mundane, ultra-specific-seeming knowledge" [cite:@kuhnDefenseBlubStudies] underlying something. It's the "fiddly technical details" [cite:@kuhnDefenseBlubStudies]. "There's a seemingly infinite amount of it, full of bespoke details for you to stumble over, and that makes it, often, unbelievably frustrating" [cite:@kuhnDefenseBlubStudies].
 

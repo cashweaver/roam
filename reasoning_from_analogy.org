@@ -7,7 +7,6 @@
 #+date: [2022-03-12 Sat 08:24]
 #+startup: overview
 #+filetags: :concept:
-#+hugo_auto_set_lastmod: t
 
 The act of using analogy, assumptions, and otherwise pre-existing arguments, to build an argument, proof, etc.
 

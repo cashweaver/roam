@@ -6,7 +6,6 @@
 #+FILETAGS: :concept:
 #+author: Cash Weaver
 #+date: [2021-12-31 Fri 11:36]
-#+hugo_auto_set_lastmod: t
 
 #+begin_quote
 The testing effect [...] suggests long-term memory is increased when some of the learning period is devoted to retrieving information from memory.[4] It is different from more general practice effect, defined in the APA Dictionary of Psychology as "any change or improvement that results from practice or repetition of task items or activities."[

@@ -6,6 +6,5 @@
 #+author: Cash Weaver
 #+date: [2022-02-17 Thu 07:24]
 #+filetags: :concept:
-#+hugo_auto_set_lastmod: t
 
 * TODO Seek to be aware of your "defaults" and examine them; do you want to keep them?

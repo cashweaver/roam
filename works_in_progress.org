@@ -5,7 +5,6 @@
 #+title: Works in Progress
 #+author: Cash Weaver
 #+date: [2022-02-18 Fri 17:26]
-#+hugo_auto_set_lastmod: t
 
 A collection of work-in-progress posts. I will eventually extract these into individual nodes.
 
