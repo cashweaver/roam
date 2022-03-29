@@ -11,8 +11,7 @@
                                                    "#+title: ${title}\n"
                                                    "#+author: Cash Weaver\n"
                                                    "#+date: [%<%Y-%m-%d %a %H:%M>]\n"
-                                                   "#+filetags: :concept:\n"
-                                                   "#+hugo_auto_set_lastmod: t\n"))
+                                                   "#+filetags: :concept:\n"))
                                                 :unnarrowed t)
                                                ("d" "default" plain "%?" :target
                                                 (file+head
@@ -21,7 +20,6 @@
                                                    "#+title: ${title}\n"
                                                    "#+author: Cash Weaver\n"
                                                    "#+date: [%<%Y-%m-%d %a %H:%M>]\n"
-                                                   "#+hugo_auto_set_lastmod: t\n"
                                                    "* TODO"))
                                                 :unnarrowed t)
                                                ("p" "person" plain "%?" :target
@@ -32,7 +30,6 @@
                                                    "#+author: Cash Weaver\n"
                                                    "#+date: [%<%Y-%m-%d %a %H:%M>]\n"
                                                    "#+filetags: :person:\n"
-                                                   "#+hugo_auto_set_lastmod: t\n"
                                                    "Among other things:\n"
                                                    "* TODO"))
                                                 :unnarrowed t)
@@ -43,8 +40,7 @@
                                                    "#+title: ${title}\n"
                                                    "#+author: Cash Weaver\n"
                                                    "#+date: [%<%Y-%m-%d %a %H:%M>]\n"
-                                                   "#+filetags: :poem:\n"
-                                                   "#+hugo_auto_set_lastmod: t\n"))
+                                                   "#+filetags: :poem:\n"))
                                                 :unnarrowed t)
                                                ("q" "quote" plain "%?" :target
                                                 (file+head
@@ -54,7 +50,6 @@
                                                    "#+author: Cash Weaver\n"
                                                    "#+date: [%<%Y-%m-%d %a %H:%M>]\n"
                                                    "#+filetags: :quote:\n"
-                                                   "#+hugo_auto_set_lastmod: t\n"
                                                    "#+begin_quote\n"
                                                    "TODO_QUOTE\n"
                                                    "\n"

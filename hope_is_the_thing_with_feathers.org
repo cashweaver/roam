@@ -5,7 +5,6 @@
 #+author: Cash Weaver
 #+date: [2022-03-28 Mon 21:11]
 #+filetags: :poem:
-#+hugo_auto_set_lastmod: t
 
 #+begin_verse
 "Hope" is the thing with feathers -
