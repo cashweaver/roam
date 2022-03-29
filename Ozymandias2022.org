@@ -6,38 +6,25 @@
 #+title: Percy Bysshe Shelley | Ozymandias
 #+author: Cash Weaver
 #+date: [2022-02-26 Sat 18:30]
-#+filetags: :quote:
+#+filetags: :poem:
  
-#+begin_quote
+#+begin_verse
 I met a traveller from an antique land
-
 Who said: "Two vast and trunkless legs of stone
-
 Stand in the desart. Near them, on the sand,
-
 Half sunk, a shattered visage lies, whose frown,
-
 And wrinkled lip, and sneer of cold command,
-
 Tell that its sculptor well those passions read
-
 Which yet survive, stamped on these lifeless things,
-
 The hand that mocked them and the heart that fed:
-
 And on the pedestal these words appear:
-
 "My name is Ozymandias, king of kings;
-
 Look on my works, ye Mighty, and despair!"
-
 Nothing beside remains. Round the decay
-
 Of that colossal wreck, boundless and bare
-
 The lone and level sands stretch far away."
+#+end_verse
 
-Percy Bysshe Shelley, [cite:@Ozymandias2022]
-#+end_quote
+[[id:0d6d106f-5a90-4dff-83ce-0eef1db38c61][Percy Bysshe Shelley]], [cite:@Ozymandias2022]
 
 #+print_bibliography:

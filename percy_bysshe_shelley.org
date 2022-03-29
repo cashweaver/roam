@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       0d6d106f-5a90-4dff-83ce-0eef1db38c61
+:END:
+#+title: Percy Bysshe Shelley
+#+author: Cash Weaver
+#+date: [2022-03-29 Tue 13:27]
+#+filetags: :person:

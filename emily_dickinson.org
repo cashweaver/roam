@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       f09861cf-7103-46d2-85b3-3e614c2bdd2a
+:END:
+#+title: Emily Dickinson
+#+author: Cash Weaver
+#+date: [2022-03-28 Mon 21:13]
+#+filetags: :person:
+#+hugo_auto_set_lastmod: t

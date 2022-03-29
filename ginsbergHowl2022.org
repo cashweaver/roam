@@ -5,9 +5,10 @@
 #+title: Allen Ginsberg | Howl
 #+author: Cash Weaver
 #+date: [2022-03-13 Sun 20:20]
-#+filetags: :reference:
+#+filetags: :poem:
  
-[cite:@ginsbergHowl2022]
+[[id:d796582a-b407-4364-ac6f-a925db240b45][Allen Ginsberg]], [cite:@ginsbergHowl2022]
+
 * I
 :PROPERTIES:
 :ID:       e1a7b8f4-f7ec-4245-af56-bb1b4c919bd7

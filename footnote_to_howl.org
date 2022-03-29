@@ -4,9 +4,7 @@
 #+title: Footnote to Howl
 #+author: Cash Weaver
 #+date: [2022-03-14 Mon 08:54]
-#+filetags: :reference:
-
-[cite:@ginsbergFootnoteHowl2022]
+#+filetags: :poem:
 
 #+begin_verse
 Holy! Holy! Holy! Holy! Holy! Holy! Holy! Holy! Holy! Holy! Holy! Holy! Holy! Holy! Holy!
@@ -25,4 +23,6 @@ Holy the sea holy the desert holy the railroad holy the locomotive holy the visi
 Holy forgiveness! mercy! charity! faith! Holy! Ours! bodies! suffering! magnanimity!
 Holy the supernatural extra brilliant intelligent kindness of the soul!
 #+end_verse
+
+[[id:d796582a-b407-4364-ac6f-a925db240b45][Allen Ginsberg]], [cite:@ginsbergFootnoteHowl2022]
 #+print_bibliography:

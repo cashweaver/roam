@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       d796582a-b407-4364-ac6f-a925db240b45
+:END:
+#+title: Allen Ginsberg
+#+author: Cash Weaver
+#+date: [2022-03-29 Tue 08:43]
+#+filetags: :person:

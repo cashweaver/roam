@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       b0f01042-9128-4189-a344-033496d5ce24
+:END:
+#+title: "Hope" is the thing with feathers
+#+author: Cash Weaver
+#+date: [2022-03-28 Mon 21:11]
+#+filetags: :poem:
+#+hugo_auto_set_lastmod: t
+
+#+begin_verse
+"Hope" is the thing with feathers -
+That perches in the soul -
+And sings the tune without the words -
+And never stops - at all -
+
+And sweetest - in the Gale - is heard -
+And sore must be the storm -
+That could abash the little Bird
+That kept so many warm -
+
+I've heard it in the chillest land -
+And on the strangest Sea -
+Yet - never - in Extremity,
+It asked a crumb - of me.
+#+end_verse
+
+[[id:f09861cf-7103-46d2-85b3-3e614c2bdd2a][Emily Dickinson]], [cite:@dickinsonHopeThingFeathers2022]
+#+print_bibliography:
