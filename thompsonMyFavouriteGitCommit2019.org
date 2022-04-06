@@ -63,10 +63,10 @@ Now the tests work! One hour of my life I won't get back..
 ** It explains the reason for the change
 
 #+begin_quote
-The best commit messages I’ve seen don’t just explain *what* they’ve changed: they explain *why*.
+The best commit messages I've seen don't just explain *what* they've changed: they explain *why*.
 #+end_quote
 
-** It’s searchable
+** It's searchable
 
 #+begin_quote
 One of the first things in this commit message is the error message that inspired the change:

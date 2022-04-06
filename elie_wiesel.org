@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       4bf11b17-694c-455b-8411-1e00719b30ce
+:END:
+#+title: Elie Wiesel
+#+author: Cash Weaver
+#+date: [2022-04-03 Sun 11:45]
+#+filetags: :person:
+Among other things:
+
+* TODO

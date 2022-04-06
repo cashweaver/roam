@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       c55c9efc-9920-4534-9d67-7d540dae4dba
+:END:
+#+title: Apostrophe-s Even After An S
+#+author: Cash Weaver
+#+date: [2022-04-01 Fri 18:49]
+#+filetags: :concept:
+
+Prefer writing "Chris's" as opposed to "Chris'" to show possession.

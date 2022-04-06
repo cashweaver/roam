@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       ee39d99d-f838-4555-8732-f94bab2f67ee
+:END:
+#+title: We Must Always Take Sides
+#+author: Cash Weaver
+#+date: [2022-04-03 Sun 11:44]
+#+filetags: :quote:
+
+#+begin_quote
+We must always take sides. Neutrality helps the oppressor, never the victim. Silence encourages the tormentor, never the tormented. Sometimes we must interfere. When human lives are endangered, when human dignity is in jeopardy, national borders and sensitivities become irrelevant. Wherever men or women are persecuted because of their race, religion, or political views, that place must – at that moment – become the center of the universe.
+
+[[id:4bf11b17-694c-455b-8411-1e00719b30ce][Elie Wiesel]], [cite:@NobelPeacePrize1986]
+#+end_quote
+
+#+print_bibliography:

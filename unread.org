@@ -370,10 +370,6 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-01-01 17:31]
 :END:
-* TODO [[https://matthewsaltz.wordpress.com/2020/11/24/a-simple-and-dynamic-method-for-consistent-productivity/][A Simple and Dynamic Method for Consistent Productivity]] :essay:productivity:
-:PROPERTIES:
-:CREATED: [2021-01-02 04:03]
-:END:
 * TODO [[https://jeffhuang.com/best_paper_awards/][Best Paper Awards in Computer Science in the Past 25 Years (1996-2020)]] :link_group:computer_science:
 :PROPERTIES:
 :CREATED: [2021-01-02 05:00]

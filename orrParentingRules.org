@@ -35,6 +35,9 @@ If you threaten a consequence and don't follow through, they'll figure that out 
 #+end_quote
 
 ** Praise the process
+:PROPERTIES:
+:ID:       d1c22265-07dd-49ed-82bc-f707435e8893
+:END:
 
 #+begin_quote
 We're pretty particular in how we praise our kids. We try to use process praise ("I like the way you made up a story about all the parts of your drawing"), some amount of results praise ("That block tower is amazing! It's so tall!"), and virtually zero person praise ("You're a good artist/architect.")

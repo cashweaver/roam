@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       af1ca7da-bebf-4161-8162-057cae4a0951
 :END:
-#+title: Tell all the truth but tell it slant
+#+title: Emily Dickinson | Tell all the truth but tell it slant
 #+author: Cash Weaver
 #+date: [2022-03-22 Tue 07:44]
 #+filetags: :poem:

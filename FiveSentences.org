@@ -17,7 +17,7 @@ E-mail takes too long to respond to, resulting in continuous inbox overflow for 
 
 **The Solution**
 
-Treat all email responses like SMS text messages, using a set number of letters per response. Since it’s too hard to count letters, we count sentences instead.
+Treat all email responses like SMS text messages, using a set number of letters per response. Since it's too hard to count letters, we count sentences instead.
 #+end_quote
 
 #+print_bibliography:

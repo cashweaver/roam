@@ -10,9 +10,10 @@
 
 [cite:@AskHNHowYouLearnComplexDenseTechnicalInformation]
 
-* TODO Summary
 * Thoughts
+
 Relevant: [[id:e6b1cd50-8293-44a3-bcba-d302d0835470][How to Read a Paper]]
+
 * Notes
 
 #+begin_quote

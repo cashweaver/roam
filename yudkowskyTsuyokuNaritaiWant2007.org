@@ -17,7 +17,7 @@
 #+begin_quote
 The most important thing is that there should be progress. So long as you keep moving forward you will reach your destination; but if you stop moving you will never reach it.
 
-Tsuyoku naritai is Japanese. Tsuyoku is “strong”; naru is “becoming,” and the form naritai is “want to become.” Together it means, “I want to become stronger,” and it expresses a sentiment embodied more intensely in Japanese works than in any Western literature I’ve read. You might say it when expressing your determination to become a professional Go player—or after you lose an important match, but you haven’t given up—or after you win an important match, but you’re not a ninth-dan player yet—or after you’ve become the greatest Go player of all time, but you still think you can do better. That is tsuyoku naritai, the will to transcendence.
+Tsuyoku naritai is Japanese. Tsuyoku is "strong"; naru is "becoming," and the form naritai is "want to become." Together it means, "I want to become stronger," and it expresses a sentiment embodied more intensely in Japanese works than in any Western literature I've read. You might say it when expressing your determination to become a professional Go player—or after you lose an important match, but you haven't given up—or after you win an important match, but you're not a ninth-dan player yet—or after you've become the greatest Go player of all time, but you still think you can do better. That is tsuyoku naritai, the will to transcendence.
 #+end_quote
 
 #+begin_quote
@@ -25,7 +25,7 @@ Take no pride in your confession that you too are biased; do not glory in your s
 
 [...]
 
-Never confess to me that you are just as flawed as I am unless you can tell me what you plan to do about it. Afterward you will still have plenty of flaws left, but that’s not the point; the important thing is to do better, to keep moving ahead, to take one more step forward. Tsuyoku naritai!
+Never confess to me that you are just as flawed as I am unless you can tell me what you plan to do about it. Afterward you will still have plenty of flaws left, but that's not the point; the important thing is to do better, to keep moving ahead, to take one more step forward. Tsuyoku naritai!
 #+end_quote
 
 #+print_bibliography:
