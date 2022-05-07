@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       bd91ce7a-9b16-4c0c-9b42-0fac236a1364
+:END:
+#+title: Panopticon
+#+author: Cash Weaver
+#+date: [2022-04-08 Fri 16:03]
+#+filetags: :concept:
+
+* TODO https://en.wikipedia.org/wiki/Panopticon

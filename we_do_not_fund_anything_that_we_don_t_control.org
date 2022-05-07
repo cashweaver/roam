@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       2d9b95fd-f885-44c5-9723-c5071157949d
+:END:
+#+title: We Do Not Fund Anything That We Don't Control
+#+author: Cash Weaver
+#+date: [2022-04-08 Fri 18:09]
+#+filetags: :quote:
+
+#+begin_quote
+We do not fund anything that we don't control
+
+Frank C. Erwin, [cite:@hicksDailyTexanUTInstitutionStrugglesInternetAge2013]
+#+end_quote
+
+#+print_bibliography:

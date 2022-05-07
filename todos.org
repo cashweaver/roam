@@ -187,3 +187,13 @@ Related:
 - [cite:@potterHowDesignHouseLast1000YearsPart2021]
 - [cite:@potterHowDesignHouseLast1000YearsPartII2021]
 - [cite:@potterHowDesignHouseLast1000YearsPartIII2022]
+* TODO [#2] Node idea: My dear boy, why don't you try acting?
+* TODO [#2] Node idea: How I use Anki, create/edit cards, backup cards
+
+- [[id:abb1e1cc-12bb-42fe-9004-555145c8faaa][Laura Taylor | Git + Google Drive = Simple Git Host]]
+- [[id:6472f018-ab80-4c73-b973-adb8417939db][Anki]]
+* TODO [#2] Node idea: Things you can do in Emacs besides editing text
+
+- Email (text, but more!)
+- Browse the web
+- Calculator

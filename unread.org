@@ -374,10 +374,6 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-01-02 05:00]
 :END:
-* TODO [[https://www.lesswrong.com/posts/7BctDNyhfwNTCAqYq/thoughts-on-being-mortal][Thoughts on being mortal]] :essay:
-:PROPERTIES:
-:CREATED: [2021-01-02 05:49]
-:END:
 * TODO [[https://www.reddit.com/r/slatestarcodex/comments/koujv4/2020_letter_dan_wang/][2020 letter | Dan Wang]] :essay:
 :PROPERTIES:
 :CREATED: [2021-01-02 09:18]
@@ -385,10 +381,6 @@ Please sort in order of oldest to youngest.
 * TODO [[https://www.reddit.com/r/slatestarcodex/comments/kpncep/how_do_you_optimize_your_own_learning/][How do you optimize your own learning?]] :essay:learning:someday:
 :PROPERTIES:
 :CREATED: [2021-01-03 16:20]
-:END:
-* TODO [[https://www.gnu.org/software/emacs/manual/html_node/calc/Integration.html][Emacs Symbolic Integration]] :essay:emacs:
-:PROPERTIES:
-:CREATED: [2021-01-06 09:03]
 :END:
 * TODO [[https://www.sprintphysio.co.uk/patient-exercises/back-and-neck/deep-neck-flexor-exercises.html][Deep neck flexor exercises – Back and neck]] :essay:health:exercise:someday:
 :PROPERTIES:
