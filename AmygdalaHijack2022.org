@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@AmygdalaHijack2022]
+:ID:       d3077e94-b0b6-4880-b17f-0cd06fd06008
+:END:
+#+title: Amygdala Hijack
+#+author: Cash Weaver
+#+date: [2022-06-21 Tue 09:56]
+#+filetags: :reference:
+ 
+#+begin_quote
+An amygdala hijack is an emotional response that is immediate, overwhelming, and out of measure with the actual stimulus because it has triggered a much more significant emotional threat.
+
+[cite:@AmygdalaHijack2022]
+#+end_quote
+
+#+print_bibliography:

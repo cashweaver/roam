@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       19235d66-4df3-4f69-bf31-bc9876bc20cf
+:END:
+#+title: Albert Camus
+#+author: Cash Weaver
+#+date: [2022-06-21 Tue 12:33]
+#+filetags: :person:
+Among other things:
+
+* TODO

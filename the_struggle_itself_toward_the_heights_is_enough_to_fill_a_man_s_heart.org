@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       fa7e7f3e-1fb6-4769-81cd-c2a200b2becf
+:ROAM_ALIASES: "One must imagine Sisyphus happy"
+:END:
+#+title: The struggle itself toward the heights is enough to fill a man's heart
+#+author: Cash Weaver
+#+date: [2022-06-21 Tue 12:34]
+#+filetags: :quote:
+
+#+begin_quote
+The struggle itself toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy.
+
+[[id:19235d66-4df3-4f69-bf31-bc9876bc20cf][Albert Camus]], [[id:3da13885-53dc-4068-945c-c14201e1177e][Albert Camus, Justin O'Brien | The Myth of Sisyphus and Other Essays]]
+#+end_quote

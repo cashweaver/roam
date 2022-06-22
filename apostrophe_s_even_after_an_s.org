@@ -6,4 +6,4 @@
 #+date: [2022-04-01 Fri 18:49]
 #+filetags: :concept:
 
-Prefer writing "Chris's" as opposed to "Chris'" to show possession.
+Prefer "Chris's car" to "Chris' car" to show posession.

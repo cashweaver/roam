@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@camusMythSisyphusOtherEssays1991]
+:ID:       3da13885-53dc-4068-945c-c14201e1177e
+:END:
+#+title: Albert Camus, Justin O'Brien | The Myth of Sisyphus and Other Essays
+#+author: Cash Weaver
+#+date: [2022-06-21 Tue 12:32]
+#+filetags: :reference:
+ 
+[[id:19235d66-4df3-4f69-bf31-bc9876bc20cf][Albert Camus]], [cite:@camusMythSisyphusOtherEssays1991]
+
+* TODO Summary
+* TODO Thoughts
+* TODO Notes
+#+print_bibliography:
