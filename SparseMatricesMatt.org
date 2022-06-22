@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@SparseMatricesMatt]
+:ID:       26116df3-08f6-4a3d-ab21-c1f33d2facfd
+:END:
+#+title: Sparse Matrices $\cdot$ Matt Eding
+#+author: Cash Weaver
+#+date: [2022-06-21 Tue 18:33]
+#+filetags: :reference:
+#+hugo_auto_set_lastmod: t
+ 
+TODO_AUTHOR, [cite:@SparseMatricesMatt]
+
+* TODO Summary
+* TODO Thoughts
+* TODO Notes
+#+print_bibliography:

@@ -354,14 +354,6 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2020-12-31 22:30]
 :END:
-* TODO [[https://matteding.github.io/2019/04/25/sparse-matrices][Sparse Matrices (2019)]] :essay:math:computer_science:
-:PROPERTIES:
-:CREATED: [2021-01-01 06:11]
-:END:
-* TODO [[https://nullprogram.com/blog/2020/12/31/][State machines are wonderful tools]] :essay:computer_science:
-:PROPERTIES:
-:CREATED: [2021-01-01 08:50]
-:END:
 * TODO [[https://news.ycombinator.com/item?id=25604828][Ask HN: What was your favorite comment in 2020?]] :link_group:
 :PROPERTIES:
 :CREATED: [2021-01-01 17:25]
@@ -388,10 +380,6 @@ Please sort in order of oldest to youngest.
 :END:
 :LOGBOOK:
 CLOCK: [2022-02-14 Mon 16:44]--[2022-02-14 Mon 17:27] =>  0:43
-:END:
-* TODO [[http://sherylcanter.com/wordpress/2010/01/a-science-based-technique-for-seasoning-cast-iron/][Chemisty of Cast-Iron Seasoning: A Science-Based How-To (2010)]] :essay:cooking:
-:PROPERTIES:
-:CREATED: [2021-01-10 15:44]
 :END:
 * TODO [[http://algorithmsbook.com/][Algorithms for Decision Making]] :book:
 :PROPERTIES:
