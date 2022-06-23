@@ -29,5 +29,8 @@ If you try this, you will be tempted to use a thicker coat of oil to speed up th
 
 [cite:@canterChemistryCastIron]
 #+end_quote
-
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

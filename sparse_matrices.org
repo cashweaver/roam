@@ -8,3 +8,21 @@
 
 - [cite:@edingSparseMatrices]
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Sparse matrix :linear_algebra:math:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1655905691656
+:END:
+
+*** Context
+Linear Algebra
+*** Definition
+A matrix in which most of the values are zero.
+*** Extra
+*** Source
+https://en.wikipedia.org/wiki/Sparse_matrix

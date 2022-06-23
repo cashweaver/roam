@@ -12,3 +12,7 @@ The struggle itself toward the heights is enough to fill a man's heart. One must
 
 [[id:19235d66-4df3-4f69-bf31-bc9876bc20cf][Albert Camus]], [[id:3da13885-53dc-4068-945c-c14201e1177e][Albert Camus, Justin O'Brien | The Myth of Sisyphus and Other Essays]]
 #+end_quote
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
