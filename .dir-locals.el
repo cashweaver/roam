@@ -79,7 +79,7 @@
                                         org-roam-directory)))))
 
  (org-mode . ((eval . (org-hugo-auto-export-mode))
-              (eval . (anki-editor-mode t))
+              (eval . (cashweaver/enable-anki-editor-mode))
               (eval . (add-hook!
                        'before-save-hook
                        :local
@@ -99,5 +99,5 @@
               (eval . (add-hook!
                        'before-save-hook
                        :local
-                       #'anki-editor-push-notes))
+                       #'cashweaver/anki-editor-push-notes))
               )))

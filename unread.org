@@ -366,10 +366,7 @@ Please sort in order of oldest to youngest.
 :PROPERTIES:
 :CREATED: [2021-01-02 05:00]
 :END:
-* TODO [[https://www.reddit.com/r/slatestarcodex/comments/koujv4/2020_letter_dan_wang/][2020 letter | Dan Wang]] :essay:
-:PROPERTIES:
-:CREATED: [2021-01-02 09:18]
-:END:
+* TODO https://danwang.co/about/ :link_group:
 * TODO [[https://www.reddit.com/r/slatestarcodex/comments/kpncep/how_do_you_optimize_your_own_learning/][How do you optimize your own learning?]] :essay:learning:someday:
 :PROPERTIES:
 :CREATED: [2021-01-03 16:20]

@@ -197,3 +197,4 @@ Related:
 - Email (text, but more!)
 - Browse the web
 - Calculator
+* TODO [#2] Node idea: The unbearable lightness of being
