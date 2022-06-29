@@ -382,10 +382,6 @@ CLOCK: [2022-02-14 Mon 16:44]--[2022-02-14 Mon 17:27] =>  0:43
 :PROPERTIES:
 :CREATED: [2021-01-10 16:53]
 :END:
-* TODO [[https://hanshowe.org/2017/02/04/trump-and-the-reverse-cargo-cult/][Reverse Cargo Cult (2017)]] :essay:
-:PROPERTIES:
-:CREATED: [2021-01-10 17:36]
-:END:
 * TODO [[https://slatestarcodex.com/2014/09/30/i-can-tolerate-anything-except-the-outgroup/][I Can Tolerate Anything Except the Outgroup (2014)]] :essay:
 :PROPERTIES:
 :CREATED: [2021-01-11 05:57]

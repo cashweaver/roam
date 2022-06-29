@@ -80,6 +80,8 @@
 
  (org-mode . ((eval . (org-hugo-auto-export-mode))
               (eval . (cashweaver/enable-anki-editor-mode))
+              (eval . (setq
+                       org-export-with-todo-keywords nil))
               (eval . (add-hook!
                        'before-save-hook
                        :local

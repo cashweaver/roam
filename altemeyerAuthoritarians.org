@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@altemeyerAuthoritarians]
+:ID:       9e3242c4-62f4-4863-8368-8a4b160c1e76
+:END:
+#+title: Bob Altemeyer | The Authoritarians
+#+author: Cash Weaver
+#+date: [2022-06-25 Sat 19:12]
+#+filetags: :reference:
+ 
+[[id:bfdb06f3-7e93-4ef6-b28d-939931edfcb4][Robert Altemeyer]], [cite:@altemeyerAuthoritarians]
+
+* TODO Summary
+* TODO Thoughts
+* TODO Notes
+:PROPERTIES:
+:ID:       00e7d5e8-4255-4ef1-b3d5-e8f936f51209
+:END:
+
+#+begin_quote
+[...] authoritarian followers place "being normal" substantially higher than most people do.
+#+end_quote
+
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Authoritarian followers place "being normal" {{c1::substantially higher}} than most people do
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1656210465106
+:END:
+*** Extra
+*** Source
+[cite:@altemeyerAuthoritarians]

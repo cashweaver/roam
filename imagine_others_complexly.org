@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       91aae608-44c7-4dd0-94e1-512d5d5263cf
+:END:
+#+title: Imagine others complexly
+#+author: Cash Weaver
+#+date: [2022-06-26 Sun 10:05]
+#+filetags: :concept:
+
+* TODO
+
+Potential origin: [cite:@greenSpeechWroteALANConference2015], [cite:@ImagineOthersComplexly2020]
+
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

@@ -1,0 +1,40 @@
+:PROPERTIES:
+:ID:       f454378e-9a94-4c15-b8b2-44f486077626
+:END:
+#+title: Thought-terminating cliché
+#+author: Cash Weaver
+#+date: [2022-06-26 Sun 10:43]
+#+filetags: :concept:
+
+#+begin_quote
+[...] (also known as a semantic stop-sign, a thought-stopper, bumper sticker logic, or cliché thinking) is a form of loaded language, often passing as folk wisdom, intended to end an argument and quell cognitive dissonance [[[id:097f418c-8af5-498a-a5e3-37bab614556e][Cognitive dissonance]]].
+
+[cite:@ThoughtterminatingCliche2022]
+#+end_quote
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Thought-terminating cliché
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1656265544282
+:END:
+*** Context
+*** Definition
+A form of loaded language, often passing as folk wisdom or common sense, intended to end an argument and quell [[id:097f418c-8af5-498a-a5e3-37bab614556e][cognitive dissonance]]
+*** Extra
+*** Source
+[cite:@ThoughtterminatingCliche2022]
+** Thought-terminating cliché
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Example(s)
+:ANKI_NOTE_ID: 1656265544464
+:END:
+*** Example(s)
+- "It's just human nature"
+- Veganism isn't natural, look at the food chain. Animals eat other animals.
+*** Extra
+*** Source

@@ -198,3 +198,15 @@ Related:
 - Browse the web
 - Calculator
 * TODO [#2] Node idea: The unbearable lightness of being
+* TODO [#2] Node idea: This is water
+* TODO [#2] Node idea: Sapir-Worph hypothesis, Linguistic relativity; this is water as an illustration
+* TODO [#2] Node idea: Tips for writing emails/communication; brevity, above the fold, clear action items, etc
+* TODO [#2] Node idea: Healthspan extension; supplements, techniques or exercises, etc
+* TODO [#2] Node idea: Male life-long supplementation
+* TODO [#2] Node idea: Female life-long supplementation
+* TODO [#2] Node idea: Passive houses; air quality, principles, advantages, properties
+* TODO [#2] Node idea: This is the dreamtime. Rapid, explosive, technological development which shines light into all of the dark places. Elimination of privacy. [[id:3aea1e2f-dd21-4c21-a8c9-7efd610424c4][Moloch]]. Optimizing away the "human"-ness of humanity. The proliferation of existential threats through technologic progression; first we're not capable of destroying ourselves, then governments are capable, then well-funded groups are capable, then groups are capable, then individuals are capable -- nuclear, biologic, technologic.
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

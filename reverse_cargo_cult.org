@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       0a9fac5c-2919-4dc1-b75b-ccab89d31a52
 :END:
-#+title: Reverse Cargo Cult
+#+title: Reverse cargo cult
 #+author: Cash Weaver
 #+date: [2022-06-23 Thu 15:45]
 #+filetags: :concept:
@@ -15,10 +15,28 @@ When they build the straw airstrip, it isn't because they are hoping for the sam
 
 1980s Soviets knew that their government was lying to them about the strength and power of their society, the Communist Party couldn't hide all of the dysfunctions people saw on a daily basis. This didn't stop the Soviet leadership from lying. Instead, they just accused the West of being equally deceptive. "Sure, things might be bad here, but they are just as bad in America, and in America people are actually foolish enough to believe in the lie! Not like you, clever people. You get it. You know it is a lie."
 
-[cite:@howeTrumpReverseCargo2017]
+[cite:@howeTrumpReverseCargoCult2017]
 #+end_quote
+
+Also see [[id:c5b4e591-7690-49b6-94cb-ab4ab54b68a6][Cargo cult]].
+
 #+print_bibliography:
 * Anki :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+** Reverse cargo cult
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1656034528227
+:END:
+*** Context
+*** Definition
+A belief system which ineffectively mimics some observed behavior while also arguing that those purporting to effectively perform the behavior are wrong or lying.
+*** Extra
+In a reverse cargo cult, you have people who see an airstrip, and the cargo drops, so they build one out of straw. But there's a twist:
+
+When they build the straw airstrip, it isn't because they are hoping for the same outcome. They know the difference, and know that because their airstrip is made of straw, it certainly won't yield any cargo, but it serves another purpose. They don't lie to the rubes and tell them that an airstrip made of straw will bring them cargo. That's an easy lie to dismantle. Instead, what they do is make it clear that the airstrip is made of straw, and doesn't work, but then tell you that the other guy's airstrip doesn't work either. They tell you that no airstrips yield cargo. The whole idea of cargo is a lie, and those fools, with their fancy airstrip made out of wood, concrete, and metal is just as wasteful and silly as one made of straw.
+*** Source
+[cite:@howeTrumpReverseCargoCult2017]

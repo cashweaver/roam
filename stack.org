@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       5ab783c7-9a13-42d2-920d-95f103ac677c
+:END:
+#+title: Stack
+#+author: Cash Weaver
+#+date: [2022-06-28 Tue 20:24]
+#+filetags: :concept:
+
+A stack is an [[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]].
+* TODO
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

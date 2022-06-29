@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       a6d989de-a309-479e-91ab-9327b8fdf874
+:END:
+#+title: Don't feed the trolls
+#+author: Cash Weaver
+#+date: [2022-06-25 Sat 18:15]
+#+filetags: :concept:
+
+Trolls seek to derail conversations, inject negativity, and generally be a nuisance [[id:54072a82-9f61-443d-b51e-af74fc18e895][for the lulz]]. How do you deal with them? How do you refute their bullshit or drive them out of your communities? Ignore them. Their goal is attention -- don't give it to them.
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

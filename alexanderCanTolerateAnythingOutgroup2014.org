@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@alexanderCanTolerateAnythingOutgroup2014]
+:ID:       0a065f64-1e20-4bbf-8c4b-2a60415bdb43
+:END:
+#+title: Scott Alexander | I Can Tolerate Anything Except The Outgroup
+#+author: Cash Weaver
+#+date: [2022-06-23 Thu 20:41]
+#+filetags: :reference:
+ 
+[[id:e7e4bd59-fa63-49a8-bfca-6c767d1c2330][Scott Alexander]], [cite:@alexanderCanTolerateAnythingOutgroup2014]
+
+* TODO Summary
+* TODO Thoughts
+* TODO Notes
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

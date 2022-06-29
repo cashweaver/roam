@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       668f5429-a1b1-46f3-8df7-758e63cc04b6
+:ROAM_ALIASES: "Through hardships to the stars"
+:END:
+#+title: Per aspera ad astra
+#+author: Cash Weaver
+#+date: [2022-06-26 Sun 09:05]
+#+filetags: :concept:
+
+#+begin_quote
+Per aspera ad astra (or, less commonly, ad astra per aspera) is a Latin phrase meaning "through hardships to the stars" or "Our aspirations take us to the stars".
+
+[cite:@AsperaAdAstra2022]
+#+end_quote
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Per aspera ad astra
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1656259858231
+:END:
+*** Context
+*** Definition
+Through hardships to the stars
+*** Extra
+*** Source
+[cite:@AsperaAdAstra2022]

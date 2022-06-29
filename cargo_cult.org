@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID:       c5b4e591-7690-49b6-94cb-ab4ab54b68a6
+:END:
+#+title: Cargo cult
+#+author: Cash Weaver
+#+date: [2022-06-23 Thu 18:35]
+#+filetags: :concept:
+
+#+begin_quote
+A cargo cult is an indigenist millenarian belief system, in which adherents perform rituals which they believe will cause a more technologically advanced society to deliver goods. These cults were first described in Melanesia in the wake of contact with allied military forces during the Second World War.
+
+[cite:@CargoCult2022]
+#+end_quote
+
+#+begin_quote
+In a regular cargo cult, you have people who see an airstrip, and the cargo drops, so they build one out of straw, hoping for the same outcome. They don't know the difference between a straw airstrip and a real one, they just want the cargo.
+
+[cite:@howeTrumpReverseCargoCult2017]
+#+end_quote
+
+Also see [[id:0a9fac5c-2919-4dc1-b75b-ccab89d31a52][Reverse cargo cult]].
+
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Cargo cult
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1656035352450
+:END:
+*** Context
+*** Definition
+A belief system in which adherents perform rituals which they believe will cause a more technologically advanced society to deliver goods.
+*** Extra
+*** Source
+[cite:@CargoCult2022]

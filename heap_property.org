@@ -1,0 +1,74 @@
+:PROPERTIES:
+:ID:       4d1c0b9e-9987-46b2-b4fb-f0a32f2b6d97
+:END:
+#+title: Heap property
+#+author: Cash Weaver
+#+date: [2022-06-28 Tue 15:09]
+#+filetags: :concept:
+
+* Min heap
+:PROPERTIES:
+:ID:       ee9f5fca-159e-479d-af74-0f1be5a6c2cb
+:END:
+
+#+begin_quote
+[...] for any given node C, if P is a parent node of C, then [...] the key of P is less than or equal to the key of C.
+#+end_quote
+
+\(P \le C \;\forall\; C \;|\; P\;\text{is parent of}\;C\)
+
+* Max heap
+:PROPERTIES:
+:ID:       7401aaa0-19ca-4036-aaae-f07ba3c3c6e7
+:END:
+
+#+begin_quote
+[...] for any given node C, if P is a parent node of C, then the key (the value) of P is greater than or equal to the key of C
+
+[cite:@HeapDataStructure2022]
+#+end_quote
+
+\(P \ge C \;\forall\; C \;|\; P\;\text{is parent of}\;C\)
+
+* Anki :noexport:computer_science:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Min heap property
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1656454881631
+:END:
+
+*** Context
+Computer science
+
+*** Definition
+\(P \le C \;\forall\; C \;|\; P\;\text{is parent of}\;C\)
+
+*** Extra
+
+*** Source
+[cite:@HeapDataStructure2022]
+
+** Max heap property
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1656454882381
+:END:
+
+*** Context
+Computer science
+
+*** Definition
+\(P \ge C \;\forall\; C \;|\; P\;\text{is parent of}\;C\)
+
+*** Extra
+
+*** Source
+[cite:@HeapDataStructure2022]
+
+#+print_bibliography:

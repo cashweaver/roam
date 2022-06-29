@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       2e66d444-9a3a-4ed3-8fac-210bb61933fb
+:END:
+#+title: Ian Danskin
+#+author: Cash Weaver
+#+date: [2022-06-25 Sat 16:31]
+#+filetags: :person:
+
+Among other things:
+
+- [[https://www.youtube.com/c/InnuendoStudios][Innuendo Studios on YouTube]] 
+- [[https://innuendostudios.tumblr.com][innuendostudios on Tumblr]]
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Ian Danskin
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Author
+:ANKI_NOTE_ID: 1656207075182
+:END:
+
+*** Source1
+Alt-right Playbook
+
+*** Source2
+Innuendo Studios
+
+*** Source3
+
+*** Source4
+
+*** Source5

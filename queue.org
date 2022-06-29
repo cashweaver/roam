@@ -1,0 +1,128 @@
+:PROPERTIES:
+:ID:       f7ca3e99-0356-4651-996e-542a11d67f50
+:END:
+#+title: Queue
+#+author: Cash Weaver
+#+date: [2022-06-28 Tue 17:37]
+#+filetags: :concept:
+
+A queue is an [[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]].
+
+#+begin_quote
+In computer science, a queue is a collection of entities that are maintained in a sequence and can be modified by the addition of entities at one end of the sequence and the removal of entities from the other end of the sequence.
+
+[...]
+
+The operation of adding an element to the rear of the queue is known as enqueue, and the operation of removing an element from the front is known as dequeue. Other operations may also be allowed, often including a peek or front operation that returns the value of the next element to be dequeued without dequeuing it.
+
+[cite:@QueueAbstractDataType2022]
+#+end_quote
+
+* Types
+
+** Priority queue
+:PROPERTIES:
+:ID:       6f787120-13bb-405a-bfca-060df6d80b14
+:END:
+
+#+begin_quote
+In computer science, a priority queue is an abstract data-type similar to a regular queue or stack data structure in which each element additionally has a "priority" associated with it. In a priority queue, an element with high priority is served before an element with low priority.
+
+[cite:@PriorityQueue2022]
+#+end_quote
+
+
+#+print_bibliography:
+
+** Real-time queue
+:PROPERTIES:
+:ID:       c7f59bfc-171e-4a96-830f-fe218bff020e
+:END:
+* Anki :noexport:computer_science:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** [[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Describe
+:ANKI_NOTE_ID: 1656463276901
+:END:
+*** Context
+Computer science
+*** Description
+An [[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]] which defines a collection of entities, maintained in sequence. [[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]] defines =enqueue= and =dequeue= methods -- and possibly others such as =peek= -- for interacting with the collection.
+
+TODO
+*** Extra
+*** Source
+[cite:@QueueAbstractDataType2022]
+** [[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1656464403049
+:END:
+*** Context
+Computer science
+*** Definition
+An [[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]] which defines a collection of entities, maintained in sequence. [[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]] defines =enqueue= and =dequeue= methods -- and possibly others such as =peek= -- for interacting with the collection.
+*** Extra
+*** Source
+[cite:@QueueAbstractDataType2022]
+** Implementations of a {{c1::[[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]]::[[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]]}} include {{c2::arrays and (doubly-)linked lists}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1656464403726
+:END:
+*** Extra
+*** Source
+[cite:@QueueAbstractDataType2022]
+** [[id:6f787120-13bb-405a-bfca-060df6d80b14][Priority queue]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1656464404426
+:END:
+*** Context
+Computer science
+*** Definition
+An [[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]] similar to a regular [[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]] in which each element has an additional "priority" property. =dequeue= returns elements with in priority order in descending order.
+*** Extra
+*** Source
+[cite:@PriorityQueue2022]
+** A {{c1::[[id:6f787120-13bb-405a-bfca-060df6d80b14][Priority queue]]::[[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]]}} is often implemented with a {{c2::[[id:70cbebc9-8936-4d52-885a-76d747c6577f][Heap]]}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1656464664730
+:END:
+*** Extra
+*** Source
+[cite:@PriorityQueue2022]
+** A {{c1::[[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]]}} follows {{c1::first in, first out::ordering}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1656473044231
+:END:
+*** Extra
+*** Source
+[cite:@QueueAbstractDataType2022]
+** [[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]] and [[id:5ab783c7-9a13-42d2-920d-95f103ac677c][Stack]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Compare/Contrast
+:ANKI_NOTE_ID: 1656473200128
+:END:
+*** Context
+Computer science
+*** Comparisons/Contrasts
+- A [[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]] operates on first-in-first-out whereas a [[id:5ab783c7-9a13-42d2-920d-95f103ac677c][Stack]] operates on last-in-first-out
+*** Source
+[cite:@QueueAbstractDataType2022]
+** A {{c1::[[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]]}} is the opposite of a {{c2::[[id:5ab783c7-9a13-42d2-920d-95f103ac677c][Stack]]}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1656476878332
+:END:
+*** Extra
+A [[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]] is first-in-first-out while a [[id:5ab783c7-9a13-42d2-920d-95f103ac677c][Stack]] is last-in-first-out.
+*** Source
+[cite:@QueueAbstractDataType2022]

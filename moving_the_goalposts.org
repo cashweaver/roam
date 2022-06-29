@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       b2575705-10cd-4523-aaa6-153360d7bd07
+:END:
+#+title: Moving the goalposts
+#+author: Cash Weaver
+#+date: [2022-06-25 Sat 17:03]
+#+filetags: :concept:
+
+#+begin_quote
+Moving the goalposts (or shifting the goalposts) is a metaphor, derived from goal-based sports, that means to change the rule or criterion (goal) of a process or competition while it is still in progress, in such a way that the new goal offers one side an advantage or disadvantage.
+
+[cite:@MovingGoalposts2022]
+#+end_quote
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

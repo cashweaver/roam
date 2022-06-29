@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       fc5f16e4-8918-4b5c-bc8b-4a4a10d837ff
+:END:
+#+title: Dog whistle
+#+author: Cash Weaver
+#+date: [2022-06-25 Sat 18:26]
+#+filetags: :concept:
+
+#+begin_quote
+[...] the use of coded or suggestive language in political messaging to garner support from a particular group without provoking opposition. [...] Dog whistles use language that appears normal to the majority but communicates specific things to intended audiences. They are generally used to convey messages on issues likely to provoke controversy without attracting negative attention.
+
+[cite:@DogWhistlePolitics2022]
+#+end_quote
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Dog whistle
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1656207022930
+:END:
+*** Context
+*** Definition
+The use of coded or suggestive language to communicate more than one, potentially opposing, messages to more than one audience.
+*** Extra
+*** Source
+[cite:@DogWhistlePolitics2022]
+** Dog whistle
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Example(s)
+:ANKI_NOTE_ID: 1656207023606
+:END:
+*** Example(s)
+- States rights: Racism and/or racist policies
+- Family values: Christian, often a specific set of white-Christian, values
+*** Extra
+*** Source
+[cite:@DogWhistlePolitics2022]

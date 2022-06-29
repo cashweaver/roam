@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ID:       a075c129-c708-4f5b-bbe7-4b5b85f3b475
+:END:
+#+title: Peripheral route processing
+#+author: Cash Weaver
+#+date: [2022-06-26 Sun 11:17]
+#+filetags: :concept:
+
+#+begin_quote
+[...] persuasion [resulting] from a person's association with positive or negative cues in the stimulus or making a simple inference about the merits of the advocated position. The cues received by the individual under the peripheral route are generally unrelated to the logical quality of the stimulus. These cues will involve factors such as the credibility or attractiveness of the sources of the message, or the production quality of the message.
+
+[cite:@ElaborationLikelihoodModel2022]
+#+end_quote
+
+A way of processing an argument by looking at secondary characteristics. Usually employed when the person processing an argument isn't famliar with or doesn't understand the facts (primary characteristics). Contrasted by [[id:9d43bd11-f7b0-42b3-8621-3f47ce7e08cd][Central route processing]].
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Peripheral route processing
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1656267839634
+:END:
+*** Context
+Psychology, pursuasion
+*** Definition
+A person's consideration of the secondary characteristics of an argument i.e framing, emotions, presentation; proxy characteristics for authenticity or correctness.
+*** Extra
+*** Source
+[cite:@ElaborationLikelihoodModel2022]
+** Peripheral route processing
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Example(s)
+:ANKI_NOTE_ID: 1656267840280
+:END:
+*** Example(s)
+- Deciding which car to purchase based on the cool-factor, whether or not its more expensive than your neighbor's car, whether the engine is loud and impressive, etc.
+*** Extra
+*** Source
+[cite:@ElaborationLikelihoodModel2022]

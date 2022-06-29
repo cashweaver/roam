@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID:       70cbebc9-8936-4d52-885a-76d747c6577f
+:END:
+#+title: Heap
+#+author: Cash Weaver
+#+date: [2022-06-28 Tue 14:46]
+#+filetags: :concept:
+
+#+begin_quote
+In computer science, a heap is a specialized tree-based [[[id:1a068ad5-3e16-4ec4-b238-6fdc5904aeb4][tree]]] data structure [[[id:738c2ba7-a272-417d-9b6d-b6952d765280][data structure]]] which is essentially an almost complete tree that satisfies the heap property [[[id:4d1c0b9e-9987-46b2-b4fb-f0a32f2b6d97][Heap property]]]: in a max heap [[[id:7401aaa0-19ca-4036-aaae-f07ba3c3c6e7][Max heap]]], for any given node C, if P is a parent node of C, then the key (the value) of P is greater than or equal to the key of C. In a min heap [[[id:ee9f5fca-159e-479d-af74-0f1be5a6c2cb][Min heap]]], the key of P is less than or equal to the key of C.
+
+[cite:@HeapDataStructure2022]
+#+end_quote
+
+#+begin_quote
+The heap is one maximally efficient implementation of an abstract data type called a priority queue.
+
+[cite:@HeapDataStructure2022]
+#+end_quote
+
+
+#+print_bibliography:
+
+* Anki :noexport:computer_science:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Heap
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1656455319604
+:END:
+
+*** Context
+Computer science
+
+*** Definition
+A specialized [[id:1a068ad5-3e16-4ec4-b238-6fdc5904aeb4][Tree]]-based [[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]] which is, essentially, a [[id:cce89d10-ff69-4756-b9fa-9b713b4cb33b][Complete]] binary tree that satisfies the [[id:4d1c0b9e-9987-46b2-b4fb-f0a32f2b6d97][Heap property]].
+
+*** Extra
+
+*** Source
+[cite:@HeapDataStructure2022]

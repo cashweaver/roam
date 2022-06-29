@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ID:       097f418c-8af5-498a-a5e3-37bab614556e
+:END:
+#+title: Cognitive dissonance
+#+author: Cash Weaver
+#+date: [2022-06-25 Sat 17:29]
+#+filetags: :concept:
+
+
+#+begin_quote
+[...] the perception of contradictory information. Relevant items of information include a person's actions, feelings, ideas, beliefs, values, and things in the environment. Cognitive dissonance is typically experienced as psychological stress when persons participate in an action that goes against one or more of those things. According to this theory, when two actions or ideas are not psychologically consistent with each other, people do all in their power to change them until they become consistent. The discomfort is triggered by the person's belief clashing with new information perceived, wherein the individual tries to find a way to resolve the contradiction to reduce their discomfort.
+
+[cite:@CognitiveDissonance2022]
+#+end_quote
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Cognitive dissonance
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1656204428780
+:END:
+*** Context
+Psychology
+*** Definition
+The perception of contradictory information. Typically experienced when individuals act, think, believe, etc, in a way that doesn't match with the information in front of them.
+*** Extra
+*** Source
+[cite:@CognitiveDissonance2022]
+** Cognitive dissonance
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Example(s)
+:ANKI_NOTE_ID: 1656204429405
+:END:
+*** Example(s)
+- Telling your family that you don't like apples before retiring to your bedroom to eat apples in secret.
+- Thinking of yourself as non-racist while belonging to a group whose founder is revealed to be a racist.
+*** Extra
+*** Source
+[cite:@CognitiveDissonance2022]

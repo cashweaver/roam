@@ -1,0 +1,51 @@
+:PROPERTIES:
+:ID:       59ed8490-de7b-4a4e-a5d0-026ea3990d34
+:END:
+#+title: Anxious-ambivalent attachment
+#+author: Cash Weaver
+#+date: [2022-06-26 Sun 11:44]
+#+filetags: :concept:
+
+An [[id:5f944538-ef8c-464f-b2da-c0f973558eca][attachment]] pattern in which the child over-indexes on seeking comfort from their guardians and avoids risk.
+
+#+begin_quote
+In general, a child with an anxious-ambivalent pattern of attachment will typically explore little (in the Strange Situation) and is often wary of strangers, even when the parent is present. When the caregiver departs, the child is often highly distressed showing behaviours such as crying or screaming. The child is generally ambivalent when the caregiver returns. The anxious-ambivalent strategy is a response to unpredictably responsive caregiving, and the displays of anger (ambivalent resistant, C1) or helplessness (ambivalent passive, C2) towards the caregiver on reunion can be regarded as a conditional strategy for maintaining the availability of the caregiver by preemptively taking control of the interaction.
+
+[cite:@AttachmentTheory2022]
+#+end_quote
+
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Anxious-ambivalent attachment
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Describe
+:ANKI_NOTE_ID: 1656274746558
+:END:
+*** Context
+Attchment theory
+
+*** Description
+An unhealthy attachment pattern in which the child overindexes on seeking comfort from their guardians and avoiding risks.
+
+*** Extra
+
+*** Source
+[cite:@AttachmentTheory2022]
+
+** Anxious-ambivalent attachment
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Example(s)
+:ANKI_NOTE_ID: 1656274818106
+:END:
+
+*** Example(s)
+- A child of a distant guardian receives less comfort than they require and attempt to bridge that gap by depending more heavily on their guardian.
+
+*** Extra
+
+*** Source
