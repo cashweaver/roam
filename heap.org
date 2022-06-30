@@ -13,10 +13,14 @@ In computer science, a heap is a specialized tree-based [[[id:1a068ad5-3e16-4ec4
 #+end_quote
 
 #+begin_quote
-The heap is one maximally efficient implementation of an abstract data type called a priority queue.
+The heap is one maximally efficient implementation of an abstract data type called a priority queue [[[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]]].
 
 [cite:@HeapDataStructure2022]
 #+end_quote
+
+* Types
+
+- [[id:a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad][Binary heap]]
 
 
 #+print_bibliography:
@@ -43,3 +47,25 @@ A specialized [[id:1a068ad5-3e16-4ec4-b238-6fdc5904aeb4][Tree]]-based [[id:738c2
 
 *** Source
 [cite:@HeapDataStructure2022]
+
+** Common API of a [[id:70cbebc9-8936-4d52-885a-76d747c6577f][Heap]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Describe
+:ANKI_NOTE_ID: 1656533061563
+:END:
+*** Context
+Computer science
+*** Description
+Public
+
+- =peek=
+- =add=, =insert=
+- =poll=, =pop=
+
+Private
+
+- =heapify-up=
+- =heapify-down=
+
+*** Extra
+*** Source

@@ -1,0 +1,19 @@
+#    -*- mode: org -*-
+
+
+Archived entries from file /home/cashweaver/proj/roam/binary_tree.org
+
+
+* Child indexing functions
+:PROPERTIES:
+:ARCHIVE_TIME: 2022-06-29 Wed 11:09
+:ARCHIVE_FILE: ~/proj/roam/binary_tree.org
+:ARCHIVE_OLPATH: Representations/Array
+:ARCHIVE_CATEGORY: binary_tree
+:ARCHIVE_ITAGS: concept
+:END:
+
+This child nodes for a node at index \(i\) are at \(\text{left}=2i+1\) and \(\text{right}=2i+2\).
+
+
+#+print_bibliography:

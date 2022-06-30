@@ -1,0 +1,59 @@
+:PROPERTIES:
+:ID:       efd422ba-2509-48c9-b267-265f3c369462
+:END:
+#+title: Associative array
+#+author: Cash Weaver
+#+date: [2022-06-29 Wed 15:50]
+#+filetags: :concept:
+
+#+begin_quote
+In computer science, an associative array, map, symbol table, or dictionary is an [[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]] that stores a collection of (key, value) pairs, such that each possible key appears at most once in the collection. In mathematical terms an associative array is a function with finite domain. It supports 'lookup', 'remove', and 'insert' operations.
+
+[...] The two major solutions to the dictionary problem are [[id:b8f1337e-8231-4ace-b003-bb988b4c39ee][Hash tables]] and search trees.
+
+[cite:@AssociativeArray2022]
+#+end_quote
+
+#+print_bibliography:
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** [[id:efd422ba-2509-48c9-b267-265f3c369462][Associative array]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1656544255680
+:END:
+
+*** Context
+Computer science
+
+*** Definition
+A [[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]] that stores a collection of =key, value= pairs such that each possible key appears at most once in the collection.
+
+*** Extra
+
+*** Source
+[cite:@AssociativeArray2022]
+
+** Common API of an [[id:efd422ba-2509-48c9-b267-265f3c369462][Associative array]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Describe
+:ANKI_NOTE_ID: 1656544256357
+:END:
+
+*** Context
+Computer science
+
+*** Description
+- =lookup=
+- =remove=
+- =insert=
+
+*** Extra
+
+*** Source
+[cite:@AssociativeArray2022]

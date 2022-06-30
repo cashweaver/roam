@@ -1,0 +1,326 @@
+:PROPERTIES:
+:ID:       81c88eaa-3ec9-486c-bcdf-457dd40b4eba
+:ROAM_ALIASES: DFS
+:END:
+#+title: Depth-first search
+#+author: Cash Weaver
+#+date: [2022-06-29 Wed 16:36]
+#+filetags: :concept:
+
+#+begin_quote
+Depth-first search (DFS) is an algorithm for traversing or searching [[id:1a068ad5-3e16-4ec4-b238-6fdc5904aeb4][Tree]] or [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] [[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structures]]. The algorithm starts at the root node (selecting some arbitrary node as the root node in the case of a graph) and explores as far as possible along each branch before backtracking.
+
+[cite:@DepthfirstSearch2022]
+#+end_quote
+
+* Algorithm
+** Iterative
+
+#+begin_src
+procedure DepthFirstSearch (graph, rootNode) is
+  define a Stack: stack
+  define a Set: visited
+
+  stack.push(rootNode)
+
+  while not stack.empty() do
+    node = stack.pop()
+    if node not in visited then
+      if node is a goal then
+        return node
+      for connectedNode in graph.connectedNodes(node) do
+        stack.push(connectedNode)
+#+end_src
+
+Based on iterative algorithm in [cite:@DepthfirstSearch2022].
+#+end_quote
+** Recursive
+
+#+begin_src
+procedure DepthFirstSearch (graph, node) is
+  define a Set: visited
+
+  procedure DepthFirstSearchInner (graph, node) is
+    if node in visited then
+      return nil
+    visited.add(node)
+
+    if node is a goal then
+      return node
+
+    found = nil
+    for connectedNode in graph.connectedNodes(node) do
+      found = DepthFirstSearchInner(graph, connectedNode)
+      if found then
+         return found
+
+    return nil
+
+  return DepthFirstSearchInner(graph, node)
+#+end_src
+
+Based on recursive algorithm in [cite:@DepthfirstSearch2022].
+
+* Complexity
+** TODO Time
+** TODO Space
+
+* Alternatives
+- [[id:0ad51c11-995b-4437-a218-82df11697f7a][Iterative deepening depth-first-search]]
+#+print_bibliography:
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** [[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][Depth-first search]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Describe
+:ANKI_NOTE_ID: 1656546228327
+:END:
+
+*** Context
+Computer science
+
+*** Description
+A [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] and [[id:1a068ad5-3e16-4ec4-b238-6fdc5904aeb4][Tree]] traversal algorithm which follows [[id:2f8c14b5-b44a-4fb9-b2c5-56ca8a48fdd9][Pre-order tree traversal]]. The non-recursive implementation uses a [[id:5ab783c7-9a13-42d2-920d-95f103ac677c][Stack]].
+
+*** Extra
+
+*** Source
+[cite:@DepthfirstSearch2022]
+
+** {{c2::[[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][Depth-first search]]}} follows {{c1::[[id:2f8c14b5-b44a-4fb9-b2c5-56ca8a48fdd9][Pre-order tree traversal]]::traversal order}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1656548009700
+:END:
+
+*** Extra
+
+*** Source
+[cite:@DepthfirstSearch2022]
+
+** [[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][Depth-first search]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: AKA
+:ANKI_NOTE_ID: 1656546094106
+:END:
+
+*** Term2
+[[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][DFS]]
+
+*** Term3
+
+*** Term4
+
+*** Term5
+
+*** Term6
+
+*** Context
+Computer science
+
+*** Extra
+
+*** Source
+[cite:@DepthfirstSearch2022]
+
+** [[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][Depth-first search]] (recursive)
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Algorithm
+:ANKI_NOTE_ID: 1656547803682
+:END:
+
+*** Setup
+1. Define a Set: =visited=
+
+Given:
+
+1. A [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]]: =graph=
+1. A node: =node=
+
+*** Step1Pre
+
+*** Step1IndentLevel
+
+*** Step1Title
+
+*** Step1
+
+#+begin_src
+procedure f (graph, node) is
+  define a Set: visited
+
+  procedure f_ (graph, node) is
+    if node in visited then
+      return nil
+    visited.add(node)
+
+    if node is a goal then
+      return node
+
+    found = nil
+    for connectedNode in graph.connectedNodes(node) do
+      found = f_(graph, connectedNode)
+      if found then
+         return found
+
+    return nil
+
+  return f_(graph, node)
+#+end_src
+
+*** Step1Post
+
+*** Step2Pre
+
+*** Step2IndentLevel
+
+*** Step2Title
+
+*** Step2
+
+*** Step2Post
+
+*** Step3Pre
+
+*** Step3IndentLevel
+
+*** Step3Title
+
+*** Step3
+
+*** Step3Post
+
+*** Step4IndentLevel
+
+*** Step4Pre
+
+*** Step4Title
+
+*** Step4
+
+*** Step4Post
+
+*** Step5Pre
+
+*** Step5IndentLevel
+
+*** Step5Title
+
+*** Step5
+
+*** Step5Post
+
+*** Source
+[cite:@DepthfirstSearch2022]
+
+** [[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][Depth-first search]] (iterative)
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Algorithm
+:ANKI_NOTE_ID: 1656546686582
+:END:
+
+*** Setup
+1. Define a [[id:5ab783c7-9a13-42d2-920d-95f103ac677c][Stack]]: =stack=
+2. Define a Set: =visited=
+
+Given:
+
+1. A [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]]: =graph=
+1. A root node: =rootNode=
+
+*** Step1Pre
+
+*** Step1IndentLevel
+
+*** Step1Title
+
+*** Step1
+
+#+begin_src
+define a Stack: stack
+define a Set: visited
+
+stack.push(rootNode)
+
+while not stack.empty() do
+  node = stack.pop()
+  if node not in visited then
+    if node is a goal then
+      return node
+    for connectedNode in graph.connectedNodes(node) do
+      stack.push(connectedNode)
+#+end_src
+
+*** Step1Post
+
+*** Step2Pre
+
+*** Step2IndentLevel
+
+*** Step2Title
+
+*** Step2
+
+*** Step2Post
+
+*** Step3Pre
+
+*** Step3IndentLevel
+
+*** Step3Title
+
+*** Step3
+
+*** Step3Post
+
+*** Step4IndentLevel
+
+*** Step4Pre
+
+*** Step4Title
+
+*** Step4
+
+*** Step4Post
+
+*** Step5Pre
+
+*** Step5IndentLevel
+
+*** Step5Title
+
+*** Step5
+
+*** Step5Post
+
+*** Source
+[cite:@DepthfirstSearch2022]
+
+** {{c2::The iterative version of [[roam:Depth-first search}}]] uses a {{c1::[[id:5ab783c7-9a13-42d2-920d-95f103ac677c][Stack]]}}
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1656547423006
+:END:
+
+*** Extra
+
+*** Source
+[cite:@DepthfirstSearch2022]
+
+** {{c1::[[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][Depth-first search]]}} is {{c2::not guaranteed}} to find the shortest path to the goal
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1656550471174
+:END:
+
+*** Extra
+
+*** Source
+[cite:@BreadthfirstSearch2022]

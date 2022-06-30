@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       4a246de2-16ae-4fa6-abaa-7cfb533eccdb
+:ROAM_ALIASES: "Sliding window"
+:END:
+#+title: Convolution
+#+author: Cash Weaver
+#+date: [2022-06-29 Wed 19:31]
+#+filetags: :concept:
+* TODO
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+* [[id:4a246de2-16ae-4fa6-abaa-7cfb533eccdb][Convolution]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: AKA
+:ANKI_NOTE_ID: 1656556307851
+:END:
+** Term2
+[[id:4a246de2-16ae-4fa6-abaa-7cfb533eccdb][Sliding window]]
+** Term3
+** Term4
+** Term5
+** Term6
+** Context
+Math
+** Extra
+** Source

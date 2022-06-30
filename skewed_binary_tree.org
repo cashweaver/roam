@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID:       4c7bf5db-dc29-44a1-bb77-36d560b38688
+:END:
+#+title: Skewed binary tree
+#+author: Cash Weaver
+#+date: [2022-06-28 Tue 15:26]
+#+filetags: :concept:
+
+#+begin_quote
+A skewed binary tree is a pathological/degenerate tree in which the tree is either dominated by the left nodes or the right nodes. Thus, there are two types of skewed binary tree: left-skewed binary tree and right-skewed binary tree.
+
+[cite:@programizBinaryTree]
+#+end_quote
+
+#+attr_html: :alt Skewed binary tree
+[[file:skewed-binary-tree.png]]
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** [[id:4c7bf5db-dc29-44a1-bb77-36d560b38688][Skewed binary tree]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1656457354979
+:END:
+*** Context
+Computer science
+*** Definition
+A [[id:a15a6edb-dbe2-496f-bdc7-92b14e1f5566][Degenerate binary tree]] in which all nodes are either on the left or right side.
+*** Extra
+[[file:skewed-binary-tree.png]]
+*** Source
+[cite:@BinaryTree2022]
+** [[id:4c7bf5db-dc29-44a1-bb77-36d560b38688][Skewed binary tree]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: ImageOf
+:ANKI_NOTE_ID: 1656457355757
+:END:
+*** Image
+[[file:skewed-binary-tree.png]]
+*** Extra
+*** Source
+[cite:@BinaryTree2022]

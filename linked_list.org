@@ -1,0 +1,49 @@
+:PROPERTIES:
+:ID:       4e9a8cb2-e817-430b-a63c-0e492022ab79
+:ROAM_ALIASES: "Linked lists"
+:END:
+#+title: Linked list
+#+author: Cash Weaver
+#+date: [2022-06-29 Wed 15:41]
+#+filetags: :concept:
+
+#+begin_quote
+In computer science, a linked list is a linear collection of data elements whose order is not given by their physical placement in memory. Instead, each element points to the next. It is a [[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]] consisting of a collection of nodes which together represent a sequence. In its most basic form, each node contains: data, and a reference (in other words, a link) to the next node in the sequence.
+
+[cite:@LinkedList2022]
+#+end_quote
+
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** [[id:4e9a8cb2-e817-430b-a63c-0e492022ab79][Linked list]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1656543032732
+:END:
+
+*** Context
+Computer science
+
+*** Definition
+A sequential collection of nodes composed of data and one or more references to other nodes.
+
+*** Extra
+
+*** Source
+[cite:@LinkedList2022]
+
+** {{c2::[[roam:Linked lists]]}} perform better than [[id:79b155d7-5a67-469d-b3f4-b8010cad8b54][Arrays]] when it comes to {{c1::insertion time}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1656543525156
+:END:
+
+*** Extra
+
+*** Source
+[cite:@LinkedList2022]

@@ -1,0 +1,75 @@
+:PROPERTIES:
+:ID:       cce89d10-ff69-4756-b9fa-9b713b4cb33b
+:END:
+#+title: Complete binary tree
+#+author: Cash Weaver
+#+date: [2022-06-29 Wed 11:22]
+#+filetags: :concept:
+
+
+#+begin_quote
+A complete binary tree is a binary tree in which every level, except possibly the last, is completely filled, and all nodes in the last level are as far left as possible.
+
+[cite:@BinaryTree2022]
+#+end_quote
+
+#+attr_html: :alt Complete binary tree
+[[file:complete-binary-tree.png]]
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** [[id:cce89d10-ff69-4756-b9fa-9b713b4cb33b][Complete binary tree]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1656456446480
+:END:
+*** Context
+Computer science
+*** Definition
+A [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]] in which every level, except possibly the last, is completely filled, and all nodes in the last level are as far left as possible.
+*** Extra
+[[file:complete-binary-tree.png]]
+*** Source
+[cite:@BinaryTree2022]
+** [[id:cce89d10-ff69-4756-b9fa-9b713b4cb33b][Complete binary tree]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: ImageOf
+:ANKI_NOTE_ID: 1656456447205
+:END:
+*** Image
+[[file:complete-binary-tree.png]]
+*** Extra
+Also: [[id:14876c69-a161-4b59-976a-d659cfe9435c][Balanced binary tree]]
+*** Source
+[cite:@BinaryTree2022]
+
+** [[id:cce89d10-ff69-4756-b9fa-9b713b4cb33b][Complete binary tree]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: AKA
+:ANKI_NOTE_ID: 1656455587757
+:END:
+*** Term2
+Almost complete binary tree
+*** Term3
+*** Term4
+*** Term5
+*** Term6
+*** Context
+Computer science
+*** Extra
+*** Source
+[cite:@BinaryTree2022]
+** [[id:cce89d10-ff69-4756-b9fa-9b713b4cb33b][Complete]] and [[id:de6bcd91-4a80-4ea9-b939-eb7f57077f63][Perfect binary tree]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Compare/Contrast
+:ANKI_NOTE_ID: 1656455588455
+:END:
+*** Context
+Computer science
+*** Comparisons/Contrasts
+- A [[id:de6bcd91-4a80-4ea9-b939-eb7f57077f63][Perfect binary tree]] is one in which (1) all interior nodes have two children and (2) all leaf nodes are at the same level.
+- A [[id:cce89d10-ff69-4756-b9fa-9b713b4cb33b][Complete binary tree]] is one in which all levels, except possibly the last, is filled and all nodes in the last level are as far left as possible
+*** Source
+[cite:@BinaryTree2022]

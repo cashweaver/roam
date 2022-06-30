@@ -1,0 +1,62 @@
+:PROPERTIES:
+:ID:       a15a6edb-dbe2-496f-bdc7-92b14e1f5566
+:END:
+#+title: Degenerate binary tree
+#+author: Cash Weaver
+#+date: [2022-06-28 Tue 15:26]
+#+filetags: :concept:
+
+#+begin_quote
+A degenerate (or pathological) tree is where each parent node has only one associated child node. This means that the tree will behave like a linked list data structure.
+
+[cite:@BinaryTree2022]
+#+end_quote
+
+#+attr_html: :alt Degenerate binary tree
+[[file:degenerate-binary-tree.png]]
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** [[id:a15a6edb-dbe2-496f-bdc7-92b14e1f5566][Degenerate binary tree]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1656457352531
+:END:
+*** Context
+Computer science
+*** Definition
+A [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]] in which each parent node has only one child node.
+*** Extra
+[[file:degenerate-binary-tree.png]]
+*** Source
+[cite:@BinaryTree2022]
+** [[id:a15a6edb-dbe2-496f-bdc7-92b14e1f5566][Degenerate binary tree]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: ImageOf
+:ANKI_NOTE_ID: 1656457353281
+:END:
+*** Image
+[[file:degenerate-binary-tree.png]]
+*** Extra
+*** Source
+[cite:@BinaryTree2022]
+** [[id:a15a6edb-dbe2-496f-bdc7-92b14e1f5566][Degenerate binary tree]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: AKA
+:ANKI_NOTE_ID: 1656457354106
+:END:
+*** Term2
+Pathological binary tree
+*** Term3
+Linked list
+*** Term4
+*** Term5
+*** Term6
+*** Context
+Computer science
+*** Extra
+*** Source
+[cite:@BinaryTree2022]

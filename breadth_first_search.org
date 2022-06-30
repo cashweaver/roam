@@ -1,0 +1,129 @@
+:PROPERTIES:
+:ID:       cff4f06c-6179-423d-aa1d-ba54d85615e2
+:END:
+#+title: Breadth-first search
+#+author: Cash Weaver
+#+date: [2022-06-29 Wed 17:20]
+#+filetags: :concept:
+
+#+begin_quote
+Breadth-first search (BFS) is an algorithm for searching a [[id:1a068ad5-3e16-4ec4-b238-6fdc5904aeb4][Tree]] [or [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]]] [[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]] for a node that satisfies a given property. It starts at the tree root and explores all nodes at the present depth prior to moving on to the nodes at the next depth level. Extra memory, usually a [[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]], is needed to keep track of the child nodes that were encountered but not yet explored.
+#+end_quote
+
+* Algorithm
+
+#+begin_src
+procedure breadthFirstSearch(graph, rootNode)
+  define a Queue: queue
+  define a Set: visited
+
+  visited.add(rootNode)
+  queue.enqueue(rootNode)
+
+  while not queue.empty() do
+    node = queue.dequeue()
+    if node not in visited do
+      visited.add(node)
+      for connectedNode in graph.connectedNodes(node) do
+        queue.enqueue(connectedNode)
+#+end_src
+
+Based on the algorithm in [cite:@BreadthfirstSearch2022].
+
+
+* Complexity
+** TODO Time
+** TODO Space
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+
+** [[id:cff4f06c-6179-423d-aa1d-ba54d85615e2][Breadth-first search]] and [[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][Depth-first search]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Compare/Contrast
+:ANKI_NOTE_ID: 1656552440575
+:END:
+
+*** Context
+Computer science
+
+*** Comparisons/Contrasts
+- [[id:cff4f06c-6179-423d-aa1d-ba54d85615e2][Breadth-first search]] requires more memory than [[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][Depth-first search]] due to the queue
+- [[id:cff4f06c-6179-423d-aa1d-ba54d85615e2][Breadth-first search]] uses a queue
+- [[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][Depth-first search]] uses either a stack (iterative) or the call-stack (recursive)
+- [[id:cff4f06c-6179-423d-aa1d-ba54d85615e2][Breadth-first search]] is guaranteed to find the shortest path to the goal (optimal) whereas [[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][Depth-first search]] isn't optimal
+
+*** Source
+
+** {{c2::[[id:cff4f06c-6179-423d-aa1d-ba54d85615e2][Breadth-first search]]}} is {{c1::guaranteed}} to find the shortest path to the goal
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1656552441076
+:END:
+
+*** Extra
+
+*** Source
+[cite:@BreadthfirstSearch2022]
+** [[id:cff4f06c-6179-423d-aa1d-ba54d85615e2][Breadth-first search]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Algorithm
+:ANKI_NOTE_ID: 1656552639677
+:END:
+*** Setup
+#+begin_src
+define a Queue: queue
+define a Set: visited
+
+visited.add(rootNode)
+queue.enqueue(rootNode)
+
+while not queue.empty() do
+  node = queue.dequeue()
+  if node not in visited do
+    visited.add(node)
+    for connectedNode in graph.connectedNodes(node) do
+      queue.enqueue(connectedNode)
+#+end_src
+
+*** Step1Pre
+*** Step1IndentLevel
+*** Step1Title
+*** Step1
+*** Step1Post
+*** Step2Pre
+*** Step2IndentLevel
+*** Step2Title
+*** Step2
+*** Step2Post
+*** Step3Pre
+*** Step3IndentLevel
+*** Step3Title
+*** Step3
+*** Step3Post
+*** Step4IndentLevel
+*** Step4Pre
+*** Step4Title
+*** Step4
+*** Step4Post
+*** Step5Pre
+*** Step5IndentLevel
+*** Step5Title
+*** Step5
+*** Step5Post
+*** Source
+[cite:@BreadthfirstSearch2022]
+** {{c1::[[id:cff4f06c-6179-423d-aa1d-ba54d85615e2][Breadth-first search]]}} follows {{c2::level-order::traversal order}}
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1656554700950
+:END:
+*** Extra
+*** Source
+[cite:@TreeTraversal2022]

@@ -1,0 +1,46 @@
+:PROPERTIES:
+:ID:       25395d14-712a-4f0a-8fec-ee18152bc757
+:END:
+#+title: Full binary tree
+#+author: Cash Weaver
+#+date: [2022-06-28 Tue 15:26]
+#+filetags: :concept:
+
+#+begin_quote
+A full binary tree (sometimes referred to as a proper or plane or strict binary tree) is a tree in which every node has either 0 or 2 children.
+
+[cite:@BinaryTree2022]
+#+end_quote
+
+#+attr_html: :alt Full binary tree
+[[file:full-binary-tree.png]]
+#+print_bibliography:
+* Anki :noexport:computer_science:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** [[id:25395d14-712a-4f0a-8fec-ee18152bc757][Full binary tree]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1656457347749
+:END:
+*** Context
+Computer science
+*** Definition
+A [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]] in which all nodes have either 0 or 2 children.
+*** Extra
+[[file:full-binary-tree.png]]
+*** Source
+[cite:@BinaryTree2022]
+** [[id:25395d14-712a-4f0a-8fec-ee18152bc757][Full binary tree]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: ImageOf
+:ANKI_NOTE_ID: 1656457348506
+:END:
+*** Image
+[[file:full-binary-tree.png]]
+*** Extra
+*** Source
+[cite:@BinaryTree2022]
+

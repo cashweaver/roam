@@ -1,0 +1,41 @@
+:PROPERTIES:
+:ID:       2aa25a38-8f71-4b31-9f11-d9e4bd1b0bc9
+:END:
+#+title: Succinct data structure
+#+author: Cash Weaver
+#+date: [2022-06-29 Wed 09:35]
+#+filetags: :concept:
+
+#+begin_quote
+In computer science, a succinct data structure is a data structure which uses an amount of space that is "close" to the information-theoretic lower bound, but (unlike other compressed representations) still allows for efficient query operations.
+
+[cite:@SuccinctDataStructure2021]
+#+end_quote
+
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** [[id:2aa25a38-8f71-4b31-9f11-d9e4bd1b0bc9][Succinct data structure]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1656520892606
+:END:
+*** Context
+Computer science
+*** Definition
+A [[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]] that requires \(Z + o(Z)\) space to store some data where \(Z\) is the information-theoretical optimal number of bits needed to store the data.
+*** Extra
+*** Source
+** [[id:2aa25a38-8f71-4b31-9f11-d9e4bd1b0bc9][Succinct data structure]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Example(s)
+:ANKI_NOTE_ID: 1656525209551
+:END:
+*** Example(s)
+- [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]]
+*** Extra
+*** Source
+[cite:@SuccinctDataStructure2021]

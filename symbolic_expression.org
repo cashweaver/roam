@@ -1,0 +1,77 @@
+:PROPERTIES:
+:ID:       976fb83d-ae8c-427d-b47e-f0089b4d9ce1
+:ROAM_ALIASES: S-expression Sexp
+:END:
+#+title: Symbolic expression
+#+author: Cash Weaver
+#+date: [2022-06-29 Wed 08:13]
+#+filetags: :concept:
+#+begin_quote
+In computer programming, an S-expression (or symbolic expression, abbreviated as sexpr or sexp) is an expression in a like-named notation for nested list (tree-structured) data. S-expressions were invented for and popularized by the programming language Lisp, which uses them for source code as well as data.
+
+In the usual parenthesized syntax of Lisp, an S-expression is classically defined as:
+
+1. an atom [[[id:b37a4585-be03-43ea-a55c-6a5f84e59c77][Atom]]], or
+1. an expression of the form =(x . y)= where =x= and =y= are S-expressions.
+
+[formatting added]
+[cite:@Sexpression2022]
+#+end_quote
+
+#+begin_quote
+Tree data structure representing the s-expression =(* 2 (+ 3 4))=.
+
+[[file:Corrected_S-expression_tree_2.svg.png]]
+[cite:@Sexpression2022]
+#+end_quote
+
+#+print_bibliography:
+
+* Anki :noexport:computer_science:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Symbolic expression
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: AKA
+:ANKI_NOTE_ID: 1656516685455
+:END:
+
+*** Term2
+[[id:976fb83d-ae8c-427d-b47e-f0089b4d9ce1][Sexp]]
+
+*** Term3
+[[id:976fb83d-ae8c-427d-b47e-f0089b4d9ce1][S-expression]]
+
+*** Term4
+
+*** Term5
+
+*** Term6
+
+*** Context
+[[id:f6e9082b-3589-448a-9877-b9a2b31d88ba][Lisp]]
+
+*** Extra
+
+*** Source
+[cite:@Sexpression2022]
+
+** Symbolic expression
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1656516686255
+:END:
+
+*** Context
+[[id:f6e9082b-3589-448a-9877-b9a2b31d88ba][Lisp]]
+
+*** Definition
+Either an [[id:b37a4585-be03-43ea-a55c-6a5f84e59c77][Atom]] or an expression of the form =(x . y)= where =x= and =y= are also [[roam:Symbolic expressions]].
+
+*** Extra
+
+*** Source
+[cite:@Sexpression2022]

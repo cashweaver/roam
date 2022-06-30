@@ -1,0 +1,55 @@
+:PROPERTIES:
+:ID:       0ad51c11-995b-4437-a218-82df11697f7a
+:END:
+#+title: Iterative deepening depth-first-search
+#+author: Cash Weaver
+#+date: [2022-06-29 Wed 18:09]
+#+filetags: :concept:
+
+#+begin_quote
+In computer science, iterative deepening search or more specifically iterative deepening depth-first search[2] (IDS or IDDFS) is a state space/graph search strategy in which a depth-limited version of [[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][Depth-first search]] search is run repeatedly with increasing depth limits until the goal is found. IDDFS is optimal like [[id:cff4f06c-6179-423d-aa1d-ba54d85615e2][Breadth-first search]], but uses much less memory; at each iteration, it visits the nodes in the search tree in the same order as depth-first search, but the cumulative order in which nodes are first visited is effectively breadth-first.
+
+[cite:@IterativeDeepeningDepthfirstSearch2021]
+#+end_quote
+
+* TODO Algorithm
+
+Adapted from [cite:@IterativeDeepeningDepthfirstSearch2021].
+
+* Complexity
+** TODO Time
+** TODO Space
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** {{c2::[[id:0ad51c11-995b-4437-a218-82df11697f7a][Iterative deepening depth-first-search]]}} is {{c1::optimal}}, unlike [[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][Depth-first search]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1656551722302
+:END:
+*** Extra
+*** Source
+[cite:@IterativeDeepeningDepthfirstSearch2021]
+** {{c2::[[id:0ad51c11-995b-4437-a218-82df11697f7a][Iterative deepening depth-first-search]]}} {{c3::uses much less memory}} than {{c1::[[id:cff4f06c-6179-423d-aa1d-ba54d85615e2][Breadth-first search]]}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1656551723027
+:END:
+*** Extra
+*** Source
+[cite:@IterativeDeepeningDepthfirstSearch2021]
+** [[id:0ad51c11-995b-4437-a218-82df11697f7a][Iterative deepening depth-first-search]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Describe
+:ANKI_NOTE_ID: 1656551723576
+:END:
+*** Context
+Computer science
+*** Description
+- A modified version of [[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][Depth-first search]] which is depth-limited and slowly expands its depth.
+- Has a lower memory requirement than [[id:cff4f06c-6179-423d-aa1d-ba54d85615e2][Breadth-first search]]
+*** Extra
+*** Source
+[cite:@IterativeDeepeningDepthfirstSearch2021]

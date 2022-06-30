@@ -6,10 +6,47 @@
 #+date: [2022-06-28 Tue 20:24]
 #+filetags: :concept:
 
-A stack is an [[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]].
-* TODO
+#+begin_quote
+In computer science, a stack is an [[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]] that serves as a collection of elements, with two main principal operations:
+
+1. Push, which adds an element to the collection, and
+2. Pop, which removes the most recently added element that was not yet removed.
+
+The order in which elements come off a stack gives rise to its alternative name, LIFO (last in, first out). Additionally, a peek operation may give access to the top without modifying the stack.
+
+[links added]
+
+[cite:@StackAbstractDataType2022]
+#+end_quote
+
+#+print_bibliography:
 
 * Anki :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+** Common API of a [[id:5ab783c7-9a13-42d2-920d-95f103ac677c][Stack]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Describe
+:ANKI_NOTE_ID: 1656541941356
+:END:
+*** Context
+Computer science
+*** Description
+Public:
+
+- =push=
+- =pop=
+- =peek=
+
+*** Extra
+*** Source
+[cite:@StackAbstractDataType2022]
+** A {{c1::[[id:5ab783c7-9a13-42d2-920d-95f103ac677c][Stack]]}} adds and removes elements in {{c2::first in, first out}} order
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1656541941507
+:END:
+*** Extra
+*** Source
+[cite:@StackAbstractDataType2022]

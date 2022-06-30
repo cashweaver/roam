@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       7211246e-d3da-491e-a493-e84ba820e63f
+:END:
+#+title: Edge
+#+author: Cash Weaver
+#+date: [2022-06-29 Wed 19:15]
+#+filetags: :concept:
+
+* TODO
+
+An edge is a connection between two or more vertices.
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

@@ -1,0 +1,46 @@
+:PROPERTIES:
+:ID:       2f8c14b5-b44a-4fb9-b2c5-56ca8a48fdd9
+:END:
+#+title: Pre-order tree traversal
+#+author: Cash Weaver
+#+date: [2022-06-29 Wed 16:24]
+#+filetags: :concept:
+
+#+begin_quote
+1. Visit the current node (in the figure: position red)
+1. Recursively traverse the current node's left subtree
+1. Recursively traverse the current node's right subtree
+
+[cite:@TreeTraversal2022]
+#+end_quote
+
+#+begin_quote
+Pre-order traversal (red node): F, B, A, D, C, E, G, I, H
+
+[[file:Sorted_binary_tree_ALL_RGB.svg.png]]
+
+[cite:@TreeTraversal2022]
+#+end_quote
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** [[id:2f8c14b5-b44a-4fb9-b2c5-56ca8a48fdd9][Pre-order tree traversal]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Describe
+:ANKI_NOTE_ID: 1656545509807
+:END:
+*** Context
+Computer science
+*** Description
+Priority order for traversing the list:
+
+1. Node: Visit the current node
+1. Left: Recursively traverse the current node's left subtree, if possible
+1. Right: Recursively traverse the current node's right subtree, if possible
+
+*** Extra
+*** Source
+[cite:@TreeTraversal2022]

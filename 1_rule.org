@@ -22,3 +22,7 @@ Also see:
 - https://news.ycombinator.com/item?id=18881827
 - https://www.reddit.com/r/slatestarcodex/comments/9rvroo/most_of_what_you_read_on_the_internet_is_written/
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

@@ -14,3 +14,7 @@ An amygdala hijack is an emotional response that is immediate, overwhelming, and
 #+end_quote
 
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

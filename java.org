@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       8c75e487-e975-4408-8b92-876e93cfbc12
+:END:
+#+title: Java
+#+author: Cash Weaver
+#+date: [2022-06-29 Wed 15:34]
+#+filetags: :concept:
+
+The programming language.
+
+* TODO
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

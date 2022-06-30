@@ -1,0 +1,62 @@
+:PROPERTIES:
+:ID:       b8f1337e-8231-4ace-b003-bb988b4c39ee
+:ROAM_ALIASES: "Hash maps" "Hash tables" Dictionary "Hash map"
+:END:
+#+title: Hash table
+#+author: Cash Weaver
+#+date: [2022-06-29 Wed 16:06]
+#+filetags: :concept:
+
+#+begin_quote
+In computing, a hash table, also known as hash map or dictionary, is a [[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]] that implements a [[[id:efd422ba-2509-48c9-b267-265f3c369462][Associative array]]], a structure that can map keys to values. A hash table uses a [[id:b5c17ad0-3857-4800-90be-8e79e72897ab][Hash function]] to compute an index, also called a hash code, into an array of buckets or slots, from which the desired value can be found. During lookup, the key is hashed and the resulting hash indicates where the corresponding value is stored.
+
+Ideally, the hash function will assign each key to a unique bucket, but most hash table designs employ an imperfect hash function, which might cause hash collisions where the hash function generates the same index for more than one key. Such collisions are typically accommodated in some way.
+
+[cite:@HashTable2022]
+#+end_quote
+
+#+print_bibliography:
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** [[id:b8f1337e-8231-4ace-b003-bb988b4c39ee][Hash table]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1656544571782
+:END:
+
+*** Context
+Computer science
+
+*** Definition
+An implementation of an [[id:efd422ba-2509-48c9-b267-265f3c369462][Associative array]] which uses a function to relate the =key= to a specific location in an array of buckets or slots.
+
+*** Extra
+
+*** Source
+[cite:@HashTable2022]
+
+** A {{c1::hash collision}} is when {{c2::two pieces of data in a [[id:b8f1337e-8231-4ace-b003-bb988b4c39ee][Hash table]] share the same hash value}}.
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1656544746455
+:END:
+
+*** Extra
+
+*** Source
+[cite:@HashTable2022]
+
+** {{c2::[[id:b8f1337e-8231-4ace-b003-bb988b4c39ee][Hash tables]]}} are, on average, {{c1::more}} efficient than search trees.
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1656544872732
+:END:
+
+*** Extra
+
+*** Source
+[cite:@HashTable2022]

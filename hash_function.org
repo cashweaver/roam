@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       b5c17ad0-3857-4800-90be-8e79e72897ab
+:END:
+#+title: Hash function
+#+author: Cash Weaver
+#+date: [2022-06-29 Wed 16:13]
+#+filetags: :concept:
+
+#+begin_quote
+A hash function is any function that can be used to map data of arbitrary size to fixed-size values.
+
+[cite:@HashFunction2022]
+#+end_quote
+
+[[id:b8f1337e-8231-4ace-b003-bb988b4c39ee][Hash tables]] use hash functions to relate =keys= to a position in an array of buckets/slots holding the =values=.
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** [[id:b5c17ad0-3857-4800-90be-8e79e72897ab][Hash function]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1656544551507
+:END:
+*** Context
+Computer science
+*** Definition
+A function that maps data of an arbitrary size to fixed-size values.
+*** Extra
+*** Source
+[cite:@HashFunction2022]

@@ -1,0 +1,48 @@
+:PROPERTIES:
+:ID:       f6e9082b-3589-448a-9877-b9a2b31d88ba
+:END:
+#+title: Lisp
+#+author: Cash Weaver
+#+date: [2022-06-29 Wed 08:45]
+#+filetags: :concept:
+
+#+begin_quote
+Lisp (historically LISP) is a family of programming languages with a long history and a distinctive, fully parenthesized prefix notation.
+
+[...]
+
+The name LISP derives from "LISt Processor". Linked lists are one of Lisp's major data structures, and Lisp source code is made of lists. Thus, Lisp programs can manipulate source code as a data structure, giving rise to the macro systems that allow programmers to create new syntax or new domain-specific languages embedded in Lisp.
+
+The interchangeability of code and data gives Lisp its instantly recognizable syntax. All program code is written as s-expressions [[[id:976fb83d-ae8c-427d-b47e-f0089b4d9ce1][S-expression]]], or parenthesized lists. A function call or syntactic form is written as a list with the function or operator's name first, and the arguments following; for instance, a function =f= that takes three arguments would be called as =(f arg1 arg2 arg3)=.
+
+[cite:@LispProgrammingLanguage2022]
+#+end_quote
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** [[id:f6e9082b-3589-448a-9877-b9a2b31d88ba][Lisp]] uses {{c1::[[roam:Sexps]]}} to represent {{c2::both source code and data}}.
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1656518681080
+:END:
+
+*** Extra
+
+*** Source
+[cite:@LispProgrammingLanguage2022]
+
+** The name {{c1::[[id:f6e9082b-3589-448a-9877-b9a2b31d88ba][Lisp]]}} derives from {{c2::LISt Processor}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1656518681855
+:END:
+
+*** Extra
+
+*** Source
+[cite:@LispProgrammingLanguage2022]
+
+#+print_bibliography:

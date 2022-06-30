@@ -13,281 +13,66 @@ In computer science, a binary tree is a tree [[[id:1a068ad5-3e16-4ec4-b238-6fdc5
 #+end_quote
 
 * Types
+- [[id:cce89d10-ff69-4756-b9fa-9b713b4cb33b][Complete binary tree]]
+- [[id:25395d14-712a-4f0a-8fec-ee18152bc757][Full binary tree]]
+- [[id:de6bcd91-4a80-4ea9-b939-eb7f57077f63][Perfect binary tree]]
+- [[id:14876c69-a161-4b59-976a-d659cfe9435c][Balanced binary tree]]
+- [[id:a15a6edb-dbe2-496f-bdc7-92b14e1f5566][Degenerate binary tree]]
+- [[id:4c7bf5db-dc29-44a1-bb77-36d560b38688][Skewed binary tree]]
 
-** Complete binary tree
+* Implementation
+
+- [[id:ccf978f1-5518-49dd-8af1-a856cf6d1084][Binary tree implementation in java]]
+
+* Representations
+** Array
+*** Indexing
 :PROPERTIES:
-:ID:       cce89d10-ff69-4756-b9fa-9b713b4cb33b
+:ID:       bfbcb283-934e-4fe1-94ce-f0280315e08d
 :END:
 
-#+begin_quote
-A complete binary tree is a binary tree in which every level, except possibly the last, is completely filled, and all nodes in the last level are as far left as possible.
-
-[cite:@BinaryTree2022]
-#+end_quote
-
-[[file:complete-binary-tree.png][Complete binary tree]]
-
-** Full binary tree
-:PROPERTIES:
-:ID:       25395d14-712a-4f0a-8fec-ee18152bc757
-:END:
-
-#+begin_quote
-A full binary tree (sometimes referred to as a proper or plane or strict binary tree) is a tree in which every node has either 0 or 2 children.
-
-[cite:@BinaryTree2022]
-#+end_quote
-
-[[file:full-binary-tree.png][Full binary tree]]
-
-** Perfect binary tree
-:PROPERTIES:
-:ID:       de6bcd91-4a80-4ea9-b939-eb7f57077f63
-:END:
-
-#+begin_quote
-A perfect binary tree is a binary tree in which all interior nodes have two children and all leaves have the same depth or same level.
-
-[cite:@BinaryTree2022]
-#+end_quote
-
-[[file:perfect-binary-tree.png][Perfect binary tree]]
-** Balanced binary tree
-:PROPERTIES:
-:ID:       14876c69-a161-4b59-976a-d659cfe9435c
-:END:
-
-#+begin_quote
-A balanced binary tree is a binary tree structure in which the left and right subtrees of every node differ in height by no more than 1.
-
-[cite:@BinaryTree2022]
-#+end_quote
-
-[[file:balanced-binary-tree.png][Balanced binary tree]]
-
-** Degenerate binary tree
-:PROPERTIES:
-:ID:       a15a6edb-dbe2-496f-bdc7-92b14e1f5566
-:END:
-
-#+begin_quote
-A degenerate (or pathological) tree is where each parent node has only one associated child node. This means that the tree will behave like a linked list data structure.
-#+end_quote
-
-[[file:degenerate-binary-tree.png][Degenerate binary tree]]
-
-** Skewed binary tree
-:PROPERTIES:
-:ID:       4c7bf5db-dc29-44a1-bb77-36d560b38688
-:END:
-
-#+begin_quote
-A skewed binary tree is a pathological/degenerate tree in which the tree is either dominated by the left nodes or the right nodes. Thus, there are two types of skewed binary tree: left-skewed binary tree and right-skewed binary tree.
-
-[cite:@programizBinaryTree]
-#+end_quote
-
-[[file:skewed-binary-tree.png][Skewed binary tree]]
+Assuming a 0-indexed array: child nodes for a node at index \(i\) are at \(\text{left}=2i+1\) and \(\text{right}=2i+2\). Similarly, the parent node for a node at index \(i\) is at \(\lfloor\frac{i-1}{2}\rfloor\).
 
 #+print_bibliography:
+
 * Anki :noexport:computer_science:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
-** [[id:cce89d10-ff69-4756-b9fa-9b713b4cb33b][Complete binary tree]]
+** \(\operatorname{parent}(i)\) \(\forall\) child indexes, \(i\)
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1656526659757
+:END:
+*** Context
+Array implementation of a [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]]
+*** Definition
+\(f(i)=\lfloor\frac{i-1}{2}\rfloor\)
+*** Extra
+*** Source
+[cite:@BinaryTree2022]
+** \(\operatorname{children}(i)\) \(\forall\) parent indexes, \(i\)
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1656526821905
+:END:
+*** Context
+Array implementation of a [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]]
+*** Definition
+\(f(i)=\{2i+1, 2i+2\}\)
+*** Extra
+*** Source
+[cite:@BinaryTree2022]
+** [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]]
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Definition
-:ANKI_NOTE_ID: 1656456446480
+:ANKI_NOTE_ID: 1656528202358
 :END:
 *** Context
 Computer science
 *** Definition
-A [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]] in which every level, except possibly the last, is completely filled, and all nodes in the last level are as far left as possible.
-*** Extra
-[[file:complete-binary-tree.png]]
-*** Source
-[cite:@BinaryTree2022]
-** [[id:cce89d10-ff69-4756-b9fa-9b713b4cb33b][Complete binary tree]]
-:PROPERTIES:
-:ANKI_NOTE_TYPE: ImageOf
-:ANKI_NOTE_ID: 1656456447205
-:END:
-*** Image
-[[file:complete-binary-tree.png]]
-*** Extra
-Also: [[id:14876c69-a161-4b59-976a-d659cfe9435c][Balanced binary tree]]
-*** Source
-[cite:@BinaryTree2022]
-
-** [[id:cce89d10-ff69-4756-b9fa-9b713b4cb33b][Complete binary tree]]
-:PROPERTIES:
-:ANKI_NOTE_TYPE: AKA
-:ANKI_NOTE_ID: 1656455587757
-:END:
-*** Term2
-Almost complete binary tree
-*** Term3
-*** Term4
-*** Term5
-*** Term6
-*** Context
-Computer science
-*** Extra
-*** Source
-[cite:@BinaryTree2022]
-** [[id:cce89d10-ff69-4756-b9fa-9b713b4cb33b][Complete]] and [[id:de6bcd91-4a80-4ea9-b939-eb7f57077f63][Perfect binary tree]]
-:PROPERTIES:
-:ANKI_NOTE_TYPE: Compare/Contrast
-:ANKI_NOTE_ID: 1656455588455
-:END:
-*** Context
-Computer science
-*** Comparisons/Contrasts
-- A [[id:de6bcd91-4a80-4ea9-b939-eb7f57077f63][Perfect binary tree]] is one in which (1) all interior nodes have two children and (2) all leaf nodes are at the same level.
-- A [[id:cce89d10-ff69-4756-b9fa-9b713b4cb33b][Complete binary tree]] is one in which all levels, except possibly the last, is filled and all nodes in the last level are as far left as possible
-*** Source
-[cite:@BinaryTree2022]
-
-** [[id:25395d14-712a-4f0a-8fec-ee18152bc757][Full binary tree]]
-:PROPERTIES:
-:ANKI_DECK: Default
-:ANKI_NOTE_TYPE: Definition
-:ANKI_NOTE_ID: 1656457347749
-:END:
-*** Context
-Computer science
-*** Definition
-A [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]] in which all nodes have either 0 or 2 children.
-*** Extra
-[[file:full-binary-tree.png]]
-*** Source
-[cite:@BinaryTree2022]
-** [[id:25395d14-712a-4f0a-8fec-ee18152bc757][Full binary tree]]
-:PROPERTIES:
-:ANKI_NOTE_TYPE: ImageOf
-:ANKI_NOTE_ID: 1656457348506
-:END:
-*** Image
-[[file:full-binary-tree.png]]
-*** Extra
-*** Source
-[cite:@BinaryTree2022]
-
-** [[id:de6bcd91-4a80-4ea9-b939-eb7f57077f63][Perfect binary tree]]
-:PROPERTIES:
-:ANKI_DECK: Default
-:ANKI_NOTE_TYPE: Definition
-:ANKI_NOTE_ID: 1656457349354
-:END:
-*** Context
-Computer science
-*** Definition
-A [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]] in which (1) all interior nodes have 2 children and (2) all leaves have the same depth.
-*** Extra
-[[file:perfect-binary-tree.png]]
-*** Source
-[cite:@BinaryTree2022]
-** [[id:de6bcd91-4a80-4ea9-b939-eb7f57077f63][Perfect binary tree]]
-:PROPERTIES:
-:ANKI_NOTE_TYPE: ImageOf
-:ANKI_NOTE_ID: 1656457350105
-:END:
-*** Image
-[[file:perfect-binary-tree.png]]
-*** Extra
-*** Source
-[cite:@BinaryTree2022]
-
-
-** [[id:14876c69-a161-4b59-976a-d659cfe9435c][Balanced binary tree]]
-:PROPERTIES:
-:ANKI_DECK: Default
-:ANKI_NOTE_TYPE: Definition
-:ANKI_NOTE_ID: 1656457350956
-:END:
-*** Context
-Computer science
-*** Definition
-A [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]] in which the left and right subtrees of every node differ in height by no more than 1.
-*** Extra
-[[file:balanced-binary-tree.png]]
-*** Source
-[cite:@BinaryTree2022]
-** [[id:14876c69-a161-4b59-976a-d659cfe9435c][Balanced binary tree]]
-:PROPERTIES:
-:ANKI_NOTE_TYPE: ImageOf
-:ANKI_NOTE_ID: 1656457351705
-:END:
-*** Image
-[[file:balanced-binary-tree.png]]
-*** Extra
-*** Source
-[cite:@BinaryTree2022]
-
-** [[id:a15a6edb-dbe2-496f-bdc7-92b14e1f5566][Degenerate binary tree]]
-:PROPERTIES:
-:ANKI_DECK: Default
-:ANKI_NOTE_TYPE: Definition
-:ANKI_NOTE_ID: 1656457352531
-:END:
-*** Context
-Computer science
-*** Definition
-A [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]] in which each parent node has only one child node.
-*** Extra
-[[file:degenerate-binary-tree.png]]
-*** Source
-[cite:@BinaryTree2022]
-** Degenerate binary tree
-:PROPERTIES:
-:ANKI_NOTE_TYPE: ImageOf
-:ANKI_NOTE_ID: 1656457353281
-:END:
-*** Image
-[[file:degenerate-binary-tree.png]]
-*** Extra
-*** Source
-[cite:@BinaryTree2022]
-** [[id:a15a6edb-dbe2-496f-bdc7-92b14e1f5566][Degenerate binary tree]]
-:PROPERTIES:
-:ANKI_NOTE_TYPE: AKA
-:ANKI_NOTE_ID: 1656457354106
-:END:
-*** Term2
-Pathological binary tree
-*** Term3
-Linked list
-*** Term4
-*** Term5
-*** Term6
-*** Context
-Computer science
-*** Extra
-*** Source
-[cite:@BinaryTree2022]
-
-** [[id:4c7bf5db-dc29-44a1-bb77-36d560b38688][Skewed binary tree]]
-:PROPERTIES:
-:ANKI_DECK: Default
-:ANKI_NOTE_TYPE: Definition
-:ANKI_NOTE_ID: 1656457354979
-:END:
-*** Context
-Computer science
-*** Definition
-A [[id:a15a6edb-dbe2-496f-bdc7-92b14e1f5566][Degenerate binary tree]] in which all nodes are either on the left or right side.
-*** Extra
-[[file:skewed-binary-tree.png]]
-*** Source
-[cite:@BinaryTree2022]
-** [[id:4c7bf5db-dc29-44a1-bb77-36d560b38688][Skewed binary tree]]
-:PROPERTIES:
-:ANKI_NOTE_TYPE: ImageOf
-:ANKI_NOTE_ID: 1656457355757
-:END:
-*** Image
-[[file:skewed-binary-tree.png]]
+A [[id:1a068ad5-3e16-4ec4-b238-6fdc5904aeb4][Tree]] [[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]] in which each node has at most two children.
 *** Extra
 *** Source
 [cite:@BinaryTree2022]

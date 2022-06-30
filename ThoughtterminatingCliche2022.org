@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@ThoughtterminatingCliche2022]
+:ID:       87a90518-0748-4d39-88d6-e18e86a1ff99
+:END:
+#+title: Wikipedia | Thought-Terminating Cliché
+#+author: Cash Weaver
+#+date: [2022-06-26 Sun 10:41]
+#+filetags: :reference:
+
+
+[cite:@ThoughtterminatingCliche2022]
+
+* TODO Summary
+* TODO Thoughts
+* TODO Notes
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

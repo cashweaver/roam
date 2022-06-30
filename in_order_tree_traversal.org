@@ -1,0 +1,46 @@
+:PROPERTIES:
+:ID:       5069eb5e-f5c6-49de-8329-ba07dafe320e
+:END:
+#+title: In-order tree traversal
+#+author: Cash Weaver
+#+date: [2022-06-29 Wed 16:32]
+#+filetags: :concept:
+
+#+begin_quote
+1. Recursively traverse the current node's left subtree
+1. Visit the current node (in the figure: position green)
+2. Recursively traverse the current node's right subtree
+
+[cite:@TreeTraversal2022]
+#+end_quote
+
+#+begin_quote
+In-order traversal (green node): A, B, C, D, E, F, G, H, I
+
+[[file:Sorted_binary_tree_ALL_RGB.svg.png]]
+
+[cite:@TreeTraversal2022]
+#+end_quote
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** [[id:5069eb5e-f5c6-49de-8329-ba07dafe320e][In-order tree traversal]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Describe
+:ANKI_NOTE_ID: 1656545610757
+:END:
+*** Context
+Computer science
+*** Description
+Priority order for traversing the list:
+
+1. Left: Recursively traverse the current node's left subtree, if possible
+1. Node: Visit the current node
+2. Right: Recursively traverse the current node's right subtree, if possible
+
+*** Extra
+*** Source
+[cite:@TreeTraversal2022]

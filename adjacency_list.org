@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       a95ec6df-303d-4a07-a9bd-ac6e4b807679
+:END:
+#+title: Adjacency list
+#+author: Cash Weaver
+#+date: [2022-06-29 Wed 19:07]
+#+filetags: :concept:
+
+#+begin_quote
+In graph theory and computer science, an adjacency list is a collection of unordered lists used to represent a finite graph.
+
+[cite:@AdjacencyList2022]
+#+end_quote
+
+[[file:120px-Simple_cycle_graph.svg.png]]
+
+The above graph can be represented as the set \(S\) which contains \(\{B,C\}\), \(\{A,C\}\), \(\{B,A\}\).
+
+| Vertexes | Edges |
+|----------+-------|
+| A        | B, C  |
+| B        | A, C  |
+| C        | A, B  |
+
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** [[id:a95ec6df-303d-4a07-a9bd-ac6e4b807679][Adjacency list]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1656555120251
+:END:
+*** Context
+Computer science
+*** Definition
+A representation of a [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] using a collection of unordered lists.
+*** Extra
+*** Source
+[cite:@AdjacencyList2022]

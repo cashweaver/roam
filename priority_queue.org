@@ -1,0 +1,44 @@
+:PROPERTIES:
+:ID:       6f787120-13bb-405a-bfca-060df6d80b14
+:ROAM_ALIASES: "Priority queues"
+:END:
+#+title: Priority queue
+#+author: Cash Weaver
+#+date: [2022-06-28 Tue 17:37]
+#+filetags: :concept:
+
+#+begin_quote
+In computer science, a priority queue is an abstract data-type similar to a regular queue [[[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]]] or stack data structure in which each element additionally has a "priority" associated with it. In a priority queue, an element with high priority is served before an element with low priority.
+
+[...]
+
+To improve performance, priority queues are typically based on a heap [[[id:70cbebc9-8936-4d52-885a-76d747c6577f][Heap]]], giving O(log n) performance for inserts and removals, and O(n) to build the heap initially from a set of n elements.
+
+[cite:@PriorityQueue2022]
+#+end_quote
+
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** [[id:6f787120-13bb-405a-bfca-060df6d80b14][Priority queue]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1656464404426
+:END:
+*** Context
+Computer science
+*** Definition
+An [[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]] similar to a regular [[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]] in which each element has an additional "priority" property. =dequeue= returns elements with in priority order in descending order.
+*** Extra
+*** Source
+[cite:@PriorityQueue2022]
+** A {{c1::[[id:6f787120-13bb-405a-bfca-060df6d80b14][Priority queue]]::[[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]]}} is often implemented with a {{c2::[[id:70cbebc9-8936-4d52-885a-76d747c6577f][Heap]]}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1656464664730
+:END:
+*** Extra
+*** Source
+[cite:@PriorityQueue2022]

@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       ccf978f1-5518-49dd-8af1-a856cf6d1084
+:END:
+#+title: Binary tree implementation in java
+#+author: Cash Weaver
+#+date: [2022-06-29 Wed 15:23]
+#+filetags: :concept:
+
+
+* TODO
+#+name: heap-interface
+#+begin_src java :exports none
+interface BinaryTree<T> {
+   boolean add(T value);
+   boolean remove(T value);
+}
+#+end_src
+
+#+begin_src java :classname Main :noweb yes
+import java.lang.Math;
+import java.util.Optional;
+import java.util.ArrayList;
+
+<<heap-interface>>
+#+end_src
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

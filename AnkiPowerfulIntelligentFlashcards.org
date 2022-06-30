@@ -21,3 +21,7 @@ See also:
 - [[id:858c6cb1-52a9-446a-b11f-b35229b528e0][Testing Effect]]
 
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

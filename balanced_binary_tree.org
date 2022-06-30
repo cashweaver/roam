@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID:       14876c69-a161-4b59-976a-d659cfe9435c
+:END:
+#+title: Balanced binary tree
+#+author: Cash Weaver
+#+date: [2022-06-28 Tue 15:26]
+#+filetags: :concept:
+
+#+begin_quote
+A balanced binary tree is a binary tree structure in which the left and right subtrees of every node differ in height by no more than 1.
+
+[cite:@BinaryTree2022]
+#+end_quote
+
+#+attr_html: :alt Balanced binary tree
+[[file:balanced-binary-tree.png]]
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** [[id:14876c69-a161-4b59-976a-d659cfe9435c][Balanced binary tree]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1656457350956
+:END:
+*** Context
+Computer science
+*** Definition
+A [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]] in which the left and right subtrees of every node differ in height by no more than 1.
+*** Extra
+[[file:balanced-binary-tree.png]]
+*** Source
+[cite:@BinaryTree2022]
+** [[id:14876c69-a161-4b59-976a-d659cfe9435c][Balanced binary tree]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: ImageOf
+:ANKI_NOTE_ID: 1656457351705
+:END:
+*** Image
+[[file:balanced-binary-tree.png]]
+*** Extra
+*** Source
+[cite:@BinaryTree2022]

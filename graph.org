@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       8bff4dfc-8073-4d45-ab89-7b3f97323327
+:ROAM_ALIASES: Graphs
+:END:
+#+title: Graph
+#+author: Cash Weaver
+#+date: [2022-06-29 Wed 16:42]
+#+filetags: :concept:
+* TODO
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

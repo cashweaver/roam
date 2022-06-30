@@ -1,0 +1,57 @@
+:PROPERTIES:
+:ID:       650f4577-c1ec-46c9-b7a6-af8d90756bcd
+:END:
+#+title: Implicit data structure
+#+author: Cash Weaver
+#+date: [2022-06-29 Wed 09:32]
+#+filetags: :concept:
+
+#+begin_quote
+In computer science, an implicit data structure or space-efficient data structure is a [[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]] that stores very little information other than the main or required data: a data structure that requires low overhead. They are called "implicit" because the position of the elements carries meaning and relationship between elements; this is contrasted with the use of pointers to give an explicit relationship between elements. Definitions of "low overhead" vary, but generally means constant overhead; in big O notation, O(1) overhead.
+
+[cite:@ImplicitDataStructure2021]
+#+end_quote
+
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** [[id:650f4577-c1ec-46c9-b7a6-af8d90756bcd][Implicit data structure]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1656520743556
+:END:
+*** Context
+Computer science
+*** Definition
+A [[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]] that requires \(Z + O(1)\) space to store some data where \(Z\) is the information-theoretical optimal number of bits needed to store the data.
+*** Extra
+*** Source
+** [[id:650f4577-c1ec-46c9-b7a6-af8d90756bcd][Implicit data structure]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: AKA
+:ANKI_NOTE_ID: 1656520744381
+:END:
+*** Term2
+Space-efficient data structure
+*** Term3
+*** Term4
+*** Term5
+*** Term6
+*** Context
+Computer science
+*** Extra
+*** Source
+[cite:@ImplicitDataStructure2021]
+** [[id:650f4577-c1ec-46c9-b7a6-af8d90756bcd][Implicit data structure]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Example(s)
+:ANKI_NOTE_ID: 1656520745131
+:END:
+*** Example(s)
+- [[id:79b155d7-5a67-469d-b3f4-b8010cad8b54][Array]]
+*** Extra
+*** Source
+[cite:@ImplicitDataStructure2021]
