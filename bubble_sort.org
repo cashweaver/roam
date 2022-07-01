@@ -1,0 +1,140 @@
+:PROPERTIES:
+:ID:       c6bc266e-1090-492f-bdba-f044e04db3ff
+:END:
+#+title: Bubble sort
+#+author: Cash Weaver
+#+date: [2022-06-30 Thu 10:47]
+#+filetags: :concept:
+
+#+begin_quote
+Bubble sort, sometimes referred to as sinking sort, is a simple [[id:093fae33-1843-4271-b7cd-336553b9aac9][Sorting algorithm]] that repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order. The pass through the list is repeated until the list is sorted.
+
+[links added]
+
+[cite:@BubbleSort2022]
+#+end_quote
+* Algorithm
+
+#+begin_src
+while list is not sorted do
+  for i in range(len(list) - 1) do
+    if list[i] > list[i+1] do
+      swap(i, i+1)
+#+end_src
+
+* Implementation
+
+- [[id:af832252-c4a9-4364-bdef-59c1a8ea6ebe][Bubble sort implementation in Python]]
+* Complexity
+
+|       | Worst-case | Best-case |
+|-------+------------+-----------|
+| Time  | \(O(n^2)\) | \(O(n)\)  |
+| Space | \(O(n)\)   | \(O(n)\)  |
+
+
+#+print_bibliography:
+* Anki :noexport:computer_science:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** [[id:c6bc266e-1090-492f-bdba-f044e04db3ff][Bubble sort]] algorithm
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Describe
+:ANKI_NOTE_ID: 1656621076518
+:END:
+*** Context
+Computer science
+*** Description
+A [[id:093fae33-1843-4271-b7cd-336553b9aac9][Sorting algorithm]] which repeatedly loops over the full list and conditionally swaps adjacent elements.
+*** Extra
+|       | Worst-case | Best-case |
+|-------+------------+-----------|
+| Time  | \(O(n^2)\) | \(O(n)\)  |
+| Space | \(O(n)\)   | \(O(n)\)  |
+
+*** Source
+[cite:@BubbleSort2022]
+
+** [[id:c6bc266e-1090-492f-bdba-f044e04db3ff][Bubble sort]] time complexity
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Describe
+:ANKI_NOTE_ID: 1656624119065
+:END:
+*** Context
+Computer science
+*** Description
+|       | Worst-case | Best-case |
+|-------+------------+-----------|
+| Time  | \(O(n^2)\) | \(O(n)\)  |
+*** Extra
+|       | Worst-case | Best-case |
+|-------+------------+-----------|
+| Space | \(O(n)\)   | \(O(n)\)  |
+
+A [[id:093fae33-1843-4271-b7cd-336553b9aac9][Sorting algorithm]] which repeatedly loops over the full list and conditionally swaps adjacent elements.
+*** Source
+[cite:@BubbleSort2022]
+
+** [[id:c6bc266e-1090-492f-bdba-f044e04db3ff][Bubble sort]] space complexity
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Describe
+:ANKI_NOTE_ID: 1656624119742
+:END:
+*** Context
+Computer science
+*** Description
+|       | Worst-case | Best-case |
+|-------+------------+-----------|
+| Space | \(O(n)\)   | \(O(n)\)  |
+*** Extra
+|      | Worst-case | Best-case |
+|------+------------+-----------|
+| Time | \(O(n^2)\) | \(O(n)\)  |
+
+A [[id:093fae33-1843-4271-b7cd-336553b9aac9][Sorting algorithm]] which repeatedly loops over the full list and conditionally swaps adjacent elements.
+*** Source
+[cite:@BubbleSort2022]
+** [[id:c6bc266e-1090-492f-bdba-f044e04db3ff][Bubble sort]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Algorithm
+:ANKI_NOTE_ID: 1656624322867
+:END:
+*** Setup
+*** Step1Pre
+*** Step1IndentLevel
+*** Step1Title
+*** Step1
+#+begin_src
+while list is not sorted do
+  for i in range(len(list) - 1) do
+    if list[i] > list[i+1] do
+      swap(i, i+1)
+#+end_src
+*** Step1Post
+*** Step2Pre
+*** Step2IndentLevel
+*** Step2Title
+*** Step2
+*** Step2Post
+*** Step3Pre
+*** Step3IndentLevel
+*** Step3Title
+*** Step3
+*** Step3Post
+*** Step4IndentLevel
+*** Step4Pre
+*** Step4Title
+*** Step4
+*** Step4Post
+*** Step5Pre
+*** Step5IndentLevel
+*** Step5Title
+*** Step5
+*** Step5Post
+*** Source

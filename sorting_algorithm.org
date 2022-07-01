@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       093fae33-1843-4271-b7cd-336553b9aac9
+:END:
+#+title: Sorting algorithm
+#+author: Cash Weaver
+#+date: [2022-06-30 Thu 10:46]
+#+filetags: :concept:
+* TODO
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

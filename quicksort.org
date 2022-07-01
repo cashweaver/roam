@@ -1,0 +1,103 @@
+:PROPERTIES:
+:ID:       d7bcd831-6a3f-4885-a654-15f0b11c9966
+:END:
+#+title: Quicksort
+#+author: Cash Weaver
+#+date: [2022-06-30 Thu 13:45]
+#+filetags: :concept:
+
+#+begin_quote
+Quicksort is an in-place [[id:093fae33-1843-4271-b7cd-336553b9aac9][Sorting algorithm]]. [...] It works by selecting a 'pivot' element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot.
+
+[cite:@Quicksort2022]
+#+end_quote
+* Algorithm
+
+This partition algorithm always uses the rightmost element as the pivot. There are other possible pivot selection strategies.
+
+#+begin_src
+procedure f(lowIndex, highIndex, list) is
+  if lowIndex >= highIndex || lowIndex < 0 then
+    return
+
+  pivotIndex = partition(0, len(list))
+
+  f(0, pivotIndex-1, list)
+  f(pivotIndex+1, len(list), list)
+
+procedure partition(lowIndex, highIndex, list) is
+  pivotIndex = highIndex
+
+  i = lowIndex - 1
+  for j from lowIndex to highIndex - 1 do
+    if list[j] <= list[pivotIndex] then
+      i += 1
+      swap list[i] and list[j]
+  i += 1
+  swap list[i] and list[pivotIndex]
+  return i
+#+end_src
+
+* Implementation
+
+- [[id:ed982b37-6f8e-4b89-bb51-ac608510325e][Quicksort implementation in Python]]
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** [[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Algorithm
+:ANKI_NOTE_ID: 1656626789568
+:END:
+*** Setup
+*** Step1Pre
+*** Step1IndentLevel
+*** Step1Title
+*** Step1
+#+begin_src
+procedure f(lowIndex, highIndex, list) is
+  if lowIndex >= highIndex || lowIndex < 0 then
+    return
+
+  pivotIndex = partition(0, len(list))
+
+  f(0, pivotIndex-1, list)
+  f(pivotIndex+1, len(list), list)
+
+procedure partition(lowIndex, highIndex, list) is
+  pivotIndex = highIndex
+
+  i = lowIndex - 1
+  for j from lowIndex to highIndex - 1 do
+    if list[j] <= list[pivotIndex] then
+      i += 1
+      swap list[i] and list[j]
+  i += 1
+  swap list[i] and list[pivotIndex]
+  return i
+#+end_src
+*** Step1Post
+*** Step2Pre
+*** Step2IndentLevel
+*** Step2Title
+*** Step2
+*** Step2Post
+*** Step3Pre
+*** Step3IndentLevel
+*** Step3Title
+*** Step3
+*** Step3Post
+*** Step4IndentLevel
+*** Step4Pre
+*** Step4Title
+*** Step4
+*** Step4Post
+*** Step5Pre
+*** Step5IndentLevel
+*** Step5Title
+*** Step5
+*** Step5Post
+*** Source

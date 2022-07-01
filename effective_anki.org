@@ -1,0 +1,34 @@
+:PROPERTIES:
+:ID:       047c30fb-6d35-428f-a4d3-e4fd7497c621
+:END:
+#+title: Effective Anki
+#+author: Cash Weaver
+#+date: [2022-06-30 Thu 08:52]
+#+filetags: :concept:
+
+My recommendations for effective use of [[id:6472f018-ab80-4c73-b973-adb8417939db][Anki]].
+
+* Decks
+
+- Use a single deck
+
+* TODO Deck options
+
+TODO: Find a source for these points. I discovered and implemented them before I started writing things down.
+
+- New cards
+  - Steps
+    - In minutes: =15, 2160, 10080, 40320=
+
+** New Cards
+
+*** Steps
+
+- In minutes (for android): =15=, =2160=, =10080=, =40320= [cite:@eshapardMyCurrentAnki]
+- For desktop Anki: 15m , 36h, 7d, 28d
+
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
