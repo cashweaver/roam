@@ -28,7 +28,7 @@ Main proposed that avoidance has two functions for an infant whose caregiver is 
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Describe
-:ANKI_NOTE_ID: 1656275236983
+:ANKI_NOTE_ID: 1656857252534
 :END:
 
 *** Context
@@ -45,7 +45,7 @@ An unhealthy attachment pattern in which the child "gives up" on receiving comfo
 ** Avoidant attachment
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Example(s)
-:ANKI_NOTE_ID: 1656275237157
+:ANKI_NOTE_ID: 1656857253108
 :END:
 
 *** Example(s)

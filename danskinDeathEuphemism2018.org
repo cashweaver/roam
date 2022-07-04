@@ -61,7 +61,7 @@ To the Far Right, a euphemism is like a calf: something to be brought into this 
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Describe
-:ANKI_NOTE_ID: 1656214110106
+:ANKI_NOTE_ID: 1656856880459
 :END:
 *** Context
 *** Description
@@ -72,7 +72,7 @@ The point at which those who would have previously used a euphemism instead of s
 ** Death of a euphemism
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Example(s)
-:ANKI_NOTE_ID: 1656262512031
+:ANKI_NOTE_ID: 1656856881282
 :END:
 *** Example(s)
 - "Border security" as a euphemism for keeping Mexicans from entering the USA; "When Mexico sends its people, they're not sending their best. [...] They're bringing drugs. They're bringing crime. They're rapists."

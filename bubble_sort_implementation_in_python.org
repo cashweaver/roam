@@ -6,6 +6,8 @@
 #+date: [2022-06-30 Thu 10:52]
 #+filetags: :concept:
 
+An implementation of [[id:c6bc266e-1090-492f-bdba-f044e04db3ff][Bubble sort]] in [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]].
+
 #+begin_src python :results pp
 from typing import List
 

@@ -23,7 +23,7 @@ A degenerate (or pathological) tree is where each parent node has only one assoc
 ** [[id:a15a6edb-dbe2-496f-bdc7-92b14e1f5566][Degenerate binary tree]]
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Definition
-:ANKI_NOTE_ID: 1656457352531
+:ANKI_NOTE_ID: 1656857203034
 :END:
 *** Context
 Computer science
@@ -36,7 +36,7 @@ A [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]] in which each parent 
 ** [[id:a15a6edb-dbe2-496f-bdc7-92b14e1f5566][Degenerate binary tree]]
 :PROPERTIES:
 :ANKI_NOTE_TYPE: ImageOf
-:ANKI_NOTE_ID: 1656457353281
+:ANKI_NOTE_ID: 1656857203683
 :END:
 *** Image
 [[file:degenerate-binary-tree.png]]
@@ -46,7 +46,7 @@ A [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]] in which each parent 
 ** [[id:a15a6edb-dbe2-496f-bdc7-92b14e1f5566][Degenerate binary tree]]
 :PROPERTIES:
 :ANKI_NOTE_TYPE: AKA
-:ANKI_NOTE_ID: 1656457354106
+:ANKI_NOTE_ID: 1656857204908
 :END:
 *** Term2
 Pathological binary tree

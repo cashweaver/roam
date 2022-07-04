@@ -69,7 +69,7 @@ Example of a [[id:cce89d10-ff69-4756-b9fa-9b713b4cb33b][Complete]] binary [[id:7
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Definition
-:ANKI_NOTE_ID: 1656533113231
+:ANKI_NOTE_ID: 1656857000357
 :END:
 *** Context
 Computer science
@@ -81,7 +81,7 @@ A [[id:70cbebc9-8936-4d52-885a-76d747c6577f][Heap]] [[id:738c2ba7-a272-417d-9b6d
 ** {{c1::[[id:a0c1d3a6-51b9-4cab-9a5e-f47e9e6ec3ad][Binary heaps]]}} are a common way of implementing {{c2::[[id:6f787120-13bb-405a-bfca-060df6d80b14][Priority queues]]}}
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Cloze with Source
-:ANKI_NOTE_ID: 1656533188957
+:ANKI_NOTE_ID: 1656857001208
 :END:
 *** Extra
 *** Source

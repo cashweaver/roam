@@ -68,7 +68,7 @@ A detailed explanation lands a lot better when it's not being contrasted with a 
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Describe
-:ANKI_NOTE_ID: 1656208226980
+:ANKI_NOTE_ID: 1656857259180
 :END:
 *** Context
 Alt-right playbook
@@ -80,7 +80,7 @@ A method for winning arguments -- defined as: convince the audience you won or o
 ** Never play defense
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Example(s)
-:ANKI_NOTE_ID: 1656262374509
+:ANKI_NOTE_ID: 1656857259758
 :END:
 *** Example(s)
 - Policital debates

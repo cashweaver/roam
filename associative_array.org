@@ -25,7 +25,7 @@ In computer science, an associative array, map, symbol table, or dictionary is a
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Definition
-:ANKI_NOTE_ID: 1656544255680
+:ANKI_NOTE_ID: 1656857016107
 :END:
 
 *** Context
@@ -42,7 +42,7 @@ A [[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]] that stores a 
 ** Common API of an [[id:efd422ba-2509-48c9-b267-265f3c369462][Associative array]]
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Describe
-:ANKI_NOTE_ID: 1656544256357
+:ANKI_NOTE_ID: 1656857016682
 :END:
 
 *** Context

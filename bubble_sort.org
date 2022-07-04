@@ -13,6 +13,9 @@ Bubble sort, sometimes referred to as sinking sort, is a simple [[id:093fae33-18
 
 [cite:@BubbleSort2022]
 #+end_quote
+
+Bubble sort is [[id:740ce42a-3a80-4ecb-9438-fedff074443b][stable]].
+
 * Algorithm
 
 #+begin_src
@@ -34,7 +37,7 @@ while list is not sorted do
 
 
 #+print_bibliography:
-* Anki :noexport:computer_science:
+* Anki :noexport:computer_science:bubblesort:sorting_algorithm:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
@@ -43,7 +46,7 @@ while list is not sorted do
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Describe
-:ANKI_NOTE_ID: 1656621076518
+:ANKI_NOTE_ID: 1656856910908
 :END:
 *** Context
 Computer science
@@ -62,7 +65,7 @@ A [[id:093fae33-1843-4271-b7cd-336553b9aac9][Sorting algorithm]] which repeatedl
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Describe
-:ANKI_NOTE_ID: 1656624119065
+:ANKI_NOTE_ID: 1656856911857
 :END:
 *** Context
 Computer science
@@ -83,7 +86,7 @@ A [[id:093fae33-1843-4271-b7cd-336553b9aac9][Sorting algorithm]] which repeatedl
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Describe
-:ANKI_NOTE_ID: 1656624119742
+:ANKI_NOTE_ID: 1656856912782
 :END:
 *** Context
 Computer science
@@ -103,24 +106,21 @@ A [[id:093fae33-1843-4271-b7cd-336553b9aac9][Sorting algorithm]] which repeatedl
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Algorithm
-:ANKI_NOTE_ID: 1656624322867
+:ANKI_NOTE_ID: 1656856914233
 :END:
 *** Setup
 *** Step1Pre
 *** Step1IndentLevel
 *** Step1Title
 *** Step1
-#+begin_src
-while list is not sorted do
-  for i in range(len(list) - 1) do
-    if list[i] > list[i+1] do
-      swap(i, i+1)
-#+end_src
+While the list isn't sorted
 *** Step1Post
 *** Step2Pre
 *** Step2IndentLevel
+1
 *** Step2Title
 *** Step2
+Walk the list and swap elements based on the =comparator=
 *** Step2Post
 *** Step3Pre
 *** Step3IndentLevel
@@ -138,3 +138,20 @@ while list is not sorted do
 *** Step5
 *** Step5Post
 *** Source
+** {{c1::[[id:c6bc266e-1090-492f-bdba-f044e04db3ff][Bubble sort]]::algorithm}} is a {{c1::stable::stability}} sort
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1656856915032
+:END:
+*** Extra
+*** Source
+[cite:@BubbleSort2022]
+** Implement [[id:c6bc266e-1090-492f-bdba-f044e04db3ff][Bubble sort]] in Python
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic with Source
+:ANKI_NOTE_ID: 1656856915683
+:END:
+*** Back
+[[id:af832252-c4a9-4364-bdef-59c1a8ea6ebe][Bubble sort implementation in Python]]
+*** Source
+[cite:@BubbleSort2022]

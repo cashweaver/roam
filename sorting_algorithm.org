@@ -10,3 +10,15 @@
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+* [[id:093fae33-1843-4271-b7cd-336553b9aac9][Sorting algorithm]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Example(s)
+:ANKI_NOTE_ID: 1656856886384
+:END:
+** Example(s)
+- [[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]]
+- [[id:4ad76968-7e82-4d68-b8fa-ff6059f3c843][Merge sort]]
+- [[id:c6bc266e-1090-492f-bdba-f044e04db3ff][Bubble sort]]
+** Extra
+** Source

@@ -1,0 +1,158 @@
+:PROPERTIES:
+:ID:       4ad76968-7e82-4d68-b8fa-ff6059f3c843
+:END:
+#+title: Merge sort
+#+author: Cash Weaver
+#+date: [2022-07-01 Fri 11:23]
+#+filetags: :concept:
+
+#+begin_quote
+Conceptually, a merge sort works as follows:
+
+1. Divide the unsorted list into n sublists, each containing one element (a list of one element is considered sorted).
+1. Repeatedly merge sublists to produce new sorted sublists until there is only one sublist remaining. This will be the sorted list.
+
+[cite:@MergeSort2022]
+#+end_quote
+
+Merge sort is:
+
+- [[id:740ce42a-3a80-4ecb-9438-fedff074443b][Stable sorting algorithm]]
+- [[id:0f240189-7ede-4505-a900-21330b55f4c9][External memory algorithm]]
+
+* Algorithm
+
+#+begin_src
+procedure MergeSort(list) is
+  if length of list <= 1 then
+    return list
+
+  left, right = split(list)
+  MergeSort(left)
+  MergeSort(right)
+
+  return Merge(left, right)
+#+end_src
+
+* Implementation
+
+- [[id:d87d7e23-c861-4cec-adf8-c19125cc6327][Merge sort implementation in Python]]
+* Complexity
+|       | Worst-case                     | Best-case                      |
+|-------+--------------------------------+--------------------------------|
+| Time  | \(O(n \operatorname{log}(n))\) | \(O(n \operatorname{log}(n))\) |
+| Space | \(O(n)\)                       | \(O(n)\)                       |
+#+print_bibliography:
+* Anki :noexport:computer_science:sorting_algorithm:merge_sort:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** [[id:4ad76968-7e82-4d68-b8fa-ff6059f3c843][Merge sort]] space complexity
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Describe
+:ANKI_NOTE_ID: 1656857380933
+:END:
+*** Context
+Computer science
+*** Description
+|       | Worst-case | Best-case |
+|-------+------------+-----------|
+| Space | \(O(n)\)   | \(O(n)\)  |
+*** Extra
+*** Source
+** [[id:4ad76968-7e82-4d68-b8fa-ff6059f3c843][Merge sort]] time complexity
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Describe
+:ANKI_NOTE_ID: 1656857381159
+:END:
+*** Context
+Computer science
+*** Description
+|       | Worst-case                     | Best-case                      |
+|-------+--------------------------------+--------------------------------|
+| Time  | \(O(n \operatorname{log}(n))\) | \(O(n \operatorname{log}(n))\) |
+*** Extra
+*** Source
+** [[id:4ad76968-7e82-4d68-b8fa-ff6059f3c843][Merge sort]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Describe
+:ANKI_NOTE_ID: 1656857382332
+:END:
+*** Context
+Computer science
+*** Description
+A recursive [[id:093fae33-1843-4271-b7cd-336553b9aac9][Sorting algorithm]] which sorts by separating a list into smaller parts and sorting the sub-lists.
+
+- [[id:81aca149-0d5c-40b6-8bf8-dcdfd3d47329][Internal memory algorithm]]
+- [[id:740ce42a-3a80-4ecb-9438-fedff074443b][Stable sorting algorithm]]
+
+|       | Worst-case                     | Best-case                      |
+|-------+--------------------------------+--------------------------------|
+| Time  | \(O(n \operatorname{log}(n))\) | \(O(n \operatorname{log}(n))\) |
+| Space | \(O(n)\)                       | \(O(n)\)                       |
+*** Extra
+*** Source
+[cite:@MergeSort2022]
+** [[id:4ad76968-7e82-4d68-b8fa-ff6059f3c843][Merge sort]] is {{c1::[[id:0f240189-7ede-4505-a900-21330b55f4c9][External memory algorithm]]::memory}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1656857383208
+:END:
+*** Extra
+*** Source
+[cite:@MergeSort2022]
+** [[id:4ad76968-7e82-4d68-b8fa-ff6059f3c843][Merge sort]] is {{c1::[[id:740ce42a-3a80-4ecb-9438-fedff074443b][stable]]::stability}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1656857384158
+:END:
+*** Extra
+*** Source
+[cite:@MergeSort2022]
+** [[id:4ad76968-7e82-4d68-b8fa-ff6059f3c843][Merge sort]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Algorithm
+:ANKI_NOTE_ID: 1656857385410
+:END:
+*** Setup
+*** Step1Pre
+*** Step1IndentLevel
+*** Step1Title
+*** Step1
+Split the given list in half
+*** Step1Post
+*** Step2Pre
+*** Step2IndentLevel
+*** Step2Title
+*** Step2
+Apply =MergeSort= to both halves
+*** Step2Post
+*** Step3Pre
+*** Step3IndentLevel
+*** Step3Title
+*** Step3
+=Merge= both halves
+*** Step3Post
+*** Step4IndentLevel
+*** Step4Pre
+*** Step4Title
+*** Step4
+*** Step4Post
+*** Step5Pre
+*** Step5IndentLevel
+*** Step5Title
+*** Step5
+*** Step5Post
+*** Source
+** Implement [[id:4ad76968-7e82-4d68-b8fa-ff6059f3c843][Merge sort]] in [[id:27b0e33a-6754-40b8-99d8-46650e8626aa][Python]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic with Source
+:ANKI_NOTE_ID: 1656857385979
+:END:
+*** Back
+[[id:d87d7e23-c861-4cec-adf8-c19125cc6327][Merge sort implementation in Python]]
+*** Source

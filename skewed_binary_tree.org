@@ -23,7 +23,7 @@ A skewed binary tree is a pathological/degenerate tree in which the tree is eith
 ** [[id:4c7bf5db-dc29-44a1-bb77-36d560b38688][Skewed binary tree]]
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Definition
-:ANKI_NOTE_ID: 1656457354979
+:ANKI_NOTE_ID: 1656856951808
 :END:
 *** Context
 Computer science
@@ -36,7 +36,7 @@ A [[id:a15a6edb-dbe2-496f-bdc7-92b14e1f5566][Degenerate binary tree]] in which a
 ** [[id:4c7bf5db-dc29-44a1-bb77-36d560b38688][Skewed binary tree]]
 :PROPERTIES:
 :ANKI_NOTE_TYPE: ImageOf
-:ANKI_NOTE_ID: 1656457355757
+:ANKI_NOTE_ID: 1656856952707
 :END:
 *** Image
 [[file:skewed-binary-tree.png]]

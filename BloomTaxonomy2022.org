@@ -37,3 +37,9 @@ Anderson proposed [[isbn:978-0-8013-1903-7][proposed a revision of Bloom's cogni
 5. Evaluate
 6. Create
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+

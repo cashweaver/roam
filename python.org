@@ -1,0 +1,70 @@
+:PROPERTIES:
+:ID:       27b0e33a-6754-40b8-99d8-46650e8626aa
+:END:
+#+title: Python
+#+author: Cash Weaver
+#+date: [2022-07-01 Fri 11:47]
+#+filetags: :concept:
+The programming language
+
+* TODO
+
+* Anki :noexport:python:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Indexing
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1656857110833
+:END:
+*** Text
+#+begin_src
+>>> a = [0, 1, 2, 3]
+>>> {{c1::a[:2]}}
+{{c2::[0, 1]}}
+#+end_src
+*** Extra
+
+*** Source
+** Indexing
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1656857110957
+:END:
+*** Text
+#+begin_src
+>>> a = [0, 1, 2, 3]
+>>> {{c2::a[1:2]}}
+{{c1::[1]}}
+#+end_src
+*** Extra
+
+*** Source
+** Indexing
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1656857111108
+:END:
+*** Text
+#+begin_src
+>>> a = [0, 1, 2, 3]
+>>> {{c2::a[1:]}}
+{{c1::[1, 2, 3]}}
+#+end_src
+*** Extra
+
+*** Source
+
+** ={{c2::Optional[X]::type}}= is equal to ={{c1::Union[X, None]::type}}=
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1656857111532
+:END:
+
+*** Extra
+
+*** Source

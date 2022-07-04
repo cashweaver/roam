@@ -1,0 +1,57 @@
+:PROPERTIES:
+:ID:       0f240189-7ede-4505-a900-21330b55f4c9
+:END:
+#+title: External memory algorithm
+#+author: Cash Weaver
+#+date: [2022-07-01 Fri 13:02]
+#+filetags: :concept:
+
+#+begin_quote
+In computing, external memory algorithms or out-of-core algorithms are algorithms that are designed to process data that are too large to fit into a computer's main memory at once. Such algorithms must be optimized to efficiently fetch and access data stored in slow bulk memory (auxiliary memory) such as hard drives or tape drives, or when memory is on a computer network.
+
+[cite:@ExternalMemoryAlgorithm2021]
+#+end_quote
+
+* Internal memory algorithm
+:PROPERTIES:
+:ID:       81aca149-0d5c-40b6-8bf8-dcdfd3d47329
+:END:
+
+Internal memory algorithms are designed to process data that fits into a single computer's main memory.
+
+#+print_bibliography:
+* Anki :noexport:computer_science:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** [[id:0f240189-7ede-4505-a900-21330b55f4c9][External memory algorithm]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1656856970707
+:END:
+*** Context
+Computer science
+*** Definition
+Algorithms designed to process data that are too large to fit into a single computer's main memory at once. Instead, the algorithm processes data from external memory (e.g. hard disk, tapes, network/delegation).
+*** Extra
+*** Source
+[cite:@ExternalMemoryAlgorithm2021]
+** [[id:81aca149-0d5c-40b6-8bf8-dcdfd3d47329][Internal memory algorithm]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Example(s)
+:ANKI_NOTE_ID: 1656856971258
+:END:
+*** Example(s)
+- [[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]]
+*** Extra
+*** Source
+** [[id:0f240189-7ede-4505-a900-21330b55f4c9][External memory algorithm]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Example(s)
+:ANKI_NOTE_ID: 1656856971432
+:END:
+*** Example(s)
+- [[id:4ad76968-7e82-4d68-b8fa-ff6059f3c843][Merge sort]]
+*** Extra
+*** Source

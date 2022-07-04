@@ -20,7 +20,7 @@
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Definition
-:ANKI_NOTE_ID: 1656207022930
+:ANKI_NOTE_ID: 1656857194308
 :END:
 *** Context
 *** Definition
@@ -31,7 +31,7 @@ The use of coded or suggestive language to communicate more than one, potentiall
 ** Dog whistle
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Example(s)
-:ANKI_NOTE_ID: 1656207023606
+:ANKI_NOTE_ID: 1656857195159
 :END:
 *** Example(s)
 - States rights: Racism and/or racist policies

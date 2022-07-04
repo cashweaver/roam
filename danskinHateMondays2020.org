@@ -58,19 +58,20 @@ This is a secular view. It can be reconciled with spirituality, but not with rea
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Describe
-:ANKI_NOTE_ID: 1656261910582
+:ANKI_NOTE_ID: 1656857358255
 :END:
 *** Context
 Alt-right playbook
 *** Description
 Engaging in coping strategies (e.g. commiserate, thoughts and prayers) rather than taking action because of the belief that the underlying problem is unfixable.
 *** Extra
+Acknowledge a terrible thing is happening, maybe even agree it's bad, but don't believe anything can be done to change it.
 *** Source
 [cite:@danskinHateMondays2020]
 ** I hate mondays
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Example(s)
-:ANKI_NOTE_ID: 1656262184131
+:ANKI_NOTE_ID: 1656857359133
 :END:
 *** Example(s)
 - Mass shootings in USA political discourse

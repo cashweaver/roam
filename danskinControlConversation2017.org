@@ -53,7 +53,7 @@ That's how they control the conversation: move the entire debate to their framew
 ** Control the conversation :alt_right_playbook:
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Definition
-:ANKI_NOTE_ID: 1656198304775
+:ANKI_NOTE_ID: 1656856896156
 :END:
 *** Context
 Alt-right playbook
@@ -65,7 +65,7 @@ Make sure people are talking about what you want them to talk about and in ways 
 ** Control the conversation
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Example(s)
-:ANKI_NOTE_ID: 1656202830605
+:ANKI_NOTE_ID: 1656856896832
 :END:
 *** Example(s)
 - Political debate as performative strength -- don't concede or attempt to find common ground.

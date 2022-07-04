@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       7fbcef27-68c4-4793-8fc0-e10114318765
+:END:
+#+title: Selection algorithm
+#+author: Cash Weaver
+#+date: [2022-07-01 Fri 16:10]
+#+filetags: :concept:
+
+#+begin_quote
+In computer science, a selection algorithm is an algorithm for finding the kth smallest number in a list or array; such a number is called the kth order statistic. This includes the cases of finding the minimum, maximum, and median elements. There are O(n)-time (worst-case linear time) selection algorithms, and sublinear performance is possible for structured data; in the extreme, O(1) for an array of sorted data. Selection is a subproblem of more complex problems like the nearest neighbor and shortest path problems. Many selection algorithms are derived by generalizing a [[id:093fae33-1843-4271-b7cd-336553b9aac9][Sorting algorithm]], and conversely some sorting algorithms can be derived as repeated application of selection.
+
+[cite:@SelectionAlgorithm2022]
+#+end_quote
+
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** [[id:7fbcef27-68c4-4793-8fc0-e10114318765][Selection algorithm]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Example(s)
+:ANKI_NOTE_ID: 1656856902159
+:END:
+*** Example(s)
+- [[id:df6876e1-5035-4432-9b8a-19898faa4fdd][Quickselect]]
+*** Extra
+*** Source

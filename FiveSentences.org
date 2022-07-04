@@ -8,8 +8,6 @@
 #+date: [2022-02-15 Tue 13:21]
 #+filetags: :reference:
  
-[cite:@FiveSentences]
-
 #+begin_quote
 **The Problem**
 
@@ -18,6 +16,12 @@ E-mail takes too long to respond to, resulting in continuous inbox overflow for 
 **The Solution**
 
 Treat all email responses like SMS text messages, using a set number of letters per response. Since it's too hard to count letters, we count sentences instead.
+
+[cite:@FiveSentences]
 #+end_quote
 
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

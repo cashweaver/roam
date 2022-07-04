@@ -36,7 +36,7 @@ The operations of a queue make it a first-in-first-out (FIFO) data structure. In
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Describe
-:ANKI_NOTE_ID: 1656463276901
+:ANKI_NOTE_ID: 1656857027307
 :END:
 *** Context
 Computer science
@@ -51,7 +51,7 @@ TODO
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Definition
-:ANKI_NOTE_ID: 1656464403049
+:ANKI_NOTE_ID: 1656857028258
 :END:
 *** Context
 Computer science
@@ -63,7 +63,7 @@ An [[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]] which defines
 ** Implementations of a {{c1::[[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]]::[[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]]}} include {{c2::arrays and (doubly-)linked lists}}
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Cloze with Source
-:ANKI_NOTE_ID: 1656464403726
+:ANKI_NOTE_ID: 1656857028883
 :END:
 *** Extra
 *** Source
@@ -71,7 +71,7 @@ An [[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]] which defines
 ** A {{c1::[[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]]}} follows {{c1::first in, first out::ordering}}
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Cloze with Source
-:ANKI_NOTE_ID: 1656473044231
+:ANKI_NOTE_ID: 1656857029683
 :END:
 *** Extra
 *** Source
@@ -79,7 +79,7 @@ An [[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]] which defines
 ** [[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]] and [[id:5ab783c7-9a13-42d2-920d-95f103ac677c][Stack]]
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Compare/Contrast
-:ANKI_NOTE_ID: 1656473200128
+:ANKI_NOTE_ID: 1656857030657
 :END:
 *** Context
 Computer science
@@ -90,7 +90,7 @@ Computer science
 ** A {{c1::[[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]]}} is the opposite of a {{c2::[[id:5ab783c7-9a13-42d2-920d-95f103ac677c][Stack]]}}
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Cloze with Source
-:ANKI_NOTE_ID: 1656476878332
+:ANKI_NOTE_ID: 1656857031382
 :END:
 *** Extra
 A [[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]] is first-in-first-out while a [[id:5ab783c7-9a13-42d2-920d-95f103ac677c][Stack]] is last-in-first-out.
@@ -100,7 +100,7 @@ A [[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]] is first-in-first-out while
 ** Common API of a [[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]]
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Describe
-:ANKI_NOTE_ID: 1656541863705
+:ANKI_NOTE_ID: 1656857031857
 :END:
 *** Context
 Computer science

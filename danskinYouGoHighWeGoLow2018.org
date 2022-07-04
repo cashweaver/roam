@@ -61,7 +61,7 @@ An action has no intrinsic value wholly separate from its outcome. A Kentucky cl
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Describe
-:ANKI_NOTE_ID: 1656262873032
+:ANKI_NOTE_ID: 1656857008057
 :END:
 *** Context
 Alt-right playbook
@@ -73,7 +73,7 @@ A victory-oriented, ends justify the means, approach which consists of engaging 
 ** You go high, we go low
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Example(s)
-:ANKI_NOTE_ID: 1656262873181
+:ANKI_NOTE_ID: 1656857008907
 :END:
 *** Example(s)
 - Refusing to hold a vote to seat Obama's appointee for the Supreme Court -- Merrick Garland -- and promising to hold the seat open until a Republican president appoints someone instead.

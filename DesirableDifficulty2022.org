@@ -31,3 +31,11 @@ TODO
 
 * TODO Include direct quote from Memory in Educational Settings by Marsh and Butler, as they're quoted in the wikipedia page.
 #+print_bibliography:
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+
+

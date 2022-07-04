@@ -42,7 +42,7 @@ Assuming a 0-indexed array: child nodes for a node at index \(i\) are at \(\text
 ** \(\operatorname{parent}(i)\) \(\forall\) child indexes, \(i\)
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Definition
-:ANKI_NOTE_ID: 1656526659757
+:ANKI_NOTE_ID: 1656857240134
 :END:
 *** Context
 Array implementation of a [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]]
@@ -54,7 +54,7 @@ Array implementation of a [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree
 ** \(\operatorname{children}(i)\) \(\forall\) parent indexes, \(i\)
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Definition
-:ANKI_NOTE_ID: 1656526821905
+:ANKI_NOTE_ID: 1656857240982
 :END:
 *** Context
 Array implementation of a [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]]
@@ -67,7 +67,7 @@ Array implementation of a [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Definition
-:ANKI_NOTE_ID: 1656528202358
+:ANKI_NOTE_ID: 1656857242058
 :END:
 *** Context
 Computer science

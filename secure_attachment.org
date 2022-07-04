@@ -23,7 +23,7 @@ A toddler who is securely attached to his or her parent (or other familiar careg
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Describe
-:ANKI_NOTE_ID: 1656269028108
+:ANKI_NOTE_ID: 1656856964108
 :END:
 *** Context
 Attachment theory
@@ -39,7 +39,7 @@ A healthy attachment pattern between a child and their guardian(s) in which the 
 ** Secure attachment
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Example(s)
-:ANKI_NOTE_ID: 1656269028779
+:ANKI_NOTE_ID: 1656856964957
 :END:
 
 *** Example(s)

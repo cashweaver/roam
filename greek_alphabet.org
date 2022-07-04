@@ -1,0 +1,462 @@
+:PROPERTIES:
+:ID:       a7c4fe3e-5372-4c00-a66c-5a40c4057a6e
+:END:
+#+title: Greek alphabet
+#+author: Cash Weaver
+#+date: [2022-07-03 Sun 06:37]
+#+filetags: :concept:
+
+#+begin_quote
+| Name    | Letter |
+|---------+--------|
+| Alpha   | Αα     |
+| Beta    | Ββ     |
+| Chi     | Χχ     |
+| Delta   | Δδ     |
+| Epsilon | Εε     |
+| Eta     | Ηη     |
+| Gamma   | Γγ     |
+| Iota    | Ιι     |
+| Kappa   | Κκ     |
+| Lambda  | Λλ     |
+| Mu      | Μμ     |
+| Nu      | Νν     |
+| Omega   | Ωω     |
+| Omicron | Οο     |
+| Phi     | Φφ     |
+| Pi      | Ππ     |
+| Psi     | Ψψ     |
+| Rho     | Ρρ     |
+| Sigma   | Σσς    |
+| Tau     | Ττ     |
+| Theta   | Θθ     |
+| Upsilon | Υυ     |
+| Xi      | Ξξ     |
+| Zeta    | Ζζ     |
+
+[cite:@GreekAlphabet2022]
+#+end_quote
+#+print_bibliography:
+* Anki :noexport:greek_letter:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** Greek letter {{c2::alpha}}: {{c1::\(\alpha\)::lowercase}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627833746
+:END:
+
+*** Extra
+Pronounced: /al-fa/
+*** Source
+
+** Greek letter {{c2::Alpha}}: {{c1::\(A\)::UPPERCASE}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627833897
+:END:
+
+*** Extra
+Pronounced: /al-fa/
+*** Source
+
+** Greek letter {{c2::beta}}: {{c1::\(\beta\)::lowercase}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627834397
+:END:
+
+*** Extra
+Pronounced: /bee-tah/
+*** Source
+
+** Greek letter {{c2::Beta}}: {{c1::\(B\)::UPPERCASE}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627834046
+:END:
+
+*** Extra
+Pronounced: /bee-tah/
+*** Source
+
+** Greek letter {{c2::chi}}: {{c1::\(\chi\)::lowercase}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627839471
+:END:
+
+*** Extra
+Pronounced: /kai/
+*** Source
+
+** Greek letter {{c2::delta}}: {{c1::\(\delta\)::lowercase}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627835195
+:END:
+
+*** Extra
+Pronounced: /del-tah/
+*** Source
+
+** Greek letter {{c2::Delta}}: {{c1::\(\Delta\)::UPPERCASE}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627835071
+:END:
+
+*** Extra
+Pronounced: /del-tah/
+*** Source
+
+** Greek letter {{c2::Epsilon}}: {{c1::\(E\)::UPPERCASE}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627835372
+:END:
+
+*** Extra
+Pronounced: /ehp-sil-on/
+*** Source
+
+** Greek letter {{c2::eta}}: {{c1::\(\eta\)::lowercase}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627836048
+:END:
+
+*** Extra
+Pronounced: /ee-tah/
+*** Source
+
+** Greek letter {{c2::Eta}}: {{c1::\(H\)::UPPERCASE}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627836197
+:END:
+
+*** Extra
+Pronounced: /ee-tah/
+*** Source
+
+** Greek letter {{c2::gamma}}: {{c1::\(\gamma\)::lowercase}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627834549
+:END:
+
+*** Extra
+Pronounced: /gam-ah/
+*** Source
+
+** Greek letter {{c2::Gamma}}: {{c1::\(\Gamma\)::UPPERCASE}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627834700
+:END:
+
+*** Extra
+Pronounced: /gam-ah/
+*** Source
+
+** Greek letter {{c2::iota}}: {{c1::\(\iota\)::lowercase}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627836850
+:END:
+
+*** Extra
+Pronounced: /y-oh-tah/
+*** Source
+
+** Greek letter {{c2::Iota}}: {{c1::\(I\)::UPPERCASE}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627839922
+:END:
+
+*** Extra
+Pronounced: /y-oh-tah/
+*** Source
+
+** Greek letter {{c2::kappa}}: {{c1::\(\kappa\)::lowercase}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627836998
+:END:
+
+*** Extra
+Pronounced: /cap-ah/
+*** Source
+
+** Greek letter {{c2::Kappa}}: {{c1::\(K\)::UPPERCASE}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627840272
+:END:
+
+*** Extra
+Pronounced: /cap-ah/
+*** Source
+
+** Greek letter {{c2::lambda}}: {{c1::\(\lambda\)::lowercase}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627837349
+:END:
+
+*** Extra
+Pronounced: /lam-duh/
+*** Source
+
+** Greek letter {{c2::Lambda}}: {{c1::\(\Lambda\)::UPPERCASE}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627840422
+:END:
+
+*** Extra
+Pronounced: /lam-duh/
+*** Source
+
+** Greek letter {{c2::mu}}: {{c1::\(\mu\)::lowercase}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627837501
+:END:
+
+*** Extra
+Pronounced: /moo/
+*** Source
+
+** Greek letter {{c2::Mu}}: {{c1::\(M\)::UPPERCASE}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627840572
+:END:
+
+*** Extra
+Pronounced: /moo/
+*** Source
+
+** Greek letter {{c2::nu}}: {{c1::\(\nu\)::lowercase}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627837648
+:END:
+
+*** Extra
+Pronounced: /n-oo/, /new/
+*** Source
+
+** Greek letter {{c2::Nu}}: {{c1::\(N\)::UPPERCASE}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627840699
+:END:
+
+*** Extra
+Pronounced: /n-oo/, /new/
+*** Source
+
+** Greek letter {{c2::omega}}: {{c1::\(\omega\)::lowercase}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627839771
+:END:
+
+*** Extra
+Pronounced: /oh-meg-uh/
+*** Source
+
+** Greek letter {{c2::Omega}}: {{c1::\(\Omega\)::UPPERCASE}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627842522
+:END:
+
+*** Extra
+Pronounced: /oh-meg-uh/
+*** Source
+
+** Greek letter {{c2::phi}}: {{c1::\(\phi, \varphi\)::lowercase}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627839099
+:END:
+
+*** Extra
+Pronounced: /fee/
+*** Source
+
+** Greek letter {{c2::pi}}: {{c1::\(\pi\)::lowercase}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627838145
+:END:
+
+*** Extra
+Pronounced: /py/
+*** Source
+
+** Greek letter {{c2::Pi}}: {{c1::\(\Pi\)::UPPERCASE}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627841198
+:END:
+
+*** Extra
+Pronounced: /py/
+*** Source
+
+** Greek letter {{c2::psi}}: {{c1::\(\psi\)::lowercase}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627839622
+:END:
+
+*** Extra
+Pronounced: /psy/
+*** Source
+
+** Greek letter {{c2::Rho}}: {{c1::\(P\)::UPPERCASE}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627841349
+:END:
+
+*** Extra
+Pronounced: /row/
+*** Source
+
+** Greek letter {{c2::rho}}: {{c1::\(\rho\)::lowercase}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627838300
+:END:
+
+*** Extra
+Pronounced: /row/
+*** Source
+
+** Greek letter {{c2::sigma}}: {{c1::\(\sigma\)::lowercase}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627838450
+:END:
+
+*** Extra
+Pronounced: /sig-mah/
+*** Source
+
+** Greek letter {{c2::Sigma}}: {{c1::\(\Sigma\)::UPPERCASE}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627841698
+:END:
+
+*** Extra
+Pronounced: /sig-mah/
+*** Source
+
+** Greek letter {{c2::tau}}: {{c1::\(\tau\)::lowercase}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627838822
+:END:
+
+*** Extra
+Pronounced: /taw/
+*** Source
+
+** Greek letter {{c2::Tau}}: {{c1::\(T\)::UPPERCASE}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627841822
+:END:
+
+*** Extra
+Pronounced: /taw/
+*** Source
+
+** Greek letter {{c2::theta}}: {{c1::\(\theta\)::lowercase}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627836697
+:END:
+
+*** Extra
+Pronounced: /thee-tah/, /th-ay-tah/
+*** Source
+
+** Greek letter {{c2::Theta}}: {{c1::\(\Theta\)::UPPERCASE}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627836547
+:END:
+
+*** Extra
+Pronounced: /thee-tah, th-ay-tah/
+*** Source
+
+** Greek letter {{c2::upsilon}}: {{c1::\(\upsilon\)::lowercase}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627838949
+:END:
+
+*** Extra
+Pronounced: /up-sil-on/
+*** Source
+
+** Greek letter {{c2::Upsilon}}: {{c1::\(\Upsilon\)::UPPERCASE}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627841972
+:END:
+
+*** Extra
+Pronounced: /up-sil-on/
+*** Source
+
+** Greek letter {{c2::xi}}: {{c1::\(\xi\)::lowercase}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627838000
+:END:
+
+*** Extra
+Pronounced: /khee/
+*** Source
+
+** Greek letter {{c2::Xi}}: {{c1::\(\Xi\)::UPPERCASE}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627841049
+:END:
+
+*** Extra
+Pronounced: /khee/
+*** Source
+
+** Greek letter {{c2::zeta}}: {{c1::\(\zeta\)::lowercase}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627835871
+:END:
+
+*** Extra
+Pronounced: /zee-tah/
+*** Source
+
+** Greek letter {{c2::Zeta}}: {{c1::\(Z\)::UPPERCASE}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627835522
+:END:
+
+*** Extra
+Pronounced: /zee-tah/
+*** Source

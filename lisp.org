@@ -26,7 +26,7 @@ The interchangeability of code and data gives Lisp its instantly recognizable sy
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Cloze with Source
-:ANKI_NOTE_ID: 1656518681080
+:ANKI_NOTE_ID: 1656857163282
 :END:
 
 *** Extra
@@ -37,7 +37,7 @@ The interchangeability of code and data gives Lisp its instantly recognizable sy
 ** The name {{c1::[[id:f6e9082b-3589-448a-9877-b9a2b31d88ba][Lisp]]}} derives from {{c2::LISt Processor}}
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Cloze with Source
-:ANKI_NOTE_ID: 1656518681855
+:ANKI_NOTE_ID: 1656857164108
 :END:
 
 *** Extra

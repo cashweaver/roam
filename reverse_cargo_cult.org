@@ -29,7 +29,7 @@ Also see [[id:c5b4e591-7690-49b6-94cb-ab4ab54b68a6][Cargo cult]].
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Definition
-:ANKI_NOTE_ID: 1656034528227
+:ANKI_NOTE_ID: 1656856843107
 :END:
 *** Context
 *** Definition

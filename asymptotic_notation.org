@@ -55,7 +55,7 @@ Big Theta notation, written as \(\Theta(g(n))\), indicates \(f\) is bound above 
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Definition
-:ANKI_NOTE_ID: 1656524601382
+:ANKI_NOTE_ID: 1656856940536
 :END:
 
 *** Context
@@ -73,7 +73,7 @@ The set of functions which have a specific asymptotic upper bound.
 ** \(O(n)\)
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Denotes
-:ANKI_NOTE_ID: 1656524602252
+:ANKI_NOTE_ID: 1656856941456
 :END:
 
 *** Symbol2
@@ -97,7 +97,7 @@ Computer science
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Definition
-:ANKI_NOTE_ID: 1656524603080
+:ANKI_NOTE_ID: 1656856942285
 :END:
 
 *** Context
@@ -114,7 +114,7 @@ Computer science
 ** \(o(n)\)
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Denotes
-:ANKI_NOTE_ID: 1656524636031
+:ANKI_NOTE_ID: 1656856943208
 :END:
 
 *** Symbol2
@@ -139,7 +139,7 @@ Computer science
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Definition
-:ANKI_NOTE_ID: 1656524917807
+:ANKI_NOTE_ID: 1656856944082
 :END:
 
 *** Context
@@ -157,7 +157,7 @@ The set of functions which have a specific asymptotic lower bound.
 ** \(\Omega(n)\)
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Denotes
-:ANKI_NOTE_ID: 1656524919154
+:ANKI_NOTE_ID: 1656856945033
 :END:
 
 *** Symbol2
@@ -181,7 +181,7 @@ Computer science
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Definition
-:ANKI_NOTE_ID: 1656524919981
+:ANKI_NOTE_ID: 1656856945852
 :END:
 
 *** Context
@@ -199,7 +199,7 @@ The set of functions which have a specific upper and lower bound (tight bound).
 ** {{c1::\(\Theta(n)\)}} \(\implies\) {{c2::\(O(n)\) and \(\Omega(n)\)}}
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Cloze with Source
-:ANKI_NOTE_ID: 1656524920256
+:ANKI_NOTE_ID: 1656856946632
 :END:
 
 *** Extra
@@ -210,7 +210,7 @@ The set of functions which have a specific upper and lower bound (tight bound).
 ** \(\Theta(n)\)
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Denotes
-:ANKI_NOTE_ID: 1656524921582
+:ANKI_NOTE_ID: 1656856947530
 :END:
 
 *** Symbol2

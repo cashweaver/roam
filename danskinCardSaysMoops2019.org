@@ -61,7 +61,7 @@ If you operate as though there is no truth, just competing opinions, and as thou
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Describe
-:ANKI_NOTE_ID: 1656258023157
+:ANKI_NOTE_ID: 1656857049757
 :END:
 *** Context
 Alt-right playbook
@@ -73,7 +73,7 @@ Performative irony used to win arguments and obfuscate the underlying guiding be
 ** The card says moops
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Example(s)
-:ANKI_NOTE_ID: 1656262430907
+:ANKI_NOTE_ID: 1656857050582
 :END:
 *** Example(s)
 - I just want to watch the world burn / I'm just here to trigger the libs

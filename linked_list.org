@@ -23,7 +23,7 @@ In computer science, a linked list is a linear collection of data elements whose
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Definition
-:ANKI_NOTE_ID: 1656543032732
+:ANKI_NOTE_ID: 1656856927831
 :END:
 
 *** Context
@@ -40,7 +40,7 @@ A sequential collection of nodes composed of data and one or more references to 
 ** {{c2::[[roam:Linked lists]]}} perform better than [[id:79b155d7-5a67-469d-b3f4-b8010cad8b54][Arrays]] when it comes to {{c1::insertion time}}
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Cloze with Source
-:ANKI_NOTE_ID: 1656543525156
+:ANKI_NOTE_ID: 1656856928683
 :END:
 
 *** Extra

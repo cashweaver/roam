@@ -74,7 +74,7 @@ One can make the (already dubious) argument that this isnt technically a lie, bu
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Describe
-:ANKI_NOTE_ID: 1656213380956
+:ANKI_NOTE_ID: 1656857366051
 :END:
 *** Context
 Argument
@@ -87,7 +87,7 @@ How many words can you change in an argument before it's not the same argument a
 ** Ship of theseus argument
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Example(s)
-:ANKI_NOTE_ID: 1656213465881
+:ANKI_NOTE_ID: 1656857366631
 :END:
 *** Example(s)
 - Public figure X is a bigot.

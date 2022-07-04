@@ -36,7 +36,7 @@ Tree data structure representing the s-expression =(* 2 (+ 3 4))=.
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: AKA
-:ANKI_NOTE_ID: 1656516685455
+:ANKI_NOTE_ID: 1656857151908
 :END:
 
 *** Term2
@@ -62,7 +62,7 @@ Tree data structure representing the s-expression =(* 2 (+ 3 4))=.
 ** Symbolic expression
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Definition
-:ANKI_NOTE_ID: 1656516686255
+:ANKI_NOTE_ID: 1656857152958
 :END:
 
 *** Context

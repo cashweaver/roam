@@ -19,7 +19,7 @@ Among other things:
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Author
-:ANKI_NOTE_ID: 1656207075182
+:ANKI_NOTE_ID: 1656857146559
 :END:
 
 *** Source1

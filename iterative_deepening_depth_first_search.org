@@ -27,7 +27,7 @@ Adapted from [cite:@IterativeDeepeningDepthfirstSearch2021].
 ** {{c2::[[id:0ad51c11-995b-4437-a218-82df11697f7a][Iterative deepening depth-first-search]]}} is {{c1::optimal}}, unlike [[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][Depth-first search]]
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Cloze with Source
-:ANKI_NOTE_ID: 1656551722302
+:ANKI_NOTE_ID: 1656857213507
 :END:
 *** Extra
 *** Source
@@ -35,7 +35,7 @@ Adapted from [cite:@IterativeDeepeningDepthfirstSearch2021].
 ** {{c2::[[id:0ad51c11-995b-4437-a218-82df11697f7a][Iterative deepening depth-first-search]]}} {{c3::uses much less memory}} than {{c1::[[id:cff4f06c-6179-423d-aa1d-ba54d85615e2][Breadth-first search]]}}
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Cloze with Source
-:ANKI_NOTE_ID: 1656551723027
+:ANKI_NOTE_ID: 1656857214134
 :END:
 *** Extra
 *** Source
@@ -43,7 +43,7 @@ Adapted from [cite:@IterativeDeepeningDepthfirstSearch2021].
 ** [[id:0ad51c11-995b-4437-a218-82df11697f7a][Iterative deepening depth-first-search]]
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Describe
-:ANKI_NOTE_ID: 1656551723576
+:ANKI_NOTE_ID: 1656857215158
 :END:
 *** Context
 Computer science

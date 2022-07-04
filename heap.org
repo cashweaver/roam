@@ -34,7 +34,7 @@ The heap is one maximally efficient implementation of an abstract data type call
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Definition
-:ANKI_NOTE_ID: 1656455319604
+:ANKI_NOTE_ID: 1656857345608
 :END:
 
 *** Context
@@ -51,7 +51,7 @@ A specialized [[id:1a068ad5-3e16-4ec4-b238-6fdc5904aeb4][Tree]]-based [[id:738c2
 ** Common API of a [[id:70cbebc9-8936-4d52-885a-76d747c6577f][Heap]]
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Describe
-:ANKI_NOTE_ID: 1656533061563
+:ANKI_NOTE_ID: 1656857346054
 :END:
 *** Context
 Computer science

@@ -11,6 +11,11 @@ Quicksort is an in-place [[id:093fae33-1843-4271-b7cd-336553b9aac9][Sorting algo
 
 [cite:@Quicksort2022]
 #+end_quote
+
+Quicksort is:
+- [[id:3e49d17f-55ec-4c0c-a9a5-59ad8e4fed43][Unstable]]
+- [[id:81aca149-0d5c-40b6-8bf8-dcdfd3d47329][Internal memory algorithm]]
+
 * Algorithm
 
 This partition algorithm always uses the rightmost element as the pivot. There are other possible pivot selection strategies.
@@ -41,54 +46,43 @@ procedure partition(lowIndex, highIndex, list) is
 * Implementation
 
 - [[id:ed982b37-6f8e-4b89-bb51-ac608510325e][Quicksort implementation in Python]]
+* Complexity
+
+|       | Worst-case | Best-case                      |
+|-------+------------+--------------------------------|
+| Time  | \(O(n^2)\) | \(O(n \operatorname{log}(n))\) |
+| Space | \(O(n)\)   | \(O(n)\)                       |
+
 #+print_bibliography:
-* Anki :noexport:
+* Anki :noexport:quicksort:computer_science:sorting_algorithm:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+
 ** [[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]]
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Algorithm
-:ANKI_NOTE_ID: 1656626789568
+:ANKI_NOTE_ID: 1656857291434
 :END:
 *** Setup
 *** Step1Pre
 *** Step1IndentLevel
 *** Step1Title
 *** Step1
-#+begin_src
-procedure f(lowIndex, highIndex, list) is
-  if lowIndex >= highIndex || lowIndex < 0 then
-    return
-
-  pivotIndex = partition(0, len(list))
-
-  f(0, pivotIndex-1, list)
-  f(pivotIndex+1, len(list), list)
-
-procedure partition(lowIndex, highIndex, list) is
-  pivotIndex = highIndex
-
-  i = lowIndex - 1
-  for j from lowIndex to highIndex - 1 do
-    if list[j] <= list[pivotIndex] then
-      i += 1
-      swap list[i] and list[j]
-  i += 1
-  swap list[i] and list[pivotIndex]
-  return i
-#+end_src
+Pick a pivot point
 *** Step1Post
 *** Step2Pre
 *** Step2IndentLevel
 *** Step2Title
 *** Step2
+Partition around the point
 *** Step2Post
 *** Step3Pre
 *** Step3IndentLevel
 *** Step3Title
 *** Step3
+Recursively invoke quicksort on both sides of the pivot
 *** Step3Post
 *** Step4IndentLevel
 *** Step4Pre
@@ -100,4 +94,154 @@ procedure partition(lowIndex, highIndex, list) is
 *** Step5Title
 *** Step5
 *** Step5Post
+*** Source
+** [[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]]'s =partition= function
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Algorithm
+:ANKI_NOTE_ID: 1656857292835
+:END:
+*** Setup
+#+begin_src python
+def partition(arr: List[X],
+              pivot_index: int,
+              left_index: int,
+              right_index: int) -> int:
+#+end_src
+*** Step1Pre
+*** Step1IndentLevel
+1
+*** Step1Title
+*** Step1
+#+begin_src python
+pivot_value = arr[pivot_index]
+swap(arr, right_index, pivot_index)
+#+end_src
+*** Step1Post
+*** Step2Pre
+*** Step2IndentLevel
+1
+*** Step2Title
+*** Step2
+#+begin_src python
+i = left_index - 1
+for j in range(left_index, right_index):
+    if arr[j] <= pivot_value:
+        i += 1
+        swap(arr, i, j)
+#+end_src
+*** Step2Post
+*** Step3Pre
+*** Step3IndentLevel
+1
+*** Step3Title
+*** Step3
+#+begin_src python
+i += 1
+swap(arr, i, right_index)
+
+return i
+#+end_src
+*** Step3Post
+*** Step4IndentLevel
+*** Step4Pre
+*** Step4Title
+*** Step4
+*** Step4Post
+*** Step5Pre
+*** Step5IndentLevel
+*** Step5Title
+*** Step5
+*** Step5Post
+*** Source
+
+** [[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Describe
+:ANKI_NOTE_ID: 1656857293907
+:END:
+*** Context
+Computer science
+*** Description
+A divide-and-conquer sorting algorithm which recursively sorts a list by selecting a pivot element and arranging the (sub)list such that all elements in front of the pivot are less than or equal to the pivot.
+
+- [[id:81aca149-0d5c-40b6-8bf8-dcdfd3d47329][Internal memory algorithm]]
+- [[id:3e49d17f-55ec-4c0c-a9a5-59ad8e4fed43][Unstable]]
+
+|       | Worst-case | Best-case                      |
+|-------+------------+--------------------------------|
+| Time  | \(O(n^2)\) | \(O(n \operatorname{log}(n))\) |
+| Space | \(O(n)\)   | \(O(n)\)                       |
+*** Extra
+*** Source
+[cite:@Quicksort2022]
+** {{c1::[[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]]}}'s implementation is composed of: {{c2::partition::function}}, {{c3::inner::function}}, and {{c4::swap::function}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1656857294333
+:END:
+*** Extra
+*** Source
+** {{c1::[[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]]}}'s implementation is composed of: {{c2::partition, inner, and swap::functions}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1656857294459
+:END:
+*** Extra
+*** Source
+
+** [[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]] time complexity
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Describe
+:ANKI_NOTE_ID: 1656857295357
+:END:
+*** Context
+Computer science
+*** Description
+|       | Worst-case | Best-case                      |
+|-------+------------+--------------------------------|
+| Time  | \(O(n^2)\) | \(O(n \operatorname{log}(n))\) |
+*** Extra
+*** Source
+[cite:@Quicksort2022]
+
+** [[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]] space complexity
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Describe
+:ANKI_NOTE_ID: 1656857296206
+:END:
+*** Context
+Computer science
+*** Description
+|       | Worst-case | Best-case |
+|-------+------------+-----------|
+| Space | \(O(n)\)   | \(O(n)\)  |
+*** Extra
+*** Source
+[cite:@Quicksort2022]
+** [[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]] is {{c1::[[id:3e49d17f-55ec-4c0c-a9a5-59ad8e4fed43][Unstable]]::stability}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1656857296859
+:END:
+*** Extra
+*** Source
+[cite:@Quicksort2022]
+** Implement [[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]] in Python :implement:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic with Source
+:ANKI_NOTE_ID: 1656857297807
+:END:
+*** Back
+[[id:ed982b37-6f8e-4b89-bb51-ac608510325e][Quicksort implementation in Python]]
+*** Source
+[cite:@Quicksort2022]
+** [[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]] is {{c1::[[id:81aca149-0d5c-40b6-8bf8-dcdfd3d47329][Internal memory algorithm]]::memory}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1656857298034
+:END:
+*** Extra
 *** Source

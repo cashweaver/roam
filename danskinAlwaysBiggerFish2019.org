@@ -83,7 +83,7 @@ If you want to fight fascism, move left.
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Cloze with Source
-:ANKI_NOTE_ID: 1656260192084
+:ANKI_NOTE_ID: 1656856819559
 :END:
 *** Extra
 *** Source
@@ -92,7 +92,7 @@ If you want to fight fascism, move left.
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Cloze with Source
-:ANKI_NOTE_ID: 1656260192756
+:ANKI_NOTE_ID: 1656856820108
 :END:
 *** Extra
 *** Source
@@ -100,7 +100,7 @@ If you want to fight fascism, move left.
 ** Hierarchies are {{c1::self-similar}} on many scales
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Cloze with Source
-:ANKI_NOTE_ID: 1656260193007
+:ANKI_NOTE_ID: 1656856820932
 :END:
 *** Extra
 *** Source

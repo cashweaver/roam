@@ -1,0 +1,64 @@
+:PROPERTIES:
+:ID:       740ce42a-3a80-4ecb-9438-fedff074443b
+:END:
+#+title: Stable sorting algorithm
+#+author: Cash Weaver
+#+date: [2022-07-01 Fri 11:08]
+#+filetags: :concept:
+
+#+begin_quote
+Stable sort algorithms sort equal elements in the same order that they appear in the input.
+
+[cite:@SortingAlgorithm2022]
+#+end_quote
+
+#+begin_example
+stable_sort([10_1, 8_1, 3_1, 8_2])
+> [3_1, 8_1, 8_2, 10_1]
+#+end_example
+* Unstable sorting algorithm
+:PROPERTIES:
+:ID:       3e49d17f-55ec-4c0c-a9a5-59ad8e4fed43
+:END:
+#+begin_example
+unstable_sort([10_1, 8_1, 3_1, 8_2])
+> [3_1, 8_2, 8_1, 10_1]
+#+end_example
+#+print_bibliography:
+* Anki :noexport:computer_science:sorting_algorithm:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** [[id:740ce42a-3a80-4ecb-9438-fedff074443b][Stable sorting algorithm]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1656856991582
+:END:
+*** Context
+Computer science
+*** Definition
+Stable sort algorithms sort equal elements in the same order that they appear in the input.
+*** Extra
+*** Source
+[cite:@SortingAlgorithm2022]
+** [[id:740ce42a-3a80-4ecb-9438-fedff074443b][Stable sorting algorithm]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Example(s)
+:ANKI_NOTE_ID: 1656856992408
+:END:
+*** Example(s)
+- [[id:4ad76968-7e82-4d68-b8fa-ff6059f3c843][Merge sort]]
+*** Extra
+*** Source
+[cite:@MergeSort2022]
+** [[id:3e49d17f-55ec-4c0c-a9a5-59ad8e4fed43][Unstable sorting algorithm]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Example(s)
+:ANKI_NOTE_ID: 1656856993357
+:END:
+*** Example(s)
+- [[id:d7bcd831-6a3f-4885-a654-15f0b11c9966][Quicksort]]
+*** Extra
+*** Source
+[cite:@Quicksort2022]

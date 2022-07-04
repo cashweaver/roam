@@ -63,7 +63,7 @@ Much as we'd like to believe people are driven by morality, most people are driv
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Definition
-:ANKI_NOTE_ID: 1656208627902
+:ANKI_NOTE_ID: 1656856835933
 :END:
 *** Context
 *** Definition
@@ -74,7 +74,7 @@ The process by which a group or idea from the fringes moves toward the center.
 ** Mainstreaming
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Example(s)
-:ANKI_NOTE_ID: 1656208628055
+:ANKI_NOTE_ID: 1656856836107
 :END:
 *** Example(s)
 - Normalization of LGBTQ culture, vocabulary
@@ -83,7 +83,7 @@ The process by which a group or idea from the fringes moves toward the center.
 ** Culture is plastic
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Describe
-:ANKI_NOTE_ID: 1656210584905
+:ANKI_NOTE_ID: 1656856836557
 :END:
 *** Context
 *** Description

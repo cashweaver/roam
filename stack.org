@@ -28,7 +28,7 @@ The order in which elements come off a stack gives rise to its alternative name,
 ** Common API of a [[id:5ab783c7-9a13-42d2-920d-95f103ac677c][Stack]]
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Describe
-:ANKI_NOTE_ID: 1656541941356
+:ANKI_NOTE_ID: 1656857181457
 :END:
 *** Context
 Computer science
@@ -45,7 +45,7 @@ Public:
 ** A {{c1::[[id:5ab783c7-9a13-42d2-920d-95f103ac677c][Stack]]}} adds and removes elements in {{c2::first in, first out}} order
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Cloze with Source
-:ANKI_NOTE_ID: 1656541941507
+:ANKI_NOTE_ID: 1656857182312
 :END:
 *** Extra
 *** Source

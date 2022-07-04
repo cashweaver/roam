@@ -25,7 +25,7 @@ Ideally, the hash function will assign each key to a unique bucket, but most has
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Definition
-:ANKI_NOTE_ID: 1656544571782
+:ANKI_NOTE_ID: 1656856827180
 :END:
 
 *** Context
@@ -42,7 +42,7 @@ An implementation of an [[id:efd422ba-2509-48c9-b267-265f3c369462][Associative a
 ** A {{c1::hash collision}} is when {{c2::two pieces of data in a [[id:b8f1337e-8231-4ace-b003-bb988b4c39ee][Hash table]] share the same hash value}}.
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Cloze with Source
-:ANKI_NOTE_ID: 1656544746455
+:ANKI_NOTE_ID: 1656856828006
 :END:
 
 *** Extra
@@ -53,7 +53,7 @@ An implementation of an [[id:efd422ba-2509-48c9-b267-265f3c369462][Associative a
 ** {{c2::[[id:b8f1337e-8231-4ace-b003-bb988b4c39ee][Hash tables]]}} are, on average, {{c1::more}} efficient than search trees.
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Cloze with Source
-:ANKI_NOTE_ID: 1656544872732
+:ANKI_NOTE_ID: 1656856828784
 :END:
 
 *** Extra

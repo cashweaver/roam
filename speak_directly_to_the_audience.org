@@ -16,7 +16,7 @@ Consider a public argument between two individuals. There are three participants
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Describe
-:ANKI_NOTE_ID: 1656207313581
+:ANKI_NOTE_ID: 1656856805258
 :END:
 *** Context
 Argument, politics, community

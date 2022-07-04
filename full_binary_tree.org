@@ -23,7 +23,7 @@ A full binary tree (sometimes referred to as a proper or plane or strict binary 
 ** [[id:25395d14-712a-4f0a-8fec-ee18152bc757][Full binary tree]]
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Definition
-:ANKI_NOTE_ID: 1656457347749
+:ANKI_NOTE_ID: 1656857105410
 :END:
 *** Context
 Computer science
@@ -36,7 +36,7 @@ A [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]] in which all nodes ha
 ** [[id:25395d14-712a-4f0a-8fec-ee18152bc757][Full binary tree]]
 :PROPERTIES:
 :ANKI_NOTE_TYPE: ImageOf
-:ANKI_NOTE_ID: 1656457348506
+:ANKI_NOTE_ID: 1656857106032
 :END:
 *** Image
 [[file:full-binary-tree.png]]

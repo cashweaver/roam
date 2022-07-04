@@ -15,7 +15,7 @@
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: AKA
-:ANKI_NOTE_ID: 1656556307851
+:ANKI_NOTE_ID: 1656857091708
 :END:
 ** Term2
 [[id:4a246de2-16ae-4fa6-abaa-7cfb533eccdb][Sliding window]]

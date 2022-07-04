@@ -29,7 +29,7 @@ Also see [[id:0a9fac5c-2919-4dc1-b75b-ccab89d31a52][Reverse cargo cult]].
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Definition
-:ANKI_NOTE_ID: 1656035352450
+:ANKI_NOTE_ID: 1656856848432
 :END:
 *** Context
 *** Definition

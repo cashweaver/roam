@@ -25,7 +25,7 @@ To improve performance, priority queues are typically based on a heap [[[id:70cb
 ** [[id:6f787120-13bb-405a-bfca-060df6d80b14][Priority queue]]
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Definition
-:ANKI_NOTE_ID: 1656464404426
+:ANKI_NOTE_ID: 1656856978708
 :END:
 *** Context
 Computer science
@@ -37,7 +37,7 @@ An [[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]] similar to a 
 ** A {{c1::[[id:6f787120-13bb-405a-bfca-060df6d80b14][Priority queue]]::[[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]]}} is often implemented with a {{c2::[[id:70cbebc9-8936-4d52-885a-76d747c6577f][Heap]]}}
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Cloze with Source
-:ANKI_NOTE_ID: 1656464664730
+:ANKI_NOTE_ID: 1656856979658
 :END:
 *** Extra
 *** Source

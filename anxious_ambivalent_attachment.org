@@ -24,7 +24,7 @@ In general, a child with an anxious-ambivalent pattern of attachment will typica
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Describe
-:ANKI_NOTE_ID: 1656274746558
+:ANKI_NOTE_ID: 1656857056253
 :END:
 *** Context
 Attchment theory
@@ -40,7 +40,7 @@ An unhealthy attachment pattern in which the child overindexes on seeking comfor
 ** Anxious-ambivalent attachment
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Example(s)
-:ANKI_NOTE_ID: 1656274818106
+:ANKI_NOTE_ID: 1656857056680
 :END:
 
 *** Example(s)

@@ -78,7 +78,7 @@ Based on recursive algorithm in [cite:@DepthfirstSearch2022].
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Describe
-:ANKI_NOTE_ID: 1656546228327
+:ANKI_NOTE_ID: 1656857069633
 :END:
 
 *** Context
@@ -95,7 +95,7 @@ A [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] and [[id:1a068ad5-3e16-4ec4
 ** {{c2::[[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][Depth-first search]]}} follows {{c1::[[id:2f8c14b5-b44a-4fb9-b2c5-56ca8a48fdd9][Pre-order tree traversal]]::traversal order}}
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Cloze with Source
-:ANKI_NOTE_ID: 1656548009700
+:ANKI_NOTE_ID: 1656857070507
 :END:
 
 *** Extra
@@ -107,7 +107,7 @@ A [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] and [[id:1a068ad5-3e16-4ec4
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: AKA
-:ANKI_NOTE_ID: 1656546094106
+:ANKI_NOTE_ID: 1656857071432
 :END:
 
 *** Term2
@@ -132,7 +132,7 @@ Computer science
 ** [[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][Depth-first search]] (recursive)
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Algorithm
-:ANKI_NOTE_ID: 1656547803682
+:ANKI_NOTE_ID: 1656857073335
 :END:
 
 *** Setup
@@ -222,7 +222,7 @@ procedure f (graph, node) is
 ** [[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][Depth-first search]] (iterative)
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Algorithm
-:ANKI_NOTE_ID: 1656546686582
+:ANKI_NOTE_ID: 1656857075459
 :END:
 
 *** Setup
@@ -306,7 +306,7 @@ while not stack.empty() do
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Cloze with Source
-:ANKI_NOTE_ID: 1656547423006
+:ANKI_NOTE_ID: 1656857076357
 :END:
 
 *** Extra
@@ -317,7 +317,7 @@ while not stack.empty() do
 ** {{c1::[[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][Depth-first search]]}} is {{c2::not guaranteed}} to find the shortest path to the goal
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Cloze with Source
-:ANKI_NOTE_ID: 1656550471174
+:ANKI_NOTE_ID: 1656857076906
 :END:
 
 *** Extra

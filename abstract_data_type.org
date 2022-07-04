@@ -21,7 +21,7 @@ In computer science, an abstract data type (ADT) is a mathematical model for dat
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: AKA
-:ANKI_NOTE_ID: 1656453533401
+:ANKI_NOTE_ID: 1656856856184
 :END:
 *** Term2
 ADT
@@ -37,7 +37,7 @@ Computer science
 ** Abstract data type
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Definition
-:ANKI_NOTE_ID: 1656453534101
+:ANKI_NOTE_ID: 1656856857107
 :END:
 *** Context
 Computer science
@@ -49,7 +49,7 @@ A mathematical model for data types which is defined by its behavior from the po
 ** Abstract data type and data structures
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Compare/Contrast
-:ANKI_NOTE_ID: 1656453534802
+:ANKI_NOTE_ID: 1656856858007
 :END:
 *** Context
 Computer science
@@ -63,7 +63,7 @@ Both concepts relate to how the system stores and interacts with data.
 ** Abstract data type
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Example(s)
-:ANKI_NOTE_ID: 1656463397575
+:ANKI_NOTE_ID: 1656856858557
 :END:
 *** Example(s)
 - Queue

@@ -17,7 +17,7 @@ Related: [[id:cc3f6c45-87ed-4979-bc83-9940ae5c7014][Valar morghulis]]
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Definition
-:ANKI_NOTE_ID: 1656259887158
+:ANKI_NOTE_ID: 1656857130333
 :END:
 *** Context
 A Song of Ice and Fire

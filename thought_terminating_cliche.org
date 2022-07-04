@@ -20,7 +20,7 @@
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Definition
-:ANKI_NOTE_ID: 1656265544282
+:ANKI_NOTE_ID: 1656857169806
 :END:
 *** Context
 *** Definition
@@ -31,7 +31,7 @@ A form of loaded language, often passing as folk wisdom or common sense, intende
 ** Thought-terminating cliché
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Example(s)
-:ANKI_NOTE_ID: 1656265544464
+:ANKI_NOTE_ID: 1656857169956
 :END:
 *** Example(s)
 - "It's just human nature"

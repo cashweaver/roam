@@ -22,7 +22,7 @@ A way of processing an argument by looking at secondary characteristics. Usually
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Definition
-:ANKI_NOTE_ID: 1656267839634
+:ANKI_NOTE_ID: 1656857141131
 :END:
 *** Context
 Psychology, pursuasion
@@ -34,7 +34,7 @@ A person's consideration of the secondary characteristics of an argument i.e fra
 ** Peripheral route processing
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Example(s)
-:ANKI_NOTE_ID: 1656267840280
+:ANKI_NOTE_ID: 1656857141682
 :END:
 *** Example(s)
 - Deciding which car to purchase based on the cool-factor, whether or not its more expensive than your neighbor's car, whether the engine is loud and impressive, etc.

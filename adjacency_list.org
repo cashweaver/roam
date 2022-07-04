@@ -31,7 +31,7 @@ The above graph can be represented as the set \(S\) which contains \(\{B,C\}\), 
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Definition
-:ANKI_NOTE_ID: 1656555120251
+:ANKI_NOTE_ID: 1656857413033
 :END:
 *** Context
 Computer science

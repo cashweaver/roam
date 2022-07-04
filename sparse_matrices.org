@@ -16,7 +16,7 @@
 ** Sparse matrix :linear_algebra:math:
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Definition
-:ANKI_NOTE_ID: 1655905691656
+:ANKI_NOTE_ID: 1656857159231
 :END:
 
 *** Context

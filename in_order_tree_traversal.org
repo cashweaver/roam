@@ -30,7 +30,7 @@ In-order traversal (green node): A, B, C, D, E, F, G, H, I
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Describe
-:ANKI_NOTE_ID: 1656545610757
+:ANKI_NOTE_ID: 1656857115107
 :END:
 *** Context
 Computer science

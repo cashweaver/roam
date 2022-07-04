@@ -30,7 +30,7 @@ Pre-order traversal (red node): F, B, A, D, C, E, G, I, H
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Describe
-:ANKI_NOTE_ID: 1656545509807
+:ANKI_NOTE_ID: 1656856985982
 :END:
 *** Context
 Computer science

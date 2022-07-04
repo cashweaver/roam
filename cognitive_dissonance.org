@@ -21,7 +21,7 @@
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Definition
-:ANKI_NOTE_ID: 1656204428780
+:ANKI_NOTE_ID: 1656857416858
 :END:
 *** Context
 Psychology
@@ -33,7 +33,7 @@ The perception of contradictory information. Typically experienced when individu
 ** Cognitive dissonance
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Example(s)
-:ANKI_NOTE_ID: 1656204429405
+:ANKI_NOTE_ID: 1656857417682
 :END:
 *** Example(s)
 - Telling your family that you don't like apples before retiring to your bedroom to eat apples in secret.

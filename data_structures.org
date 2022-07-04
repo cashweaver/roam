@@ -27,7 +27,7 @@ In computer science, a data structure is a data organization, management, and st
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: AKA
-:ANKI_NOTE_ID: 1656453590351
+:ANKI_NOTE_ID: 1656857096282
 :END:
 *** Term2
 Concrete data type
@@ -43,7 +43,7 @@ Computer science
 ** Data structure
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Definition
-:ANKI_NOTE_ID: 1656454024208
+:ANKI_NOTE_ID: 1656857097156
 :END:
 *** Context
 Computer science

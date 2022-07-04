@@ -45,7 +45,7 @@ Based on the algorithm in [cite:@BreadthfirstSearch2022].
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Compare/Contrast
-:ANKI_NOTE_ID: 1656552440575
+:ANKI_NOTE_ID: 1656857269010
 :END:
 
 *** Context
@@ -62,7 +62,7 @@ Computer science
 ** {{c2::[[id:cff4f06c-6179-423d-aa1d-ba54d85615e2][Breadth-first search]]}} is {{c1::guaranteed}} to find the shortest path to the goal
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Cloze with Source
-:ANKI_NOTE_ID: 1656552441076
+:ANKI_NOTE_ID: 1656857269857
 :END:
 
 *** Extra
@@ -73,7 +73,7 @@ Computer science
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Algorithm
-:ANKI_NOTE_ID: 1656552639677
+:ANKI_NOTE_ID: 1656857271760
 :END:
 *** Setup
 #+begin_src
@@ -122,7 +122,7 @@ while not queue.empty() do
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Cloze with Source
-:ANKI_NOTE_ID: 1656554700950
+:ANKI_NOTE_ID: 1656857272333
 :END:
 *** Extra
 *** Source

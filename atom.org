@@ -30,7 +30,7 @@ Technically speaking, a list in Lisp consists of parentheses surrounding atoms s
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Definition
-:ANKI_NOTE_ID: 1656518213780
+:ANKI_NOTE_ID: 1656857175760
 :END:
 *** Context
 [[id:f6e9082b-3589-448a-9877-b9a2b31d88ba][Lisp]]

@@ -19,3 +19,9 @@ Consider the Earth's history as the old measure of the English yard, the distanc
 #+end_quote
 
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+

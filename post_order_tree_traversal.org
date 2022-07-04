@@ -30,7 +30,7 @@ Post-order traversal (blue node): A, C, E, D, B, H, I, G, F
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Describe
-:ANKI_NOTE_ID: 1656545673682
+:ANKI_NOTE_ID: 1656857222608
 :END:
 *** Context
 Computer science
