@@ -1,0 +1,36 @@
+:PROPERTIES:
+:ID:       f438ab7b-6518-4806-8e2f-f591376677f8
+:END:
+#+title: Ibuprofen
+#+author: Cash Weaver
+#+date: [2022-07-05 Tue 17:08]
+#+filetags: :concept:
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** [[id:f438ab7b-6518-4806-8e2f-f591376677f8][Ibuprofen]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: AKA
+:ANKI_NOTE_ID: 1657066570873
+:END:
+
+*** Term2
+Advil
+
+*** Term3
+
+*** Term4
+
+*** Term5
+
+*** Term6
+
+*** Context
+
+*** Extra
+
+*** Source

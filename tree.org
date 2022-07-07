@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       1a068ad5-3e16-4ec4-b238-6fdc5904aeb4
+:ROAM_ALIASES: Trees
 :END:
 #+title: Tree
 #+author: Cash Weaver
@@ -23,3 +24,14 @@ In computer science, a tree is a widely used [[id:2eae74ba-4003-45cf-8425-7291aa
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+** [[id:1a068ad5-3e16-4ec4-b238-6fdc5904aeb4][Tree]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1657067575023
+:END:
+*** Context
+Computer science
+*** Definition
+An
+*** Extra
+*** Source

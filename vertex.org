@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       1b2526af-676d-4c0f-aa85-1ba05b8e7a93
-:ROAM_ALIASES: Vertexes
+:ROAM_ALIASES: Vertices
 :END:
 #+title: Vertex
 #+author: Cash Weaver

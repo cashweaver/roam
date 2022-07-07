@@ -1,0 +1,46 @@
+:PROPERTIES:
+:ID:       326df302-a17b-4f2c-8bcd-027be7a459f5
+:END:
+#+title: Forest
+#+author: Cash Weaver
+#+date: [2022-07-05 Tue 17:57]
+#+filetags: :concept:
+
+#+begin_quote
+A forest is an undirected [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] in which any two [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]] are connected by at most one path, or equivalently an acyclic [[id:03fd05a7-149e-49a8-be25-ca715b695add][Undirected graph]] or equivalently a disjoint union of trees.
+
+[cite:@TreeGraphTheory2022]
+#+end_quote
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** [[id:326df302-a17b-4f2c-8bcd-027be7a459f5][Forest]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1657069161570
+:END:
+*** Context
+[[id:5bc61709-6612-4287-921f-3e2509bd2261][Graph Theory]]
+*** Definition
+A [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] in which any two [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]] are connected by at most one [[id:7211246e-d3da-491e-a493-e84ba820e63f][Edge]].
+*** Extra
+*** Source
+[cite:@TreeGraphTheory2022]
+** [[id:326df302-a17b-4f2c-8bcd-027be7a459f5][Forest]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: AKA
+:ANKI_NOTE_ID: 1657069267969
+:END:
+*** Term2
+Disjoint union of [[id:1a068ad5-3e16-4ec4-b238-6fdc5904aeb4][Trees]]
+*** Term3
+*** Term4
+*** Term5
+*** Term6
+*** Context
+[[id:5bc61709-6612-4287-921f-3e2509bd2261][Graph Theory]]
+*** Extra
+*** Source
+[cite:@TreeGraphTheory2022]

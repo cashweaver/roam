@@ -1,0 +1,54 @@
+:PROPERTIES:
+:ID:       129f1b92-49f6-44af-bae3-d8a171f66f04
+:END:
+#+title: Directed graph
+#+author: Cash Weaver
+#+date: [2022-07-05 Tue 17:45]
+#+filetags: :concept:
+
+A [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] in which the [[id:7211246e-d3da-491e-a493-e84ba820e63f][Edges]] have an orientation. The [[id:61ab086c-842c-4d34-8c96-99cb9b80293f][Adjacency matrix]] for a directed graph isn't symmetric.
+
+#+begin_quote
+[[file:Directed.svg.png]]
+
+[cite:@GraphDiscreteMathematics2022]
+#+end_quote
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** [[id:129f1b92-49f6-44af-bae3-d8a171f66f04][Directed graph]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1657068586994
+:END:
+
+*** Context
+[[id:5bc61709-6612-4287-921f-3e2509bd2261][Graph Theory]]
+
+*** Definition
+A [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] in which [[id:7211246e-d3da-491e-a493-e84ba820e63f][Edges]] have an orientation. A [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] with a non-symmetric [[id:61ab086c-842c-4d34-8c96-99cb9b80293f][Adjacency matrix]].
+
+*** Extra
+
+*** Source
+[cite:@GraphDiscreteMathematics2022]
+
+** [[id:129f1b92-49f6-44af-bae3-d8a171f66f04][Directed graph]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: ImageOf
+:ANKI_NOTE_ID: 1657068587669
+:END:
+
+*** Image
+[[file:Directed.svg.png]]
+
+*** Extra
+
+*** Source
+[cite:@GraphDiscreteMathematics2022]
+
+#+print_bibliography:

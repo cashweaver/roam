@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       7211246e-d3da-491e-a493-e84ba820e63f
+:ROAM_ALIASES: Edges
 :END:
 #+title: Edge
 #+author: Cash Weaver

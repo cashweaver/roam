@@ -82,24 +82,7 @@
               (eval . (cashweaver/enable-anki-editor-mode))
               (eval . (setq
                        org-export-with-todo-keywords nil))
-              (eval . (add-hook!
-                       'before-save-hook
-                       :local
-                       #'cashweaver/org-roam-rewrite-smart-to-ascii))
-              (eval . (add-hook!
-                       'before-save-hook
-                       :local
-                       #'cashweaver/org-roam-mirror-roam-refs-to-front-matter))
-              (eval . (add-hook!
-                       'before-save-hook
-                       :local
-                       #'cashweaver/org-roam-add-bibliography))
-              (eval . (add-hook!
-                       'before-save-hook
-                       :local
-                       #'cashweaver/org-roam-add-anki))
-              (eval . (add-hook!
-                       'before-save-hook
-                       :local
-                       #'cashweaver/anki-editor-push-notes))
+              (eval . (add-hook! 'before-save-hook
+                                 :local
+                                 #'cashweaver/org-roam-before-save))
               )))

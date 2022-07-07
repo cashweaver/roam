@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       61ab086c-842c-4d34-8c96-99cb9b80293f
+:END:
+#+title: Adjacency matrix
+#+author: Cash Weaver
+#+date: [2022-07-05 Tue 17:37]
+#+filetags: :concept:
+
+#+begin_quote
+In graph theory and computer science, an adjacency matrix is a square matrix used to represent a finite graph. The elements of the matrix indicate whether pairs of vertices are adjacent or not in the graph.
+
+[cite:@AdjacencyMatrix2022]
+#+end_quote
+
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** [[id:61ab086c-842c-4d34-8c96-99cb9b80293f][Adjacency matrix]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1657068007926
+:END:
+*** Context
+[[id:5bc61709-6612-4287-921f-3e2509bd2261][Graph Theory]]
+*** Definition
+A square matrix used to represent a finite [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]]. Elements of the matrix indicate adjacency between corresponding pairs of [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]].
+*** Extra
+*** Source
+[cite:@AdjacencyMatrix2022]

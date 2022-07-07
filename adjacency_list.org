@@ -16,7 +16,7 @@ In graph theory and computer science, an adjacency list is a collection of unord
 
 The above graph can be represented as the set \(S\) which contains \(\{B,C\}\), \(\{A,C\}\), \(\{B,A\}\).
 
-| Vertexes | Edges |
+| Vertices | Edges |
 |----------+-------|
 | A        | B, C  |
 | B        | A, C  |

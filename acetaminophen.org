@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       2e981d20-0244-4ff1-ad21-4024fc24630f
+:END:
+#+title: Acetaminophen
+#+author: Cash Weaver
+#+date: [2022-07-05 Tue 17:08]
+#+filetags: :concept:
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** [[id:2e981d20-0244-4ff1-ad21-4024fc24630f][Acetaminophen]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: AKA
+:ANKI_NOTE_ID: 1657066464370
+:END:
+
+*** Term2
+Tylenol
+
+*** Term3
+
+*** Term4
+
+*** Term5
+
+*** Term6
+
+*** Context
+
+*** Extra
+
+*** Source
