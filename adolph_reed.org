@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       9547a103-ff4a-491f-b649-2cbc09cc0ce3
+:END:
+#+title: Adolph Reed
+#+author: Cash Weaver
+#+date: [2022-07-07 Thu 12:37]
+#+filetags: :person:
+Among other things:
+
+* TODO
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@reedNothingLeftAlways2014]
+:ID: 26b5b285-6345-4c27-bdd6-26ae906aefdb
+:END:
+#+title: Adolph Reed Jr | Nothing Left: The Past Is Always Present: Examining Quotidian Life under Jim Crow to Reveal Its Structures Read More
+#+author: Cash Weaver
+#+date: [2022-07-07 Thu 12:37]
+#+filetags: :reference:
+
+[[id:9547a103-ff4a-491f-b649-2cbc09cc0ce3][Adolph Reed]], [cite:@reedNothingLeftAlways2014]
+
+* TODO Summary
+* TODO Thoughts
+* TODO Notes
+
+- [[id:89f17c46-04dc-42ba-bda2-7ac14c5cbae0][The left has no place it wants to go]]
+
+#+print_bibliography:
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

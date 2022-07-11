@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       89f17c46-04dc-42ba-bda2-7ac14c5cbae0
+:END:
+#+title: The left has no place it wants to go
+#+author: Cash Weaver
+#+date: [2022-07-07 Thu 19:01]
+#+filetags: :quote:
+
+#+begin_quote
+The left has no particular place it wants to go. And, to rehash an old quip, if you have no destination, any direction can seem as good as any other. The left careens from this oppressed group or crisis moment to that one, from one magical or morally pristine constituency or source of political agency (youth/students; undocumented immigrants; the Iraqi labor movement; the Zapatistas; the urban "precariat"; green whatever; the black/Latino/LGBT "community"; the grassroots, the netroots, and the blogosphere; this season's worthless Democrat; Occupy; a "Trotskyist" software engineer elected to the Seattle City Council) to another. It lacks focus and stability; its métier is bearing witness, demonstrating solidarity, and the event or the gesture. Its reflex is to "send messages" to those in power, to make statements, and to stand with or for the oppressed.
+
+[[id:26b5b285-6345-4c27-bdd6-26ae906aefdb][Adolph Reed Jr | Nothing Left: The Past Is Always Present: Examining Quotidian Life under Jim Crow to Reveal Its Structures Read More]]
+#+end_quote
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
