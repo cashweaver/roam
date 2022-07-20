@@ -25,8 +25,279 @@ It asked a crumb - of me.
 
 [[id:f09861cf-7103-46d2-85b3-3e614c2bdd2a][Emily Dickinson]], [cite:@dickinsonHopeThingFeathers2022]
 
+
 #+print_bibliography:
 * Anki :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+
+** Hope is the thing with feathers 1
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344164410
+:END:
+
+*** Line
+"Hope" is the thing with feathers -
+
+That perches in the soul -
+*** Context
+[Beginning]
+*** Title
+Hope is the thing with feathers
+*** Author
+Emily Dickinson
+*** Sequence
+1
+*** Prompt
+[...2]
+** Hope is the thing with feathers 2
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344165362
+:END:
+
+*** Line
+That perches in the soul -
+
+And sings the tune without the words -
+*** Context
+[Beginning]
+
+"Hope" is the thing with feathers -
+*** Title
+Hope is the thing with feathers
+*** Author
+Emily Dickinson
+*** Sequence
+2
+*** Prompt
+[...2]
+** Hope is the thing with feathers 3
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344165985
+:END:
+
+*** Line
+And sings the tune without the words -
+
+And never stops - at all - ⊗
+*** Context
+"Hope" is the thing with feathers -
+
+That perches in the soul -
+*** Title
+Hope is the thing with feathers
+*** Author
+Emily Dickinson
+*** Sequence
+3
+*** Prompt
+[...2]
+** Hope is the thing with feathers 4
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344166786
+:END:
+
+*** Line
+And never stops - at all - ⊗
+
+And sweetest - in the Gale - is heard -
+*** Context
+That perches in the soul -
+
+And sings the tune without the words -
+*** Title
+Hope is the thing with feathers
+*** Author
+Emily Dickinson
+*** Sequence
+4
+*** Prompt
+[...2]
+** Hope is the thing with feathers 5
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344167360
+:END:
+
+*** Line
+And sweetest - in the Gale - is heard -
+
+And sore must be the storm -
+*** Context
+And sings the tune without the words -
+
+And never stops - at all - ⊗
+*** Title
+Hope is the thing with feathers
+*** Author
+Emily Dickinson
+*** Sequence
+5
+*** Prompt
+[...2]
+** Hope is the thing with feathers 6
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344168161
+:END:
+
+*** Line
+And sore must be the storm -
+
+That could abash the little Bird
+*** Context
+And never stops - at all - ⊗
+
+And sweetest - in the Gale - is heard -
+*** Title
+Hope is the thing with feathers
+*** Author
+Emily Dickinson
+*** Sequence
+6
+*** Prompt
+[...2]
+** Hope is the thing with feathers 7
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344168761
+:END:
+
+*** Line
+That could abash the little Bird
+
+That kept so many warm - ⊗
+*** Context
+And sweetest - in the Gale - is heard -
+
+And sore must be the storm -
+*** Title
+Hope is the thing with feathers
+*** Author
+Emily Dickinson
+*** Sequence
+7
+*** Prompt
+[...2]
+** Hope is the thing with feathers 8
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344169585
+:END:
+
+*** Line
+That kept so many warm - ⊗
+
+I've heard it in the chillest land -
+*** Context
+And sore must be the storm -
+
+That could abash the little Bird
+*** Title
+Hope is the thing with feathers
+*** Author
+Emily Dickinson
+*** Sequence
+8
+*** Prompt
+[...2]
+** Hope is the thing with feathers 9
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344170197
+:END:
+
+*** Line
+I've heard it in the chillest land -
+
+And on the strangest Sea -
+*** Context
+That could abash the little Bird
+
+That kept so many warm - ⊗
+*** Title
+Hope is the thing with feathers
+*** Author
+Emily Dickinson
+*** Sequence
+9
+*** Prompt
+[...2]
+** Hope is the thing with feathers 10
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344171035
+:END:
+
+*** Line
+And on the strangest Sea -
+
+Yet - never - in Extremity,
+*** Context
+That kept so many warm - ⊗
+
+I've heard it in the chillest land -
+*** Title
+Hope is the thing with feathers
+*** Author
+Emily Dickinson
+*** Sequence
+10
+*** Prompt
+[...2]
+** Hope is the thing with feathers 11
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344171635
+:END:
+
+*** Line
+Yet - never - in Extremity,
+
+It asked a crumb - of me. □
+*** Context
+I've heard it in the chillest land -
+
+And on the strangest Sea -
+*** Title
+Hope is the thing with feathers
+*** Author
+Emily Dickinson
+*** Sequence
+11
+*** Prompt
+[...2]
+
+** It asked a crumb - of me. □
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344172437
+:END:
+
+*** Context
+And on the strangest Sea -
+
+Yet - never - in Extremity,
+*** Title
+Hope is the thing with feathers
+*** Author
+Emily Dickinson
+*** Sequence
+12
+*** Prompt
+** "Hope" is the thing with feathers
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Source
+:ANKI_NOTE_ID: 1658344547386
+:END:
+*** Author1
+[[id:f09861cf-7103-46d2-85b3-3e614c2bdd2a][Emily Dickinson]]
+*** Author2
+*** Author3
+*** Author4
+*** Author5

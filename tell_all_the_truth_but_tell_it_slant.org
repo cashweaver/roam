@@ -17,9 +17,192 @@ The Truth must dazzle gradually
 Or every man be blind —
 #+end_verse
 
-[[id:f09861cf-7103-46d2-85b3-3e614c2bdd2a][Emily Dickinson]], [cite:@dickinsonTellAllTruthTellItSlant2022]
+[[id:f09861cf-7103-46d2-85b3-3e614c2bdd2a][Emily Dickinson]], [cite:@dickinsonTellAllTruth2022]
+
 #+print_bibliography:
 * Anki :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+
+** Tell all the truth but tell it slant 1
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344144835
+:END:
+
+*** Line
+Tell all the truth but tell it slant —
+
+Success in Circuit lies
+*** Context
+[Beginning]
+*** Title
+Tell all the truth but tell it slant
+*** Author
+Emily Dickinson
+*** Sequence
+1
+*** Prompt
+[...2]
+** Tell all the truth but tell it slant 2
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344145636
+:END:
+
+*** Line
+Success in Circuit lies
+
+Too bright for our infirm Delight
+*** Context
+[Beginning]
+
+Tell all the truth but tell it slant —
+*** Title
+Tell all the truth but tell it slant
+*** Author
+Emily Dickinson
+*** Sequence
+2
+*** Prompt
+[...2]
+** Tell all the truth but tell it slant 3
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344146210
+:END:
+
+*** Line
+Too bright for our infirm Delight
+
+The Truth's superb surprise
+*** Context
+Tell all the truth but tell it slant —
+
+Success in Circuit lies
+*** Title
+Tell all the truth but tell it slant
+*** Author
+Emily Dickinson
+*** Sequence
+3
+*** Prompt
+[...2]
+** Tell all the truth but tell it slant 4
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344147012
+:END:
+
+*** Line
+The Truth's superb surprise
+
+As Lightning to the Children eased
+*** Context
+Success in Circuit lies
+
+Too bright for our infirm Delight
+*** Title
+Tell all the truth but tell it slant
+*** Author
+Emily Dickinson
+*** Sequence
+4
+*** Prompt
+[...2]
+** Tell all the truth but tell it slant 5
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344147588
+:END:
+
+*** Line
+As Lightning to the Children eased
+
+With explanation kind
+*** Context
+Too bright for our infirm Delight
+
+The Truth's superb surprise
+*** Title
+Tell all the truth but tell it slant
+*** Author
+Emily Dickinson
+*** Sequence
+5
+*** Prompt
+[...2]
+** Tell all the truth but tell it slant 6
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344148386
+:END:
+
+*** Line
+With explanation kind
+
+The Truth must dazzle gradually
+*** Context
+The Truth's superb surprise
+
+As Lightning to the Children eased
+*** Title
+Tell all the truth but tell it slant
+*** Author
+Emily Dickinson
+*** Sequence
+6
+*** Prompt
+[...2]
+** Tell all the truth but tell it slant 7
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344148970
+:END:
+
+*** Line
+The Truth must dazzle gradually
+
+Or every man be blind — □
+*** Context
+As Lightning to the Children eased
+
+With explanation kind
+*** Title
+Tell all the truth but tell it slant
+*** Author
+Emily Dickinson
+*** Sequence
+7
+*** Prompt
+[...2]
+
+** Or every man be blind — □
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344149786
+:END:
+
+*** Context
+With explanation kind
+
+The Truth must dazzle gradually
+*** Title
+Tell all the truth but tell it slant
+*** Author
+Emily Dickinson
+*** Sequence
+8
+*** Prompt
+** Tell all the truth but tell it slant
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Source
+:ANKI_NOTE_ID: 1658344504586
+:END:
+*** Author1
+[[id:f09861cf-7103-46d2-85b3-3e614c2bdd2a][Emily Dickinson]]
+*** Author2
+*** Author3
+*** Author4
+*** Author5

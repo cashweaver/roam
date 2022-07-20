@@ -34,3 +34,318 @@ The lone and level sands stretch far away."
 :END:
 
 
+
+
+** Ozymandias 1
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344120535
+:END:
+
+*** Line
+I met a traveller from an antique land,
+
+Who said—"Two vast and trunkless legs of stone
+*** Context
+[Beginning]
+*** Title
+Ozymandias
+*** Author
+Percy Bysshe Shelley
+*** Sequence
+1
+*** Prompt
+[...2]
+** Ozymandias 2
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344121285
+:END:
+
+*** Line
+Who said—"Two vast and trunkless legs of stone
+
+Stand in the desert. . . . Near them, on the sand,
+*** Context
+[Beginning]
+
+I met a traveller from an antique land,
+*** Title
+Ozymandias
+*** Author
+Percy Bysshe Shelley
+*** Sequence
+2
+*** Prompt
+[...2]
+** Ozymandias 3
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344121860
+:END:
+
+*** Line
+Stand in the desert. . . . Near them, on the sand,
+
+Half sunk a shattered visage lies, whose frown,
+*** Context
+I met a traveller from an antique land,
+
+Who said—"Two vast and trunkless legs of stone
+*** Title
+Ozymandias
+*** Author
+Percy Bysshe Shelley
+*** Sequence
+3
+*** Prompt
+[...2]
+** Ozymandias 4
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344122610
+:END:
+
+*** Line
+Half sunk a shattered visage lies, whose frown,
+
+And wrinkled lip, and sneer of cold command,
+*** Context
+Who said—"Two vast and trunkless legs of stone
+
+Stand in the desert. . . . Near them, on the sand,
+*** Title
+Ozymandias
+*** Author
+Percy Bysshe Shelley
+*** Sequence
+4
+*** Prompt
+[...2]
+** Ozymandias 5
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344123136
+:END:
+
+*** Line
+And wrinkled lip, and sneer of cold command,
+
+Tell that its sculptor well those passions read
+*** Context
+Stand in the desert. . . . Near them, on the sand,
+
+Half sunk a shattered visage lies, whose frown,
+*** Title
+Ozymandias
+*** Author
+Percy Bysshe Shelley
+*** Sequence
+5
+*** Prompt
+[...2]
+** Ozymandias 6
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344123886
+:END:
+
+*** Line
+Tell that its sculptor well those passions read
+
+Which yet survive, stamped on these lifeless things,
+*** Context
+Half sunk a shattered visage lies, whose frown,
+
+And wrinkled lip, and sneer of cold command,
+*** Title
+Ozymandias
+*** Author
+Percy Bysshe Shelley
+*** Sequence
+6
+*** Prompt
+[...2]
+** Ozymandias 7
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344124411
+:END:
+
+*** Line
+Which yet survive, stamped on these lifeless things,
+
+The hand that mocked them, and the heart that fed;
+*** Context
+And wrinkled lip, and sneer of cold command,
+
+Tell that its sculptor well those passions read
+*** Title
+Ozymandias
+*** Author
+Percy Bysshe Shelley
+*** Sequence
+7
+*** Prompt
+[...2]
+** Ozymandias 8
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344125185
+:END:
+
+*** Line
+The hand that mocked them, and the heart that fed;
+
+And on the pedestal, these words appear:
+*** Context
+Tell that its sculptor well those passions read
+
+Which yet survive, stamped on these lifeless things,
+*** Title
+Ozymandias
+*** Author
+Percy Bysshe Shelley
+*** Sequence
+8
+*** Prompt
+[...2]
+** Ozymandias 9
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344125711
+:END:
+
+*** Line
+And on the pedestal, these words appear:
+
+My name is Ozymandias, King of Kings;
+*** Context
+Which yet survive, stamped on these lifeless things,
+
+The hand that mocked them, and the heart that fed;
+*** Title
+Ozymandias
+*** Author
+Percy Bysshe Shelley
+*** Sequence
+9
+*** Prompt
+[...2]
+** Ozymandias 10
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344126461
+:END:
+
+*** Line
+My name is Ozymandias, King of Kings;
+
+Look on my Works, ye Mighty, and despair!
+*** Context
+The hand that mocked them, and the heart that fed;
+
+And on the pedestal, these words appear:
+*** Title
+Ozymandias
+*** Author
+Percy Bysshe Shelley
+*** Sequence
+10
+*** Prompt
+[...2]
+** Ozymandias 11
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344127011
+:END:
+
+*** Line
+Look on my Works, ye Mighty, and despair!
+
+Nothing beside remains. Round the decay
+*** Context
+And on the pedestal, these words appear:
+
+My name is Ozymandias, King of Kings;
+*** Title
+Ozymandias
+*** Author
+Percy Bysshe Shelley
+*** Sequence
+11
+*** Prompt
+[...2]
+** Ozymandias 12
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344127786
+:END:
+
+*** Line
+Nothing beside remains. Round the decay
+
+Of that colossal Wreck, boundless and bare
+*** Context
+My name is Ozymandias, King of Kings;
+
+Look on my Works, ye Mighty, and despair!
+*** Title
+Ozymandias
+*** Author
+Percy Bysshe Shelley
+*** Sequence
+12
+*** Prompt
+[...2]
+** Ozymandias 13
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344128336
+:END:
+
+*** Line
+Of that colossal Wreck, boundless and bare
+
+The lone and level sands stretch far away." □
+*** Context
+Look on my Works, ye Mighty, and despair!
+
+Nothing beside remains. Round the decay
+*** Title
+Ozymandias
+*** Author
+Percy Bysshe Shelley
+*** Sequence
+13
+*** Prompt
+[...2]
+
+** The lone and level sands stretch far away." □
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344129120
+:END:
+
+*** Context
+Nothing beside remains. Round the decay
+
+Of that colossal Wreck, boundless and bare
+*** Title
+Ozymandias
+*** Author
+Percy Bysshe Shelley
+*** Sequence
+14
+*** Prompt
+** Ozymandias
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Source
+:ANKI_NOTE_ID: 1658344460286
+:END:
+*** Author1
+[[id:0d6d106f-5a90-4dff-83ce-0eef1db38c61][Percy Bysshe Shelley]]
+*** Author2
+*** Author3
+*** Author4
+*** Author5

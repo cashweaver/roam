@@ -1,0 +1,208 @@
+:PROPERTIES:
+:ID:       f89236e3-90bc-413f-a5da-173b2f71a17d
+:END:
+#+title: The Riddle of Strider
+#+author: Cash Weaver
+#+date: [2022-07-20 Wed 11:22]
+#+filetags: :poem:
+
+#+begin_verse
+All that is gold does not glitter,
+Not all those who wander are lost;
+The old that is strong does not wither,
+Deep roots are not reached by the frost.
+
+From the ashes a fire shall be woken,
+A light from the shadows shall spring;
+Renewed shall be blade that was broken,
+The crownless again shall be king.
+#+end_verse
+
+[[id:c1905dd8-5117-45c8-9da3-e822c22a932e][J. R. R. Tolkien]], [cite:@tolkienFellowshipRing2012]
+
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** The Riddle of Strider 1
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344184585
+:END:
+
+*** Line
+All that is gold does not glitter,
+
+Not all those who wander are lost;
+*** Context
+[Beginning]
+*** Title
+The Riddle of Strider
+*** Author
+J. R. R. Tolkien
+*** Sequence
+1
+*** Prompt
+[...2]
+** The Riddle of Strider 2
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344185185
+:END:
+
+*** Line
+Not all those who wander are lost;
+
+The old that is strong does not wither,
+*** Context
+[Beginning]
+
+All that is gold does not glitter,
+*** Title
+The Riddle of Strider
+*** Author
+J. R. R. Tolkien
+*** Sequence
+2
+*** Prompt
+[...2]
+** The Riddle of Strider 3
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344186085
+:END:
+
+*** Line
+The old that is strong does not wither,
+
+Deep roots are not reached by the frost. ⊗
+*** Context
+All that is gold does not glitter,
+
+Not all those who wander are lost;
+*** Title
+The Riddle of Strider
+*** Author
+J. R. R. Tolkien
+*** Sequence
+3
+*** Prompt
+[...2]
+** The Riddle of Strider 4
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344186761
+:END:
+
+*** Line
+Deep roots are not reached by the frost. ⊗
+
+From the ashes a fire shall be woken,
+*** Context
+Not all those who wander are lost;
+
+The old that is strong does not wither,
+*** Title
+The Riddle of Strider
+*** Author
+J. R. R. Tolkien
+*** Sequence
+4
+*** Prompt
+[...2]
+** The Riddle of Strider 5
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344187660
+:END:
+
+*** Line
+From the ashes a fire shall be woken,
+
+A light from the shadows shall spring;
+*** Context
+The old that is strong does not wither,
+
+Deep roots are not reached by the frost. ⊗
+*** Title
+The Riddle of Strider
+*** Author
+J. R. R. Tolkien
+*** Sequence
+5
+*** Prompt
+[...2]
+** The Riddle of Strider 6
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344188310
+:END:
+
+*** Line
+A light from the shadows shall spring;
+
+Renewed shall be blade that was broken,
+*** Context
+Deep roots are not reached by the frost. ⊗
+
+From the ashes a fire shall be woken,
+*** Title
+The Riddle of Strider
+*** Author
+J. R. R. Tolkien
+*** Sequence
+6
+*** Prompt
+[...2]
+** The Riddle of Strider 7
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344189184
+:END:
+
+*** Line
+Renewed shall be blade that was broken,
+
+The crownless again shall be king. □
+*** Context
+From the ashes a fire shall be woken,
+
+A light from the shadows shall spring;
+*** Title
+The Riddle of Strider
+*** Author
+J. R. R. Tolkien
+*** Sequence
+7
+*** Prompt
+[...2]
+
+** The crownless again shall be king. □
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344189785
+:END:
+
+*** Context
+A light from the shadows shall spring;
+
+Renewed shall be blade that was broken,
+*** Title
+The Riddle of Strider
+*** Author
+J. R. R. Tolkien
+*** Sequence
+8
+*** Prompt
+** [[id:f89236e3-90bc-413f-a5da-173b2f71a17d][The Riddle of Strider]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Source
+:ANKI_NOTE_ID: 1658344611961
+:END:
+*** Author1
+[[id:c1905dd8-5117-45c8-9da3-e822c22a932e][J. R. R. Tolkien]]
+*** Author2
+*** Author3
+*** Author4
+*** Author5

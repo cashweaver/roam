@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       93bad6b6-218f-4e56-8d63-ed1cb50f66f0
+:END:
+#+title: Robert Frost
+#+author: Cash Weaver
+#+date: [2022-07-20 Wed 11:31]
+#+filetags: :person:
+Among other things:
+
+* TODO
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

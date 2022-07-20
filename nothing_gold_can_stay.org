@@ -1,0 +1,207 @@
+:PROPERTIES:
+:ID:       90684bfd-668f-4559-bac8-99cbcefb4c08
+:END:
+#+title: Nothing Gold Can Stay
+#+author: Cash Weaver
+#+date: [2022-07-20 Wed 11:30]
+#+filetags: :poem:
+
+#+begin_verse
+Nature's first green is gold,
+Her hardest hue to hold.
+Her early leaf's a flower;
+But only so an hour.
+The leaf subsides to leaf.
+So Eden sank to grief,
+So dawn goes down to day,
+Nothing gold can stay.
+#+end_verse
+
+[[id:93bad6b6-218f-4e56-8d63-ed1cb50f66f0][Robert Frost]], [cite:@NothingGoldCan2022]
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Nothing Gold Can Stay 1
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344224661
+:END:
+
+*** Line
+Nature's first green is gold,
+
+Her hardest hue to hold.
+*** Context
+[Beginning]
+*** Title
+Nothing Gold Can Stay
+*** Author
+Robert Frost
+*** Sequence
+1
+*** Prompt
+[...2]
+** Nothing Gold Can Stay 2
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344206536
+:END:
+
+*** Line
+Her hardest hue to hold.
+
+Her early leaf's a flower;
+*** Context
+[Beginning]
+
+Nature's first green is gold,
+*** Title
+Nothing Gold Can Stay
+*** Author
+Robert Frost
+*** Sequence
+2
+*** Prompt
+[...2]
+** Nothing Gold Can Stay 3
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344207161
+:END:
+
+*** Line
+Her early leaf's a flower;
+
+But only so an hour.
+*** Context
+Nature's first green is gold,
+
+Her hardest hue to hold.
+*** Title
+Nothing Gold Can Stay
+*** Author
+Robert Frost
+*** Sequence
+3
+*** Prompt
+[...2]
+** Nothing Gold Can Stay 4
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344208035
+:END:
+
+*** Line
+But only so an hour.
+
+Then leaf subsides to leaf.
+*** Context
+Her hardest hue to hold.
+
+Her early leaf's a flower;
+*** Title
+Nothing Gold Can Stay
+*** Author
+Robert Frost
+*** Sequence
+4
+*** Prompt
+[...2]
+** Nothing Gold Can Stay 5
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344208686
+:END:
+
+*** Line
+Then leaf subsides to leaf.
+
+So Eden sank to grief,
+*** Context
+Her early leaf's a flower;
+
+But only so an hour.
+*** Title
+Nothing Gold Can Stay
+*** Author
+Robert Frost
+*** Sequence
+5
+*** Prompt
+[...2]
+** Nothing Gold Can Stay 6
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344209561
+:END:
+
+*** Line
+So Eden sank to grief,
+
+So dawn goes down to day.
+*** Context
+But only so an hour.
+
+Then leaf subsides to leaf.
+*** Title
+Nothing Gold Can Stay
+*** Author
+Robert Frost
+*** Sequence
+6
+*** Prompt
+[...2]
+** Nothing Gold Can Stay 7
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344210210
+:END:
+
+*** Line
+So dawn goes down to day.
+
+Nothing gold can stay. □
+*** Context
+Then leaf subsides to leaf.
+
+So Eden sank to grief,
+*** Title
+Nothing Gold Can Stay
+*** Author
+Robert Frost
+*** Sequence
+7
+*** Prompt
+[...2]
+
+** Nothing gold can stay. □
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344211060
+:END:
+
+*** Context
+So Eden sank to grief,
+
+So dawn goes down to day.
+*** Title
+Nothing Gold Can Stay
+*** Author
+Robert Frost
+*** Sequence
+8
+*** Prompt
+** [[id:90684bfd-668f-4559-bac8-99cbcefb4c08][Nothing Gold Can Stay]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Source
+:ANKI_NOTE_ID: 1658344286012
+:END:
+*** Author1
+[[id:93bad6b6-218f-4e56-8d63-ed1cb50f66f0][Robert Frost]]
+*** Author2
+*** Author3
+*** Author4
+*** Author5

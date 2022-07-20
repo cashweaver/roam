@@ -38,3 +38,273 @@ Would scarcely know that we were gone.
 :END:
 
 
+
+** There will come soft rains 1
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344095461
+:END:
+
+*** Line
+There will come soft rains and the smell of the ground,
+
+And swallows circling with their shimmering sound; ⊗
+*** Context
+[Beginning]
+*** Title
+There will come soft rains
+*** Author
+Sara Teasdale
+*** Sequence
+1
+*** Prompt
+[...2]
+** There will come soft rains 2
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344096186
+:END:
+
+*** Line
+And swallows circling with their shimmering sound; ⊗
+
+And frogs in the pools singing at night,
+*** Context
+[Beginning]
+
+There will come soft rains and the smell of the ground,
+*** Title
+There will come soft rains
+*** Author
+Sara Teasdale
+*** Sequence
+2
+*** Prompt
+[...2]
+** There will come soft rains 3
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344096711
+:END:
+
+*** Line
+And frogs in the pools singing at night,
+
+And wild plum-trees in tremulous white; ⊗
+*** Context
+There will come soft rains and the smell of the ground,
+
+And swallows circling with their shimmering sound; ⊗
+*** Title
+There will come soft rains
+*** Author
+Sara Teasdale
+*** Sequence
+3
+*** Prompt
+[...2]
+** There will come soft rains 4
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344097436
+:END:
+
+*** Line
+And wild plum-trees in tremulous white; ⊗
+
+Robins will wear their feathery fire
+*** Context
+And swallows circling with their shimmering sound; ⊗
+
+And frogs in the pools singing at night,
+*** Title
+There will come soft rains
+*** Author
+Sara Teasdale
+*** Sequence
+4
+*** Prompt
+[...2]
+** There will come soft rains 5
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344097963
+:END:
+
+*** Line
+Robins will wear their feathery fire
+
+Whistling their whims on a low fence-wire; ⊗
+*** Context
+And frogs in the pools singing at night,
+
+And wild plum-trees in tremulous white; ⊗
+*** Title
+There will come soft rains
+*** Author
+Sara Teasdale
+*** Sequence
+5
+*** Prompt
+[...2]
+** There will come soft rains 6
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344098685
+:END:
+
+*** Line
+Whistling their whims on a low fence-wire; ⊗
+
+And not one will know of the war, not one
+*** Context
+And wild plum-trees in tremulous white; ⊗
+
+Robins will wear their feathery fire
+*** Title
+There will come soft rains
+*** Author
+Sara Teasdale
+*** Sequence
+6
+*** Prompt
+[...2]
+** There will come soft rains 7
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344099212
+:END:
+
+*** Line
+And not one will know of the war, not one
+
+Will care at last when it is done. ⊗
+*** Context
+Robins will wear their feathery fire
+
+Whistling their whims on a low fence-wire; ⊗
+*** Title
+There will come soft rains
+*** Author
+Sara Teasdale
+*** Sequence
+7
+*** Prompt
+[...2]
+** There will come soft rains 8
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344099960
+:END:
+
+*** Line
+Will care at last when it is done. ⊗
+
+Not one would mind, neither bird nor tree
+*** Context
+Whistling their whims on a low fence-wire; ⊗
+
+And not one will know of the war, not one
+*** Title
+There will come soft rains
+*** Author
+Sara Teasdale
+*** Sequence
+8
+*** Prompt
+[...2]
+** There will come soft rains 9
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344100685
+:END:
+
+*** Line
+Not one would mind, neither bird nor tree
+
+If mankind perished utterly; ⊗
+*** Context
+And not one will know of the war, not one
+
+Will care at last when it is done. ⊗
+*** Title
+There will come soft rains
+*** Author
+Sara Teasdale
+*** Sequence
+9
+*** Prompt
+[...2]
+** There will come soft rains 10
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344101210
+:END:
+
+*** Line
+If mankind perished utterly; ⊗
+
+And Spring herself, when she woke at dawn,
+*** Context
+Will care at last when it is done. ⊗
+
+Not one would mind, neither bird nor tree
+*** Title
+There will come soft rains
+*** Author
+Sara Teasdale
+*** Sequence
+10
+*** Prompt
+[...2]
+** There will come soft rains 11
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344101960
+:END:
+
+*** Line
+And Spring herself, when she woke at dawn,
+
+Would scarcely know that we were gone. □
+*** Context
+Not one would mind, neither bird nor tree
+
+If mankind perished utterly; ⊗
+*** Title
+There will come soft rains
+*** Author
+Sara Teasdale
+*** Sequence
+11
+*** Prompt
+[...2]
+
+** Would scarcely know that we were gone. □
+:PROPERTIES:
+:ANKI_NOTE_TYPE: LPCG 1.0
+:ANKI_NOTE_ID: 1658344102485
+:END:
+
+*** Context
+If mankind perished utterly; ⊗
+
+And Spring herself, when she woke at dawn,
+*** Title
+There will come soft rains
+*** Author
+Sara Teasdale
+*** Sequence
+12
+*** Prompt
+** There will come soft rains
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Source
+:ANKI_NOTE_ID: 1658344326936
+:END:
+*** Author1
+[[id:91880ddb-fc58-47c1-b6f1-400fec9e1e33][Sara Teasdale]]
+*** Author2
+*** Author3
+*** Author4
+*** Author5
