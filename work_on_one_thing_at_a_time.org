@@ -11,3 +11,8 @@
 
 - [cite:@matthewsaltzSimpleDynamicMethodConsistentProductivity2020]
 #+print_bibliography:
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

@@ -10,3 +10,9 @@
 * TODO
 
 Sponsors face outward, rather than inward toward the one they sponsor. They advocate for the sponsored in their absence --- often in conversations in which the sponsored isn't present.
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

@@ -29,3 +29,5 @@ These combine to a single conclusion: The only winning move is striking first an
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+
+

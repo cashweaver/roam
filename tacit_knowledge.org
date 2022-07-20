@@ -16,3 +16,7 @@ For example, knowing that London is in the United Kingdom is a piece of explicit
 [cite:@TacitKnowledge2022]
 #+end_quote
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

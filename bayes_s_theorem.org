@@ -13,3 +13,8 @@ $$P(A|B) = \frac{P(B|A)P(A)}{P(B)}$$
 
 [cite:@explainedIntuitiveShortExplanationBayesTheorem]
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

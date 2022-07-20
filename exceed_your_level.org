@@ -12,3 +12,7 @@ There are no limits. There are plateaus, but you must not stay there, you must g
 
 /[[id:95cd4413-31d3-4158-af10-68139d69c04d][Bruce Lee]]/
 #+end_quote
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

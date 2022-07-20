@@ -34,3 +34,7 @@ Abbreviations, initialisms, and other short-forms can be can confuse those witho
 
    Leto Atreides the Second, also known as God-Emperor, ...
    #+end_quote
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

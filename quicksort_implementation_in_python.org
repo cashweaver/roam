@@ -57,3 +57,5 @@ print(quick_sort(a, lambda a, b: a <= b))
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+
+

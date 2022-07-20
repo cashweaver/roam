@@ -185,3 +185,9 @@ mu index
                     (smtpmail-smtp-user     . "<you>@gmail.com")
                     (mu4e-compose-signature . "<Your signature here>"))
 #+END_EXAMPLE
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

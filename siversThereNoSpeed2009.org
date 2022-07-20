@@ -19,3 +19,8 @@ Kimo's high expectations set a new pace for me. He taught me that "the standard 
 #+end_quote
 
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

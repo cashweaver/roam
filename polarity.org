@@ -1,0 +1,140 @@
+:PROPERTIES:
+:ID:       621bc458-5d22-462d-89df-e3f8e13d6dc4
+:END:
+#+title: Polarity
+#+author: Cash Weaver
+#+date: [2022-07-16 Sat 19:29]
+#+filetags: :concept:
+
+#+begin_quote
+Polarity in international relations is any of the various ways in which power is distributed within the international system. It describes the nature of the international system at any given period of time. One generally distinguishes three types of systems: unipolarity, bipolarity, and multipolarity for three or more centers of power.
+
+[cite:@PolarityInternationalRelations2022]
+#+end_quote
+
+* Types
+** Unipolarity
+:PROPERTIES:
+:ID:       79e18826-8ece-4b40-8bd3-8c42c760ff94
+:END:
+
+#+begin_quote
+Unipolarity is a condition in which one state under the condition of international anarchy enjoys a preponderance of power and faces no competitor states. A unipolar state is not the same as an empire or a [[id:eb439041-eb04-415d-a642-9ab8783c68a4][Hegemon]] that can control the behavior of all other states.
+
+[cite:@PolarityInternationalRelations2022]
+#+end_quote
+
+** Bipolarity
+:PROPERTIES:
+:ID:       95c9ff85-7110-498d-ab79-b254f6b66518
+:END:
+
+#+begin_quote
+Bipolarity is a distribution of power in which two states have a preponderance of power.
+
+[cite:@PolarityInternationalRelations2022]
+#+end_quote
+** Multipolarity
+:PROPERTIES:
+:ID:       875f6c50-7576-4eaf-95e7-e534c345da17
+:END:
+
+#+begin_quote
+Multipolarity is a distribution of power in which more than two nation-states have nearly equal amounts of power.
+
+[cite:@PolarityInternationalRelations2022]
+#+end_quote
+
+
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** [[id:621bc458-5d22-462d-89df-e3f8e13d6dc4][Polarity]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1658075154360
+:END:
+*** Context
+Politics
+*** Definition
+The organization of power in a system.
+*** Extra
+Usually in the context of:
+
+- Unipolarity: One center of power
+- Bipolarity: Two centers of power
+- Multipolarity: More than two centers of power
+*** Source
+[cite:@PolarityInternationalRelations2022]
+
+** [[id:79e18826-8ece-4b40-8bd3-8c42c760ff94][Unipolarity]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1658072635375
+:END:
+*** Context
+[[id:621bc458-5d22-462d-89df-e3f8e13d6dc4][Polarity]]
+*** Definition
+A condition in which one state has a preponderance of power and faces no competitor states.
+*** Extra
+*** Source
+[cite:@PolarityInternationalRelations2022]
+
+
+** [[id:95c9ff85-7110-498d-ab79-b254f6b66518][Bipolarity]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1658072636221
+:END:
+*** Context
+[[id:621bc458-5d22-462d-89df-e3f8e13d6dc4][Polarity]]
+*** Definition
+A condition in which two states have a preponderance of power.
+*** Extra
+*** Source
+[cite:@PolarityInternationalRelations2022]
+
+** [[id:875f6c50-7576-4eaf-95e7-e534c345da17][Multipolarity]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1658072637076
+:END:
+*** Context
+[[id:621bc458-5d22-462d-89df-e3f8e13d6dc4][Polarity]]
+*** Definition
+A condition in which more than two states have a preponderance of power.
+*** Extra
+*** Source
+[cite:@PolarityInternationalRelations2022]
+** [[id:95c9ff85-7110-498d-ab79-b254f6b66518][Bipolarity]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Example(s)
+:ANKI_NOTE_ID: 1658072637900
+:END:
+*** Example(s)
+- USA and the Soviet Union during the Cold War
+*** Extra
+*** Source
+[cite:@PolarityInternationalRelations2022]
+** [[id:79e18826-8ece-4b40-8bd3-8c42c760ff94][Unipolarity]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Example(s)
+:ANKI_NOTE_ID: 1658072638500
+:END:
+*** Example(s)
+- (potentially) The USA in the 20th century and beyond
+*** Extra
+*** Source
+[cite:@PolarityInternationalRelations2022]
+** [[id:875f6c50-7576-4eaf-95e7-e534c345da17][Multipolarity]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Example(s)
+:ANKI_NOTE_ID: 1658072638900
+:END:
+*** Example(s)
+- Warring states period in Japan
+*** Extra
+*** Source

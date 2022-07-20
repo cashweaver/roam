@@ -10,3 +10,7 @@
 The fallacy of gray is an assertion, in the face of a lack of a clear black and white divide, that the cases are all equally good or bad. The fallacy is that (to continue the color metaphor) each case is a different /shade/ of gray; that some cases are better (for some definition of better) than others.
 
 See [[id:0c317a9b-c62b-418b-a78f-2543944dd8bc][Eliezer Yudkowsky | The Fallacy of Gray]]
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

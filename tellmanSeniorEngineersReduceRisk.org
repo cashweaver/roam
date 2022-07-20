@@ -30,3 +30,8 @@ Every company has different risks, and so every company expects something differ
 #+end_quote
 
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

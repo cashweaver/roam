@@ -26,15 +26,15 @@ The secret to a happy marriage is that you should like your spouse.
 #+end_quote
 
 #+begin_quote
-Don’t have a fight when you’re physiologically aroused. Don’t have a fight when you’re physiologically aroused. Monitor your physiological arousal, and if you start to notice the signs – fast heartbeat, tense muscles, shallow breathing – call a time-out, go somewhere else, and use meditation or deep breathing or whatever to calm down.
+Don't have a fight when you're physiologically aroused. Don't have a fight when you're physiologically aroused. Monitor your physiological arousal, and if you start to notice the signs – fast heartbeat, tense muscles, shallow breathing – call a time-out, go somewhere else, and use meditation or deep breathing or whatever to calm down.
 
 /[cite:@alexanderBookReviewSevenPrinciplesMakingMarriageWork2020]/
 #+end_quote
 
 #+begin_quote
-Gottman divides conflicts into two types: solvable and unsolvable. Solvable conflicts are simple, specific, and about the thing they seem to be about – for example, the husband is supposed to take the trash out after work, but work has gotten really stressful lately and he keeps forgetting, and now the trash is overflowing and the wife is annoyed. The solution here is to use normal problem-solving techniques. Put a sign in the bedroom saying “DID YOU REMEMBER TO TAKE THE TRASH OUT?” or something. Whatever.
+Gottman divides conflicts into two types: solvable and unsolvable. Solvable conflicts are simple, specific, and about the thing they seem to be about – for example, the husband is supposed to take the trash out after work, but work has gotten really stressful lately and he keeps forgetting, and now the trash is overflowing and the wife is annoyed. The solution here is to use normal problem-solving techniques. Put a sign in the bedroom saying "DID YOU REMEMBER TO TAKE THE TRASH OUT?" or something. Whatever.
 
-Unsolvable conflicts are temporary manifestations of deep psychological issues. The particular thing that sparked the fight this time is irrelevant, but both spouses will fight to the death because it represents something important. For example, the husband is late to dinner one night because he went out to the bar. The wife yells at him and says he doesn’t care about her. He yells back that she’s a control freak. Here the problem will not be solved by coming up with a compromise where he can go to the bar half of nights. The problem is that she secretly worries his drinking buddies have a closer connection to him than she ever will, that he doesn’t love her anymore, that he goes to the bar to escape her. He worries that he’s lost his freedom, that he’s become emasculated, that he’s become some boring old person who is never allowed to have fun. If the bar burnt down tomorrow, they would find some other excuse to fight over this dynamic.
+Unsolvable conflicts are temporary manifestations of deep psychological issues. The particular thing that sparked the fight this time is irrelevant, but both spouses will fight to the death because it represents something important. For example, the husband is late to dinner one night because he went out to the bar. The wife yells at him and says he doesn't care about her. He yells back that she's a control freak. Here the problem will not be solved by coming up with a compromise where he can go to the bar half of nights. The problem is that she secretly worries his drinking buddies have a closer connection to him than she ever will, that he doesn't love her anymore, that he goes to the bar to escape her. He worries that he's lost his freedom, that he's become emasculated, that he's become some boring old person who is never allowed to have fun. If the bar burnt down tomorrow, they would find some other excuse to fight over this dynamic.
 
 /[cite:@alexanderBookReviewSevenPrinciplesMakingMarriageWork2020]/
 #+end_quote
@@ -59,3 +59,9 @@ In marriage, as in other forms of politics, sometimes exit > voice. Which is pro
 #+end_quote
 
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+

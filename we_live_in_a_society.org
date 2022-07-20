@@ -10,3 +10,7 @@
 See:
 
 - [[id:b0e5ef46-d1f3-43ce-9fc0-2a9ce52ce4c9][Wikipedia | Paradox of Tolerance]]
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

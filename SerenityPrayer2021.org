@@ -17,3 +17,9 @@ and wisdom to know the difference.
 #+end_quote
 
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+

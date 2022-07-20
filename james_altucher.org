@@ -9,3 +9,7 @@
 Among other things:
 
 - https://jamesaltucher.com
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

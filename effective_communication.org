@@ -10,3 +10,9 @@
 * TODO
 
 - [[id:617eec3a-89c3-4b9f-9074-47d4bf4e69fd][Ben Kuhn | To Listen Well, Get Curious]]
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

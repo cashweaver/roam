@@ -7,3 +7,7 @@
 #+filetags: :concept:
 
 A specific [[id:7bb3980d-e901-4f5e-b102-61a0a89de28c][post-scarcity society]] achieved through a combination of automative technology and material abundance.
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

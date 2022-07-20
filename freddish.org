@@ -38,3 +38,7 @@ Per the pamphlet, there were nine steps for translating into Freddish:
 #+end_quote
 
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

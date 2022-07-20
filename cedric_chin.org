@@ -10,3 +10,7 @@
 Among other things:
 
 - https://commoncog.com/
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

@@ -17,3 +17,7 @@
 - Some hospitals staff experts who offer a regularly-occurring class.
   - Dave Potter offers a free version in his [[https://palousemindfulness.com/][Palouse Mindfulness program]].
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

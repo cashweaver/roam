@@ -5,3 +5,7 @@
 #+title: Emacs
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 09:04]
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

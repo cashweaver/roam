@@ -1,0 +1,47 @@
+:PROPERTIES:
+:ID:       4ac6dd25-cd22-4a7d-b41a-7881c7eb33e8
+:END:
+#+title: Narrative book
+#+author: Cash Weaver
+#+date: [2022-07-17 Sun 09:49]
+#+filetags: :concept:
+
+#+begin_quote
+Narrative books are books that tell a story. Examples include biographies, memoirs, and histories.
+
+[cite:@chinThreeKindsNonfiction2018]
+#+end_quote
+
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** [[id:4ac6dd25-cd22-4a7d-b41a-7881c7eb33e8][Narrative book]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1640627827694
+:END:
+
+*** Context
+[[id:4c9b1bbf-2a4b-43fa-a266-b559c018d80e][Cedric Chin]]
+*** Definition
+A book that tells a story
+*** Extra
+Examples: biographies, fiction, memoirs, histories
+*** Source
+[cite:@chinThreeKindsNonfiction2018]
+** [[id:4ac6dd25-cd22-4a7d-b41a-7881c7eb33e8][Narrative book]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Example(s)
+:ANKI_NOTE_ID: 1658076750780
+:END:
+*** Example(s)
+- Biographies
+- Fiction
+- Memoirs
+- Histories
+*** Extra
+*** Source
+[cite:@chinThreeKindsNonfiction2018]

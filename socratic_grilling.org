@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       25f5faeb-aeeb-4ae6-998c-08940cb60c3f
+:END:
+#+title: Socratic grilling
+#+author: Cash Weaver
+#+date: [2022-07-18 Mon 19:05]
+#+filetags: :concept:
+
+#+begin_quote
+[...] like Socratic questioning, but a little harsher and more confrontational in order to get to the point more quickly.
+
+[[id:cb4ba655-dabf-40a2-95e7-0cdbff887074][Scott Alexander | Socratic Grilling]]
+#+end_quote
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** [[id:25f5faeb-aeeb-4ae6-998c-08940cb60c3f][Socratic grilling]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1658196404650
+:END:
+*** Context
+*** Definition
+Related to [[id:8611a2b5-378e-44ab-b601-6481f170c34a][Socratic questioning]] but a littler harsher and more confrontational in order to get to the point quickly.
+*** Extra
+*** Source
+[cite:@alexanderSocraticGrilling2020]
+#+print_bibliography:

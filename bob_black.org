@@ -9,3 +9,8 @@
 Among other things:
 
 - [[https://theanarchistlibrary.org/category/author/bob-black][Written work in Anarchist Library]]
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

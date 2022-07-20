@@ -16,13 +16,13 @@
 * Notes
 
 #+begin_quote
-In modern knowledge work, the primary capital resource is human brains; or, more specifically, these brains’ ability to create new value through sustained attention. At the moment, most individuals and organizations are terrible at optimizing this resource, prioritizing instead the convenience and flexibility of persistent, unstructured messaging (e.g.,  email and IM). I predict that as this sector evolves, we’ll get better at optimizing attention capital, and accordingly leave behind our current culture of communication overload.
+In modern knowledge work, the primary capital resource is human brains; or, more specifically, these brains' ability to create new value through sustained attention. At the moment, most individuals and organizations are terrible at optimizing this resource, prioritizing instead the convenience and flexibility of persistent, unstructured messaging (e.g.,  email and IM). I predict that as this sector evolves, we'll get better at optimizing attention capital, and accordingly leave behind our current culture of communication overload.
 
 /[cite:@newport]/
 #+end_quote
 
 #+begin_quote
-The Deep Work Hypothesis: The ability to concentrate without distraction on a demanding task (what I call “deep work”) is becoming more rare at the same time that it’s becoming more valuable in the knowledge sector. As a result, those individuals and organizations who put in the hard work to cultivate this skill will thrive.
+The Deep Work Hypothesis: The ability to concentrate without distraction on a demanding task (what I call "deep work") is becoming more rare at the same time that it's becoming more valuable in the knowledge sector. As a result, those individuals and organizations who put in the hard work to cultivate this skill will thrive.
 
 /[cite:@newport]/
 #+end_quote
@@ -34,8 +34,13 @@ Digital Minimalism: The services delivered through your devices have become so a
 #+end_quote
 
 #+begin_quote
-Attention Capital Theory: In modern knowledge work, the primary capital resource is human brains; or, more specifically, these brains’ ability to create new value through sustained attention. At the moment, most individuals and organizations are terrible at optimizing this resource, prioritizing instead the convenience and flexibility of persistent, unstructured messaging (e.g., email and IM). I predict that as this sector evolves, we’ll get better at optimizing attention capital, and accordingly leave behind our current culture of communication overload.
+Attention Capital Theory: In modern knowledge work, the primary capital resource is human brains; or, more specifically, these brains' ability to create new value through sustained attention. At the moment, most individuals and organizations are terrible at optimizing this resource, prioritizing instead the convenience and flexibility of persistent, unstructured messaging (e.g., email and IM). I predict that as this sector evolves, we'll get better at optimizing attention capital, and accordingly leave behind our current culture of communication overload.
 
 /[cite:@newport]/
 #+end_quote
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

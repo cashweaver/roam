@@ -19,7 +19,7 @@ A forest is an undirected [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] in 
 ** [[id:326df302-a17b-4f2c-8bcd-027be7a459f5][Forest]]
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Definition
-:ANKI_NOTE_ID: 1657069161570
+:ANKI_NOTE_ID: 1658321253970
 :END:
 *** Context
 [[id:5bc61709-6612-4287-921f-3e2509bd2261][Graph Theory]]
@@ -31,7 +31,7 @@ A [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] in which any two [[id:1b252
 ** [[id:326df302-a17b-4f2c-8bcd-027be7a459f5][Forest]]
 :PROPERTIES:
 :ANKI_NOTE_TYPE: AKA
-:ANKI_NOTE_ID: 1657069267969
+:ANKI_NOTE_ID: 1658321255144
 :END:
 *** Term2
 Disjoint union of [[id:1a068ad5-3e16-4ec4-b238-6fdc5904aeb4][Trees]]
@@ -44,3 +44,5 @@ Disjoint union of [[id:1a068ad5-3e16-4ec4-b238-6fdc5904aeb4][Trees]]
 *** Extra
 *** Source
 [cite:@TreeGraphTheory2022]
+
+

@@ -283,3 +283,8 @@ You have a task that cannot wait until you have all the information about it to 
 :PROPERTIES:
 :NOTER_PAGE: (37 . 0.090909)
 :END:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

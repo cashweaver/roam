@@ -107,3 +107,5 @@ The =Equivalence= note includes six pairs of fields for an expression and label:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+
+

@@ -21,3 +21,8 @@ The old way is to maintain your "status" by hoarding information. You are the on
 #+end_quote
 
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

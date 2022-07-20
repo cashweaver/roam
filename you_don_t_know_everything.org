@@ -8,3 +8,9 @@
 #+filetags: :concept:
 
 * TODO
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

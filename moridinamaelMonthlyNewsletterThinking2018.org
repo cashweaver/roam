@@ -30,3 +30,8 @@ And the final and most important distinction between a monthly newsletter and a 
 #+end_quote
 
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

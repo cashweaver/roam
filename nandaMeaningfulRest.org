@@ -17,10 +17,15 @@
 #+begin_quote
 An exercise: Set a 5 minute timer, and list the things you want to do when you feel tired and low-energy. Then, set another 5 minute timer, and list the things you feel rejuvenated after having done - the things you like doing when low-energy.
 
-If you’re anything like me, these lists are basically disjoint!
+If you're anything like me, these lists are basically disjoint!
 #+end_quote
 
 #+begin_quote
 Most situations in my life have a default response, and that takes no effort to follow. To deviate from the default response, I need to spend a scarce resource - willpower. Being tired is essentially being low on willpower, and the problem is that my default actions when low willpower do not regenerate willpower.
 #+end_quote
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

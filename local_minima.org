@@ -10,3 +10,8 @@ The local minima is the smallest value of a function within a given range [cite:
 
 * TODO Examples
 #+print_bibliography:
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

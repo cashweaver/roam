@@ -5,3 +5,8 @@
 #+title: Aaron Swartz
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 11:54]
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

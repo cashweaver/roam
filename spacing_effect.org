@@ -13,3 +13,7 @@ The spacing effect demonstrates that learning is more effective when study sessi
 [cite:@SpacingEffect2022]
 #+end_quote
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

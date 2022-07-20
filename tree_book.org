@@ -1,0 +1,43 @@
+:PROPERTIES:
+:ID:       3784b9a9-ad2f-4537-864a-7362f21cd014
+:END:
+#+title: Tree book
+#+author: Cash Weaver
+#+date: [2022-07-17 Sun 09:48]
+#+filetags: :concept:
+
+#+begin_quote
+Tree books are books that lay out a framework of ideas. A good example is Daniel Kahneman's Thinking: Fast and Slow, which lays out his life's work — the entirety of behavioural economics — in a single book. (So an entire field, like a tree of knowledge, in one book. Geddit, geddit?) Other books I can think of in this category are High Output Management by Andy Grove, and Principles by Ray Dalio.
+
+[cite:@chinThreeKindsNonfiction2018]
+#+end_quote
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** [[id:3784b9a9-ad2f-4537-864a-7362f21cd014][Tree book]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1640627827897
+:END:
+
+*** Context
+[[id:4c9b1bbf-2a4b-43fa-a266-b559c018d80e][Cedric Chin]]
+*** Definition
+Books that lay out a framework of ideas
+*** Extra
+Examples: Principles by Ray Dialo
+*** Source
+[cite:@chinThreeKindsNonfiction2018]
+** [[id:3784b9a9-ad2f-4537-864a-7362f21cd014][Tree book]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Example(s)
+:ANKI_NOTE_ID: 1658076800655
+:END:
+*** Example(s)
+- Principles by Ray Dialo
+- [[id:84e0e30f-a362-4aae-b540-4541e00af0a8][Marcus Aurelius Antoninus | The Meditations of the Emperor Marcus Antoninus]]
+*** Extra
+*** Source
+[cite:@chinThreeKindsNonfiction2018]

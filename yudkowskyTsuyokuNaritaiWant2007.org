@@ -29,3 +29,8 @@ Never confess to me that you are just as flawed as I am unless you can tell me w
 #+end_quote
 
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

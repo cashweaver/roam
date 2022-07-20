@@ -170,3 +170,9 @@ cd /path/to/your/mail/directory/you.gmail
 * Done!
 
 For those of you using [[https://github.com/hlissner/doom-emacs][=doom emacs=]], you can open notmuch from anywhere with =SPC o m=.
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

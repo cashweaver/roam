@@ -26,3 +26,7 @@ Two members of a criminal organization are arrested and imprisoned. Each prisone
 #+end_quote
 
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

@@ -1,16 +1,21 @@
 :PROPERTIES:
-:ROAM_REFS: [cite:@SparseMatricesMatt]
+:ROAM_REFS: [cite:@edingSparseMatrices]
 :ID:       26116df3-08f6-4a3d-ab21-c1f33d2facfd
 :END:
-#+title: Sparse Matrices $\cdot$ Matt Eding
+#+title: Matt Eding | Sparse Matrices
 #+author: Cash Weaver
 #+date: [2022-06-21 Tue 18:33]
 #+filetags: :reference:
 #+hugo_auto_set_lastmod: t
  
-TODO_AUTHOR, [cite:@SparseMatricesMatt]
+TODO_AUTHOR, [cite:@edingSparseMatrices]
 
-* TODO Summary
-* TODO Thoughts
-* TODO Notes
+* TODO [#4] Summary
+* TODO [#4] Thoughts
+* TODO [#4] Notes
 #+print_bibliography:
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

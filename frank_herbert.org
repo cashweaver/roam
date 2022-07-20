@@ -9,3 +9,19 @@
 Among other things:
 
 - Author of [[id:68077361-66a6-4abe-b00f-dfb3d83630f2][Herbert | Dune]]
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** [[id:7f3c7b18-3173-4c69-a4c5-b7d33630ae85][Frank Herbert]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Author
+:ANKI_NOTE_ID: 1658322826850
+:END:
+*** Source1
+Dune
+*** Source2
+*** Source3
+*** Source4
+*** Source5

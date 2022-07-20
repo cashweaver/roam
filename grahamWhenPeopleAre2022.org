@@ -13,3 +13,7 @@ When people are naturally good at something, they tend to be puzzled by how bad 
 [[id:8a9360e0-306a-422a-804f-e2fd6664b8fe][Paul Graham]], [cite:@grahamWhenPeopleAre2022]
 #+end_quote
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

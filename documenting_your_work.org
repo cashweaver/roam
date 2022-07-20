@@ -22,3 +22,9 @@
 - https://idratherbewriting.com/simplifying-complexity/discoverability-through-metadata.html
 - [cite:@ReadmeDrivenDevelopment]
 #+print_bibliography:
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

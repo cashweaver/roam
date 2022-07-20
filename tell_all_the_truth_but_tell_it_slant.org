@@ -19,3 +19,7 @@ Or every man be blind —
 
 [[id:f09861cf-7103-46d2-85b3-3e614c2bdd2a][Emily Dickinson]], [cite:@dickinsonTellAllTruthTellItSlant2022]
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

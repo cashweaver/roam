@@ -15,3 +15,9 @@ Related:
 
 
 * TODO Citations, quotes, etc
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

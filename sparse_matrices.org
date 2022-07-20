@@ -6,7 +6,8 @@
 #+date: [2022-06-21 Tue 18:33]
 #+filetags: :concept:
 
-- [cite:@edingSparseMatrices]
+- [[id:26116df3-08f6-4a3d-ab21-c1f33d2facfd][Matt Eding | Sparse Matrices]]
+
 #+print_bibliography:
 * Anki :noexport:
 :PROPERTIES:
@@ -26,3 +27,5 @@ A matrix in which most of the values are zero.
 *** Extra
 *** Source
 https://en.wikipedia.org/wiki/Sparse_matrix
+
+

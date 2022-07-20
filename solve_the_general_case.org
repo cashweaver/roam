@@ -16,3 +16,9 @@ Where possible, solving the general form of any problem is preferable to solving
 #+end_quote
 
 #+print_bibliography:
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

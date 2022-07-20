@@ -17,3 +17,7 @@ See:
 
 - [[id:37699e33-fccb-43bf-ab4b-ca9e74a03510][Spacing Effect]]
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

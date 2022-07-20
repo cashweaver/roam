@@ -20,3 +20,9 @@ I like the idea of including an archive link when linking to off-domain content.
 I also notice that the author [[https://www.flightfromperfection.com/the-best-explanation-of-modern-monetary-theory.html][includes (sometimes long) relevant quotes from links they cite]]. I think this is a fantastic practice which accomplishes most of the goal of "(a)".
 
 #+print_bibliography:
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

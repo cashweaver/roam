@@ -64,6 +64,9 @@
                                         (format
                                          "%s/attachments/"
                                          org-roam-directory))
+                  org-roam-db-location (expand-file-name
+                                        "org-roam.db"
+                                        org-roam-directory)
                   org-hugo-auto-set-lastmod t
                   cashweaver/org-roam--file-path-exceptions-to-export-after-save `(,(format "%sunread.org"
                                                                                             org-roam-directory)
@@ -73,14 +76,16 @@
                                                                                            org-roam-directory)
                                                                                   ,(format "%sunread.org_archive"
                                                                                            org-roam-directory))))
-         (eval . (setq-local
-                  org-roam-db-location (expand-file-name
-                                        "org-roam.db"
-                                        org-roam-directory)))))
+         (eval .
+               (add-hook
+                'cashweaver/org-mode-done-cut-hook
+                'org-roam-file-p)
+               )))
 
  (org-mode . ((eval . (org-hugo-auto-export-mode))
               (eval . (cashweaver/enable-anki-editor-mode))
               (eval . (setq
+                       org-export-with-priority nil
                        org-export-with-todo-keywords nil))
               (eval . (add-hook! 'before-save-hook
                                  :local

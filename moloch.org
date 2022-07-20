@@ -10,3 +10,41 @@ Among other things,
 
 - Carthaginian demon
 - Personification of forces and systems which compel individuals to race to the bottom (see [[id:e93466a6-cad5-4f3c-bb75-7990f7e9886f][Howl]], [[id:1bba449a-48eb-479a-be4d-a4d7f8095b6a][Scott Alexander | Meditations On Moloch]])
+
+#+print_bibliography:
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** [[id:3aea1e2f-dd21-4c21-a8c9-7efd610424c4][Moloch]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1658004377000
+:END:
+*** Context
+Optimization
+
+*** Definition
+Systems which compel the individuals within them to race to the bottom; to choose a locally optimal strategy rather than a globally optimal one.
+
+*** Extra
+
+*** Source
+[cite:@alexanderMeditationsMoloch2014]
+
+** [[id:3aea1e2f-dd21-4c21-a8c9-7efd610424c4][Moloch]] and [[id:d6d36741-18ca-48fe-bb2e-85bc849ddd93][Tragedy of the Commons]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Compare/Contrast
+:ANKI_NOTE_ID: 1658076389506
+:END:
+
+*** Context
+
+*** Comparisons/Contrasts
+- [[id:d6d36741-18ca-48fe-bb2e-85bc849ddd93][Tragedy of the Commons]] is a part, but not the whole, of [[id:3aea1e2f-dd21-4c21-a8c9-7efd610424c4][Moloch]]
+
+*** Source
+

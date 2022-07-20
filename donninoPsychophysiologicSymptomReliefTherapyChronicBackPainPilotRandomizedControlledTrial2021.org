@@ -72,3 +72,8 @@ As stress is an underlying component of MBS, the final arm of the program is to 
 #+end_quote
 
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

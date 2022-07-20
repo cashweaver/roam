@@ -60,3 +60,10 @@ There's one other quality I aim for in essays: to say things as simply as possib
 Sometimes the reason people don't know something is because they don't want to know it.
 #+end_quote
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+
+

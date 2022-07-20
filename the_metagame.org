@@ -8,3 +8,9 @@
 #+filetags: :concept:
 
 * TODO Create more specific metagame concept nodes
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

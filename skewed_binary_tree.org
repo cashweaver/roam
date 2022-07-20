@@ -43,3 +43,11 @@ A [[id:a15a6edb-dbe2-496f-bdc7-92b14e1f5566][Degenerate binary tree]] in which a
 *** Extra
 *** Source
 [cite:@BinaryTree2022]
+** A [[id:4c7bf5db-dc29-44a1-bb77-36d560b38688][Skewed binary tree]] is a type of {{c1::[[id:a15a6edb-dbe2-496f-bdc7-92b14e1f5566][Degenerate binary tree]]}}
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1658243494775
+:END:
+*** Extra
+*** Source
+[cite:@BinaryTree2022]

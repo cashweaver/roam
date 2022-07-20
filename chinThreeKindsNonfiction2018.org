@@ -13,25 +13,26 @@
 * Summary
 * Thoughts
 * Notes
-** Narrative
-
-#+begin_quote
-Narrative books are books that tell a story. Examples include biographies, memoirs, and histories.
-#+end_quote
-
-** Tree
-
-#+begin_quote
-Tree books are books that lay out a framework of ideas. A good example is Daniel Kahneman's Thinking: Fast and Slow, which lays out his life's work — the entirety of behavioural economics — in a single book. (So an entire field, like a tree of knowledge, in one book. Geddit, geddit?) Other books I can think of in this category are High Output Management by Andy Grove, and Principles by Ray Dalio.
-#+end_quote
-
-** Branch
-
-#+begin_quote
-Branch books are the most common type of book you'll find in the non-fiction section. These are books that consist of a single idea. The rest of the book is then padded out with examples, extrapolations, and implications of that single idea. A good example of this is Nicholas Nassem Taleb's Antifragile, which can be summarised in a single sentence: "the world consists of systems that are fragile (break easily), robust (are difficult to break) and are antifragile (gets stronger the more you try to break it e.g. like democracy)." The rest of the book explores the full implications of seeing systems as 'fragile/robust/antifragile'.
-#+end_quote
+- [[id:3784b9a9-ad2f-4537-864a-7362f21cd014][Tree book]]
+- [[id:4ac6dd25-cd22-4a7d-b41a-7881c7eb33e8][Narrative book]]
+- [[id:065a0303-c2d3-40a0-a8fb-793f19f02526][Branch book]]
 
 * TODO Create individual concept nodes?
 
 Maybe something more general, like novel conceptual density in writing.
 #+print_bibliography:
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** {{c1::Cedric Chin}} separates books into {{c2::narrative}}, {{c3::tree}}, and {{c4::branch}} books
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627827297
+:END:
+
+*** Extra
+*** Source
+https://commoncog.com/blog/the-3-kinds-of-non-fiction-book/#branchbooks
+

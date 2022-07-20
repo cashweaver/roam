@@ -11,3 +11,7 @@ Rules must always be evaluated for their power to oppress.
 
 /[[id:cfeb6969-326d-4804-a08c-d232cbd40369][Dan Olson]], [[youtube:YQ_xWvX1n9g][Line Goes Up – The Problem With NFTs]]/
 #+end_quote
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

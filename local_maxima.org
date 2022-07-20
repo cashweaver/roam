@@ -10,3 +10,9 @@ The local maxima is the largest value of a function within a given range [cite:@
 
 * TODO Examples
 #+print_bibliography:
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

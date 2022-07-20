@@ -14,3 +14,7 @@ A technique of studying/learning where one emphasizes the relationships between 
 
 [[id:91d7761c-fb74-4f25-94cc-948d7522b818][Memory in Educational Settings]]
 #+end_quote
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

@@ -24,3 +24,8 @@ No one's sensibilities about software design are so refined that they can teach 
 #+end_quote
 
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

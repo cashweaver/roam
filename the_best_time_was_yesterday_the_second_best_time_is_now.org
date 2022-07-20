@@ -11,3 +11,9 @@ The best time for X[fn:1] was yesterday. The second best time is now.
 * Footnotes
 
 [fn:1] Where X is most things, behaviors, activities, etc.
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

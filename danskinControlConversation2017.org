@@ -16,7 +16,6 @@ Broadly, controlling the conversation is about making people talk about what you
 
 * TODO Thoughts
 
-
 * Notes
 
 #+begin_quote
@@ -74,3 +73,5 @@ Make sure people are talking about what you want them to talk about and in ways 
 *** Source
 
 [cite:@danskinControlConversation2017]
+
+

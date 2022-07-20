@@ -41,3 +41,5 @@ A person's consideration of the secondary characteristics of an argument i.e fra
 *** Extra
 *** Source
 [cite:@ElaborationLikelihoodModel2022]
+
+

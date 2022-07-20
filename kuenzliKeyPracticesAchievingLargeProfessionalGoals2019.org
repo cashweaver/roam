@@ -31,9 +31,9 @@ Kuenzli mentions that they "really learned how to focus and extract much more va
 1. Removing social media from their daily routine
 
    #+begin_quote
-Two ‘surprising’ things happened when I reduced the Twitter app timer limit to 30 then 5 minutes:
+Two 'surprising' things happened when I reduced the Twitter app timer limit to 30 then 5 minutes:
 
-1. I didn’t miss it
+1. I didn't miss it
 2. My stress level dropped and mood improved significantly
    #+end_quote
 
@@ -41,13 +41,13 @@ Two ‘surprising’ things happened when I reduced the Twitter app timer limit 
 3. Scheduling important work for the beginning of the day
 
    #+begin_quote
-It’s only possible to work at peak levels sustainably for 3-4 hours per day. So, I pack writing, product management, product development, and planning into the morning. The most creative and intense work of the day is usually done by the time I go to lunch.
+It's only possible to work at peak levels sustainably for 3-4 hours per day. So, I pack writing, product management, product development, and planning into the morning. The most creative and intense work of the day is usually done by the time I go to lunch.
    #+end_quote
 
 4. Wrapping up work in preparation for the next day
 
    #+begin_quote
-At 15 minutes to 5, I start getting my work to a good stopping point, check my email for urgent issues, then I say this mantra out loud to recognize myself for the day’s efforts and combat my perfectionist, always on tendencies:
+At 15 minutes to 5, I start getting my work to a good stopping point, check my email for urgent issues, then I say this mantra out loud to recognize myself for the day's efforts and combat my perfectionist, always on tendencies:
 
 "That's good for today."
    #+end_quote
@@ -58,3 +58,9 @@ I've added an "End the Day" event to my calendar for the last 15 minutes of the 
 
 * Notes
 #+print_bibliography:
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

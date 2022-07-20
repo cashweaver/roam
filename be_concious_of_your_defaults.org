@@ -7,4 +7,11 @@
 #+date: [2022-02-17 Thu 07:24]
 #+filetags: :concept:
 
-* TODO Seek to be aware of your "defaults" and examine them; do you want to keep them?
+* TODO [#2] Seek to be aware of your "defaults" and examine them; do you want to keep them?
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+

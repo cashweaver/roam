@@ -7,3 +7,9 @@
 #+date: [2022-02-06 Sun 16:24]
 
 * TODO
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

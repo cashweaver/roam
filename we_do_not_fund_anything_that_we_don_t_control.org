@@ -13,3 +13,7 @@ Frank C. Erwin, [cite:@hicksDailyTexanUTInstitutionStrugglesInternetAge2013]
 #+end_quote
 
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

@@ -12,3 +12,7 @@ The purpose of this =README= is to explain some of the details in this collectio
 - [[id:5140bc26-825e-4e26-aec6-3738a5fe2ab1][How I Write Notes]]
 - These notes are heavily inspired by [[id:32438fd5-c050-46a9-9611-97d571512f3e][others]]
 - There is a [[id:05911fff-a79b-4462-bf6d-a3cec4e1c9f2][style guide]]
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

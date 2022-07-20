@@ -9,3 +9,7 @@
 A personal user guide explains how an individual would like others to interact with them. It explains how best to work with them.
 
 The [[id:1ca0d9f2-27ec-4297-95e4-395c8713618f][act of writing the guide]] may prove useful for the author even if others don't adhere to it's requirements.
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

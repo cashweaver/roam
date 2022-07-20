@@ -19,3 +19,9 @@ Plain language makes it easier [...] to read, understand, and use [writing].
 - [[id:7bfd0762-1ab3-4797-bdd1-483370601434][Use The Smallest Word That Does The Job]]
 - [[id:436e3b6b-6b46-4173-b764-d3d902651feb][If I Had More Time, I Would Have Written A Shorter Letter]]
 - [[id:ef3d7a17-747d-485c-83b3-4404c1ab67e8][Five Sentences]]
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

@@ -10,3 +10,7 @@
 Make at least a little bit of progress every day. You don't need to move mountains but you do have to move /something/. Something is better than nothing because it [[id:92cf48f0-63a6-4d1d-9275-c80f6743ccb9][compounds]].
 
 Source: [[id:c89158fd-05ac-4c66-8986-05753e15096c][ryans01 | No Zero Days]]
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

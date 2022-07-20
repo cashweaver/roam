@@ -15,3 +15,8 @@
 * TODO Notes
 #+print_bibliography:
 * TODO Incorporate points I agree with into [[id:05911fff-a79b-4462-bf6d-a3cec4e1c9f2][Style Guide]]
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

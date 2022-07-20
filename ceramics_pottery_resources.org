@@ -75,3 +75,9 @@
 
 - [[https://www.pinterest.com/cashbweaver/ceramics/forms/][Forms]]
 - [[https://www.pinterest.com/cashbweaver/ceramics/glazes-and-decor/][Glaze and decor]]
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

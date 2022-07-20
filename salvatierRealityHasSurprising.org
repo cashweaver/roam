@@ -28,3 +28,8 @@ You might also hope that the important details will be obvious when you run into
 #+end_quote
 
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

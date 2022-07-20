@@ -10,3 +10,7 @@ Among other things:
 - [[https://www.en-iwamura.com/][Personal website]]
 - [[instagram:eniwamura][@eniwamura]]
 - [[https://www.youtube.com/channel/UCiJjYQgwpKzAMlZFND8G5lg][YouTube]]
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

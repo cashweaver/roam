@@ -7,3 +7,7 @@
 #+date: [2022-02-07 Mon 06:05]
 
 A Customer Relationship Manager (CRM) for personal use.
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

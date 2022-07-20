@@ -11,3 +11,8 @@ A beginning is the time for taking the most delicate care that the balances are 
 
 [[id:a0503d43-fe6f-4dfb-838c-4fc3ad2d64ea][Princess Irulan]], [[id:68077361-66a6-4abe-b00f-dfb3d83630f2][Herbert | Dune]]
 #+end_quote
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

@@ -32,3 +32,9 @@ Would scarcely know that we were gone.
 [[id:91880ddb-fc58-47c1-b6f1-400fec9e1e33][Sara Teasdale]], [cite:@ThereWillComeSoftRainsPoem2022]
 
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+

@@ -17,3 +17,9 @@
 Extrema refer to both minima and maxima collectively [cite:@MaximaMinima2022].
 
 #+print_bibliography:
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

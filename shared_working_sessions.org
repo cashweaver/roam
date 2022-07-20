@@ -16,3 +16,9 @@ Related:
 - Accountability
 - Planning ahead / thinking about what you'll work on / mini-sprints
 - Pomodoros
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

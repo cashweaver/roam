@@ -9,3 +9,7 @@
 #+filetags: :concept:
 
 Focusing techniques bridge the gap between a desired state of mind and your present state.
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

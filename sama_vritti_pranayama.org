@@ -16,3 +16,7 @@ A four-part breathing technique:
 4. Hold
 
 The practitioner should perform each part for the same duration (eg: inhale four seconds, hold four seconds, etc).
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

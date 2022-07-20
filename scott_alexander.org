@@ -8,3 +8,7 @@
 #+filetags: :person:
 
 Author of [[https://slatestarcodex.com/][Slate Star Codex]] and [[https://astralcodexten.substack.com/][Astral Star Codex]].
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

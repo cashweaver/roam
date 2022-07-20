@@ -7,6 +7,12 @@
 #+date: [2022-04-01 Fri 19:19]
 #+filetags: :concept:
 
+* TODO [#1]
+
 "Guidelines" because sometimes you need to respond to unpredictable or uncommon conditions.
 
 -
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

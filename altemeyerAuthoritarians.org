@@ -9,9 +9,9 @@
  
 [[id:bfdb06f3-7e93-4ef6-b28d-939931edfcb4][Robert Altemeyer]], [cite:@altemeyerAuthoritarians]
 
-* TODO Summary
-* TODO Thoughts
-* TODO Notes
+* Summary
+* Thoughts
+* Notes
 :PROPERTIES:
 :ID:       00e7d5e8-4255-4ef1-b3d5-e8f936f51209
 :END:
@@ -34,3 +34,6 @@
 *** Extra
 *** Source
 [cite:@altemeyerAuthoritarians]
+
+
+

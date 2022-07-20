@@ -65,3 +65,10 @@ And so it is, although it is nothing but a description of the modern workplace.
 
 
 #+print_bibliography:
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+

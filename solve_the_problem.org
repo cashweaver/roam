@@ -15,3 +15,9 @@ See:
 - [cite:@tabacuYouReNotWritingCodeYouReSolvingProblems2020]
 - [cite:@navarroDonJustWriteCodeSolveProblems2021]
 #+print_bibliography:
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

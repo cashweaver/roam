@@ -106,3 +106,9 @@ python2.7 /path/to/gmail-oauth2-tools/python/oauth2.py \
 05:55.59 < * OK [HIGHESTMODSEQ 65647480]
 05:55.59 < OKBC2 OK [READ-WRITE] INBOX selected. (Success)
 #+END_EXAMPLE
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

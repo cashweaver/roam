@@ -10,3 +10,9 @@
 * TODO
 
 Git gud scrub
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

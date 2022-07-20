@@ -29,3 +29,9 @@ What Bode was saying was this: "Knowledge and productivity are like compound int
 #+end_quote
 
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+

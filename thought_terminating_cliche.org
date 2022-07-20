@@ -16,7 +16,7 @@
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
-** Thought-terminating cliché
+** [[id:f454378e-9a94-4c15-b8b2-44f486077626][Thought-terminating cliché]]
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Definition
@@ -28,7 +28,7 @@ A form of loaded language, often passing as folk wisdom or common sense, intende
 *** Extra
 *** Source
 [cite:@ThoughtterminatingCliche2022]
-** Thought-terminating cliché
+** [[id:f454378e-9a94-4c15-b8b2-44f486077626][Thought-terminating cliché]]
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Example(s)
 :ANKI_NOTE_ID: 1656857169956
@@ -38,3 +38,5 @@ A form of loaded language, often passing as folk wisdom or common sense, intende
 - Veganism isn't natural, look at the food chain. Animals eat other animals.
 *** Extra
 *** Source
+
+

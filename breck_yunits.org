@@ -9,3 +9,8 @@
 Among other things:
 
 - https://breckyunits.com/
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

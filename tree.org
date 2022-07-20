@@ -27,7 +27,7 @@ In computer science, a tree is a widely used [[id:2eae74ba-4003-45cf-8425-7291aa
 ** [[id:1a068ad5-3e16-4ec4-b238-6fdc5904aeb4][Tree]]
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Definition
-:ANKI_NOTE_ID: 1657067575023
+:ANKI_NOTE_ID: 1658321303450
 :END:
 *** Context
 Computer science
@@ -35,3 +35,5 @@ Computer science
 An
 *** Extra
 *** Source
+
+

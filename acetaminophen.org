@@ -6,6 +6,7 @@
 #+date: [2022-07-05 Tue 17:08]
 #+filetags: :concept:
 
+
 * Anki :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
@@ -14,7 +15,7 @@
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: AKA
-:ANKI_NOTE_ID: 1657066464370
+:ANKI_NOTE_ID: 1658321058194
 :END:
 
 *** Term2
@@ -33,3 +34,6 @@ Tylenol
 *** Extra
 
 *** Source
+
+
+

@@ -13,3 +13,7 @@ We must always take sides. Neutrality helps the oppressor, never the victim. Sil
 #+end_quote
 
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

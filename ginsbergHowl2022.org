@@ -160,3 +160,8 @@ I'm with you in Rockland
 #+end_verse
 [[id:99b2e935-acef-4ef6-9904-fbac7797c17b][Footnote to Howl]]
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

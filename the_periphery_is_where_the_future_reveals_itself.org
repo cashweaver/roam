@@ -12,3 +12,8 @@ The periphery is where the future reveals itself.
                   —Erroneously attributed to J. G. Ballard by Mark Fisher
 /[[https:foo][source]]/
 #+end_quote
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

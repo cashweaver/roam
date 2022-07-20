@@ -28,3 +28,9 @@ The lone and level sands stretch far away."
 [[id:0d6d106f-5a90-4dff-83ce-0eef1db38c61][Percy Bysshe Shelley]], [cite:@Ozymandias2022]
 
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+

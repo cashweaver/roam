@@ -11,3 +11,8 @@ Among other things:
 
 - A potter
 - [[https://www.youtube.com/c/BillvanGilderPottery][YouTube]]
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

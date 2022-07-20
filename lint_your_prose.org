@@ -15,3 +15,7 @@ I use prose linters to:
 2. catch spelling mistakes
 
 I prefer [[github:amperser/proselint][proselint]] because it includes rules that I already try to follow. There's also [[github:textlint/textlint][textlint]] if you're interested in specifying your own rules.
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

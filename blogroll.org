@@ -13,4 +13,11 @@ A list of blogs I've found informative/useful/fun in no particular order:
 | [[id:12b9ccec-dfcb-473d-83b7-1daa9f450ed0][Ben Kuhn]]     | [[https://www.benkuhn.net/][benkuhn.net]]   | [[id:4625d068-26fe-47d7-93b3-da12b0151ca1][Attention Is Your Scarcest Resource]], [[id:2149d460-f6e0-4696-b34d-c2cc2228d8db][Be Impatient]]                |
 | [[id:d89d29a2-927a-4369-ad45-bc031a2f7266][Zach Tellman]] | [[https://ideolalia.com/][ideolalia.com]] | [[id:e7753777-506e-490e-b79e-59dede5dce2e][Senior Engineers Reduce Risk]], [[id:89af4069-9f38-4f2b-bdb4-491c2ae85a9c][Thought Leaders and Chicken Sexers]] |
 
-* TODO Add more
+* TODO [#4] Add more
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+

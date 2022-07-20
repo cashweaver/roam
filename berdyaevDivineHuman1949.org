@@ -14,3 +14,10 @@
 - [[id:27cb520e-f5d5-45b2-b92e-cde08209beef][Once Revealed to Me in a Dream]]
 
 #+print_bibliography:
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+

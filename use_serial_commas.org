@@ -20,3 +20,7 @@ Examples:
 
 Note that serial commas are not a fix-all for ambigious sentences. They may, in fact, /introduce/ ambiguity [cite:@SerialComma2022].
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

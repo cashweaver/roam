@@ -15,3 +15,7 @@ This was once revealed to me in a dream.
 #+end_quote
 
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

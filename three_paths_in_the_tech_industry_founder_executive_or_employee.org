@@ -12,7 +12,7 @@
 The article begins with:
 
 #+begin_quote
-I don’t attach value judgements to these three paths. In my ten years in The Bay Area I’ve seen friends lead successful and fulfilled lives following all three.
+I don't attach value judgements to these three paths. In my ten years in The Bay Area I've seen friends lead successful and fulfilled lives following all three.
 #+end_quote
 
 I skipped over this point when I read this article for the first time in my haste to discover the details of the promised trio of paths. I'm currently an employee and feel at times that such a role is a mark of failure. It's easy for me to start thinking of what I do as not being "real" work.
@@ -28,3 +28,9 @@ Another part of me isn't satisfied with this definition. "Real" work isn't the o
 Perhaps the nuance I'm attempting to address is somewhere between meaningful work and unique work.
 
 * TODO Convert to citation
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

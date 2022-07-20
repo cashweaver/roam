@@ -36,8 +36,9 @@
 
 [cite:@GreekAlphabet2022]
 #+end_quote
+
 #+print_bibliography:
-* Anki :noexport:greek_letter:
+* Anki :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

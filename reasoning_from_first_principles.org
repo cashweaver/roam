@@ -10,3 +10,9 @@
 The act of using [[id:0f5abcf4-ac0d-40d7-a62b-62daeac65485][first principles]] to build an argument, proof, etc.
 
 * TODO
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

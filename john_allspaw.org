@@ -9,3 +9,7 @@
 Among other things:
 
 - https://www.kitchensoap.com/about-me/
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

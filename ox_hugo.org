@@ -15,3 +15,7 @@ ox-hugo is an Org exporter backend that exports Org to Hugo-compatible Markdown 
 #+end_quote
 
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

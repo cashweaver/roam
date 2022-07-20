@@ -133,7 +133,31 @@ The king, however, answered in a broken voice: "Yes, we did it, we killed the dr
 The king stepped off the platform and walked up to the young man in handcuffs, who was sitting on the ground. There he fell down on his knees. "Forgive me! Oh my God, please forgive me!"
 #+end_quote
 
-* TODO Summary
-* TODO Thoughts
-* TODO Notes
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** [[id:2a13c6a7-c74c-408b-b30e-69a18c9ad9ab][Nick Bostrom | The Fable of the Dragon Tyrant]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Describe
+:ANKI_NOTE_ID: 1658199068824
+:END:
+*** Context
+*** Description
+A parable which contextualizes human death as something to be defeated.
+*** Extra
+*** Source
+[cite:@bostromFableDragonTyrant2005]
+** Fable of the Dragon Tyrant
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Source
+:ANKI_NOTE_ID: 1658322758501
+:END:
+*** Author1
+[[id:c4ab056e-de36-4ff5-8f41-e634b6b9431c][Nick Bostrom]]
+*** Author2
+*** Author3
+*** Author4
+*** Author5

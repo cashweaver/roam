@@ -27,3 +27,9 @@ Aside from the ongoing value of the captured links, they may help you shepherd y
 #+end_quote
 
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+

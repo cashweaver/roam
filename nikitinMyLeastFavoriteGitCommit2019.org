@@ -50,3 +50,9 @@ If you are tempted to write a whole story in a commit message, you should think 
 #+end_quote
 
 #+print_bibliography:
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

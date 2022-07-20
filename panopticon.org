@@ -7,3 +7,9 @@
 #+filetags: :concept:
 
 * TODO https://en.wikipedia.org/wiki/Panopticon
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

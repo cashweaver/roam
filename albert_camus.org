@@ -7,4 +7,11 @@
 #+filetags: :person:
 Among other things:
 
-* TODO
+* TODO [#3]
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+

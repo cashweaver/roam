@@ -14,3 +14,9 @@
 [...] a classical adage and oxymoron meaning "make haste slowly" (sometimes rendered in English as "more haste, less speed").
 #+end_quote
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+

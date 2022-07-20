@@ -75,3 +75,9 @@ Understand how your work will depend on external services.
    -
 
 #+print_bibliography:
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

@@ -13,3 +13,9 @@ See:
 
 1. [[id:3abdd6f0-2229-4f83-a0ac-078af4571f8c][Andy Matuschak | Knowledge Work Should Accrete]]
 2. [[id:58a0506b-8d6e-4fe5-b0d8-286ebe6a8772][Compount Interest is the Eight Wonder]]
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

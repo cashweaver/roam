@@ -11,3 +11,7 @@ Before enlightenment, chop wood, carry water. After enlightenment, chop wood, ca
 
 Zen Proverb
 #+end_quote
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

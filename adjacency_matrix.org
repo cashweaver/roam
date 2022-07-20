@@ -21,7 +21,7 @@ In graph theory and computer science, an adjacency matrix is a square matrix use
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Definition
-:ANKI_NOTE_ID: 1657068007926
+:ANKI_NOTE_ID: 1658321368926
 :END:
 *** Context
 [[id:5bc61709-6612-4287-921f-3e2509bd2261][Graph Theory]]
@@ -30,3 +30,6 @@ A square matrix used to represent a finite [[id:8bff4dfc-8073-4d45-ab89-7b3f9732
 *** Extra
 *** Source
 [cite:@AdjacencyMatrix2022]
+
+
+

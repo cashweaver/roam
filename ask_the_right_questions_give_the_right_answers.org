@@ -7,10 +7,29 @@
 #+date: [2022-02-21 Mon 16:04]
 #+filetags: :concept:
 
-* TODO
-
 The right questions is usually an authentic one, but not always. The right answer is usually a true one, but not always.
 
 - [[id:8ed02b38-ffb0-4230-8dd4-3986a74fbe13][Tom Limoncelli | The Right Answer]]
 
 Related: [[id:4398317e-6aa1-4dd4-b2a5-6334256ca2cc][Play to Win]]
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** [[id:3e3e1507-bbc8-42eb-acea-8c73e2ff8ba9][Ask the Right Questions, Give the Right Answers]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Describe
+:ANKI_NOTE_ID: 1658198302046
+:END:
+
+*** Context
+
+*** Description
+- The right questions is usually an authentic one, but not always.
+- The right answer is usually a true one, but not always.
+
+*** Extra
+
+*** Source

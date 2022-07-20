@@ -12,3 +12,7 @@ Among other things:
 - Myself
 - Employed as a software engineer
 - Author of [[http://cashweaver.com][cashweaver.com]]
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

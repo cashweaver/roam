@@ -8,3 +8,7 @@
 #+date: [2022-02-06 Sun 07:24]
 
 [[id:df479fb9-f7b0-4e3a-a7eb-41849fbc190e][Andy Matuschak]]'s idea of an evergreen note is one which is [[https://notes.andymatuschak.org/Evergreen_notes]["written and organized to evolve, contribute, and accumulate over time, across projects"]].
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       eb439041-eb04-415d-a642-9ab8783c68a4
+:ROAM_ALIASES: Hegemon
+:END:
+#+title: Hegemony
+#+author: Cash Weaver
+#+date: [2022-07-17 Sun 09:22]
+#+filetags: :concept:
+
+#+begin_quote
+Hegemony is the political, economic, and military predominance of one state over other states.
+
+[cite:@Hegemony2022]
+#+end_quote
+
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** [[id:eb439041-eb04-415d-a642-9ab8783c68a4][Hegemony]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1658075065604
+:END:
+*** Context
+Politics
+*** Definition
+The political, economic, and military predominance of one state over other states.
+*** Extra
+*** Source
+[cite:@Hegemony2022]

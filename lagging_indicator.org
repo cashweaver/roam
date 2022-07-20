@@ -15,3 +15,9 @@ Lagging indicators are indicators that usually change after [a thing] as a whole
 
 * TODO Examples
 #+print_bibliography:
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

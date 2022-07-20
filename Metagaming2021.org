@@ -17,3 +17,9 @@ Metagaming might also refer to a game which functions to create or modify the ru
 #+end_quote
 
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+

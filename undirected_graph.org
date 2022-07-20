@@ -25,7 +25,7 @@ A [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] with a symmetric [[id:61ab0
 ** [[id:03fd05a7-149e-49a8-be25-ca715b695add][Undirected graph]]
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Definition
-:ANKI_NOTE_ID: 1657068102549
+:ANKI_NOTE_ID: 1658321324294
 :END:
 
 *** Context
@@ -41,7 +41,7 @@ A [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] with a symmetric [[id:61ab0
 ** [[id:03fd05a7-149e-49a8-be25-ca715b695add][Undirected graph]]
 :PROPERTIES:
 :ANKI_NOTE_TYPE: ImageOf
-:ANKI_NOTE_ID: 1657068630469
+:ANKI_NOTE_ID: 1658321324969
 :END:
 
 *** Image
@@ -51,3 +51,5 @@ A [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] with a symmetric [[id:61ab0
 
 *** Source
 [cite:@GraphDiscreteMathematics2022]
+
+

@@ -14,3 +14,7 @@ Metacognition is an awareness of one's thought processes and an understanding of
 #+end_quote
 
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

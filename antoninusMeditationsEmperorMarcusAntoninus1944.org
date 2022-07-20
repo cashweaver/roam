@@ -155,3 +155,9 @@ I've come to appreciate the use of phrases, mantras, hymns, etc --- [[id:1590952
 :END:
 
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+

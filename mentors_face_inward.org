@@ -10,3 +10,9 @@
 * TODO
 
 Mentors face inward; toward their mentee.
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

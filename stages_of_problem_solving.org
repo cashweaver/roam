@@ -19,3 +19,8 @@
 :PROPERTIES:
 :ID:       4f5e453e-5721-4f27-aca6-1c830749d566
 :END:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

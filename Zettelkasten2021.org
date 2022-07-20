@@ -13,3 +13,8 @@
 A zettelkasten is a [[id:773406e0-fe95-41f4-a254-b2c6ade18ce9][personal knowledge management]] system consisting of densely interlinked (usually) short notes. The system was originally implemented with index cards. Nowadays there are [[id:1497025f-da3e-4bed-be19-f8f9c9a0e351][digital solutions]].
 
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

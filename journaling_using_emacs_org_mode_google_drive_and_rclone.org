@@ -9,3 +9,9 @@
 * TODO
 
 - https://rclone.org/drive/
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

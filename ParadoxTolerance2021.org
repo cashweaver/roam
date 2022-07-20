@@ -15,3 +15,9 @@ The paradox of tolerance states that if a society is tolerant without limit, its
 #+end_quote
 
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+

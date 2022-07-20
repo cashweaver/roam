@@ -3,20 +3,20 @@
 :ID:       89eb6adc-d8f8-4033-bc46-7fed725c3c01
 :DIR:      /home/cashweaver/proj/roam/attachments/89eb6adc-d8f8-4033-bc46-7fed725c3c01
 :END:
-#+title: Wikipedia | Desirable Difficulty
+#+title: Desirable Difficulty
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 16:03]
-#+filetags: :reference:
+#+filetags: :concept:
  
-[cite:@DesirableDifficulty2022]
-
 #+begin_quote
 A desirable difficulty is a learning task that requires a considerable but desirable amount of effort, thereby improving long-term performance.
+
+[cite:@DesirableDifficulty2022]
 #+end_quote
 
 Examples include:
 
-1. Retrieval practice (eg: flashcards)
+1. Retrieval practice (eg: flashcards, see [[id:6472f018-ab80-4c73-b973-adb8417939db][Anki]])
 2. [[id:37699e33-fccb-43bf-ab4b-ca9e74a03510][Spacing]] and interleaving (eg: [[id:a72eecfc-c64a-438a-ae26-d18c5725cd5c][Spaced Repetition]])
 
 #+begin_quote
@@ -25,17 +25,61 @@ To determine whether a difficulty is desirable, use the following three guidelin
 1. The processing at encoding should be the same as the processing at retrieval.
 2. The processing at encoding should be the same as the processing during practice.
 3. The task must be able to be accomplished. Too difficult a task may dissuade the learner and prevent full processing.
-
-TODO
+[cite:@DesirableDifficulty2022]
 #+end_quote
 
-* TODO Include direct quote from Memory in Educational Settings by Marsh and Butler, as they're quoted in the wikipedia page.
 #+print_bibliography:
 
 * Anki :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+** [[id:89eb6adc-d8f8-4033-bc46-7fed725c3c01][Desirable Difficulty]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1657998953503
+:END:
 
+*** Context
+Learning
 
+*** Definition
+A description of a learning task which requires a considerable, but desirable, amount of effort.
 
+*** Extra
+The requisite effort improves long-term performance.
+
+*** Source
+[cite:@DesirableDifficulty2022]
+
+** For [[id:89eb6adc-d8f8-4033-bc46-7fed725c3c01][Desirable Difficulty]]: the processing at {{c1::encoding}} time should be the same as the processing at {{c2::retrieval}} and {{c3:during practice}}.
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1657998954152
+:END:
+*** Extra
+*** Source
+[cite:@DesirableDifficulty2022]
+** For [[id:89eb6adc-d8f8-4033-bc46-7fed725c3c01][Desirable Difficulty]]: The task must be {{c1::able to be accomplished}}.
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1657998954625
+:END:
+*** Extra
+Too difficult a task may dissuade the learner and prevent full processing.
+*** Source
+[cite:@DesirableDifficulty2022]
+** Guidelines for [[id:89eb6adc-d8f8-4033-bc46-7fed725c3c01][Desirable Difficulty]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Describe
+:ANKI_NOTE_ID: 1657998955375
+:END:
+*** Context
+Learning
+*** Description
+- The process at encoding should be the same process at both retrieval and during practice.
+- The task must be able to be accomplished -- too difficult a task may dissuade the learner and prevent full learning.
+*** Extra
+*** Source
+[cite:@DesirableDifficulty2022]

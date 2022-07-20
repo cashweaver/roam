@@ -10,3 +10,8 @@
 Among other things:
 
 - https://www.nikialeksey.com/
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       85cfa8c4-9c7b-47d9-a593-8548385027f7
+:END:
+#+title: Pedagogy
+#+author: Cash Weaver
+#+date: [2022-07-18 Mon 18:48]
+#+filetags: :concept:
+
+#+begin_quote
+Pedagogy, most commonly understood as the approach to teaching, is the theory and practice of learning, and how this process influences, and is influenced by, the social, political and psychological development of learners.
+
+[cite:@Pedagogy2022]
+#+end_quote
+
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** [[id:85cfa8c4-9c7b-47d9-a593-8548385027f7][Pedagogy]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1658195446075
+:END:
+*** Context
+*** Definition
+The how of teaching.
+*** Extra
+The theory and practice of learning, and how this process influences and is influenced by the development of learners.
+*** Source
+[cite:@Pedagogy2022]

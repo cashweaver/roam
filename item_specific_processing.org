@@ -14,3 +14,7 @@ Item-specific processing involves encoding the various characteristics or proper
 
 [[id:91d7761c-fb74-4f25-94cc-948d7522b818][Memory in Educational Settings]]
 #+end_quote
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

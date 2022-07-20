@@ -9,10 +9,14 @@
  
 [[id:e7e4bd59-fa63-49a8-bfca-6c767d1c2330][Scott Alexander]], [cite:@alexanderCanTolerateAnythingOutgroup2014]
 
-* TODO Summary
-* TODO Thoughts
-* TODO Notes
+* TODO [#2] Summary
+* TODO [#2] Thoughts
+* TODO [#2] Notes
 #+print_bibliography:
+* TODO [#2] Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
 * Anki :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default

@@ -64,7 +64,7 @@ Storage strength increases when a memory is retrieved or the event is reexperien
 #+end_quote
 
 #+begin_quote
-Based on the distinction between retrieval strength and storage strength, R. A. Bjork and colleagues developed the concept of “desirable difficulties” in learning (Bjork, 1994a, 1994b; Christina & Bjork, 1991; Schmidt & Bjork, 1992). The main idea is that introducing difficulties during learning will result in superior long-term retention because the greatest gains in storage strength occur when retrieval strength is low. For example, consider the practice of using flash cards to study vocabulary words. If you study a word and then try to remember it immediately, then the gain in storage strength will be relatively low because it is so easy to retrieve the word right away (retrieval strength is high). However, if you wait 5 minutes before attempting to retrieve the word (when retrieval strength will be lower), then the gain in storage strength will be larger. The implication for educational practice is that instead of arranging the conditions of learning to be easier and faster for the learner, educators should introduce difficulties into the learning process in order to promote long-term retention of knowledge.
+Based on the distinction between retrieval strength and storage strength, R. A. Bjork and colleagues developed the concept of "desirable difficulties" in learning (Bjork, 1994a, 1994b; Christina & Bjork, 1991; Schmidt & Bjork, 1992). The main idea is that introducing difficulties during learning will result in superior long-term retention because the greatest gains in storage strength occur when retrieval strength is low. For example, consider the practice of using flash cards to study vocabulary words. If you study a word and then try to remember it immediately, then the gain in storage strength will be relatively low because it is so easy to retrieve the word right away (retrieval strength is high). However, if you wait 5 minutes before attempting to retrieve the word (when retrieval strength will be lower), then the gain in storage strength will be larger. The implication for educational practice is that instead of arranging the conditions of learning to be easier and faster for the learner, educators should introduce difficulties into the learning process in order to promote long-term retention of knowledge.
 #+end_quote
 *** Processing Information to Extract Meaning
 :PROPERTIES:
@@ -72,7 +72,7 @@ Based on the distinction between retrieval strength and storage strength, R. A. 
 :END:
 
 #+begin_quote
-Critically, directing attention at a lower or “shallow” level of processing (e.g., focusing on the orthography of words while reading) disrupts higher or “deeper” levels of processing (e.g., determining what those words mean). As a result, the type of processing in which one consciously engages determines what information will be encoded into memory and retained. The type of processing is more important than the intent to learn (e.g., Craik & Tulving, 1975); the implication is that a student who deliberately prepares for a test but who does not engage in deep processing will not do as well as the student who processes the material deeply, even if the latter student is not deliberately trying to learn the material.
+Critically, directing attention at a lower or "shallow" level of processing (e.g., focusing on the orthography of words while reading) disrupts higher or "deeper" levels of processing (e.g., determining what those words mean). As a result, the type of processing in which one consciously engages determines what information will be encoded into memory and retained. The type of processing is more important than the intent to learn (e.g., Craik & Tulving, 1975); the implication is that a student who deliberately prepares for a test but who does not engage in deep processing will not do as well as the student who processes the material deeply, even if the latter student is not deliberately trying to learn the material.
 #+end_quote
 
 #+begin_quote
@@ -200,7 +200,7 @@ should be spaced over intervals between 12 and 24 hours
 :END:
 
 #+begin_quote
-... [I]n the classroom, educators have many different goals for their students, and these goals vary as a function of the level of education, the type of course, and the time frame given for learning, among many other factors. One way of categorizing these goals is through Bloom’s (1956) taxonomy of educational objectives, which conceptualizes learning as a hierarchy in which the various levels must be mastered in sequential order. The cognitive domain is comprised of six levels (from lowest to highest):
+... [I]n the classroom, educators have many different goals for their students, and these goals vary as a function of the level of education, the type of course, and the time frame given for learning, among many other factors. One way of categorizing these goals is through Bloom's (1956) taxonomy of educational objectives, which conceptualizes learning as a hierarchy in which the various levels must be mastered in sequential order. The cognitive domain is comprised of six levels (from lowest to highest):
 
 1. knowledge (e.g., learning facts, concepts, etc.)
 2. comprehension (e.g., understanding the relationship between ideas)
@@ -218,3 +218,8 @@ should be spaced over intervals between 12 and 24 hours
 :END:
 * TODO Authors
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

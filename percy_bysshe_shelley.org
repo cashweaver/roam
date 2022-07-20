@@ -5,3 +5,7 @@
 #+author: Cash Weaver
 #+date: [2022-03-29 Tue 13:27]
 #+filetags: :person:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

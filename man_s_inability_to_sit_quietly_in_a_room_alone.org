@@ -10,3 +10,7 @@ All of humanity's problems stem from man's inability to sit quietly in a room al
 
 /Blaise Pascal/, /Pensées/
 #+end_quote
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

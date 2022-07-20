@@ -14,6 +14,11 @@
 * Thoughts
 * Notes
 #+begin_quote
-A career moat is an individual’s ability to maintain competitive advantages over your competition (say, in the job market) in order to protect your long term prospects, your employability, and your ability to generate sufficient financial returns to support the life you want to live. Just like a medieval castle, the moat serves to protect those inside the fortress and their riches from outsiders.
+A career moat is an individual's ability to maintain competitive advantages over your competition (say, in the job market) in order to protect your long term prospects, your employability, and your ability to generate sufficient financial returns to support the life you want to live. Just like a medieval castle, the moat serves to protect those inside the fortress and their riches from outsiders.
 #+end_quote
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

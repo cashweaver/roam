@@ -7,7 +7,11 @@
 #+date: [2021-12-03 Fri 12:28]
 
 #+begin_quote
-A theory of change is the opposite of a theory of action — it works backwards from the goal, in concrete steps, to figure out what you can do to achieve it. To develop a theory of change, you need to start at the end and repeatedly ask yourself, “Concretely, how does one achieve that?”
+A theory of change is the opposite of a theory of action — it works backwards from the goal, in concrete steps, to figure out what you can do to achieve it. To develop a theory of change, you need to start at the end and repeatedly ask yourself, "Concretely, how does one achieve that?"
 
 [[id:6d2276f9-4b72-46be-a4dc-9cdd41997122][Aaron Swartz | Theory of Change]]
 #+end_quote
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

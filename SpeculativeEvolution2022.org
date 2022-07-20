@@ -20,3 +20,9 @@ Related:
 - [[id:392666aa-baf5-4b52-b95f-e37b893ac63e][Wikipedia | All Tomorrows]]
 
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+

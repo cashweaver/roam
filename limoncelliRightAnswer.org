@@ -10,9 +10,9 @@
  
 [[id:d2129f29-f3a1-4e10-8a25-25ae81b949a5][Tom Limoncelli]], [cite:@limoncelliRightAnswer]
 
-* TODO Summary
-* TODO Thoughts
-* TODO Notes
+* Summary
+* Thoughts
+* Notes
 
 #+begin_quote
 An iMac at work broke and AppleCare gave us the choice of bringing it to one of three places in the local area, or the local AppleStore. Since one of those choices was the CompUSA around the block from us, my co-worker brought it there. And waited. And waited. And was told they were waiting for the part. We called the Apple store who said that they could do most repairs in 24 hours. The question was, "How do we get it back?"
@@ -51,3 +51,8 @@ The important thing is that we play dumb. You have to be pretty smart to do that
 #+end_quote
 
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+

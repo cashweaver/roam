@@ -15,3 +15,9 @@ VIRGINIA BEACH, VA—In the hours following a violent rampage in Virginia in whi
 #+end_quote
 
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+

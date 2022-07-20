@@ -66,3 +66,7 @@ To service my employers!
       Ye know on earth, and all ye need to know."
 #+end_verse
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

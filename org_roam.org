@@ -14,3 +14,7 @@ Org-roam is a plain-text knowledge management system. It brings some of Roam's m
 
 - https://www.orgroam.com/
 #+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

@@ -17,8 +17,7 @@ Related:
 
 - [[id:d6d36741-18ca-48fe-bb2e-85bc849ddd93][Tragedy of the Commons]]
 
-* TODO Thoughts
-* TODO Notes
+* Notes
 ** I
 
 See [[id:e93466a6-cad5-4f3c-bb75-7990f7e9886f][Howl]].
@@ -102,6 +101,8 @@ From a god's-eye-view, if everyone agrees not to take on a second job to help wi
 A basic principle unites all of the multipolar traps above. In some competition optimizing for X, the opportunity arises to throw some other value under the bus for improved X. Those who take it prosper. Those who don't take it die out. Eventually, everyone's relative status is about the same as before, but everyone's absolute status is worse than before. The process continues until all other values that can be traded off have been – in other words, until human ingenuity cannot possibly figure out a way to make things any worse.
 #+end_quote
 
+*** TODO [#0] Reference star wars "make the only choice we can" choice
+
 ** III
 
 #+begin_quote
@@ -119,7 +120,6 @@ For example, ever-increasing prison terms are unfair to inmates and unfair to th
 
 (Moloch the incomprehensible prison! Moloch the crossbone soulless jailhouse and Congress of sorrows! Moloch whose buildings are judgment! Moloch the stunned governments!)
 #+end_quote
-
 
 #+begin_quote
 [...] government can easily solve the pollution problem with fish farms. The best known solution to the Prisoners' Dilemma is for the mob boss (playing the role of a governor) to threaten to shoot any prisoner who defects. The solution to companies polluting and harming workers is government regulations against such. Governments solve arm races within a country by maintaining a monopoly on the use of force, and it's easy to see that if a truly effective world government ever arose, international military buildups would end pretty quickly.
@@ -189,3 +189,28 @@ He always and everywhere offers the same deal: throw what you love most into the
 As long as the offer's open, it will be irresistible. So we need to close the offer. Only another god can kill Moloch. We have one on our side, but he needs our help. We should give it to him.
 #+end_quote
 #+print_bibliography:
+
+* TODO [#2] Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+*** Ways [[id:e7e4bd59-fa63-49a8-bfca-6c767d1c2330][Scott Alexander]] sees for resisting [[id:3aea1e2f-dd21-4c21-a8c9-7efd610424c4][Moloch]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Describe
+:ANKI_NOTE_ID: 1658024938750
+:END:
+
+**** Context
+[[id:3aea1e2f-dd21-4c21-a8c9-7efd610424c4][Moloch]]
+
+**** Description
+1. Excess resources
+2. Physical limitations
+3. Utility maximization
+4. Coordination
+
+**** Extra
+
+**** Source
+[cite:@alexanderMeditationsMoloch2014]
