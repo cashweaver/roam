@@ -1,0 +1,105 @@
+:PROPERTIES:
+:ID:       56aebaa3-d4d6-4a06-98a2-186ed655d11e
+:END:
+#+title: Anatomy of a URL
+#+author: Cash Weaver
+#+date: [2022-07-20 Wed 10:48]
+#+filetags: :concept:
+
+Using =http://www.example.com:8080/foo/bar?baz=boo&color=blue#cats= as an example [cite:@mdnWhatURL]:
+
+| Name       | From the example       |
+|------------+------------------------|
+| Scheme     | =http=                 |
+| Authority  | =www.example.com:8080= |
+| Host       | =www.example.com=      |
+| Port       | =8080=                 |
+| Path       | =/foo/bar=             |
+| Parameters | =?baz=boo&color=blue=  |
+| Anchor     | =#cats=                |
+
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** [[id:56aebaa3-d4d6-4a06-98a2-186ed655d11e][Anatomy of a URL]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Describe
+:ANKI_NOTE_ID: 1658339698134
+:END:
+
+*** Context
+*** Description
+Using =http://www.example.com:8080/foo/bar?baz=boo&color=blue#cats= as an example [cite:@mdnWhatURL]:
+
+1. Scheme (e.g. =http=)
+2. Authority (e.g. =www.example.com:8080=)
+   1. Host (e.g. =www.example.com=)
+   2. Port (e.g. =8080=)
+3. Path (e.g. =/foo/bar=)
+4. Parameters (e.g. =?baz=boo&color=blue=)
+5. Anchor (e.g. =#cats=)
+*** Extra
+*** Source
+[cite:@mdnUsingHTTPCookies]
+** The {{c2::scheme}} in =http://www.example.com:8080/foo/bar?baz=boo&color=blue#cats= is {{c1::=http=}}.
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1658339934649
+:END:
+*** Extra
+*** Source
+[cite:@mdnWhatURL]
+
+** The {{c2::authority}} in =http://www.example.com:8080/foo/bar?baz=boo&color=blue#cats= is {{c1::=www.example.com:8080=}}.
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1658340109556
+:END:
+*** Extra
+*** Source
+[cite:@mdnWhatURL]
+
+** The {{c2::host}} in =http://www.example.com:8080/foo/bar?baz=boo&color=blue#cats= is {{c1::=www.example.com=}}.
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1658340110232
+:END:
+*** Extra
+*** Source
+[cite:@mdnWhatURL]
+** The {{c2::port}} in =http://www.example.com:8080/foo/bar?baz=boo&color=blue#cats= is {{c1::=8080=}}.
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1658340110757
+:END:
+*** Extra
+*** Source
+[cite:@mdnWhatURL]
+** The {{c2::path}} in =http://www.example.com:8080/foo/bar?baz=boo&color=blue#cats= is {{c1::=/foo/bar=}}.
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1658340111257
+:END:
+*** Extra
+*** Source
+[cite:@mdnWhatURL]
+** The {{c2::parameters}} in =http://www.example.com:8080/foo/bar?baz=boo&color=blue#cats= are {{c1::=?baz=boo&color=blue=}}.
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1658340111757
+:END:
+*** Extra
+*** Source
+[cite:@mdnWhatURL]
+** The {{c2::anchor}} in =http://www.example.com:8080/foo/bar?baz=boo&color=blue#cats= is {{c1::=#cats=}}.
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1658340112457
+:END:
+*** Extra
+*** Source
+[cite:@mdnWhatURL]
