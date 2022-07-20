@@ -8,8 +8,7 @@
 #+filetags: :person:
 Among other things:
 
-* TODO
-#+print_bibliography:
+* TODO [#4] :noexport:
 
 * Anki :noexport:
 :PROPERTIES:

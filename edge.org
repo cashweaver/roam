@@ -7,13 +7,25 @@
 #+date: [2022-06-29 Wed 19:15]
 #+filetags: :concept:
 
-* TODO
+An edge is a connection between two or more [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]].
 
-An edge is a connection between two or more vertices.
-
+#+print_bibliography:
 * Anki :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
 
+** [[id:7211246e-d3da-491e-a493-e84ba820e63f][Edge]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1658360282146
+:END:
 
+*** Context
+[[roam:Graph Theory]]
+*** Definition
+A connection between two or more [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]].
+*** Extra
+*** Source
+[cite:@VertexGraphTheory2022]

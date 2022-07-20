@@ -16,7 +16,6 @@ This is an entry in the [[id:913d6ace-03ac-4d34-ae92-5bd8a519236c][Alt-right Pla
 #+begin_quote
 How many words can you change in an argument until it's not the same argument anymore?
 #+end_quote
-* TODO Thoughts
 * Notes
 
 #+begin_quote

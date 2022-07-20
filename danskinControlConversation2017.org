@@ -14,8 +14,6 @@ This is an entry in the [[id:913d6ace-03ac-4d34-ae92-5bd8a519236c][Alt-right Pla
 * Summary
 Broadly, controlling the conversation is about making people talk about what you want them to talk about. More specifically, it's about what you make them talk about. Structure debate, conversation, etc, based on the idea that the [[id:4398317e-6aa1-4dd4-b2a5-6334256ca2cc][goal is to win]]. [[id:b2575705-10cd-4523-aaa6-153360d7bd07][Move the goalposts]] while also redefining the rules by which you win the underlying game.
 
-* TODO Thoughts
-
 * Notes
 
 #+begin_quote

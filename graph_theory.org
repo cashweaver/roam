@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       5bc61709-6612-4287-921f-3e2509bd2261
 :END:
-#+title: Graph Theory
+#+title: Graph theory
 #+author: Cash Weaver
 #+date: [2022-03-15 Tue 21:24]
 #+filetags: :concept:

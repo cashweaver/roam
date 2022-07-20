@@ -12,7 +12,7 @@ My recommendations for effective use of [[id:6472f018-ab80-4c73-b973-adb8417939d
 
 - Use a single deck
 
-* TODO Deck options
+* TODO [#2] Deck options
 
 TODO: Find a source for these points. I discovered and implemented them before I started writing things down.
 

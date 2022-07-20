@@ -10,8 +10,11 @@
  
 [[id:4c9b1bbf-2a4b-43fa-a266-b559c018d80e][Cedric Chin]], [cite:@chinGetGoodGoMetagame2020]
 
-* TODO Summary
-* TODO Thoughts
+* Summary
+
+Mastering something requires mastering the literal game as well as the [[id:462b9154-2519-45e9-a4f5-35e7c32128c7][Metagame]]; in that order.
+
+* Thoughts
 * Notes
 
 #+begin_quote

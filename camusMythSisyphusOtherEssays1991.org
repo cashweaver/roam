@@ -9,9 +9,11 @@
  
 [[id:19235d66-4df3-4f69-bf31-bc9876bc20cf][Albert Camus]], [cite:@camusMythSisyphusOtherEssays1991]
 
-* TODO Summary
-* TODO Thoughts
-* TODO Notes
+* TODO [#4] Summary
+* TODO [#4] Thoughts
+* TODO [#4] Notes
+- [[id:fa7e7f3e-1fb6-4769-81cd-c2a200b2becf][One must imagine Sisyphus happy]]
+
 #+print_bibliography:
 * Anki :noexport:
 :PROPERTIES:

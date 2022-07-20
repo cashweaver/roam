@@ -11,9 +11,10 @@
 
 This is an entry in the [[id:913d6ace-03ac-4d34-ae92-5bd8a519236c][Alt-right Playbook]].
 
-* TODO Summary
-* TODO Thoughts
-* TODO Notes
+* Summary
+Mainstreaming is the game of moving a concept from fringe to normal. It's like a hammer in that a hammer is morally neutral and acquires a moral balance through use.
+* Thoughts
+* Notes
 
 #+begin_quote
 [...] two of the most powerful tools for making any marginalized group less marginalized are Language and Visibility.

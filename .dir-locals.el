@@ -13,15 +13,6 @@
                                                    "#+date: [%<%Y-%m-%d %a %H:%M>]\n"
                                                    "#+filetags: :concept:\n"))
                                                 :unnarrowed t)
-                                               ("d" "default" plain "%?" :target
-                                                (file+head
-                                                 "${slug}.org"
-                                                 ,(concat
-                                                   "#+title: ${title}\n"
-                                                   "#+author: Cash Weaver\n"
-                                                   "#+date: [%<%Y-%m-%d %a %H:%M>]\n"
-                                                   "* TODO"))
-                                                :unnarrowed t)
                                                ("p" "person" plain "%?" :target
                                                 (file+head
                                                  "${slug}.org"
@@ -31,7 +22,7 @@
                                                    "#+date: [%<%Y-%m-%d %a %H:%M>]\n"
                                                    "#+filetags: :person:\n"
                                                    "Among other things:\n"
-                                                   "* TODO"))
+                                                   "* TODO [#4] :noexport:"))
                                                 :unnarrowed t)
                                                ("P" "poem" plain "%?" :target
                                                 (file+head
@@ -40,7 +31,9 @@
                                                    "#+title: ${title}\n"
                                                    "#+author: Cash Weaver\n"
                                                    "#+date: [%<%Y-%m-%d %a %H:%M>]\n"
-                                                   "#+filetags: :poem:\n"))
+                                                   "#+filetags: :poem:\n"
+                                                   "#+begin_verse\n"
+                                                   "#+end_verse\n"))
                                                 :unnarrowed t)
                                                ("q" "quote" plain "%?" :target
                                                 (file+head
@@ -51,9 +44,6 @@
                                                    "#+date: [%<%Y-%m-%d %a %H:%M>]\n"
                                                    "#+filetags: :quote:\n"
                                                    "#+begin_quote\n"
-                                                   "TODO_QUOTE\n"
-                                                   "\n"
-                                                   "/[[https:foo][source]]/\n"
                                                    "#+end_quote\n"))
                                                 :unnarrowed t))
                   org-roam-directory (expand-file-name

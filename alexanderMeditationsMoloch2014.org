@@ -190,7 +190,7 @@ As long as the offer's open, it will be irresistible. So we need to close the of
 #+end_quote
 #+print_bibliography:
 
-* TODO [#2] Anki :noexport:
+* Anki :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
@@ -209,6 +209,17 @@ As long as the offer's open, it will be irresistible. So we need to close the of
 2. Physical limitations
 3. Utility maximization
 4. Coordination
+
+**** Extra
+
+**** Source
+[cite:@alexanderMeditationsMoloch2014]
+
+*** The opposite of a {{c2::trap}} is a {{c1::garden}}.
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1658350461242
+:END:
 
 **** Extra
 

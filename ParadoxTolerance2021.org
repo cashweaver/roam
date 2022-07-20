@@ -3,15 +3,15 @@
 :ID:       b0e5ef46-d1f3-43ce-9fc0-2a9ce52ce4c9
 :DIR:      /home/cashweaver/proj/roam/attachments/b0e5ef46-d1f3-43ce-9fc0-2a9ce52ce4c9
 :END:
-#+title: Wikipedia | Paradox of Tolerance
+#+title: Paradox of Tolerance
 #+author: Cash Weaver
 #+date: [2022-02-15 Tue 09:25]
-#+filetags: :reference:
+#+filetags: :concept:
  
-[cite:@ParadoxTolerance2021]
-
 #+begin_quote
 The paradox of tolerance states that if a society is tolerant without limit, its ability to be tolerant is eventually seized or destroyed by the intolerant. Karl Popper described it as the seemingly paradoxical idea that in order to maintain a tolerant society, the society must retain the right to be intolerant of intolerance.
+
+[cite:@ParadoxTolerance2021]
 #+end_quote
 
 #+print_bibliography:

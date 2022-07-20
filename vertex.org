@@ -9,6 +9,8 @@
 
 #+begin_quote
 In mathematics, and more specifically in graph theory, a vertex (plural vertices) or node is the fundamental unit of which [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graph]] are formed: an undirected graph consists of a set of vertices and a set of [[id:7211246e-d3da-491e-a493-e84ba820e63f][Edges]] (unordered pairs of vertices), while a directed graph consists of a set of vertices and a set of arcs (ordered pairs of vertices).
+
+[cite:@VertexGraphTheory2022]
 #+end_quote
 
 #+print_bibliography:
@@ -23,7 +25,7 @@ In mathematics, and more specifically in graph theory, a vertex (plural vertices
 :ANKI_NOTE_ID: 1656857337631
 :END:
 *** Context
-Graph theory
+[[roam:Graph Theory]]
 *** Definition
 The fundamental unit of which [[id:8bff4dfc-8073-4d45-ab89-7b3f97323327][Graphs]] are formed.
 *** Extra
@@ -41,7 +43,7 @@ Node
 *** Term5
 *** Term6
 *** Context
-Graph theory
+[[id:5bc61709-6612-4287-921f-3e2509bd2261][Graph Theory]]
 *** Extra
 *** Source
 [cite:@VertexGraphTheory2022]

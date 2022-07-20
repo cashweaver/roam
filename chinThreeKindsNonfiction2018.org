@@ -17,9 +17,6 @@
 - [[id:4ac6dd25-cd22-4a7d-b41a-7881c7eb33e8][Narrative book]]
 - [[id:065a0303-c2d3-40a0-a8fb-793f19f02526][Branch book]]
 
-* TODO Create individual concept nodes?
-
-Maybe something more general, like novel conceptual density in writing.
 #+print_bibliography:
 
 * Anki :noexport:

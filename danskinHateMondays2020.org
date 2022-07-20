@@ -13,7 +13,6 @@ This is an entry in the [[id:913d6ace-03ac-4d34-ae92-5bd8a519236c][Alt-right Pla
 
 * Summary
 I hate mondays is an embrace of coping strategies and a refusal to address a problem stemming from the belief that the problem is unfixable.
-* TODO Thoughts
 * Notes
 #+begin_quote
 [...] conservative thinks about people dying of preventable illnesses, school shootings, and back alley abortions the way you think about Mondays.
