@@ -11,3 +11,4 @@ A specific [[id:7bb3980d-e901-4f5e-b102-61a0a89de28c][post-scarcity society]] ac
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+

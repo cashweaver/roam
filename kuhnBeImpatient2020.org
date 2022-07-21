@@ -37,3 +37,4 @@ That means that moving quickly is an advantage that compounds. Being twice as fa
 :ANKI_DECK: Default
 :END:
 
+

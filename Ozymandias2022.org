@@ -32,10 +32,6 @@ The lone and level sands stretch far away."
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
-
-
-
-
 ** Ozymandias 1
 :PROPERTIES:
 :ANKI_NOTE_TYPE: LPCG 1.0

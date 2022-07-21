@@ -29,3 +29,4 @@ Most situations in my life have a default response, and that takes no effort to 
 :ANKI_DECK: Default
 :END:
 
+

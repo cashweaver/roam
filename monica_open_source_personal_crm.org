@@ -15,3 +15,4 @@ Monica is a [[id:4938a000-de24-45a9-bb5b-5b8559bc99c3][Personal Relationship Man
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+
