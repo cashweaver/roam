@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       b716997e-633f-41c2-bfff-1846df7e4bc2
+:END:
+#+title: Adam Johnson
+#+author: Cash Weaver
+#+date: [2022-07-21 Thu 11:12]
+#+filetags: :person:
+Among other things:
+
+- [[twitter:adamjohnsonNYC][@adamjohnsonNYC]]
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       82fea329-613f-4398-b416-eca19a5281dd
+:END:
+#+title: Captain Jean-Luc Picard
+#+author: Cash Weaver
+#+date: [2022-07-21 Thu 10:37]
+#+filetags: :person:
+Among other things:
+
+* TODO [#4] :noexport:
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

@@ -7,11 +7,12 @@
                   org-roam-capture-templates `(("c" "concept" plain "%?" :target
                                                 (file+head
                                                  "${slug}.org"
-                                                 ,(concat
-                                                   "#+title: ${title}\n"
-                                                   "#+author: Cash Weaver\n"
-                                                   "#+date: [%<%Y-%m-%d %a %H:%M>]\n"
-                                                   "#+filetags: :concept:\n"))
+                                                 ,(string-join
+                                                   '("#+title: ${title}"
+                                                     "#+author: Cash Weaver"
+                                                     "#+date: [%<%Y-%m-%d %a %H:%M>]"
+                                                     "#+filetags: :concept:")
+                                                   "\n"))
                                                 :unnarrowed t)
                                                ("p" "person" plain "%?" :target
                                                 (file+head

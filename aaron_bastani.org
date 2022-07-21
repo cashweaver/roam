@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       157706a0-cfd6-42fa-9b9a-cff35a97a960
+:END:
+#+title: Aaron Bastani
+#+author: Cash Weaver
+#+date: [2022-07-21 Thu 10:11]
+#+filetags: :person:
+Among other things:
+
+* TODO [#4] :noexport:
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

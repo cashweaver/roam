@@ -6,8 +6,26 @@
 #+date: [2022-03-13 Sun 17:32]
 #+filetags: :concept:
 
-A specific [[id:7bb3980d-e901-4f5e-b102-61a0a89de28c][post-scarcity society]] achieved through a combination of automative technology and material abundance.
+A specific [[id:7bb3980d-e901-4f5e-b102-61a0a89de28c][post-scarcity society]] achieved through a combination of automation technology and material abundance.
+
 * Anki :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+
+** [[id:043438c3-d647-4fe0-a29b-cd1c44e9e3e7][Fully Automated Luxury Communism]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Describe
+:ANKI_NOTE_ID: 1658425996786
+:END:
+
+*** Context
+
+*** Description
+A vision of a [[id:7bb3980d-e901-4f5e-b102-61a0a89de28c][Post-scarcity Society]] -- achieved through technological automation of production -- in which that surplus is equitably distributed among the people such that everyone is taken care of no matter what.
+
+*** Extra
+
+*** Source
+[[id:4bb6597c-bbcb-431e-8639-9c64d41412e1][Upstream | Fully Automated Luxury Communism]]

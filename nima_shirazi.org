@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       1ad7f14f-1f4d-4744-b923-a496e4ed6824
+:END:
+#+title: Nima Shirazi
+#+author: Cash Weaver
+#+date: [2022-07-21 Thu 11:12]
+#+filetags: :person:
+Among other things:
+
+- [[twitter:WideAsleepNima][@WideAsleepNima]]
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

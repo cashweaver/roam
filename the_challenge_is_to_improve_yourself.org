@@ -1,0 +1,27 @@
+:PROPERTIES:
+:ID:       b14ec1e9-5ac3-4c1a-a309-643515a10d84
+:END:
+#+title: The challenge is to improve yourself
+#+author: Cash Weaver
+#+date: [2022-07-21 Thu 10:37]
+#+filetags: :quote:
+
+#+begin_quote
+RALPH:Then what will happen to us? There's no trace of my money. My office is gone. What will I do? How will I live?
+
+[[id:82fea329-613f-4398-b416-eca19a5281dd][PICARD]]: This is the twenty fourth century. Material needs no longer exist.
+
+RALPH: Then what's the challenge?
+
+[[id:82fea329-613f-4398-b416-eca19a5281dd][PICARD]]: The challenge, Mister Offenhouse, is to improve yourself. To enrich yourself. Enjoy it.
+
+[cite:@thenextgenerationtranscriptsNeutralZone] 
+#+end_quote
+
+Related: [[id:043438c3-d647-4fe0-a29b-cd1c44e9e3e7][Fully Automated Luxury Communism]]
+
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
