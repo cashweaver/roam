@@ -26,3 +26,4 @@ The Zetet: "Knowing only gray, you conclude that all grays are the same shade. Y
 :ANKI_DECK: Default
 :END:
 
+

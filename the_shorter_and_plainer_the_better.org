@@ -16,3 +16,4 @@ The shorter and plainer the better.
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+

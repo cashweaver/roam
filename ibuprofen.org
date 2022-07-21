@@ -16,7 +16,6 @@
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: AKA
 :ANKI_NOTE_ID: 1658321076075
-:ANKI_FAILURE_REASON: Invalid function: s-lex-format
 :END:
 
 *** Term2
@@ -35,3 +34,4 @@ Advil
 *** Extra
 
 *** Source
+

@@ -17,3 +17,4 @@ The global minima is the smallest value of a function on the entire domain [cite
 :ANKI_DECK: Default
 :END:
 
+

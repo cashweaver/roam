@@ -16,3 +16,4 @@ Compound interest is the eighth wonder of the world. He who understands it, earn
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+

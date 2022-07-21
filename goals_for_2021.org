@@ -27,3 +27,4 @@ These are vague goals, in no particular order, for myself in 2021. I think it wo
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+

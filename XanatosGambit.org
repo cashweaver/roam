@@ -20,3 +20,4 @@ A Xanatos Gambit is a plan for which all foreseeable outcomes benefit the creato
 :ANKI_DECK: Default
 :END:
 
+

@@ -17,3 +17,4 @@ The spacing effect demonstrates that learning is more effective when study sessi
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+

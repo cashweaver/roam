@@ -19,3 +19,4 @@ The enticing value of an carrot depends on the one-being-enticed's lack of that 
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+

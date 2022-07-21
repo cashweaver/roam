@@ -15,3 +15,4 @@ Anatoly Cherdenko, Tim Curry, Red Alert 3, [[yt:g1Sq1Nr58hM][YouTube]]
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+

@@ -11,3 +11,4 @@ A Customer Relationship Manager (CRM) for personal use.
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+

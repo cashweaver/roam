@@ -49,3 +49,4 @@ A sequential collection of nodes composed of data and one or more references to 
 [cite:@LinkedList2022]
 
 
+

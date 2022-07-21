@@ -12,3 +12,4 @@ Author of [[https://slatestarcodex.com/][Slate Star Codex]] and [[https://astral
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+

@@ -21,3 +21,4 @@ Thus a pure function is a computational analogue of a mathematical function. Som
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
+
