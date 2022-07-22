@@ -119,47 +119,35 @@ If you remember the [arm-like] quality of a handle, you will be in no doubt wher
 Bowls require a complete change of tactics, so clear your mind before tackling them. The assignment is to make bowls with simple open curves. Leave about an inch of unformed clay at the bottom of the bowls to allow for choices of height, width, and shape of turned feet. Use about four pounds of clay.
 #+end_quote
 
-*** Pots with Lids
+*** TODO [#2] Pots with Lids
 :PROPERTIES:
 :NOTER_PAGE: 80
 :END:
 
-**** TODO
-
-*** Learning to See
+*** TODO [#2] Learning to See
 :PROPERTIES:
 :NOTER_PAGE: 93
 :END:
 
-**** TODO
-
-*** Style and Voice
+*** TODO [#2] Style and Voice
 :PROPERTIES:
 :NOTER_PAGE: 101
 :END:
 
-**** TODO
-
-*** Utility and Tradition
+*** TODO [#2] Utility and Tradition
 :PROPERTIES:
 :NOTER_PAGE: 113
 :END:
 
-**** TODO
-
-*** Place
+*** TODO [#2] Place
 :PROPERTIES:
 :NOTER_PAGE: 118
 :END:
 
-**** TODO
-
-*** Notes
+*** TODO [#2] Notes
 :PROPERTIES:
 :NOTER_PAGE: 124
 :END:
-
-**** TODO
 #+print_bibliography:
 
 * Anki :noexport:

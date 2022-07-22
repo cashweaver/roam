@@ -32,8 +32,12 @@ Based on the algorithm in [cite:@BreadthfirstSearch2022].
 
 
 * Complexity
-** TODO Time
-** TODO Space
+
+|       | Worst-case                           |
+|-------+--------------------------------------|
+| Time  | \(O(\vert V \vert + \vert E \vert)\) |
+| Space | \(O(\vert V \vert)\)                 |
+
 #+print_bibliography:
 * Anki :noexport:
 :PROPERTIES:
@@ -127,7 +131,37 @@ while not queue.empty() do
 *** Extra
 *** Source
 [cite:@TreeTraversal2022]
+** [[id:cff4f06c-6179-423d-aa1d-ba54d85615e2][Breadth-first search]] time complexity
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Describe
+:ANKI_NOTE_ID: 1658437675781
+:END:
+*** Context
+[[id:5bc61709-6612-4287-921f-3e2509bd2261][Graph theory]]
+*** Description
 
+|       | Worst-case                           |
+|-------+--------------------------------------|
+| Time  | \(O(\vert V \vert + \vert E \vert)\) |
+*** Extra
+|       | Worst-case                           |
+|-------+--------------------------------------|
+| Space | \(O(\vert V \vert)\)                 |
+*** Source
+** [[id:cff4f06c-6179-423d-aa1d-ba54d85615e2][Breadth-first search]] space complexity
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Describe
+:ANKI_NOTE_ID: 1658437676210
+:END:
+*** Context
+[[id:5bc61709-6612-4287-921f-3e2509bd2261][Graph theory]]
+*** Description
 
-
-
+|       | Worst-case                           |
+|-------+--------------------------------------|
+| Space | \(O(\vert V \vert)\)                 |
+*** Extra
+|       | Worst-case                           |
+|-------+--------------------------------------|
+| Time  | \(O(\vert V \vert + \vert E \vert)\) |
+*** Source

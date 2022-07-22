@@ -10,18 +10,16 @@
 #+begin_quote
 Leading indicators are indicators that usually, but not always, change before the [a thing] as a whole changes. They are therefore useful as short-term predictors of the [a thing].
 
-/[cite:@EconomicIndicator2021]/
+[cite:@EconomicIndicator2021]
 #+end_quote
 
-* TODO Examples
+* TODO [#2] Examples
 
 - Amount of sleep someone gets as a leading indicator for their focus during the day.
 
 #+print_bibliography:
 
-* Anki :noexport:
+* TODO [#2] Anki :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
-
-

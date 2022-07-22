@@ -13,10 +13,10 @@ Lagging indicators are indicators that usually change after [a thing] as a whole
 /[cite:@EconomicIndicator2021]/
 #+end_quote
 
-* TODO Examples
+* TODO [#2] Examples
 #+print_bibliography:
 
-* Anki :noexport:
+* TODO [#2] Anki :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

@@ -1,12 +1,12 @@
 :PROPERTIES:
 :ID:       c19c4cf1-9304-46b7-9441-8fed0ed17a57
 :END:
-#+title: Growth Mindset
+#+title: Growth mindset
 #+author: Cash Weaver
 #+date: [2022-03-20 Sun 15:27]
 #+filetags: :concept:
 
-* TODO
+* TODO [#2]
 
 * Anki :noexport:
 :PROPERTIES:

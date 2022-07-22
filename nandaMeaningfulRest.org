@@ -10,9 +10,10 @@
  
 [[id:034e5d64-198b-432c-bbba-d5936f92fe4f][Neel Nanda]], [cite:@nandaMeaningfulRest]
 
+* TODO [#2] Create concept post for the idea of engaging in meaningful rest
 
-* TODO Summary
-* TODO Thoughts
+* TODO [#2] Summary
+* TODO [#2] Thoughts
 * Notes
 #+begin_quote
 An exercise: Set a 5 minute timer, and list the things you want to do when you feel tired and low-energy. Then, set another 5 minute timer, and list the things you feel rejuvenated after having done - the things you like doing when low-energy.
@@ -24,7 +25,7 @@ If you're anything like me, these lists are basically disjoint!
 Most situations in my life have a default response, and that takes no effort to follow. To deviate from the default response, I need to spend a scarce resource - willpower. Being tired is essentially being low on willpower, and the problem is that my default actions when low willpower do not regenerate willpower.
 #+end_quote
 #+print_bibliography:
-* Anki :noexport:
+* TODO [#2] Anki :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

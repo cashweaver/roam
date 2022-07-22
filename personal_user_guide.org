@@ -1,7 +1,7 @@
 :PROPERTIES:
 :ID:       0441837e-1102-45d3-89aa-4da09147f8dd
 :END:
-#+title: Personal User Guide
+#+title: Personal user guide
 #+author: Cash Weaver
 #+date: [2022-03-13 Sun 18:57]
 #+filetags: :concept:

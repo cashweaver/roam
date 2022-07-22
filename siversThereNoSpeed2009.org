@@ -10,8 +10,8 @@
  
 [[id:699c0a4b-7bcf-4175-851c-8dd5deac8e84][Derek Sivers]], [cite:@siversThereNoSpeed2009]
 
-* TODO Summary
-* TODO Thoughts
+* TODO [#2] Summary
+* TODO [#2] Thoughts
 * Notes
 
 #+begin_quote

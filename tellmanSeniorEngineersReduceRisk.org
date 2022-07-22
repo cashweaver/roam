@@ -10,9 +10,9 @@
  
 [[id:d89d29a2-927a-4369-ad45-bc031a2f7266][Zach Tellman]], [cite:@tellmanSeniorEngineersReduceRisk]
 
-* TODO Summary
-* TODO Thoughts
-* TODO Notes
+* TODO [#2] Summary
+* TODO [#2] Thoughts
+* TODO [#2] Notes
 #+begin_quote
 Senior engineers reduce risk, in every sense. Often, "risk" is used to describe technical risk, which is that the software doesn't function properly, or is never completed at all. But there are other issues that can prevent the business atop the software from succeeding - risks around process, or product design, or sales, or the company's culture. A senior engineer understands these risks, and mitigates them where possible.
 #+end_quote

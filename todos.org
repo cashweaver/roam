@@ -206,6 +206,9 @@ Related:
 * TODO [#2] Node idea: Female life-long supplementation
 * TODO [#2] Node idea: Passive houses; air quality, principles, advantages, properties
 * TODO [#2] Node idea: This is the dreamtime. Rapid, explosive, technological development which shines light into all of the dark places. Elimination of privacy. [[id:3aea1e2f-dd21-4c21-a8c9-7efd610424c4][Moloch]]. Optimizing away the "human"-ness of humanity. The proliferation of existential threats through technologic progression; first we're not capable of destroying ourselves, then governments are capable, then well-funded groups are capable, then groups are capable, then individuals are capable -- nuclear, biologic, technologic.
+* TODO [#4] Reconsider the types/tags for nodes; remove them altogether? Is such a taxonomy useless?
+* TODO [#4] Remove explicit :DIR: property
+
 * Anki :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default

@@ -9,9 +9,9 @@
  
 [[id:12b9ccec-dfcb-473d-83b7-1daa9f450ed0][Ben Kuhn]], [cite:@kuhnDefenseBlubStudies]
 
-* TODO Summary
-* TODO Thoughts
-* TODO Notes
+* TODO [#2] Summary
+* TODO [#2] Thoughts
+* TODO [#2] Notes
 #+print_bibliography:
 * Anki :noexport:
 :PROPERTIES:

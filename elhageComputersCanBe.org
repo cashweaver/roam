@@ -9,9 +9,20 @@
  
 [[id:5c0d65a3-c200-43e2-afdc-ef6811b3c8ff][Nelson Elhage]], [cite:@elhageComputersCanBe]
 
-* TODO Summary
-* TODO Thoughts
-* TODO Notes
+* Summary
+A [[id:c19c4cf1-9304-46b7-9441-8fed0ed17a57][Growth Mindset]] oriented approach based on the truth that computer systems are deterministic and can be understood in time that asserts that learning about such systems -- diving into the depths rather than letting systems remain [[id:ab1c1113-290b-4715-b2d7-94f2af485b2e][Black boxes]] -- is worthwhile. Related: [[id:279afdb0-48ca-4542-94f1-d20add351cae][Be curious]].
+* Notes
+
+#+begin_quote
+At core, computers are built on a set of (mostly) deterministic foundations, which follow strict rules at each tick of the clock. We built layers upon layers of abstractions upon those foundations, each of which, as well, behaves in a (mostly) reproducible and deterministic way based on the abstractions at the previous level.
+
+There is no magic. There is no layer beyond which we leave the realm of logic and executing instructions and encounter unknowable demons making arbitrary and capricious decisions. Most behaviors in one layer are comprehensible in terms of the concepts of the next layer, and all behaviors can be understood by digging down through enough layers.
+#+end_quote
+
+#+begin_quote
+My advice for a practical upshot from this post would be: cultivate a deep sense of curiosity about the systems you work with. Ask questions about how they work, why they work that way, and how they were built. Ask yourself questions like "How would I have built this library?," identify the gaps where you don't know the answer, and add them to your mental backlog of topics to learn.
+#+end_quote
+
 #+print_bibliography:
 * Anki :noexport:
 :PROPERTIES:

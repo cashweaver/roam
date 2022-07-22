@@ -10,11 +10,12 @@
  
 [[id:5d78b917-4138-4236-a15e-22a6ae7b19a2][Julian Shapiro]], [cite:@shapiroHowPunctuate]
 
-* TODO Summary
-* TODO Thoughts
-* TODO Notes
+* TODO [#4] Incorporate points I agree with into [[id:05911fff-a79b-4462-bf6d-a3cec4e1c9f2][Style Guide]]
+
+* TODO [#4] Summary
+* TODO [#4] Thoughts
+* TODO [#4] Notes
 #+print_bibliography:
-* TODO Incorporate points I agree with into [[id:05911fff-a79b-4462-bf6d-a3cec4e1c9f2][Style Guide]]
 * Anki :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default

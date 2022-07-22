@@ -62,8 +62,13 @@ procedure DepthFirstSearch (graph, node) is
 Based on recursive algorithm in [cite:@DepthfirstSearch2022].
 
 * Complexity
-** TODO Time
-** TODO Space
+
+|       | Worst-case                           |
+|-------+--------------------------------------|
+| Time  | \(O(\vert V \vert + \vert E \vert)\) |
+| Space | \(O(\vert V \vert)\)                 |
+
+Where \(V\) is the set of [[id:1b2526af-676d-4c0f-aa85-1ba05b8e7a93][Vertices]] and \(E\) is the set of [[id:7211246e-d3da-491e-a493-e84ba820e63f][Edges]].
 
 * Alternatives
 - [[id:0ad51c11-995b-4437-a218-82df11697f7a][Iterative deepening depth-first-search]]
@@ -327,3 +332,41 @@ while not stack.empty() do
 
 
 
+
+
+** [[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][Depth-first search]] time complexity
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Describe
+:ANKI_NOTE_ID: 1658437572833
+:END:
+*** Context
+[[id:5bc61709-6612-4287-921f-3e2509bd2261][Graph theory]]
+*** Description
+
+|       | Worst-case                           |
+|-------+--------------------------------------|
+| Time  | \(O(\vert V \vert + \vert E \vert)\) |
+*** Extra
+|       | Worst-case                           |
+|-------+--------------------------------------|
+| Space | \(O(\vert V \vert)\)                 |
+*** Source
+[cite:@DepthfirstSearch2022]
+** [[id:81c88eaa-3ec9-486c-bcdf-457dd40b4eba][Depth-first search]] space complexity
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Describe
+:ANKI_NOTE_ID: 1658437573584
+:END:
+*** Context
+[[id:5bc61709-6612-4287-921f-3e2509bd2261][Graph theory]]
+*** Description
+
+|       | Worst-case                           |
+|-------+--------------------------------------|
+| Space | \(O(\vert V \vert)\)                 |
+*** Extra
+|       | Worst-case                           |
+|-------+--------------------------------------|
+| Time  | \(O(\vert V \vert + \vert E \vert)\) |
+*** Source
+[cite:@DepthfirstSearch2022]

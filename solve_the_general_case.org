@@ -2,12 +2,12 @@
 :ID:       8d287bb5-ccd4-4e23-a3df-7e7a2f929351
 :DIR:      /home/cashweaver/proj/roam/attachments/8d287bb5-ccd4-4e23-a3df-7e7a2f929351
 :END:
-#+title: Solve the General Case
+#+title: Solve the general Case
 #+author: Cash Weaver
 #+date: [2022-02-18 Fri 19:23]
 #+filetags: :concept:
 
-* TODO
+* TODO [#2]
 
 #+begin_quote
 Where possible, solving the general form of any problem is preferable to solving a single instance.

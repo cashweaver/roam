@@ -9,9 +9,9 @@
  
 [cite:@salvatierRealityHasSurprising]
 
-* TODO Summary
-* TODO Thoughts
-* TODO Notes
+* TODO [#2] Summary
+* TODO [#2] Thoughts
+* TODO [#2] Notes
 
 #+begin_quote
 [...] it's that everything is fiddly, but you only notice the fiddliness when you're new [...]

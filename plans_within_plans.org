@@ -2,16 +2,17 @@
 :ID:       a4f67dcc-8f90-4a21-abc8-b85bbaf2dee4
 :DIR:      /home/cashweaver/proj/roam/attachments/a4f67dcc-8f90-4a21-abc8-b85bbaf2dee4
 :END:
-#+title: Plans Within Plans
+#+title: Plans within plans
 #+FILETAGS: :concept:
 #+author: Cash Weaver
 #+date: [2022-02-08 Tue 10:44]
 
-* TODO
+* TODO [#2]
 
-Possibly related:
+Related:
 
-1. [[id:8710324a-ceda-4590-86ee-ad11c3eb36b9][TV Tropes | Xanatos Gambit]]
+- [[id:d8b060f2-5b7e-44bd-8f8c-b0dd32d2cf76][Plans within plans within plans]]
+- [[id:8710324a-ceda-4590-86ee-ad11c3eb36b9][TV Tropes | Xanatos Gambit]]
 
 * Anki :noexport:
 :PROPERTIES:

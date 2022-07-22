@@ -2,11 +2,11 @@
 :ID:       773406e0-fe95-41f4-a254-b2c6ade18ce9
 :DIR:      /home/cashweaver/proj/roam/attachments/773406e0-fe95-41f4-a254-b2c6ade18ce9
 :END:
-#+title: Personal Knowledge Management
+#+title: Personal knowledge management
 #+author: Cash Weaver
 #+date: [2022-02-06 Sun 07:20]
 
-* TODO
+* TODO [#4]
 
 * Anki :noexport:
 :PROPERTIES:

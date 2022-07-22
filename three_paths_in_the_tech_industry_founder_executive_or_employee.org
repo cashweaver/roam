@@ -27,7 +27,7 @@ Another part of me isn't satisfied with this definition. "Real" work isn't the o
 
 Perhaps the nuance I'm attempting to address is somewhere between meaningful work and unique work.
 
-* TODO Convert to citation
+* TODO [#2] Convert to citation
 
 * Anki :noexport:
 :PROPERTIES:

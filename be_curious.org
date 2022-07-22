@@ -1,16 +1,12 @@
 :PROPERTIES:
-:ID:       5bc61709-6612-4287-921f-3e2509bd2261
+:ID:       279afdb0-48ca-4542-94f1-d20add351cae
 :END:
-#+title: Graph theory
+#+title: Be curious
 #+author: Cash Weaver
-#+date: [2022-03-15 Tue 21:24]
+#+date: [2022-07-21 Thu 16:39]
 #+filetags: :concept:
-
-* TODO [#2]
-
+* TODO [#1] 
 * Anki :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
-
-

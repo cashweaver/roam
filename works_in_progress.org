@@ -8,67 +8,67 @@
 
 A collection of work-in-progress posts. I will eventually extract these into individual nodes.
 
-* Components of Software Project Planning
+* TODO [#2] Components of Software Project Planning
 
-** TODO Identify and Explicitly Define the Problem
+** Identify and Explicitly Define the Problem
 
 - Perhaps the most important part
 - Define the solution you seek to solve. Your project is a success if it addresses the points you list here.
 
-** TODO Understand the History and Surroundings
+** Understand the History and Surroundings
 
 Projects are rarely greenfield. Consider the history of projects which came before and the context in which your project exists.
 
-** TODO Dependencies
+** Dependencies
 
 Understand how your work will depend on external services.
 
 - Do those services have capacity to support your project?
 - What will you do if one of your dependencies fails?
 
-** TODO Technical Debt
+** Technical Debt
 
 - Is there pre-existing technical debt?
 - What, if any, technical debt will this project introduce?
   - What is your plan, and timeline, for mitigation and/or remediation?
 
-** TODO Estimates
+** Estimates
 
 - Timeline estimate
 - Effort estimate
 
-** TODO Security
+** Security
 
-** TODO Reliability
+** Reliability
 
-** TODO Data Integrity
+** Data Integrity
 
-** TODO Privacy
+** Privacy
 
-** TODO Scalability
+** Scalability
 
-** TODO Latency
+** Latency
 
-** TODO Abuse
+** Abuse
 
-** TODO Accessibility
+** Accessibility
 
-** TODO Alternative Methods
+** Alternative Methods
 
 - Assume there is more than one way to complete your project. Resist the pull of your first idea. Think critically and document alternative approaches to solving the underlying problem
 
-** TODO Have a Plan for ...
+** Have a Plan for ...
 
-*** TODO Launch
+*** Launch
 
 - How will you launch your project?
 
-*** TODO Testing
-*** TODO Documentation
+*** Testing
+*** Documentation
 
 - How will you document your project? At minimum you should have a document which describes the goals, etc (see below).
 
-* Software Project Planning Principles
+* TODO [#2] Software Project Planning Principles
 
 1. It doesn't exist unless you can measure it.
    - Your feature isn't "live" unless you have a metric/heartbeat/etc which indicates as such.

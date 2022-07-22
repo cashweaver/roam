@@ -6,24 +6,9 @@
 #+date: [2022-06-29 Wed 09:32]
 #+filetags: :concept:
 
-* TODO
-
-
-
-
-
-
-
-
-
-
-
-
+* TODO [#2]
 
 * Anki :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
-
-
-

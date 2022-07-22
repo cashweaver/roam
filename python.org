@@ -7,9 +7,9 @@
 #+filetags: :concept:
 The programming language
 
-* TODO
+* TODO [#4]
 
-* Anki :noexport:python:
+* Anki :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
@@ -20,7 +20,7 @@ The programming language
 :ANKI_NOTE_ID: 1656857110833
 :END:
 *** Text
-#+begin_src
+#+begin_src python
 >>> a = [0, 1, 2, 3]
 >>> {{c1::a[:2]}}
 {{c2::[0, 1]}}
@@ -35,7 +35,7 @@ The programming language
 :ANKI_NOTE_ID: 1656857110957
 :END:
 *** Text
-#+begin_src
+#+begin_src python
 >>> a = [0, 1, 2, 3]
 >>> {{c2::a[1:2]}}
 {{c1::[1]}}
@@ -50,7 +50,7 @@ The programming language
 :ANKI_NOTE_ID: 1656857111108
 :END:
 *** Text
-#+begin_src
+#+begin_src python
 >>> a = [0, 1, 2, 3]
 >>> {{c2::a[1:]}}
 {{c1::[1, 2, 3]}}
@@ -69,5 +69,19 @@ The programming language
 
 *** Source
 
+** Indexing
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1658458327207
+:END:
 
+*** Text
+#+begin_src python
+>>> a = [0, 1, 2, 3]
+>>> {{c1::a[::-1]}}
+{{c2::[3, 2, 1, 0]}}
+#+end_src
 
+*** Extra
+
+*** Source

@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ROAM_REFS: [cite:@evansYouWantBeWizard]
+:ID:       4cb0f7fb-9567-4052-95fa-a57b23a8a54a
+:END:
+#+title: Julia Evans | So You Want to Be a Wizard
+#+author: Cash Weaver
+#+date: [2022-07-21 Thu 17:09]
+#+filetags: :reference:
+[[id:46b2dcac-b164-4006-a090-1e2263695748][Julia Evans]], [cite:@evansYouWantBeWizard]
+
+* TODO [#0] Summary
+* TODO [#0] Thoughts
+* TODO [#0] Notes
+** Wizard skills
+*** Understand your systems
+
+Related: [[id:19ba13d6-259f-4734-a1be-aaa5d51fcd16][Nelson Elhage | Computers Can Be Understood]]
+
+*** Ask great questions
+*** Read the code
+*** Debug like a wizard
+*** Write down a design
+*** Understand the big picture
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

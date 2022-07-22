@@ -1,19 +1,51 @@
 :PROPERTIES:
 :ID:       0b13cdf1-2678-420e-b919-4a349d4ef81a
+:ROAM_ALIASES: "First principles thinking"
 :END:
-#+title: Reasoning from First Principles
+#+title: Reasoning from first principles
 #+author: Cash Weaver
 #+date: [2022-03-12 Sat 08:18]
 #+startup: overview
 #+filetags: :concept:
 
-The act of using [[id:0f5abcf4-ac0d-40d7-a62b-62daeac65485][first principles]] to build an argument, proof, etc.
+#+begin_quote
+First principles thinking consists of deriving things to their fundamental proven axioms [[[id:0f5abcf4-ac0d-40d7-a62b-62daeac65485][First principles]]] in the given arena, before reasoning up by asking which ones are relevant to the question at hand, then cross referencing conclusions based on chosen axioms and making sure conclusions don't violate any fundamental laws.
 
-* TODO
+[cite:@FirstPrinciple2022]
+#+end_quote
 
+#+print_bibliography:
 * Anki :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
 
+** [[id:0b13cdf1-2678-420e-b919-4a349d4ef81a][Reasoning from first principles]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Describe
+:ANKI_NOTE_ID: 1658447657906
+:END:
 
+*** Context
+
+*** Description
+A way of thinking which builds higher-order assertions from [[id:0f5abcf4-ac0d-40d7-a62b-62daeac65485][First principles]].
+*** Extra
+
+*** Source
+
+** [[id:0b13cdf1-2678-420e-b919-4a349d4ef81a][Reasoning from first principles]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Example(s)
+:ANKI_NOTE_ID: 1658447826332
+:END:
+
+*** Context
+
+*** Example(s)
+- (1) All men are mortal, (2) Socrates is a man, \(\therefore\) Socrates is mortal
+
+*** Extra
+
+*** Source

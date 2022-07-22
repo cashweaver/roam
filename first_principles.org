@@ -1,24 +1,38 @@
 :PROPERTIES:
 :ID:       0f5abcf4-ac0d-40d7-a62b-62daeac65485
+:ROAM_ALIASES: "First principle"
 :END:
-#+title: First Principles
+#+title: First principles
 #+author: Cash Weaver
 #+date: [2022-03-12 Sat 08:16]
 #+startup: overview
 #+filetags: :concept:
 
-The fundamental building blocks of a subject.
+#+begin_quote
+A first principle is a basic proposition or assumption that cannot be deduced from any other proposition or assumption.
 
-Related:
+[cite:@FirstPrinciple2022]
+#+end_quote
 
-- [[id:0b13cdf1-2678-420e-b919-4a349d4ef81a][Reasoning from First Principles]]
-
-
-* TODO Citations, quotes, etc
-
+#+print_bibliography:
 * Anki :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
 
+** [[id:0f5abcf4-ac0d-40d7-a62b-62daeac65485][First principle]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1658447519381
+:END:
 
+*** Context
+
+*** Definition
+A basic proposition or assumption that cannot be deduced from any other proposition or assumption.
+
+*** Extra
+
+*** Source
+[cite:@FirstPrinciple2022]

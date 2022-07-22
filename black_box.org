@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       ab1c1113-290b-4715-b2d7-94f2af485b2e
+:ROAM_ALIASES: "Black boxes"
+:END:
+#+title: Black box
+#+author: Cash Weaver
+#+date: [2022-07-21 Thu 16:37]
+#+filetags: :concept:
+
+* TODO [#2]
+
+* TODO [#2] Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

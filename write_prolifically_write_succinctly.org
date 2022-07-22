@@ -26,7 +26,7 @@ Third, keeping something short forces you, the writer, to distill what you want 
 
 * Thoughts
 
-* TODO
+* TODO [#2] convert to citations
 
 * Anki :noexport:
 :PROPERTIES:

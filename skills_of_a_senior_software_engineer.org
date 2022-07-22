@@ -11,7 +11,7 @@ A senior software engineer is an amorphous title. Companies will often use their
 
 [[id:554edef5-e102-4628-9997-acdf7ed60a35][Well set goals are easier to achieve]], so I've sought out common traits of "senior" roles and collected them here to help guide me as I try to [[id:d797ba44-b962-4d6e-9b71-38ca49d070ce][get good]]. I expect a majority of these traits are common for all senior roles --- software engineer or otherwise.
 
-* TODO Incorporate Sources
+* TODO [#2] Incorporate Sources
 
 - [[id:e7753777-506e-490e-b79e-59dede5dce2e][Zach Tellman | Senior Engineers Reduce Risk]]
 - [[id:04347fa3-3c14-4aa8-8fd1-abeac684837f][John Allspaw | On Being A Senior Engineer]]

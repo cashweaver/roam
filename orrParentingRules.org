@@ -9,14 +9,14 @@
  
 [cite:@orrParentingRules]
 
-* TODO Summary
+* TODO [#2] Summary
 
 #+begin_quote
 If I had to sum all these up, it would be this: raise kids for the long term. The reasoning behind all these choices is that we want to produce competent capable adults, and solving short term in-the-moment issues, while important, isn't the goal.
 #+end_quote
 
-* TODO Thoughts
-* TODO Notes
+* TODO [#2] Thoughts
+* TODO [#2] Notes
 ** Never lie
 #+begin_quote
 If kids ask a question and they aren't ready to hear the answer, just tell them that. This doesn't mean you have to go into every gruesome detail, it's fine to couch your answer at the level you think they'll understand and that you have time for, but they're smarter than you probably think.

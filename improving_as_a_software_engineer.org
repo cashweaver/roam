@@ -8,7 +8,7 @@
 #+date: [2022-01-29 Sat 14:08]
 #+hugo_draft: t
 
-* TODO Incomplete ideas
+* TODO [#2] Incomplete ideas
 
 - There are more than one axis to improve along.
 - Splitting time between executing and thinking/learning/reading/etc.

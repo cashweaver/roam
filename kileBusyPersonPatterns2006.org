@@ -9,16 +9,13 @@
  
 [cite:@kileBusyPersonPatterns2006]
 
-* TODO Summary
-* TODO Thoughts
-* TODO Notes
+* TODO [#2]Summary
+* TODO [#2]Thoughts
+* TODO [#2]Notes
 :PROPERTIES:
 :NOTER_DOCUMENT: attachments/f1/882164-0604-4dd9-ae59-df0d7b9d5ca2/busy-person-patterns.pdf
 :NOTER_PAGE: 29
 :END:
-
-
-#+print_bibliography:
 ** Skeleton
 *** Table of Contents
 :PROPERTIES:
@@ -28,7 +25,7 @@
 :PROPERTIES:
 :NOTER_PAGE: (4 . 0.090909)
 :END:
-*** TODO Just Start
+*** TODO [#2]Just Start
 :PROPERTIES:
 :NOTER_PAGE: (5 . 0.090909)
 :ID:       630c804a-cef5-42e6-a168-5a233a0acbed
@@ -51,7 +48,7 @@ You have a task that cannot wait until you have all the information about it to 
 :NOTER_PAGE: (6 . 0.17298)
 :END:
 
-*** TODO Contiguous Time Blocks
+*** TODO [#2]Contiguous Time Blocks
 :PROPERTIES:
 :NOTER_PAGE: (7 . 0.090909)
 :ID:       0c40f4d8-2ae6-4cc1-9109-f4852d3b2160
@@ -72,7 +69,7 @@ You have a task that cannot wait until you have all the information about it to 
 :PROPERTIES:
 :NOTER_PAGE: (8 . 0.17298)
 :END:
-*** TODO Single-Task Important Items
+*** TODO [#2]Single-Task Important Items
 :PROPERTIES:
 :NOTER_PAGE: (9 . 0.090909)
 :ID:       4bfa94bc-4894-4a33-8585-52e85c752ea2
@@ -89,7 +86,7 @@ You have a task that cannot wait until you have all the information about it to 
 :PROPERTIES:
 :NOTER_PAGE: (10 . 0.296717)
 :END:
-*** TODO Put It Off
+*** TODO [#2]Put It Off
 :PROPERTIES:
 :NOTER_PAGE: (11 . 0.090909)
 :ID:       0d88a3a5-3272-478a-8c9e-76e882c723cb
@@ -106,7 +103,7 @@ You have a task that cannot wait until you have all the information about it to 
 :PROPERTIES:
 :NOTER_PAGE: (12 . 0.275253)
 :END:
-*** TODO Seek Clarification
+*** TODO [#2]Seek Clarification
 :PROPERTIES:
 :NOTER_PAGE: (13 . 0.090909)
 :ID:       aa27e79d-c327-42ad-af7f-2455aaee9c48
@@ -123,7 +120,7 @@ You have a task that cannot wait until you have all the information about it to 
 :PROPERTIES:
 :NOTER_PAGE: (14 . 0.232323)
 :END:
-*** TODO Batch the Simple Stuff
+*** TODO [#2]Batch the Simple Stuff
 :PROPERTIES:
 :NOTER_PAGE: (15 . 0.090909)
 :ID:       8e58ac67-07ba-4bb0-afb7-5abe570fcdc5
@@ -140,7 +137,7 @@ You have a task that cannot wait until you have all the information about it to 
 :PROPERTIES:
 :NOTER_PAGE: (16 . 0.191919)
 :END:
-*** TODO Task Jar
+*** TODO [#2]Task Jar
 :PROPERTIES:
 :NOTER_PAGE: (17 . 0.090909)
 :ID:       da6d60bb-1a96-44bb-b9b5-8646a0503665
@@ -157,7 +154,7 @@ You have a task that cannot wait until you have all the information about it to 
 :PROPERTIES:
 :NOTER_PAGE: (18 . 0.40404)
 :END:
-*** TODO Strike When You Are Hot
+*** TODO [#2]Strike When You Are Hot
 :PROPERTIES:
 :NOTER_PAGE: (19 . 0.090909)
 :ID:       7644f829-ad5c-44c0-98ba-02cb0c698c75
@@ -174,7 +171,7 @@ You have a task that cannot wait until you have all the information about it to 
 :PROPERTIES:
 :NOTER_PAGE: (20 . 0.368687)
 :END:
-*** TODO Feedback Loop
+*** TODO [#2]Feedback Loop
 :PROPERTIES:
 :NOTER_PAGE: (21 . 0.090909)
 :ID:       c8ed5ee6-7756-41d2-9134-8baf2c3abe8f
@@ -191,7 +188,7 @@ You have a task that cannot wait until you have all the information about it to 
 :PROPERTIES:
 :NOTER_PAGE: (22 . 0.292929)
 :END:
-*** TODO Prioritize
+*** TODO [#2]Prioritize
 :PROPERTIES:
 :NOTER_PAGE: (23 . 0.090909)
 :ID:       9c55e2ff-b170-474c-81e7-670188adf303
@@ -208,7 +205,7 @@ You have a task that cannot wait until you have all the information about it to 
 :PROPERTIES:
 :NOTER_PAGE: (24 . 0.292929)
 :END:
-*** TODO Delegate
+*** TODO [#2]Delegate
 :PROPERTIES:
 :NOTER_PAGE: (25 . 0.090909)
 :ID:       b5246b0f-685b-4408-b79e-3b2b5e0eb601
@@ -225,7 +222,7 @@ You have a task that cannot wait until you have all the information about it to 
 :PROPERTIES:
 :NOTER_PAGE: (26 . 0.275253)
 :END:
-*** TODO Drop Unimportant Tasks
+*** TODO [#2]Drop Unimportant Tasks
 :PROPERTIES:
 :NOTER_PAGE: (27 . 0.090909)
 :ID:       d1afad48-d95d-4ea6-bce3-a3b88a28b995
@@ -242,7 +239,7 @@ You have a task that cannot wait until you have all the information about it to 
 :PROPERTIES:
 :NOTER_PAGE: (27 . 0.842172)
 :END:
-*** TODO Good Enough
+*** TODO [#2]Good Enough
 :PROPERTIES:
 :NOTER_PAGE: (29 . 0.090909)
 :ID:       3dd67ed4-d1d5-47f4-982d-164f55c8a4ff
@@ -283,6 +280,8 @@ You have a task that cannot wait until you have all the information about it to 
 :PROPERTIES:
 :NOTER_PAGE: (37 . 0.090909)
 :END:
+
+#+print_bibliography:
 * Anki :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default

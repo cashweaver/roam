@@ -6,9 +6,9 @@
 #+date: [2022-04-08 Fri 16:03]
 #+filetags: :concept:
 
-* TODO https://en.wikipedia.org/wiki/Panopticon
+* TODO [#2] https://en.wikipedia.org/wiki/Panopticon
 
-* Anki :noexport:
+* TODO [#2] Anki :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

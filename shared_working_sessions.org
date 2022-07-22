@@ -1,17 +1,18 @@
 :PROPERTIES:
 :ID:       e5dbb7e0-0946-4bae-a9d7-b8aad9124c88
 :END:
-#+title: Shared Working Sessions
+#+title: Shared working sessions
 #+author: Cash Weaver
 #+date: [2022-03-20 Sun 14:42]
 #+filetags: :concept:
 
-* TODO
+* TODO [#2]
 
 Shared working sessions, as I use the term, is a defined time period where you and one or more people work alongside each other.
 
 Related:
 
+- Deep work
 - Time boxing
 - Accountability
 - Planning ahead / thinking about what you'll work on / mini-sprints

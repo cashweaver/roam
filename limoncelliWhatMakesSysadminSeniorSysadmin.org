@@ -10,9 +10,9 @@
  
 [[id:d2129f29-f3a1-4e10-8a25-25ae81b949a5][Tom Limoncelli]], [cite:@limoncelliWhatMakesSysadminSeniorSysadmin]
 
-* TODO Summary
-* TODO Thoughts
-* TODO Notes
+* TODO [#2] Summary
+* TODO [#2] Thoughts
+* TODO [#2] Notes
 
 #+begin_quote
 A senior person demonstrates technical leadership by creating the processes that other people can follow, thereby enabling delegation and multiplying their effectiveness. Maybe the senior person is the only one technical enough to work out the procedure for replacing a bad disk on a server, but they document it in a way that less experience people can do the task. Maybe the senior person is the only one technical enough to set up a massive monitoring system, but they document how to add new devices so that everyone can add to what is monitored. Therefore they multiply their effectiveness because they use their knowledge not to do work, but to make it possible that an army of people can do the work instead. Good documentation is the first step to automating a process, so by working out the process, they start the "guess work -> repeatable -> automated" life-cycle that repetitive tasks should follow.

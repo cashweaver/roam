@@ -12,13 +12,13 @@ In computer science, iterative deepening search or more specifically iterative d
 [cite:@IterativeDeepeningDepthfirstSearch2021]
 #+end_quote
 
-* TODO Algorithm
+* TODO [#2] Algorithm
 
 Adapted from [cite:@IterativeDeepeningDepthfirstSearch2021].
 
 * Complexity
-** TODO Time
-** TODO Space
+** TODO [#2] Time
+** TODO [#2] Space
 #+print_bibliography:
 * Anki :noexport:
 :PROPERTIES:

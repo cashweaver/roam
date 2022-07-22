@@ -8,10 +8,10 @@
 
 The local minima is the smallest value of a function within a given range [cite:@MaximaMinima2022].
 
-* TODO Examples
+* TODO [#2] Examples
 #+print_bibliography:
 
-* Anki :noexport:
+* TODO [#2] Anki :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

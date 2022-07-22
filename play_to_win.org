@@ -7,7 +7,7 @@
 #+date: [2022-02-16 Wed 19:22]
 #+filetags: :concept:
 
-* TODO
+* TODO [#4]
 
 - https://commoncog.com/blog/playing-to-play-playing-to-win/
 - https://news.ycombinator.com/item?id=28608436
@@ -22,5 +22,3 @@
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
-
-

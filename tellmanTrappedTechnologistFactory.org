@@ -10,9 +10,9 @@
  
 [[id:d89d29a2-927a-4369-ad45-bc031a2f7266][Zach Tellman]], [cite:@tellmanTrappedTechnologistFactory]
 
-* TODO Summary
-* TODO Thoughts
-* TODO Notes
+* TODO [#2] Summary
+* TODO [#2] Thoughts
+* TODO [#2] Notes
 
 #+begin_quote
 I learned two lessons from this time in my life. The first was personal: I am, at heart, a technologist. I like to generalize, to abstract. While I believe it's crucial to understand the context around your software, I'm happiest when that context is other people's software.
@@ -23,10 +23,9 @@ This was surprising because it seems so clearly against our own interest. In alm
 #+end_quote
 
 #+begin_quote
-Chesterton notwithstanding, the fastest way to learn why a fence exists is to tear it down and see what happens.
+[[[roam:Chesterton's fence]]] notwithstanding, the fastest way to learn why a fence exists is to tear it down and see what happens.
 #+end_quote
 
-See [[id:975b8bf2-d4cb-4a1d-a976-0f6d0130dbc5][Chesterton's Fence]].
 #+print_bibliography:
 * Anki :noexport:
 :PROPERTIES:
