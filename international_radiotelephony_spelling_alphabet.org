@@ -1,0 +1,348 @@
+:PROPERTIES:
+:ID:       c42b21e4-6ddb-452f-acb4-5cf9ab122e2e
+:ROAM_ALIASES: "International radiotelephony spelling alphabet"
+:END:
+#+title: NATO phonetic alphabet
+#+author: Cash Weaver
+#+date: [2022-07-26 Tue 07:41]
+#+filetags: :concept:
+
+#+begin_quote
+The International Radiotelephony Spelling Alphabet, commonly known as the NATO phonetic alphabet, is the most widely used set of clear code words for communicating the letters of the English alphabet, technically a radiotelephonic spelling alphabet.
+
+[cite:@NATOPhoneticAlphabet2022]
+#+end_quote
+
+| Character | Telephony |
+|-----------+-----------|
+| A         | Alfa      |
+| B         | Bravo     |
+| C         | Charlie   |
+| D         | Delta     |
+| E         | Foxtrot   |
+| F         | Golf      |
+| G         | Hotel     |
+| H         | India     |
+| J         | Juliett   |
+| K         | Kilo      |
+| L         | Lima      |
+| M         | Mike      |
+| N         | November  |
+| O         | Oscar     |
+| P         | Papa      |
+| Q         | Quebec    |
+| R         | Romeo     |
+| S         | Sierra    |
+| T         | Tango     |
+| U         | Uniform   |
+| V         | Victor    |
+| W         | Whiskey   |
+| X         | X-ray     |
+| Y         | Yankee    |
+| Z         | Zulu      |
+#+print_bibliography:
+* TODO [#2] Anki :noexport:nato_alphabet:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** A
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Language
+:ANKI_NOTE_ID: 1658847041234
+:END:
+*** Meaning
+Alfa
+*** Language
+[[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]
+*** Source
+[cite:@NATOPhoneticAlphabet2022]
+** B
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Language
+:ANKI_NOTE_ID: 1658847041608
+:END:
+*** Meaning
+Bravo
+*** Language
+[[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]
+*** Source
+[cite:@NATOPhoneticAlphabet2022]
+** C
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Language
+:ANKI_NOTE_ID: 1658847041740
+:END:
+*** Meaning
+Charlie
+*** Language
+[[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]
+*** Source
+[cite:@NATOPhoneticAlphabet2022]
+** D
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Language
+:ANKI_NOTE_ID: 1658847041857
+:END:
+*** Meaning
+Delta
+*** Language
+[[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]
+*** Source
+[cite:@NATOPhoneticAlphabet2022]
+** E
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Language
+:ANKI_NOTE_ID: 1658847042007
+:END:
+*** Meaning
+Foxtrot
+*** Language
+[[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]
+*** Source
+[cite:@NATOPhoneticAlphabet2022]
+** F
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Language
+:ANKI_NOTE_ID: 1658847042356
+:END:
+*** Meaning
+Golf
+*** Language
+[[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]
+*** Source
+[cite:@NATOPhoneticAlphabet2022]
+** G
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Language
+:ANKI_NOTE_ID: 1658847042481
+:END:
+*** Meaning
+Hotel
+*** Language
+[[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]
+*** Source
+[cite:@NATOPhoneticAlphabet2022]
+** H
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Language
+:ANKI_NOTE_ID: 1658847042632
+:END:
+*** Meaning
+India
+*** Language
+[[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]
+*** Source
+[cite:@NATOPhoneticAlphabet2022]
+** J
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Language
+:ANKI_NOTE_ID: 1658847043006
+:END:
+*** Meaning
+Juliett
+*** Language
+[[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]
+*** Source
+[cite:@NATOPhoneticAlphabet2022]
+** K
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Language
+:ANKI_NOTE_ID: 1658847043131
+:END:
+*** Meaning
+Kilo
+*** Language
+[[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]
+*** Source
+[cite:@NATOPhoneticAlphabet2022]
+** L
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Language
+:ANKI_NOTE_ID: 1658847043257
+:END:
+*** Meaning
+Lima
+*** Language
+[[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]
+*** Source
+[cite:@NATOPhoneticAlphabet2022]
+** M
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Language
+:ANKI_NOTE_ID: 1658847043632
+:END:
+*** Meaning
+Mike
+*** Language
+[[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]
+*** Source
+[cite:@NATOPhoneticAlphabet2022]
+** N
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Language
+:ANKI_NOTE_ID: 1658847043782
+:END:
+*** Meaning
+November
+*** Language
+[[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]
+*** Source
+[cite:@NATOPhoneticAlphabet2022]
+** O
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Language
+:ANKI_NOTE_ID: 1658847043907
+:END:
+*** Meaning
+Oscar
+*** Language
+[[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]
+*** Source
+[cite:@NATOPhoneticAlphabet2022]
+** P
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Language
+:ANKI_NOTE_ID: 1658847044057
+:END:
+*** Meaning
+Papa
+*** Language
+[[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]
+*** Source
+[cite:@NATOPhoneticAlphabet2022]
+** Q
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Language
+:ANKI_NOTE_ID: 1658847044432
+:END:
+*** Meaning
+Quebec
+*** Language
+[[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]
+*** Source
+[cite:@NATOPhoneticAlphabet2022]
+** R
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Language
+:ANKI_NOTE_ID: 1658847044556
+:END:
+*** Meaning
+Romeo
+*** Language
+[[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]
+*** Source
+[cite:@NATOPhoneticAlphabet2022]
+** S
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Language
+:ANKI_NOTE_ID: 1658847044681
+:END:
+*** Meaning
+Sierra
+*** Language
+[[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]
+*** Source
+[cite:@NATOPhoneticAlphabet2022]
+** T
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Language
+:ANKI_NOTE_ID: 1658847045057
+:END:
+*** Meaning
+Tango
+*** Language
+[[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]
+*** Source
+[cite:@NATOPhoneticAlphabet2022]
+** U
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Language
+:ANKI_NOTE_ID: 1658847045207
+:END:
+*** Meaning
+Uniform
+*** Language
+[[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]
+*** Source
+[cite:@NATOPhoneticAlphabet2022]
+** V
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Language
+:ANKI_NOTE_ID: 1658847045364
+:END:
+*** Meaning
+Victor
+*** Language
+[[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]
+*** Source
+[cite:@NATOPhoneticAlphabet2022]
+** W
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Language
+:ANKI_NOTE_ID: 1658847045741
+:END:
+*** Meaning
+Whiskey
+*** Language
+[[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]
+*** Source
+[cite:@NATOPhoneticAlphabet2022]
+** X
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Language
+:ANKI_NOTE_ID: 1658847045890
+:END:
+*** Meaning
+X-ray
+*** Language
+[[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]
+*** Source
+[cite:@NATOPhoneticAlphabet2022]
+** Y
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Language
+:ANKI_NOTE_ID: 1658847046033
+:END:
+*** Meaning
+Yankee
+*** Language
+[[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]
+*** Source
+[cite:@NATOPhoneticAlphabet2022]
+** Z
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Language
+:ANKI_NOTE_ID: 1658847046416
+:END:
+*** Meaning
+Zulu
+*** Language
+[[id:c42b21e4-6ddb-452f-acb4-5cf9ab122e2e][NATO phonetic alphabet]]
+*** Source
+[cite:@NATOPhoneticAlphabet2022]
