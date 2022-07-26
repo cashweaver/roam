@@ -12,6 +12,7 @@ Compound interest is the eighth wonder of the world. He who understands it, earn
 
 [[id:2ff14f4b-d498-4ef2-8943-9215cfee8f43][Albert Einstein]] (maybe)
 #+end_quote
+
 * Anki :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default

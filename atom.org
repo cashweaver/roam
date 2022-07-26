@@ -18,7 +18,7 @@ This term comes from the historical meaning of the word atom, which means "indiv
 
 Technically speaking, a list in Lisp consists of parentheses surrounding atoms separated by whitespace or surrounding other lists or surrounding both atoms and other lists. A list can have just one atom in it or have nothing in it at all. A list with nothing in it looks like this: (), and is called the empty list. Unlike anything else, an empty list is considered both an atom and a list at the same time.
 
-[cite:@LispAtomsa]
+[cite:@LispAtoms]
 #+end_quote
 
 #+print_bibliography:

@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ROAM_REFS: [cite:@ThereWillComeSoftRainsPoem2022]
+:ROAM_REFS: [cite:@ThereWillComeSoftRains2022]
 :ID:       afee42e7-89f6-46ca-aa5d-5b49a1b0c6d1
 :END:
 #+title: Sara Teasdale | There Will Come Soft Rains (Poem)
@@ -29,7 +29,7 @@ And Spring herself, when she woke at dawn,
 Would scarcely know that we were gone.
 #+end_verse
 
-[[id:91880ddb-fc58-47c1-b6f1-400fec9e1e33][Sara Teasdale]], [cite:@ThereWillComeSoftRainsPoem2022]
+[[id:91880ddb-fc58-47c1-b6f1-400fec9e1e33][Sara Teasdale]], [cite:@ThereWillComeSoftRains2022]
 
 #+print_bibliography:
 * Anki :noexport:

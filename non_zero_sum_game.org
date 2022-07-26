@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID:       9f52c68a-3302-47bc-a4a4-3a4ff20d41be
+:END:
+#+title: Non-zero-sum game
+#+author: Cash Weaver
+#+date: [2022-07-23 Sat 10:51]
+#+filetags: :concept:
+
+#+begin_quote
+[...] non-zero-sum describes a situation in which the interacting parties' aggregate gains and losses can be less than or more than zero.
+
+[cite:@ZerosumGame2022]
+#+end_quote
+
+The opposite of a [[id:4d1bdced-1025-4985-8bef-3e34109fb47d][Zero-sum game]].
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** [[id:9f52c68a-3302-47bc-a4a4-3a4ff20d41be][Non-zero-sum game]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Example(s)
+:ANKI_NOTE_ID: 1658599006657
+:END:
+*** Context
+[[id:e157ee7b-f36c-4ff8-bcb3-643163925c20][Game theory]]
+*** Example(s)
+- [[id:780bd825-4c89-4eb6-ba02-de09fefc4694][Prisoner's Dilemma]]
+*** Extra
+*** Source
+[cite:@ZerosumGame2022]
+** [[id:9f52c68a-3302-47bc-a4a4-3a4ff20d41be][Non-zero-sum game]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1658599007332
+:END:
+*** Context
+[[id:e157ee7b-f36c-4ff8-bcb3-643163925c20][Game theory]]
+*** Definition
+A situation in which the players's aggregate gains and losses can be less than or more than zero. That is, one player's gain doesn't require an equivalent loss by one or more other players.
+*** Extra
+*** Source
+[cite:@ZerosumGame2022]

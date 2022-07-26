@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       57d94e2b-f842-483e-bcdb-c4d8e91a6ab5
+:END:
+#+title: Transitive relation
+#+author: Cash Weaver
+#+date: [2022-07-23 Sat 17:10]
+#+filetags: :concept:
+
+* TODO [#2]
+[cite:@TransitiveRelation2022]
+
+#+print_bibliography:
+* TODO [#2] Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

@@ -1,0 +1,63 @@
+:PROPERTIES:
+:ID:       7b1f3cd0-2d98-4ebb-8d0b-811fa1cdb310
+:ROAM_ALIASES: "Negative right"
+:END:
+#+title: Negative rights
+#+author: Cash Weaver
+#+date: [2022-07-23 Sat 09:46]
+#+filetags: :concept:
+
+#+begin_quote
+Negative [...] rights are rights that oblige [...] inaction [...].
+
+[cite:@NegativePositiveRights2022]
+#+end_quote
+
+Also see [[id:b1b88ef5-f272-47d7-80c3-de9038e2eeb2][Positive rights]].
+
+* Examples
+
+- Freedom of speech: "Freedom of speech is usually seen as a negative right. This means that the government is legally obliged to take no action against the speaker based on the speaker's views, but that no one is obliged to help any speakers publish their views, and no one is required to listen to, agree with, or acknowledge the speaker or the speaker's views." [cite:@FreedomSpeech2022]
+
+#+print_bibliography:
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** [[id:7b1f3cd0-2d98-4ebb-8d0b-811fa1cdb310][Negative right]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1658594948131
+:END:
+
+*** Context
+
+*** Definition
+A right that obliges inaction.
+
+*** Extra
+Example: Freedom of speech
+
+*** Source
+[cite:@NegativePositiveRights2022]
+
+** [[id:7b1f3cd0-2d98-4ebb-8d0b-811fa1cdb310][Negative right]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Example(s)
+:ANKI_NOTE_ID: 1658594948310
+:END:
+
+*** Context
+
+*** Example(s)
+- Freedom of speech
+- Freedom from slavery
+- Freedom of religion
+
+*** Extra
+
+*** Source
+[cite:@NegativePositiveRights2022]

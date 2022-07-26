@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ROAM_REFS: [cite:@annasalamonHumansAreNot2010]
+:ROAM_REFS: [cite:@salamonHumansAreNotAutomaticallyStrategic2010]
 :ID:       3bac7cee-9146-45df-be28-bb51ac48be68
 :DIR:      /home/cashweaver/proj/roam/attachments/3bac7cee-9146-45df-be28-bb51ac48be68
 :END:
@@ -8,7 +8,7 @@
 #+date: [2022-02-06 Sun 20:45]
 #+filetags: :reference:
  
-[[id:ebe7bcfc-87ef-404b-b6cd-e413ab6d8f16][Anna Salamon]], [cite:@annasalamonHumansAreNot2010]
+[[id:ebe7bcfc-87ef-404b-b6cd-e413ab6d8f16][Anna Salamon]], [cite:@salamonHumansAreNotAutomaticallyStrategic2010]
 
 * Summary
 * Thoughts

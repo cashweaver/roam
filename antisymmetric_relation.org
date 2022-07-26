@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       875bfbf2-61ad-4f0a-9833-245dc5adc561
+:END:
+#+title: Antisymmetric relation
+#+author: Cash Weaver
+#+date: [2022-07-23 Sat 17:11]
+#+filetags: :concept:
+
+* TODO [#2]
+[cite:@AntisymmetricRelation2022]
+
+#+print_bibliography:
+* TODO [#2] Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

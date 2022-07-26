@@ -9,7 +9,7 @@
 #+begin_quote
 The basic idea is this: Smear a food-grade drying oil onto a cast iron pan, and then bake it above the oil's smoke point. This will initiate the release of free radicals and polymerization. The more drying the oil, the harder the polymer. So start with the right oil.
 
-[cite:@canterChemistryCastIron]
+[cite:@canterChemistryCastIronSeasoningScienceBasedHowTo]
 #+end_quote
 
 1. Strip your pan down to the iron
@@ -27,10 +27,10 @@ The basic idea is this: Smear a food-grade drying oil onto a cast iron pan, and 
 #+begin_quote
 If you try this, you will be tempted to use a thicker coat of oil to speed up the process. Don't do it. It just gets you an uneven surface – or worse, baked on drips. Been there, done that. You can't speed up the process. If you try, you'll mess up the pan and have to start over.
 
-[cite:@canterChemistryCastIron]
+[cite:@canterChemistryCastIronSeasoningScienceBasedHowTo]
 #+end_quote
 #+print_bibliography:
-* Anki :noexport:
+* TODO [#2] Anki :noexport:
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:

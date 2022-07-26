@@ -22,7 +22,7 @@ The interchangeability of code and data gives Lisp its instantly recognizable sy
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
-** [[id:f6e9082b-3589-448a-9877-b9a2b31d88ba][Lisp]] uses {{c1::[[roam:Sexps]]}} to represent {{c2::both source code and data}}.
+** [[id:f6e9082b-3589-448a-9877-b9a2b31d88ba][Lisp]] uses {{c1::[[id:976fb83d-ae8c-427d-b47e-f0089b4d9ce1][Symbolic expressions]]}} to represent {{c2::both source code and data}}.
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Cloze with Source

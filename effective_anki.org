@@ -24,7 +24,7 @@ TODO: Find a source for these points. I discovered and implemented them before I
 
 *** Steps
 
-- In minutes (for android): =15=, =2160=, =10080=, =40320= [cite:@eshapardMyCurrentAnki]
+- In minutes (for android): =15=, =2160=, =10080=, =40320= [cite:@eshapardMyCurrentAnkiDeckSettings]
 - For desktop Anki: 15m , 36h, 7d, 28d
 
 #+print_bibliography:

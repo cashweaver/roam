@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ROAM_REFS: [cite:@kuhnAttentionYourScarcest2020]
+:ROAM_REFS: [cite:@kuhnAttentionYourScarcestResource2020]
 :ID:       4625d068-26fe-47d7-93b3-da12b0151ca1
 :DIR:      /home/cashweaver/proj/roam/attachments/4625d068-26fe-47d7-93b3-da12b0151ca1
 :END:
@@ -8,7 +8,7 @@
 #+date: [2022-02-06 Sun 15:31]
 #+filetags: reference
  
-[[id:12b9ccec-dfcb-473d-83b7-1daa9f450ed0][Ben Kuhn]], [cite:@kuhnAttentionYourScarcest2020]
+[[id:12b9ccec-dfcb-473d-83b7-1daa9f450ed0][Ben Kuhn]], [cite:@kuhnAttentionYourScarcestResource2020]
 
 * Summary
 * Thoughts

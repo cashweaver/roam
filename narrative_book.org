@@ -9,7 +9,7 @@
 #+begin_quote
 Narrative books are books that tell a story. Examples include biographies, memoirs, and histories.
 
-[cite:@chinThreeKindsNonfiction2018]
+[cite:@chinThreeKindsNonfictionBooks2018]
 #+end_quote
 
 #+print_bibliography:

@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ROAM_REFS: [cite:@bastaniFullyAutomatedLuxury2019]
+:ROAM_REFS: [cite:@bastaniFullyAutomatedLuxuryCommunismManifesto2019]
 :ID:       7bd138aa-fe96-40fd-ab4f-45026edfa547
 :END:
 #+title: Aaron Bastani | Fully Automated Luxury Communism: A Manifesto
@@ -7,7 +7,7 @@
 #+date: [2022-07-21 Thu 10:11]
 #+filetags: :reference:
 
-[[id:157706a0-cfd6-42fa-9b9a-cff35a97a960][Aaron Bastani]], [cite:@bastaniFullyAutomatedLuxury2019]
+[[id:157706a0-cfd6-42fa-9b9a-cff35a97a960][Aaron Bastani]], [cite:@bastaniFullyAutomatedLuxuryCommunismManifesto2019]
 
 * TODO [#4] Summary
 Original formalization of the concept of [[id:043438c3-d647-4fe0-a29b-cd1c44e9e3e7][Fully Automated Luxury Communism]].

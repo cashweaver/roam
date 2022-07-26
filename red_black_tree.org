@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       019be402-8bef-48f3-afbf-6441010dd8cf
+:END:
+#+title: Red-black tree
+#+author: Cash Weaver
+#+date: [2022-07-23 Sat 16:54]
+#+filetags: :concept:
+
+* TODO [#0]
+
+* TODO [#2] Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

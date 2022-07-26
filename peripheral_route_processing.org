@@ -27,7 +27,7 @@ A way of processing an argument by looking at secondary characteristics. Usually
 *** Context
 Psychology, pursuasion
 *** Definition
-A person's consideration of the secondary characteristics of an argument i.e framing, emotions, presentation; proxy characteristics for authenticity or correctness.
+A person's consideration of the secondary characteristics of an argument (i.e framing, emotions, presentation); proxy characteristics for authenticity or correctness.
 *** Extra
 *** Source
 [cite:@ElaborationLikelihoodModel2022]

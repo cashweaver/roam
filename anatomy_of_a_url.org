@@ -33,19 +33,19 @@ Using =http://www.example.com:8080/foo/bar?baz=boo&color=blue#cats= as an exampl
 
 *** Context
 *** Description
-Using =http://www.example.com:8080/foo/bar?baz=boo&color=blue#cats= as an example [cite:@mdnWhatURL]:
+Using =http://www.a.com:8080/b/c?d=e&f=g#h= as an example [cite:@mdnWhatURL]:
 
 1. Scheme (e.g. =http=)
-2. Authority (e.g. =www.example.com:8080=)
-   1. Host (e.g. =www.example.com=)
+2. Authority (e.g. =www.a.com:8080=)
+   1. Host (e.g. =www.a.com=)
    2. Port (e.g. =8080=)
-3. Path (e.g. =/foo/bar=)
-4. Parameters (e.g. =?baz=boo&color=blue=)
-5. Anchor (e.g. =#cats=)
+3. Path (e.g. =/b/c=)
+4. Parameters (e.g. =?d=e&f=g=)
+5. Anchor (e.g. =#h=)
 *** Extra
 *** Source
 [cite:@mdnUsingHTTPCookies]
-** The {{c2::scheme}} in =http://www.example.com:8080/foo/bar?baz=boo&color=blue#cats= is {{c1::=http=}}.
+** The {{c2::scheme}} in =http://www.a.com:8080/b/c?d=e&f=g#h= is {{c1::=http=}}.
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Cloze with Source
 :ANKI_NOTE_ID: 1658339934649
@@ -54,7 +54,7 @@ Using =http://www.example.com:8080/foo/bar?baz=boo&color=blue#cats= as an exampl
 *** Source
 [cite:@mdnWhatURL]
 
-** The {{c2::authority}} in =http://www.example.com:8080/foo/bar?baz=boo&color=blue#cats= is {{c1::=www.example.com:8080=}}.
+** The {{c2::authority}} in =http://www.a.com:8080/b/c?d=e&f=g#h= is {{c1::=www.a.com:8080=}}.
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Cloze with Source
 :ANKI_NOTE_ID: 1658340109556
@@ -63,7 +63,7 @@ Using =http://www.example.com:8080/foo/bar?baz=boo&color=blue#cats= as an exampl
 *** Source
 [cite:@mdnWhatURL]
 
-** The {{c2::host}} in =http://www.example.com:8080/foo/bar?baz=boo&color=blue#cats= is {{c1::=www.example.com=}}.
+** The {{c2::host}} in =http://www.a.com:8080/b/c?d=e&f=g#h= is {{c1::=www.a.com=}}.
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Cloze with Source
 :ANKI_NOTE_ID: 1658340110232
@@ -71,7 +71,7 @@ Using =http://www.example.com:8080/foo/bar?baz=boo&color=blue#cats= as an exampl
 *** Extra
 *** Source
 [cite:@mdnWhatURL]
-** The {{c2::port}} in =http://www.example.com:8080/foo/bar?baz=boo&color=blue#cats= is {{c1::=8080=}}.
+** The {{c2::port}} in =http://www.a.com:8080/b/c?d=e&f=g#h= is {{c1::=8080=}}.
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Cloze with Source
 :ANKI_NOTE_ID: 1658340110757
@@ -79,7 +79,7 @@ Using =http://www.example.com:8080/foo/bar?baz=boo&color=blue#cats= as an exampl
 *** Extra
 *** Source
 [cite:@mdnWhatURL]
-** The {{c2::path}} in =http://www.example.com:8080/foo/bar?baz=boo&color=blue#cats= is {{c1::=/foo/bar=}}.
+** The {{c2::path}} in =http://www.a.com:8080/b/c?d=e&f=g#h= is {{c1::=/b/c=}}.
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Cloze with Source
 :ANKI_NOTE_ID: 1658340111257
@@ -87,7 +87,7 @@ Using =http://www.example.com:8080/foo/bar?baz=boo&color=blue#cats= as an exampl
 *** Extra
 *** Source
 [cite:@mdnWhatURL]
-** The {{c2::parameters}} in =http://www.example.com:8080/foo/bar?baz=boo&color=blue#cats= are {{c1::=?baz=boo&color=blue=}}.
+** The {{c2::parameters}} in =http://www.a.com:8080/b/c?d=e&f=g#h= are {{c1::=?d=e&f=g=}}.
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Cloze with Source
 :ANKI_NOTE_ID: 1658340111757
@@ -95,7 +95,7 @@ Using =http://www.example.com:8080/foo/bar?baz=boo&color=blue#cats= as an exampl
 *** Extra
 *** Source
 [cite:@mdnWhatURL]
-** The {{c2::anchor}} in =http://www.example.com:8080/foo/bar?baz=boo&color=blue#cats= is {{c1::=#cats=}}.
+** The {{c2::anchor}} in =http://www.a.com:8080/b/c?d=e&f=g#h= is {{c1::=#h=}}.
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Cloze with Source
 :ANKI_NOTE_ID: 1658340112457

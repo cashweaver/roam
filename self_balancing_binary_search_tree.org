@@ -1,0 +1,74 @@
+:PROPERTIES:
+:ID:       b3fc99fa-5b7e-4e45-83c2-6d283aecca9a
+:ROAM_ALIASES: "Self-balancing binary search trees"
+:END:
+#+title: Self-balancing binary search tree
+#+author: Cash Weaver
+#+date: [2022-07-23 Sat 16:50]
+#+filetags: :concept:
+
+#+begin_quote
+In computer science, a self-balancing binary search tree (BST) is any node-based [[id:dc929031-e15a-4566-a7bd-7331768ee02f][Binary search tree]] that automatically keeps its height (maximal number of levels below the root) small in the face of arbitrary item insertions and deletions.
+
+[cite:@SelfbalancingBinarySearchTree2022]
+#+end_quote
+
+* Implementations
+- [[id:019be402-8bef-48f3-afbf-6441010dd8cf][Red-black tree]]
+- [[id:170cf2cd-adb9-4a26-8793-1b31b2ef40c2][B-tree]]
+
+#+print_bibliography:
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** [[id:b3fc99fa-5b7e-4e45-83c2-6d283aecca9a][Self-balancing binary search tree]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1658620453632
+:END:
+
+*** Context
+Computer science
+
+*** Definition
+A node-based [[id:dc929031-e15a-4566-a7bd-7331768ee02f][Binary search tree]] which automatically keeps its height small after an arbitrary number of insertions and deletions.
+
+*** Extra
+
+*** Source
+[cite:@SelfbalancingBinarySearchTree2022]
+
+** [[id:b3fc99fa-5b7e-4e45-83c2-6d283aecca9a][Self-balancing binary search tree]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Example(s)
+:ANKI_NOTE_ID: 1658620543031
+:END:
+
+*** Context
+
+*** Example(s)
+- [[id:019be402-8bef-48f3-afbf-6441010dd8cf][Red-black tree]]
+- [[id:170cf2cd-adb9-4a26-8793-1b31b2ef40c2][B-tree]]
+
+*** Extra
+
+*** Source
+[cite:@SelfbalancingBinarySearchTree2022]
+
+** [[id:b3fc99fa-5b7e-4e45-83c2-6d283aecca9a][Self-balancing binary search tree]] and [[id:86c3b62f-4766-4c76-856b-bebe9fe6d125][Height-balanced binary tree]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Compare/Contrast
+:ANKI_NOTE_ID: 1658620848981
+:END:
+
+*** Context
+
+*** Comparisons/Contrasts
+[[id:b3fc99fa-5b7e-4e45-83c2-6d283aecca9a][Self-balancing binary search trees]] keep their heights /small/ while a [[id:86c3b62f-4766-4c76-856b-bebe9fe6d125][Height-balanced binary tree]] keeps its height \(O(\log n)\) for a size of \(n\) after an arbitrary number of insertions and deletions.
+
+*** Source
+[cite:@SelfbalancingBinarySearchTree2022]

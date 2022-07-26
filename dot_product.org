@@ -1,0 +1,146 @@
+:PROPERTIES:
+:ID:       a9b744d3-b4e2-4050-90de-85d59ed6beff
+:ROAM_ALIASES: "Scalar product"
+:END:
+#+title: Dot product
+#+author: Cash Weaver
+#+date: [2022-07-24 Sun 11:41]
+#+filetags: :concept:
+* TODO [#2]
+#+print_bibliography:
+* TODO [#2] Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** Dot product :aka:linear_algebra:math:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: AKA
+:ANKI_NOTE_ID: 1640628533427
+:END:
+
+*** Term2
+Scalar product
+*** Term3
+*** Term4
+*** Term5
+*** Context
+*** Extra
+*** Source
+[cite:@DotProduct2022]
+
+** \(\vec{a} \cdot \vec{b}\) :linear_algebra:math:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Denotes
+:ANKI_NOTE_ID: 1640628578003
+:END:
+
+*** Symbol2
+\(\vec{a}\vec{b}^T \;|\; \vec{a}, \vec{b} \in M_{1 \times ?}\)
+*** Symbol3
+*** Symbol4
+*** Context
+*** Description
+Dot product
+*** Extra
+*** Source
+https://en.wikipedia.org/wiki/Dot_product
+
+** Dot product :linear_algebra:math:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Describe
+:ANKI_NOTE_ID: 1655820470410
+:END:
+*** Context
+Math
+*** Description
+The sum of the products of the corresponding entries of the two sequences of numbers.
+
+Given:
+
+1. \(\vec{a} = \begin{pmatrix} c & d \end{pmatrix}\)
+2. \(\vec{b} =  \begin{pmatrix} e \\ f \\ \end{pmatrix}\)
+
+Algebraic: \(\vec{a} \cdot \vec{b} = (a * c) + (b * d)\)
+
+Geometric: \(\vec{a} \cdot \vec{b} = \lVert\vec{a}\rVert \lVert\vec{b}\rVert \cos(\theta)\)
+
+The dot product defines:
+
+1. Vector length: \(\lVert\vec{x}\rVert\) \(=\) \(\sqrt{\vec{x} \cdot \vec{x}}\)
+1. Angles (where \(\theta\) is the angle between \(\vec{x}\) and \(\vec{y}\)): \(\cos(\theta)\) \(=\) \(\frac{\vec{x} \cdot \vec{y}}{\lVert\vec{x}\rVert\lVert\vec{y}\rVert}\)
+*** Extra
+
+*** Source
+[cite:@DotProduct2022]
+
+** \(\lVert\vec{x}\rVert\)
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Equivalence
+:ANKI_NOTE_ID: 1658688224763
+:END:
+
+*** Label1
+
+*** Expression2
+\(\sqrt{\vec{x} \cdot \vec{x}}\)
+
+*** Label2
+
+*** Expression3
+
+*** Label3
+
+*** Expression4
+
+*** Label4
+
+*** Expression5
+
+*** Label5
+
+*** Expression6
+:PROPERTIES:
+:ANKI_NOTE_ID: 1658688082264
+:END:
+
+*** Label6
+
+*** Context
+
+*** Source
+[cite:@DotProduct2022]
+
+** \(\cos(\theta)\) where \(\theta\) is the angle between \(\vec{x}\) and \(\vec{y}\)
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Equivalence
+:ANKI_NOTE_ID: 1658688176014
+:END:
+
+*** Label1
+
+*** Expression2
+\(\frac{\vec{x} \cdot \vec{y}}{\lVert\vec{x}\rVert\lVert\vec{y}\rVert}\)
+
+*** Label2
+
+*** Expression3
+
+*** Label3
+
+*** Expression4
+
+*** Label4
+
+*** Expression5
+
+*** Label5
+
+*** Expression6
+
+*** Label6
+
+*** Context
+
+*** Source
+[cite:@DotProduct2022]

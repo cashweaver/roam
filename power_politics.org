@@ -1,0 +1,45 @@
+:PROPERTIES:
+:ID:       2e9a36f6-43e0-4f9a-af7e-64a4ef069a19
+:END:
+#+title: Power politics
+#+author: Cash Weaver
+#+date: [2022-07-23 Sat 10:44]
+#+filetags: :concept:
+
+#+begin_quote
+Power politics is a theory in international relations which contends that distributions of power and national interests, or changes to those distributions, are fundamental causes of war and of system stability.
+
+The concept of power politics provides a way of understanding systems of international relations: in this view, states compete for the world's limited resources, and it is to an individual state's advantage to be manifestly able to harm others. Power politics prioritizes national self-interest over the interests of other nations or the international community, and thus may include threatening one another with military, economic or political aggression to protect one nation's own interest.
+
+[cite:@PowerPolitics2022]
+#+end_quote
+
+A [[id:4d1bdced-1025-4985-8bef-3e34109fb47d][Zero-sum game]] view of international relations.
+
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** [[id:2e9a36f6-43e0-4f9a-af7e-64a4ef069a19][Power politics]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1658598493333
+:END:
+*** Context
+*** Definition
+A theory of international relations which contends that distributions of power and changes to those distributions are the fundamental causes of war and of system stability.
+*** Extra
+*** Source
+[cite:@PowerPolitics2022]
+*** [[id:2e9a36f6-43e0-4f9a-af7e-64a4ef069a19][Power politics]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Describe
+:ANKI_NOTE_ID: 1658598493535
+:END:
+**** Context
+**** Description
+A way of understanding international relations which focuses on power dynamics -- that is, the ability of each state to manifestly harm other states.
+**** Extra
+**** Source

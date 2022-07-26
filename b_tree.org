@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       170cf2cd-adb9-4a26-8793-1b31b2ef40c2
+:END:
+#+title: B-tree
+#+author: Cash Weaver
+#+date: [2022-07-23 Sat 16:55]
+#+filetags: :concept:
+* TODO [#0]
+* TODO [#2] Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ROAM_REFS: [cite:@chinThreeKindsNonfiction2018]
+:ROAM_REFS: [cite:@chinThreeKindsNonfictionBooks2018]
 :ID:       ee7ed2c5-dd15-42aa-8cfe-8149ce58473e
 :DIR:      /home/cashweaver/proj/roam/attachments/ee7ed2c5-dd15-42aa-8cfe-8149ce58473e
 :END:
@@ -8,7 +8,7 @@
 #+date: [2022-02-07 Mon 07:36]
 #+filetags: :reference:
  
-[[id:4c9b1bbf-2a4b-43fa-a266-b559c018d80e][Cedric Chin]], [cite:@chinThreeKindsNonfiction2018]
+[[id:4c9b1bbf-2a4b-43fa-a266-b559c018d80e][Cedric Chin]], [cite:@chinThreeKindsNonfictionBooks2018]
 
 * Summary
 * Thoughts

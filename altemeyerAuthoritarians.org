@@ -25,7 +25,7 @@
 :PROPERTIES:
 :ANKI_DECK: Default
 :END:
-** Authoritarian followers place "being normal" {{c1::substantially higher}} than most people do
+** Authoritarian followers place "being normal" {{c1::substantially higher::relative importance}} than most people.
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Cloze with Source

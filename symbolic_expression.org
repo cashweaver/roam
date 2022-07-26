@@ -1,6 +1,6 @@
 :PROPERTIES:
 :ID:       976fb83d-ae8c-427d-b47e-f0089b4d9ce1
-:ROAM_ALIASES: S-expression Sexp
+:ROAM_ALIASES: "Symbolic expressions" S-expression Sexp
 :END:
 #+title: Symbolic expression
 #+author: Cash Weaver

@@ -17,7 +17,7 @@ The Truth must dazzle gradually
 Or every man be blind —
 #+end_verse
 
-[[id:f09861cf-7103-46d2-85b3-3e614c2bdd2a][Emily Dickinson]], [cite:@dickinsonTellAllTruth2022]
+[[id:f09861cf-7103-46d2-85b3-3e614c2bdd2a][Emily Dickinson]], [cite:@dickinsonTellAllTruthTellItSlant2022]
 
 #+print_bibliography:
 * Anki :noexport:

@@ -50,6 +50,43 @@ Public:
 *** Extra
 *** Source
 [cite:@StackAbstractDataType2022]
+** [[id:5ab783c7-9a13-42d2-920d-95f103ac677c][Stack]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Describe
+:ANKI_NOTE_ID: 1658619298031
+:END:
+*** Context
+[[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]]
+*** Description
+A collection of elements with two main operations:
 
+1. Push: Adds an element to the collection
+2. Pop: Removes the most recently added element
+*** Extra
+*** Source
+[cite:@StackAbstractDataType2022]
+** A [[id:5ab783c7-9a13-42d2-920d-95f103ac677c][Stack]]'s {{c2::=push=}} operation {{c1::adds an element to the collection}}.
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1658619509631
+:END:
+*** Extra
+*** Source
+[cite:@StackAbstractDataType2022]
 
-
+** A [[id:5ab783c7-9a13-42d2-920d-95f103ac677c][Stack]]'s {{c2::=pop=}} operation {{c1::removes the most recently added element from the collection}}.
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1658619510306
+:END:
+*** Extra
+*** Source
+[cite:@StackAbstractDataType2022]
+** A [[id:5ab783c7-9a13-42d2-920d-95f103ac677c][Stack]]'s {{c2::=peek=}} operation {{c1::returns the most recently added element in the collection without removing it.}}.
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1658619510982
+:END:
+*** Extra
+*** Source
+[cite:@StackAbstractDataType2022]

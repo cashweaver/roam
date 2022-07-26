@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ROAM_REFS: [cite:@MasterBoringFundamentals01BoringFun]
+:ROAM_REFS: [cite:@stuberMasterBoringFundamentals01BoringFun]
 :ID:       3baf57be-df25-429e-9bd6-5654d2fea9cf
 :DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/3baf57be-df25-429e-9bd6-5654d2fea9cf
 :END:
@@ -8,7 +8,7 @@
 #+date: [2022-02-06 Sun 15:51]
 #+filetags: :reference:
  
-[[id:014faa45-9f1d-4203-a935-e317eecf92fe][James Stuber]], [cite:@MasterBoringFundamentals01BoringFun]
+[[id:014faa45-9f1d-4203-a935-e317eecf92fe][James Stuber]], [cite:@stuberMasterBoringFundamentals01BoringFun]
 
 * Summary
 * Thoughts

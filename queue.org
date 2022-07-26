@@ -35,21 +35,6 @@ The operations of a queue make it a first-in-first-out (FIFO) data structure. In
 ** [[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]]
 :PROPERTIES:
 :ANKI_DECK: Default
-:ANKI_NOTE_TYPE: Describe
-:ANKI_NOTE_ID: 1656857027307
-:END:
-*** Context
-Computer science
-*** Description
-An [[id:2eae74ba-4003-45cf-8425-7291aaa7a537][Abstract data type]] which defines a collection of entities, maintained in sequence. [[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]] defines =enqueue= and =dequeue= methods -- and possibly others such as =peek= -- for interacting with the collection.
-
-TODO
-*** Extra
-*** Source
-[cite:@QueueAbstractDataType2022]
-** [[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]]
-:PROPERTIES:
-:ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Definition
 :ANKI_NOTE_ID: 1656857028258
 :END:
@@ -113,6 +98,31 @@ Public:
 
 *** Extra
 *** Source
+[cite:@QueueAbstractDataType2022]
+** A [[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]]'s {{c2::=enqueue=}} operation {{c1::adds an element to the queue}}.
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1658619662906
+:END:
+*** Extra
+*** Source
+[cite:@QueueAbstractDataType2022]
 
 
+** A [[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]]'s {{c2::=dequeue=}} operation {{c1::removes and returns the oldest element in the queue}}.
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1658619663607
+:END:
+*** Extra
+*** Source
+[cite:@QueueAbstractDataType2022]
 
+** A [[id:f7ca3e99-0356-4651-996e-542a11d67f50][Queue]]'s {{c2::=peek=}} operation {{c1::returns the oldest element in the queue without removing it}}.
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1658619664631
+:END:
+*** Extra
+*** Source
+[cite:@QueueAbstractDataType2022]

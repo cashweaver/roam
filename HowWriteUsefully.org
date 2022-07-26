@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ROAM_REFS: [cite:@HowWriteUsefully]
+:ROAM_REFS: [cite:@grahamHowWriteUsefully]
 :ID:       70afedd4-60d2-4e2e-87e1-04999d90079e
 :DIR:      /home/cashweaver/proj/roam/attachments/70afedd4-60d2-4e2e-87e1-04999d90079e
 :END:
@@ -8,7 +8,7 @@
 #+date: [2022-02-06 Sun 17:42]
 #+filetags: :reference:
  
-[[id:8a9360e0-306a-422a-804f-e2fd6664b8fe][Paul Graham]], [cite:@HowWriteUsefully]
+[[id:8a9360e0-306a-422a-804f-e2fd6664b8fe][Paul Graham]], [cite:@grahamHowWriteUsefully]
 
 * Summary
 

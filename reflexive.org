@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       48d05562-111f-4e9a-b005-013d54d4419e
+:END:
+#+title: Reflexive relation
+#+author: Cash Weaver
+#+date: [2022-07-23 Sat 17:10]
+#+filetags: :concept:
+
+* TODO [#2]
+[cite:@ReflexiveRelation2022]
+
+#+print_bibliography:
+* TODO [#2] Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

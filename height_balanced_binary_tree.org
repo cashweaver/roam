@@ -1,0 +1,31 @@
+:PROPERTIES:
+:ID:       86c3b62f-4766-4c76-856b-bebe9fe6d125
+:END:
+#+title: Height-balanced binary tree
+#+author: Cash Weaver
+#+date: [2022-07-23 Sat 16:52]
+#+filetags: :concept:
+
+#+begin_quote
+For height-balanced [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary trees]], the height is defined to be logarithmic \(O(\log n)\) in the number \(n\) of items.
+
+[cite:@SelfbalancingBinarySearchTree2022]
+#+end_quote
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** [[id:86c3b62f-4766-4c76-856b-bebe9fe6d125][Height-balanced binary tree]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1658620708807
+:END:
+*** Context
+[[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]]
+*** Definition
+A [[id:323bf406-41e6-4e5f-9be6-689e1055b118][Binary tree]] for which the height is guaranteed to be \(O(\log n)\) for size \(n\).
+*** Extra
+*** Source
+[cite:@SelfbalancingBinarySearchTree2022]

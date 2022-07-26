@@ -1,0 +1,63 @@
+:PROPERTIES:
+:ID:       b1b88ef5-f272-47d7-80c3-de9038e2eeb2
+:ROAM_ALIASES: "Positive right"
+:END:
+#+title: Positive rights
+#+author: Cash Weaver
+#+date: [2022-07-23 Sat 09:49]
+#+filetags: :concept:
+
+#+begin_quote
+[...] positive rights are rights that oblige [...] action [...].
+
+[cite:@NegativePositiveRights2022]
+#+end_quote
+
+Also see [[id:7b1f3cd0-2d98-4ebb-8d0b-811fa1cdb310][Negative rights]].
+
+* Examples
+- Right to counsel
+- Right to unemployment benefits
+#+print_bibliography:
+
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** [[roam:Positive right]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1658595317456
+:END:
+
+*** Context
+
+*** Definition
+A right which obliges action.
+
+*** Extra
+Example: Right to counsel
+
+*** Source
+[cite:@NegativePositiveRights2022]
+
+** [[id:b1b88ef5-f272-47d7-80c3-de9038e2eeb2][Positive rights]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Example(s)
+:ANKI_NOTE_ID: 1658595318156
+:END:
+
+*** Context
+
+*** Example(s)
+- Right to counsel
+- Right to housing
+- Right to food
+- Right to healthcare
+
+*** Extra
+
+*** Source
+[cite:@NegativePositiveRights2022]

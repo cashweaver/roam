@@ -9,7 +9,7 @@
 #+begin_quote
 The reference is used to state that the names of things do not affect what they really are.
 
-[cite:@RoseAnyOtherNameWouldSmellSweet2022]<
+[cite:@RoseAnyOtherNameWouldSmellSweet2022]
 #+end_quote
 #+print_bibliography:
 * Anki :noexport:

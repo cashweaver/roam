@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ROAM_REFS: [cite:@siversThereNoSpeed2009]
+:ROAM_REFS: [cite:@siversThereNoSpeedLimit2009]
 :ID:       e02451fc-c9d5-4c02-849b-d9b7d4cc95a7
 :DIR:      /home/cashweaver/proj/roam/attachments/e02451fc-c9d5-4c02-849b-d9b7d4cc95a7
 :END:
@@ -8,7 +8,7 @@
 #+date: [2022-02-07 Mon 07:34]
 #+filetags: :reference:
  
-[[id:699c0a4b-7bcf-4175-851c-8dd5deac8e84][Derek Sivers]], [cite:@siversThereNoSpeed2009]
+[[id:699c0a4b-7bcf-4175-851c-8dd5deac8e84][Derek Sivers]], [cite:@siversThereNoSpeedLimit2009]
 
 * TODO [#2] Summary
 * TODO [#2] Thoughts

@@ -45,9 +45,11 @@ So you shock yourself for eight hours a day, because you know if you don't every
 #+end_quote
 
 ** Examples
-
 *** [[id:780bd825-4c89-4eb6-ba02-de09fefc4694][Prisoner's dilemma]]
 *** Fish farming story
+:PROPERTIES:
+:ID:       314c1b9f-bc99-4536-8b9f-f4d24a41dc36
+:END:
 
 #+begin_quote
 As a thought experiment, let's consider aquaculture (fish farming) in a lake. Imagine a lake with a thousand identical fish farms owned by a thousand competing companies. Each fish farm earns a profit of $1000/month. For a while, all is well.
@@ -69,7 +71,7 @@ A self-interested person never has any incentive to use a filter. A self-interes
 *** Malthusian trap
 
 #+begin_quote
-Suppose you are one of the first rats introduced onto a pristine island. It is full of yummy plants and you live an idyllic life lounging about, eating, and composing great works of art (you're one of those rats from [[http://www.amazon.com/gp/product/0689710682/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0689710682&linkCode=as2&tag=slastacod-20&linkId=BRZZD37E45RNQI3R][/The Rats of NIMH/]][[https://ir-na.amazon-adsystem.com/e/ir?t=slastacod-20&l=as2&o=1&a=0689710682]]).
+Suppose you are one of the first rats introduced onto a pristine island. It is full of yummy plants and you live an idyllic life lounging about, eating, and composing great works of art (you're one of those rats from /The Rats of NIMH/).
 
 You live a long life, mate, and have a dozen children. All of them have a dozen children, and so on. In a couple generations, the island has ten thousand rats and has reached its carrying capacity. Now there's not enough food and space to go around, and a certain percent of each new generation dies in order to keep the population steady at ten thousand.
 
@@ -215,7 +217,7 @@ As long as the offer's open, it will be irresistible. So we need to close the of
 **** Source
 [cite:@alexanderMeditationsMoloch2014]
 
-*** The opposite of a {{c2::trap}} is a {{c1::garden}}.
+*** [[id:e7e4bd59-fa63-49a8-bfca-6c767d1c2330][Scott Alexander]] proposes that the opposite of a {{c2::trap}} is a {{c1::garden}}.
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Cloze with Source
 :ANKI_NOTE_ID: 1658350461242

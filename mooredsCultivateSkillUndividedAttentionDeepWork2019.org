@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ROAM_REFS: [cite:@mooredsCultivateSkillUndividedAttentionDeepWork2019]
+:ROAM_REFS: [cite:@mooresCultivateSkillUndividedAttentionDeepWork2019]
 :ID:       86dde162-154f-49fb-98a9-41dddcf60ecb
 :DIR:      /usr/local/google/home/cashweaver/proj/roam/attachments/86dde162-154f-49fb-98a9-41dddcf60ecb
 :ROAM_REFS: https://letterstoanewdeveloper.com/2019/12/19/cultivate-the-skill-of-undivided-attention-or-deep-work/
@@ -10,7 +10,7 @@
 #+date: [2022-02-06 Sun 16:00]
 #+filetags: :reference:
  
-[[id:8c414004-a945-4c4b-a374-ab35a73383fb][Dan Moore]], [cite:@mooredsCultivateSkillUndividedAttentionDeepWork2019]
+[[id:8c414004-a945-4c4b-a374-ab35a73383fb][Dan Moore]], [cite:@mooresCultivateSkillUndividedAttentionDeepWork2019]
 
 * Summary
 * Thoughts

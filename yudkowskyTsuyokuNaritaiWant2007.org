@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ROAM_REFS: [cite:@yudkowskyTsuyokuNaritaiWant2007]
+:ROAM_REFS: [cite:@yudkowskyTsuyokuNaritaiWantBecomeStronger2007]
 :ID:       9bbe0740-9dff-4d2a-908e-535e96ea4e59
 :DIR:      /home/cashweaver/proj/roam/attachments/9bbe0740-9dff-4d2a-908e-535e96ea4e59
 :END:
@@ -8,7 +8,7 @@
 #+date: [2022-02-07 Mon 08:06]
 #+filetags: :reference:
  
-[[id:614d0317-e7fc-4ee2-a68a-e93471500fa0][Eliezer Yudkowsky]], [cite:@yudkowskyTsuyokuNaritaiWant2007]
+[[id:614d0317-e7fc-4ee2-a68a-e93471500fa0][Eliezer Yudkowsky]], [cite:@yudkowskyTsuyokuNaritaiWantBecomeStronger2007]
 
 * TODO [#2] Summary
 * TODO [#2] Thoughts

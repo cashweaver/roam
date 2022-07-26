@@ -9,7 +9,7 @@
 #+begin_quote
 Tree books are books that lay out a framework of ideas. A good example is Daniel Kahneman's Thinking: Fast and Slow, which lays out his life's work — the entirety of behavioural economics — in a single book. (So an entire field, like a tree of knowledge, in one book. Geddit, geddit?) Other books I can think of in this category are High Output Management by Andy Grove, and Principles by Ray Dalio.
 
-[cite:@chinThreeKindsNonfiction2018]
+[cite:@chinThreeKindsNonfictionBooks2018]
 #+end_quote
 #+print_bibliography:
 * Anki :noexport:

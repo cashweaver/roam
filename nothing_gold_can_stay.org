@@ -17,7 +17,7 @@ So dawn goes down to day,
 Nothing gold can stay.
 #+end_verse
 
-[[id:93bad6b6-218f-4e56-8d63-ed1cb50f66f0][Robert Frost]], [cite:@NothingGoldCan2022]
+[[id:93bad6b6-218f-4e56-8d63-ed1cb50f66f0][Robert Frost]], [cite:@NothingGoldCanStayPoem2022]
 #+print_bibliography:
 * Anki :noexport:
 :PROPERTIES:

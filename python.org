@@ -78,7 +78,7 @@ The programming language
 *** Text
 #+begin_src python
 >>> a = [0, 1, 2, 3]
->>> {{c1::a[::-1]}}
+>>> {{c1::a[:​:-1]}}
 {{c2::[3, 2, 1, 0]}}
 #+end_src
 

@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ROAM_REFS: [cite:@AskHNWhatWasBestDecisionYouMadeYourCareerHackerNews]
+:ROAM_REFS: [cite:@AskHNWhatWasBestDecisionYouMadeYourCareer]
 :ID:       77775317-1503-46df-87bb-734d1b000c61
 :DIR:      /home/cashweaver/proj/roam/attachments/77775317-1503-46df-87bb-734d1b000c61
 :END:
@@ -8,7 +8,7 @@
 #+date: [2022-02-06 Sun 15:01]
 #+filetags: reference
 
-Source: [cite:@AskHNWhatWasBestDecisionYouMadeYourCareerHackerNews]
+[cite:@AskHNWhatWasBestDecisionYouMadeYourCareer]
 
 * Summary
 * Thoughts

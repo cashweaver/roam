@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       9237be48-e1c7-4dd7-b473-a8a92dd5f6fc
+:END:
+#+title: Carry water
+#+author: Cash Weaver
+#+date: [2022-07-23 Sat 11:35]
+#+filetags: :concept:
+
+#+begin_quote
+To perform menial tasks for; to serve; to assist; to be forced by politics or pragmatism to endorse or promote a belief, individual, or organization that in reality one does not fully support.
+
+[cite:@CarryWater2021]
+#+end_quote
+
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+** [[id:9237be48-e1c7-4dd7-b473-a8a92dd5f6fc][Carry water]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1658608870681
+:END:
+*** Context
+*** Definition
+- To perform menial tasks for
+- To be forced by politics or pragmatism to endorse or promote a thing that one does not fully support.
+*** Extra
+*** Source
+[cite:@CarryWater2021]

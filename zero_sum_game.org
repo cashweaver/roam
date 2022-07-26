@@ -1,0 +1,58 @@
+:PROPERTIES:
+:ID:       4d1bdced-1025-4985-8bef-3e34109fb47d
+:END:
+#+title: Zero-sum game
+#+author: Cash Weaver
+#+date: [2022-07-23 Sat 10:48]
+#+filetags: :concept:
+
+#+begin_quote
+Zero-sum game is a mathematical representation in [[id:e157ee7b-f36c-4ff8-bcb3-643163925c20][Game theory]] and economic theory of a situation which involves two sides, where the result is an advantage for one side and an equivalent loss for the other. In other words, player one's gain is equivalent to player two's loss, therefore the net improvement in benefit of the game is zero.
+
+[links added]
+
+[cite:@ZerosumGame2022]
+#+end_quote
+
+The opposite of a [[id:9f52c68a-3302-47bc-a4a4-3a4ff20d41be][Non-zero-sum game]].
+
+#+print_bibliography:
+* Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+** [[id:4d1bdced-1025-4985-8bef-3e34109fb47d][Zero-sum game]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Definition
+:ANKI_NOTE_ID: 1658598600031
+:END:
+
+*** Context
+[[id:e157ee7b-f36c-4ff8-bcb3-643163925c20][Game theory]]
+
+*** Definition
+A situation involving two or more sides in which any gain by one side is a loss for the other sides.
+
+*** Extra
+
+*** Source
+[cite:@ZerosumGame2022]
+
+** [[id:4d1bdced-1025-4985-8bef-3e34109fb47d][Zero-sum game]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Example(s)
+:ANKI_NOTE_ID: 1658598881032
+:END:
+
+*** Context
+[[id:e157ee7b-f36c-4ff8-bcb3-643163925c20][Game theory]]
+
+*** Example(s)
+- The division of finite resources (e.g. Cutting a cake)
+
+*** Extra
+
+*** Source
+[cite:@ZerosumGame2022]

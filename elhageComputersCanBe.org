@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ROAM_REFS: [cite:@elhageComputersCanBe]
+:ROAM_REFS: [cite:@elhageComputersCanBeUnderstood]
 :ID:       19ba13d6-259f-4734-a1be-aaa5d51fcd16
 :END:
 #+title: Nelson Elhage | Computers Can Be Understood
@@ -7,7 +7,7 @@
 #+date: [2022-03-12 Sat 04:56]
 #+filetags: :reference:
  
-[[id:5c0d65a3-c200-43e2-afdc-ef6811b3c8ff][Nelson Elhage]], [cite:@elhageComputersCanBe]
+[[id:5c0d65a3-c200-43e2-afdc-ef6811b3c8ff][Nelson Elhage]], [cite:@elhageComputersCanBeUnderstood]
 
 * Summary
 A [[id:c19c4cf1-9304-46b7-9441-8fed0ed17a57][Growth Mindset]] oriented approach based on the truth that computer systems are deterministic and can be understood in time that asserts that learning about such systems -- diving into the depths rather than letting systems remain [[id:ab1c1113-290b-4715-b2d7-94f2af485b2e][Black boxes]] -- is worthwhile. Related: [[id:279afdb0-48ca-4542-94f1-d20add351cae][Be curious]].

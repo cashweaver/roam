@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       7703fd24-5fdf-40c0-8b44-4530d303bc6e
+:END:
+#+title: Strongly connected
+#+author: Cash Weaver
+#+date: [2022-07-23 Sat 17:11]
+#+filetags: :concept:
+* TODO [#2] This relation and others listed in the citation
+
+[cite:@ConnectedRelation2022]
+#+print_bibliography:
+* TODO [#2] Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

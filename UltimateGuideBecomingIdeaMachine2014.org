@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ROAM_REFS: [cite:@UltimateGuideBecomingIdeaMachine2014]
+:ROAM_REFS: [cite:@altucherUltimateGuideBecomingIdeaMachine2014]
 :ID:       876f8d80-902c-427a-9109-bb3bd447715c
 :DIR:      /home/cashweaver/proj/roam/attachments/876f8d80-902c-427a-9109-bb3bd447715c
 :END:
@@ -8,7 +8,7 @@
 #+date: [2022-02-07 Mon 07:16]
 #+filetags: :reference:
  
-[[id:08f7aba1-10e6-4f7a-a595-430d7253491f][James Altucher]], [cite:@UltimateGuideBecomingIdeaMachine2014]
+[[id:08f7aba1-10e6-4f7a-a595-430d7253491f][James Altucher]], [cite:@altucherUltimateGuideBecomingIdeaMachine2014]
 
 * Summary
 * Thoughts

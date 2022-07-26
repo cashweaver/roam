@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ROAM_REFS: [cite:@moridinamaelMonthlyNewsletterThinking2018]
+:ROAM_REFS: [cite:@moridinamaelMonthlyNewsletterThinkingTool2018]
 :ID:       da8376c0-7849-47fd-9f79-fca821651232
 :DIR:      /home/cashweaver/proj/roam/attachments/da8376c0-7849-47fd-9f79-fca821651232
 :END:
@@ -8,7 +8,7 @@
 #+date: [2022-02-07 Mon 06:19]
 #+filetags: :reference:
  
-[[id:edc893d8-ed7d-4b34-aa48-d1bb8239ec0c][Matt Freeman]], [cite:@moridinamaelMonthlyNewsletterThinking2018]
+[[id:edc893d8-ed7d-4b34-aa48-d1bb8239ec0c][Matt Freeman]], [cite:@moridinamaelMonthlyNewsletterThinkingTool2018]
 
 * Summary
 * Thoughts

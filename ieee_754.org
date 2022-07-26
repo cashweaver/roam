@@ -1,0 +1,190 @@
+:PROPERTIES:
+:ID:       23e97230-9b73-4232-a76e-a1223b9bb70e
+:ROAM_ALIASES: "IEEE standard for floating-point arithmetic"
+:END:
+#+title: IEEE 754
+#+author: Cash Weaver
+#+date: [2022-07-24 Sun 10:52]
+#+filetags: :concept:
+
+[[id:8659234c-fc9e-4d57-9e09-c8f7a81924d9][Institute of electrical and electronics engineers]]'s standard for floating-point arithmetic defines, among other things:
+
+- single (32 bit) and double (64 bit) precision floating point number representations
+
+* TODO [#4] Single-precision floating-point number
+:PROPERTIES:
+:ID:       f032f7df-4b61-4155-8edd-3808d76a1fa9
+:END:
+
+* TODO [#4] Double-precision floating-point number
+:PROPERTIES:
+:ID:       61d6d080-7462-46d7-8107-ed71b6296e30
+:END:
+
+#+print_bibliography:
+* TODO [#2] Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:
+
+
+
+** IEEE 754 divides the bits composing a floating-point number into groups: {{c1::sign}}, {{c2::exponent}}, and {{c3::mantissa}}. :computing:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627819548
+:END:
+
+*** Extra
+*** Source
+[cite:@IEEE7542022]
+
+** IEEE 754 divides the bits composing a floating-point number into groups: {{c1::sign, exponent, and mantissa}}. :computing:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627819700
+:END:
+
+*** Extra
+*** Source
+[cite:@IEEE7542022]
+
+** IEEE 754 double-precision floating-point numbers are composed of: {{c2::1 sign bit}}, {{c3::11 exponent bits}}, and {{c4::52 singnificand bits}} :computing:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627820372
+:END:
+
+*** Extra
+*** Source
+[cite:@IEEE7542022]
+
+** IEEE 754 single-precision floating-point numbers are composed of: {{c2::1 sign bit}}, {{c3::8 exponent bits}}, and {{c4::23 singnificand bits}} :computing:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1640627820224
+:END:
+
+*** Extra
+*** Source
+[cite:@IEEE7542022]
+
+** IEEE 754 :computing:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Denotes
+:ANKI_NOTE_ID: 1640627816948
+:END:
+
+*** Symbol2
+*** Symbol3
+*** Symbol4
+*** Context
+*** Description
+IEEE Standard for Floating-Point Arithmetic
+*** Extra
+*** Source
+[cite:@IEEE7542022]
+
+
+** Fixed-point number representation :computer_science:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Describe
+:ANKI_NOTE_ID: 1640627818172
+:END:
+
+*** Context
+Computing
+*** Description
+Represents a fractional number by scaling a stored integer by an implicit specific factor.
+*** Extra
+*** Source
+https://en.wikipedia.org/wiki/Fixed-point_arithmetic
+
+** Floating-point number representation :computer_science:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Describe
+:ANKI_NOTE_ID: 1640627817771
+:END:
+
+*** Context
+Computing
+*** Description
+Represents a number using a significand and an exponent: \(\text{significand} \times \text{base}^{\text{exponent}}\)
+*** Extra
+*** Source
+https://en.wikipedia.org/wiki/Floating-point_arithmetic
+
+** IEEE 754 [[id:61d6d080-7462-46d7-8107-ed71b6296e30][Double-precision floating-point number]] :computing:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: AKA
+:ANKI_NOTE_ID: 1640627818922
+:END:
+
+*** Term2
+\(\texttt{binary64}\)
+*** Term3
+*** Term4
+*** Term5
+*** Context
+*** Extra
+*** Source
+[cite:@IEEE7542022]
+
+** IEEE 754 [[id:f032f7df-4b61-4155-8edd-3808d76a1fa9][Single-precision floating-point number]] :computing:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: AKA
+:ANKI_NOTE_ID: 1640627818422
+:END:
+
+*** Term2
+\(\texttt{binary32}\)
+*** Term3
+*** Term4
+*** Term5
+*** Context
+*** Extra
+*** Source
+[cite:@IEEE7542022]
+
+** [[id:f032f7df-4b61-4155-8edd-3808d76a1fa9][Single-precision floating-point number]]
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Describe
+:ANKI_NOTE_ID: 1658685641493
+:END:
+
+*** Context
+[[id:23e97230-9b73-4232-a76e-a1223b9bb70e][IEEE 754]]
+
+*** Description
+32 bits divided into three groups:
+
+1. 1 sign bit
+2. 8 exponent bits
+3. 23 significand bits
+
+*** Extra
+
+*** Source
+[cite:@IEEE7542022]
+
+** [[id:61d6d080-7462-46d7-8107-ed71b6296e30][Double-precision floating-point number]]
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Describe
+:ANKI_NOTE_ID: 1658685642158
+:END:
+
+*** Context
+[[id:23e97230-9b73-4232-a76e-a1223b9bb70e][IEEE 754]]
+
+*** Description
+64 bits divided into three groups:
+
+1. 1 sign bit
+2. 11 exponent bits
+3. 52 significand bits
+
+*** Extra
+
+*** Source
+[cite:@IEEE7542022]

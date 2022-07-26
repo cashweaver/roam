@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       131299ef-557c-4421-b021-eebba79aaa59
+:END:
+#+title: Total order
+#+author: Cash Weaver
+#+date: [2022-07-23 Sat 17:04]
+#+filetags: :concept:
+
+#+begin_quote
+[...] a total order is a [[id:52a0697e-ba3c-47f8-8dfe-cdd82ee6cb44][Binary relation]] \(\le\) on some set, \(X\), which satisfies the following \(\forall \; a,b,c \in X\):
+
+1. \(a \le a\): [[id:48d05562-111f-4e9a-b005-013d54d4419e][Reflexive]]
+2. \(a \le b\) and \(b \le c\) \(\implies\) \(a \le c\): [[id:57d94e2b-f842-483e-bcdb-c4d8e91a6ab5][Transitive]]
+3. \(a \le b\) and \(b \le a\) \(\iff\) \(a = b\): [[id:875bfbf2-61ad-4f0a-9833-245dc5adc561][Antisymmetric relation]]
+4. \(a \le b\) or \(b \le a\): [[id:7703fd24-5fdf-40c0-8b44-4530d303bc6e][Strongly connected]]
+#+end_quote
+* TODO [#2] Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

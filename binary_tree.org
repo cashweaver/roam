@@ -1,5 +1,6 @@
 :PROPERTIES:
 :ID:       323bf406-41e6-4e5f-9be6-689e1055b118
+:ROAM_ALIASES: "Binary trees"
 :END:
 #+title: Binary tree
 #+author: Cash Weaver
@@ -7,7 +8,7 @@
 #+filetags: :concept:
 
 #+begin_quote
-In computer science, a binary tree is a tree [[[id:1a068ad5-3e16-4ec4-b238-6fdc5904aeb4][Tree]]] data structure [[[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]]] in which each node has at most two children, which are referred to as the left child and the right child.
+In computer science, a binary tree is a [[id:1a068ad5-3e16-4ec4-b238-6fdc5904aeb4][Tree]] [[id:738c2ba7-a272-417d-9b6d-b6952d765280][Data structure]] in which each node has at most two children, which are referred to as the left child and the right child.
 
 [cite:@BinaryTree2022]
 #+end_quote
@@ -76,7 +77,3 @@ A [[id:1a068ad5-3e16-4ec4-b238-6fdc5904aeb4][Tree]] [[id:738c2ba7-a272-417d-9b6d
 *** Extra
 *** Source
 [cite:@BinaryTree2022]
-
-
-
-

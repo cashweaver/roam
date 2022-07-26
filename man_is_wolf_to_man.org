@@ -10,7 +10,7 @@
 #+begin_quote
 Homo homini lupus, or in its unabridged form Homo homini lupus est, is a Latin proverb meaning "A man is a wolf to another man," or more tersely "Man is wolf to man."
 
-[cite:@HomoHominiLupus2022a]
+[cite:@HomoHominiLupus2022]
 #+end_quote
 #+print_bibliography:
 * Anki :noexport:

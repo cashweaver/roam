@@ -1,5 +1,5 @@
 :PROPERTIES:
-:ROAM_REFS: [cite:@upstreamFullyAutomatedLuxury2022]
+:ROAM_REFS: [cite:@upstreamFullyAutomatedLuxuryCommunism2022]
 :ID:       4bb6597c-bbcb-431e-8639-9c64d41412e1
 :END:
 #+title:  Upstream | Fully Automated Luxury Communism
@@ -7,7 +7,7 @@
 #+date: [2022-07-21 Thu 09:40]
 #+filetags: :reference:
 
-[[id:30953f1f-a780-4d6c-8dcb-2f685cbe8501][Upstream]], [cite:@upstreamFullyAutomatedLuxury2022]
+[[id:30953f1f-a780-4d6c-8dcb-2f685cbe8501][Upstream]], [cite:@upstreamFullyAutomatedLuxuryCommunism2022]
 
 * Summary
 A discussion of [[id:043438c3-d647-4fe0-a29b-cd1c44e9e3e7][Fully Automated Luxury Communism]].
