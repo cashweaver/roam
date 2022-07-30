@@ -1,0 +1,33 @@
+:PROPERTIES:
+:ID:       dd4f5aad-c5ac-4cc3-a1c4-38607969f3c2
+:END:
+#+title: Determinant
+#+author: Cash Weaver
+#+date: [2022-07-29 Fri 07:35]
+#+filetags: :concept:
+
+#+begin_quote
+In mathematics, the determinant is a scalar value that is a function of the entries of a square matrix. It allows characterizing some properties of the matrix and the linear map represented by the matrix. In particular, the determinant is nonzero if and only if the matrix is invertible and the linear map represented by the matrix is an isomorphism. The determinant of a product of matrices is the product of their determinants (the preceding property is a corollary of this one). The determinant of a matrix A is denoted det(A), det A, or |A|.
+
+[cite:@Determinant2022]
+#+end_quote
+
+* \(\operatorname{det}(A_{2 \times 2}\)
+
+\[
+\operatorname{det}(\begin{bmatrix}a & b \\ c & d\end{bmatrix}) = ad - bc
+\]
+
+* Properties
+
+- The determinant of a matrix composed of linearly dependent row-vectors or column vectors is 0
+- \(\operatorname{det}(I) = 1\)
+- \(\operatorname{det}(\begin{bmatrix}a & . & .\\ b & . & . \\ c & . & . \end{bmatrix}) = x\), \(\operatorname{det}(\begin{bmatrix}ra & . & .\\ rb & . & . \\ rc & . & . \end{bmatrix}) = rx\)
+
+* TODO [#1] Geometric meaning
+
+#+print_bibliography:
+* TODO [#2] Anki :noexport:
+:PROPERTIES:
+:ANKI_DECK: Default
+:END:

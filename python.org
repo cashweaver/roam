@@ -47,6 +47,21 @@ The programming language
 :PROPERTIES:
 :ANKI_DECK: Default
 :ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1659148137804
+:END:
+*** Text
+#+begin_src python
+>>> a = [0, 1, 2, 3]
+>>> {{c2::a[1:3]}}
+{{c1::[1, 2]}}
+#+end_src
+*** Extra
+
+*** Source
+** Indexing
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Cloze with Source
 :ANKI_NOTE_ID: 1656857111108
 :END:
 *** Text
@@ -54,6 +69,22 @@ The programming language
 >>> a = [0, 1, 2, 3]
 >>> {{c2::a[1:]}}
 {{c1::[1, 2, 3]}}
+#+end_src
+*** Extra
+
+*** Source
+
+** Indexing
+:PROPERTIES:
+:ANKI_DECK: Default
+:ANKI_NOTE_TYPE: Cloze with Source
+:ANKI_NOTE_ID: 1659148207903
+:END:
+*** Text
+#+begin_src python
+>>> a = [0, 1, 2, 3]
+>>> {{c2::a[1:4:2]}}
+{{c1::[2, 4]}}
 #+end_src
 *** Extra
 
@@ -85,3 +116,16 @@ The programming language
 *** Extra
 
 *** Source
+
+** TODO [#2] =all=
+** TODO [#2] =any=
+** TODO [#2] =enumerate=
+** TODO [#2] =filter=
+** TODO [#2] =input=
+** TODO [#2] =map=
+** TODO [#2] =open=
+** TODO [#2] =range=
+** TODO [#2] =reversed=
+** TODO [#2] =round=
+** TODO [#2] =slice=
+** TODO [#2] =zip=
